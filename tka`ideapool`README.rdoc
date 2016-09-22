@@ -1,0 +1,7 @@
+== README
+
+* http://ideapool.tka.lu
+* http://ideapool.tka.lu/projects.json
+* http://ideapool.tka.lu/projects.json?category_id=1
+* http://ideapool.tka.lu/projects.json?category_id=1&search=hack
+* http://ideapool.tka.lu/projects.json?category_id=1&search=hack&callback=show_me_the_money
