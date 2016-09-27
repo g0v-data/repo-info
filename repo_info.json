@@ -282,6 +282,13 @@
     "readme_filename": "g0v`OneButton`README.md",
     "url": "https://api.github.com/repos/g0v/OneButton"
   },
+  "g0v/OneButton-server-js": {
+    "description": null,
+    "html_url": "https://github.com/g0v/OneButton-server-js",
+    "name": "OneButton-server-js",
+    "readme_filename": "g0v`OneButton-server-js`README.md",
+    "url": "https://api.github.com/repos/g0v/OneButton-server-js"
+  },
   "g0v/POPonFire": {
     "description": "公有地大行動",
     "html_url": "https://github.com/g0v/POPonFire",
@@ -2115,7 +2122,7 @@
     "url": "https://api.github.com/repos/g0v/style-guide"
   },
   "g0v/submit": {
-    "description": null,
+    "description": "零時政府揪松團電子報投稿平台",
     "html_url": "https://github.com/g0v/submit",
     "name": "submit",
     "readme_filename": "g0v`submit`README.md",
