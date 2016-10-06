@@ -1236,6 +1236,13 @@
     "readme_filename": "g0v`howsfood-mockup`README.md",
     "url": "https://api.github.com/repos/g0v/howsfood-mockup"
   },
+  "g0v/hub": {
+    "description": "g0v 專案與技能媒合工具",
+    "html_url": "https://github.com/g0v/hub",
+    "name": "hub",
+    "readme_filename": "g0v`hub`README.md",
+    "url": "https://api.github.com/repos/g0v/hub"
+  },
   "g0v/i64885": {
     "description": "A request tracking and notification system for legal aid.  Helping political victims in emergency situation.  ",
     "html_url": "https://github.com/g0v/i64885",
