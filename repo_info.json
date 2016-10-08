@@ -2,12 +2,23 @@
   "Drainet/cacci-opendata": {
     "description": "A frontend project to visual display the car accident.",
     "html_url": "https://github.com/Drainet/cacci-opendata",
+    "languages": {
+      "CSS": 3121,
+      "HTML": 36114,
+      "JavaScript": 10275
+    },
     "name": "cacci-opendata",
     "url": "https://api.github.com/repos/Drainet/cacci-opendata"
   },
   "a0000778/g8v": {
     "description": "g8v電視牆",
+    "g0vjson_filename": "a0000778`g8v`g0v.json",
     "html_url": "https://github.com/a0000778/g8v",
+    "languages": {
+      "CSS": 808,
+      "HTML": 3144,
+      "JavaScript": 49411
+    },
     "name": "g8v",
     "readme_filename": "a0000778`g8v`README.md",
     "url": "https://api.github.com/repos/a0000778/g8v"
@@ -15,6 +26,9 @@
   "a0726h77/open_crops": {
     "description": "農作物查詢",
     "html_url": "https://github.com/a0726h77/open_crops",
+    "languages": {
+      "HTML": 10547
+    },
     "name": "open_crops",
     "readme_filename": "a0726h77`open_crops`README.md",
     "url": "https://api.github.com/repos/a0726h77/open_crops"
@@ -22,6 +36,13 @@
   "audreyt/moe": {
     "description": "萌典字宙反應爐 — Hanzi Fusion Reactor",
     "html_url": "https://github.com/audreyt/moe",
+    "languages": {
+      "CSS": 422659,
+      "JavaScript": 1324969,
+      "LiveScript": 39716,
+      "Perl": 225826,
+      "Ruby": 2076
+    },
     "name": "moe",
     "readme_filename": "audreyt`moe`README.md",
     "url": "https://api.github.com/repos/audreyt/moe"
@@ -29,6 +50,12 @@
   "bestian/goban": {
     "description": "use Goban to manage series of  hackfoldrs",
     "html_url": "https://github.com/bestian/goban",
+    "languages": {
+      "CSS": 15122,
+      "JavaScript": 217,
+      "LiveScript": 11027,
+      "Ruby": 872
+    },
     "name": "goban",
     "readme_filename": "bestian`goban`README.md",
     "url": "https://api.github.com/repos/bestian/goban"
@@ -36,6 +63,13 @@
   "billy3321/billy3321.github.io": {
     "description": "billy3321's pages",
     "html_url": "https://github.com/billy3321/billy3321.github.io",
+    "languages": {
+      "CSS": 38954,
+      "HTML": 507836,
+      "JavaScript": 6238,
+      "PostScript": 22199,
+      "Ruby": 607
+    },
     "name": "billy3321.github.io",
     "readme_filename": "billy3321`billy3321.github.io`README.md",
     "url": "https://api.github.com/repos/billy3321/billy3321.github.io"
@@ -43,6 +77,9 @@
   "cades/taipei-building-has-reward": {
     "description": "台北市建照記錄中有「獎勵」的紀錄",
     "html_url": "https://github.com/cades/taipei-building-has-reward",
+    "languages": {
+      "Python": 1191
+    },
     "name": "taipei-building-has-reward",
     "readme_filename": "cades`taipei-building-has-reward`README.md",
     "url": "https://api.github.com/repos/cades/taipei-building-has-reward"
@@ -50,6 +87,13 @@
   "chilijung/ly-tel": {
     "description": "find ly for help!",
     "html_url": "https://github.com/chilijung/ly-tel",
+    "languages": {
+      "CSS": 20408,
+      "HTML": 23022,
+      "Handlebars": 9862,
+      "JavaScript": 8501,
+      "Ruby": 649
+    },
     "name": "ly-tel",
     "readme_filename": "chilijung`ly-tel`README.md",
     "url": "https://api.github.com/repos/chilijung/ly-tel"
@@ -57,6 +101,9 @@
   "chungheng/g0v": {
     "description": "Visualization of political income data",
     "html_url": "https://github.com/chungheng/g0v",
+    "languages": {
+      "Python": 1438
+    },
     "name": "g0v",
     "readme_filename": "chungheng`g0v`README.md",
     "url": "https://api.github.com/repos/chungheng/g0v"
@@ -64,6 +111,10 @@
   "councilor2014/councilor2014.github.io": {
     "description": "",
     "html_url": "https://github.com/councilor2014/councilor2014.github.io",
+    "languages": {
+      "CSS": 1035483,
+      "JavaScript": 1119568
+    },
     "name": "councilor2014.github.io",
     "readme_filename": "councilor2014`councilor2014.github.io`README.md",
     "url": "https://api.github.com/repos/councilor2014/councilor2014.github.io"
@@ -71,6 +122,13 @@
   "ctiml/campaign-finance.g0v.ctiml.tw": {
     "description": "政治獻金數位化．人工 OCR",
     "html_url": "https://github.com/ctiml/campaign-finance.g0v.ctiml.tw",
+    "languages": {
+      "ApacheConf": 82,
+      "CSS": 15527,
+      "HTML": 4522146,
+      "JavaScript": 6509,
+      "PHP": 452752
+    },
     "name": "campaign-finance.g0v.ctiml.tw",
     "readme_filename": "ctiml`campaign-finance.g0v.ctiml.tw`README.md",
     "url": "https://api.github.com/repos/ctiml/campaign-finance.g0v.ctiml.tw"
@@ -78,6 +136,10 @@
   "ctiml/vote2014": {
     "description": "",
     "html_url": "https://github.com/ctiml/vote2014",
+    "languages": {
+      "CSS": 1223,
+      "JavaScript": 6546
+    },
     "name": "vote2014",
     "readme_filename": "ctiml`vote2014`README.md",
     "url": "https://api.github.com/repos/ctiml/vote2014"
@@ -85,12 +147,22 @@
   "ddio/MuscidaeFlash": {
     "description": "MuscidaeFlash",
     "html_url": "https://github.com/ddio/MuscidaeFlash",
+    "languages": {
+      "CSS": 2819,
+      "HTML": 218737,
+      "JavaScript": 2674
+    },
     "name": "MuscidaeFlash",
     "url": "https://api.github.com/repos/ddio/MuscidaeFlash"
   },
   "dz1984/taipei-pop": {
     "description": "天龍特公地",
     "html_url": "https://github.com/dz1984/taipei-pop",
+    "languages": {
+      "CSS": 2258,
+      "HTML": 15761,
+      "JavaScript": 20956
+    },
     "name": "taipei-pop",
     "readme_filename": "dz1984`taipei-pop`README.md",
     "url": "https://api.github.com/repos/dz1984/taipei-pop"
@@ -98,12 +170,20 @@
   "frank00125/wp2014s_final_project": {
     "description": "Final Project in the course named Web Programming.",
     "html_url": "https://github.com/frank00125/wp2014s_final_project",
+    "languages": {
+      "CSS": 23741,
+      "JavaScript": 3996
+    },
     "name": "wp2014s_final_project",
     "url": "https://api.github.com/repos/frank00125/wp2014s_final_project"
   },
   "fuyei/cf-viz": {
     "description": "政治獻金視覺化 Project",
     "html_url": "https://github.com/fuyei/cf-viz",
+    "languages": {
+      "CSS": 2347,
+      "JavaScript": 3332
+    },
     "name": "cf-viz",
     "readme_filename": "fuyei`cf-viz`README.md",
     "url": "https://api.github.com/repos/fuyei/cf-viz"
@@ -111,6 +191,11 @@
   "g0v/0media": {
     "description": "news media with core idea \"visualization\", \"civilization\", \"democracy\" and \"open license\"",
     "html_url": "https://github.com/g0v/0media",
+    "languages": {
+      "CSS": 617504,
+      "JavaScript": 724772,
+      "LiveScript": 19774
+    },
     "name": "0media",
     "readme_filename": "g0v`0media`README.md",
     "url": "https://api.github.com/repos/g0v/0media"
@@ -118,6 +203,7 @@
   "g0v/2016drills": {
     "description": "2016-03-25 北北基桃聯合防災演習",
     "html_url": "https://github.com/g0v/2016drills",
+    "languages": {},
     "name": "2016drills",
     "readme_filename": "g0v`2016drills`README.md",
     "url": "https://api.github.com/repos/g0v/2016drills"
@@ -125,6 +211,11 @@
   "g0v/22k": {
     "description": "揭露22K Full Site source code",
     "html_url": "https://github.com/g0v/22k",
+    "languages": {
+      "JavaScript": 60807,
+      "PHP": 1259062,
+      "Perl": 26
+    },
     "name": "22k",
     "readme_filename": "g0v`22k`README.md",
     "url": "https://api.github.com/repos/g0v/22k"
@@ -132,12 +223,17 @@
   "g0v/3du.tw": {
     "description": "3du.tw Landing Page",
     "html_url": "https://github.com/g0v/3du.tw",
+    "languages": {},
     "name": "3du.tw",
     "url": "https://api.github.com/repos/g0v/3du.tw"
   },
   "g0v/5050": {
     "description": "",
     "html_url": "https://github.com/g0v/5050",
+    "languages": {
+      "CSS": 2998,
+      "LiveScript": 2929
+    },
     "name": "5050",
     "readme_filename": "g0v`5050`README.md",
     "url": "https://api.github.com/repos/g0v/5050"
@@ -145,6 +241,10 @@
   "g0v/5stardata.info": {
     "description": "Information around TimBL's 5 star Open Data plan",
     "html_url": "https://github.com/g0v/5stardata.info",
+    "languages": {
+      "CSS": 2097,
+      "JavaScript": 4163
+    },
     "name": "5stardata.info",
     "readme_filename": "g0v`5stardata.info`README.md",
     "url": "https://api.github.com/repos/g0v/5stardata.info"
@@ -152,6 +252,11 @@
   "g0v/AOD": {
     "description": "河圖",
     "html_url": "https://github.com/g0v/AOD",
+    "languages": {
+      "CSS": 699,
+      "HTML": 1943,
+      "JavaScript": 315209
+    },
     "name": "AOD",
     "readme_filename": "g0v`AOD`README.md",
     "url": "https://api.github.com/repos/g0v/AOD"
@@ -159,6 +264,13 @@
   "g0v/AgriMed": {
     "description": "醫農的 repository (frontend)",
     "html_url": "https://github.com/g0v/AgriMed",
+    "languages": {
+      "CSS": 307524,
+      "HTML": 12874,
+      "JavaScript": 133821,
+      "Python": 2106,
+      "Shell": 3476
+    },
     "name": "AgriMed",
     "readme_filename": "g0v`AgriMed`README.md",
     "url": "https://api.github.com/repos/g0v/AgriMed"
@@ -166,6 +278,15 @@
   "g0v/Airesis": {
     "description": "The most advanced and innovative edemocracy web application",
     "html_url": "https://github.com/g0v/Airesis",
+    "languages": {
+      "CSS": 245723,
+      "CoffeeScript": 1832,
+      "DOT": 605,
+      "JavaScript": 3306576,
+      "PHP": 619,
+      "Ruby": 2995054,
+      "Shell": 160
+    },
     "name": "Airesis",
     "readme_filename": "g0v`Airesis`README.md",
     "url": "https://api.github.com/repos/g0v/Airesis"
@@ -173,6 +294,11 @@
   "g0v/BadDriver.tw": {
     "description": "baddriver.tw front-end layout",
     "html_url": "https://github.com/g0v/BadDriver.tw",
+    "languages": {
+      "CSS": 16099,
+      "JavaScript": 47828,
+      "LiveScript": 17988
+    },
     "name": "BadDriver.tw",
     "readme_filename": "g0v`BadDriver.tw`README.md",
     "url": "https://api.github.com/repos/g0v/BadDriver.tw"
@@ -180,6 +306,9 @@
   "g0v/BadDriverAPI": {
     "description": "BadDriver.tw Backend API server",
     "html_url": "https://github.com/g0v/BadDriverAPI",
+    "languages": {
+      "JavaScript": 14468
+    },
     "name": "BadDriverAPI",
     "readme_filename": "g0v`BadDriverAPI`README.md",
     "url": "https://api.github.com/repos/g0v/BadDriverAPI"
@@ -187,6 +316,7 @@
   "g0v/CMDXMoldTesting": {
     "description": "電腦試模小程式_windows",
     "html_url": "https://github.com/g0v/CMDXMoldTesting",
+    "languages": {},
     "name": "CMDXMoldTesting",
     "readme_filename": "g0v`CMDXMoldTesting`README.md",
     "url": "https://api.github.com/repos/g0v/CMDXMoldTesting"
@@ -194,6 +324,11 @@
   "g0v/CWN-editr": {
     "description": "an editor for Chinese Wordnet",
     "html_url": "https://github.com/g0v/CWN-editr",
+    "languages": {
+      "CSS": 26299,
+      "JavaScript": 775035,
+      "PHP": 262110
+    },
     "name": "CWN-editr",
     "readme_filename": "g0v`CWN-editr`README.md",
     "url": "https://api.github.com/repos/g0v/CWN-editr"
@@ -201,6 +336,9 @@
   "g0v/CommuniqueAPI": {
     "description": "g0v Communique API",
     "html_url": "https://github.com/g0v/CommuniqueAPI",
+    "languages": {
+      "JavaScript": 39296
+    },
     "name": "CommuniqueAPI",
     "readme_filename": "g0v`CommuniqueAPI`README.md",
     "url": "https://api.github.com/repos/g0v/CommuniqueAPI"
@@ -208,6 +346,9 @@
   "g0v/DC-cable-gitbook": {
     "description": "有線多頻道平臺服務管理條例草案",
     "html_url": "https://github.com/g0v/DC-cable-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "DC-cable-gitbook",
     "readme_filename": "g0v`DC-cable-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/DC-cable-gitbook"
@@ -215,6 +356,9 @@
   "g0v/DC-industry-gitbook": {
     "description": "電信事業法草案",
     "html_url": "https://github.com/g0v/DC-industry-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "DC-industry-gitbook",
     "readme_filename": "g0v`DC-industry-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/DC-industry-gitbook"
@@ -222,6 +366,9 @@
   "g0v/DC-infrastructure-gitbook": {
     "description": "電信基礎設施與資源管理法草案",
     "html_url": "https://github.com/g0v/DC-infrastructure-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "DC-infrastructure-gitbook",
     "readme_filename": "g0v`DC-infrastructure-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/DC-infrastructure-gitbook"
@@ -229,6 +376,9 @@
   "g0v/DC-telecommunication-gitbook": {
     "description": "電子通訊傳播法草案",
     "html_url": "https://github.com/g0v/DC-telecommunication-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "DC-telecommunication-gitbook",
     "readme_filename": "g0v`DC-telecommunication-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/DC-telecommunication-gitbook"
@@ -236,6 +386,9 @@
   "g0v/DC-wireless-gitbook": {
     "description": "無線廣播電視事業與頻道事業管理條例",
     "html_url": "https://github.com/g0v/DC-wireless-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "DC-wireless-gitbook",
     "readme_filename": "g0v`DC-wireless-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/DC-wireless-gitbook"
@@ -243,6 +396,10 @@
   "g0v/HackTimeline": {
     "description": "HackTimeline共筆時間軸 (prototype)",
     "html_url": "https://github.com/g0v/HackTimeline",
+    "languages": {
+      "CSS": 5765,
+      "HTML": 1050
+    },
     "name": "HackTimeline",
     "readme_filename": "g0v`HackTimeline`README.md",
     "url": "https://api.github.com/repos/g0v/HackTimeline"
@@ -250,6 +407,9 @@
   "g0v/LetsFuMouAPI": {
     "description": "The FuMou Public Hearing's Data API",
     "html_url": "https://github.com/g0v/LetsFuMouAPI",
+    "languages": {
+      "JavaScript": 1223
+    },
     "name": "LetsFuMouAPI",
     "readme_filename": "g0v`LetsFuMouAPI`README.md",
     "url": "https://api.github.com/repos/g0v/LetsFuMouAPI"
@@ -257,13 +417,28 @@
   "g0v/LittleBeeGeo": {
     "description": "A tool to help the little bees team to report the addresses and places that they have visited and sent agendas",
     "html_url": "https://github.com/g0v/LittleBeeGeo",
+    "languages": {
+      "CSS": 33244,
+      "LiveScript": 123586,
+      "Python": 107715,
+      "Shell": 16354
+    },
     "name": "LittleBeeGeo",
     "readme_filename": "g0v`LittleBeeGeo`README.md",
     "url": "https://api.github.com/repos/g0v/LittleBeeGeo"
   },
   "g0v/Logbot": {
     "description": "Simple IRC logger with realtime web-based viewer",
+    "g0vjson_filename": "g0v`Logbot`g0v.json",
     "html_url": "https://github.com/g0v/Logbot",
+    "languages": {
+      "CSS": 14420,
+      "HTML": 8526,
+      "JavaScript": 19223,
+      "LiveScript": 2300,
+      "Ruby": 11595,
+      "Shell": 738
+    },
     "name": "Logbot",
     "readme_filename": "g0v`Logbot`README.md",
     "url": "https://api.github.com/repos/g0v/Logbot"
@@ -271,6 +446,10 @@
   "g0v/NoUseBuildingTool": {
     "description": "some tool to parse original data",
     "html_url": "https://github.com/g0v/NoUseBuildingTool",
+    "languages": {
+      "JavaScript": 5039,
+      "Python": 8168
+    },
     "name": "NoUseBuildingTool",
     "readme_filename": "g0v`NoUseBuildingTool`README.md",
     "url": "https://api.github.com/repos/g0v/NoUseBuildingTool"
@@ -278,6 +457,12 @@
   "g0v/OneButton": {
     "description": "OneButton is a one-click solution for ipa to finish all hackathon duties at once.",
     "html_url": "https://github.com/g0v/OneButton",
+    "languages": {
+      "CSS": 435,
+      "HTML": 2536,
+      "JavaScript": 17217,
+      "Scala": 4366
+    },
     "name": "OneButton",
     "readme_filename": "g0v`OneButton`README.md",
     "url": "https://api.github.com/repos/g0v/OneButton"
@@ -285,13 +470,22 @@
   "g0v/OneButton-server-js": {
     "description": null,
     "html_url": "https://github.com/g0v/OneButton-server-js",
+    "languages": {
+      "JavaScript": 2616,
+      "SuperCollider": 642
+    },
     "name": "OneButton-server-js",
     "readme_filename": "g0v`OneButton-server-js`README.md",
     "url": "https://api.github.com/repos/g0v/OneButton-server-js"
   },
   "g0v/POPonFire": {
     "description": "公有地大行動",
+    "g0vjson_filename": "g0v`POPonFire`g0v.json",
     "html_url": "https://github.com/g0v/POPonFire",
+    "languages": {
+      "CSS": 246319,
+      "JavaScript": 10411
+    },
     "name": "POPonFire",
     "readme_filename": "g0v`POPonFire`README.md",
     "url": "https://api.github.com/repos/g0v/POPonFire"
@@ -299,6 +493,9 @@
   "g0v/SunflowerDocumentaryAPI": {
     "description": "The Sunflower Documentary Data API",
     "html_url": "https://github.com/g0v/SunflowerDocumentaryAPI",
+    "languages": {
+      "JavaScript": 11725
+    },
     "name": "SunflowerDocumentaryAPI",
     "readme_filename": "g0v`SunflowerDocumentaryAPI`README.md",
     "url": "https://api.github.com/repos/g0v/SunflowerDocumentaryAPI"
@@ -306,6 +503,7 @@
   "g0v/TW-ERROR-451-PAGE": {
     "description": "台灣HTTP 451 ERROR 抗議財智局頁面",
     "html_url": "https://github.com/g0v/TW-ERROR-451-PAGE",
+    "languages": {},
     "name": "TW-ERROR-451-PAGE",
     "readme_filename": "g0v`TW-ERROR-451-PAGE`README.md",
     "url": "https://api.github.com/repos/g0v/TW-ERROR-451-PAGE"
@@ -313,6 +511,7 @@
   "g0v/TW-history": {
     "description": "Taiwan 的重要事件做記錄",
     "html_url": "https://github.com/g0v/TW-history",
+    "languages": {},
     "name": "TW-history",
     "readme_filename": "g0v`TW-history`README.md",
     "url": "https://api.github.com/repos/g0v/TW-history"
@@ -320,13 +519,24 @@
   "g0v/TWControlYuanData": {
     "description": "砍台灣監察院資料",
     "html_url": "https://github.com/g0v/TWControlYuanData",
+    "languages": {
+      "Python": 8051
+    },
     "name": "TWControlYuanData",
     "readme_filename": "g0v`TWControlYuanData`README.md",
     "url": "https://api.github.com/repos/g0v/TWControlYuanData"
   },
   "g0v/TWDoorplates": {
     "description": "台灣內政部戶政司地址查詢器",
+    "g0vjson_filename": "g0v`TWDoorplates`g0v.json",
     "html_url": "https://github.com/g0v/TWDoorplates",
+    "languages": {
+      "CSS": 7496,
+      "CoffeeScript": 617,
+      "HTML": 19797,
+      "JavaScript": 645,
+      "Ruby": 24091
+    },
     "name": "TWDoorplates",
     "readme_filename": "g0v`TWDoorplates`README.md",
     "url": "https://api.github.com/repos/g0v/TWDoorplates"
@@ -334,6 +544,9 @@
   "g0v/TWLegislativeYuanData": {
     "description": "台灣立法院資料",
     "html_url": "https://github.com/g0v/TWLegislativeYuanData",
+    "languages": {
+      "PHP": 7676
+    },
     "name": "TWLegislativeYuanData",
     "readme_filename": "g0v`TWLegislativeYuanData`README.md",
     "url": "https://api.github.com/repos/g0v/TWLegislativeYuanData"
@@ -341,20 +554,35 @@
   "g0v/TWRadiationAndroid": {
     "description": "",
     "html_url": "https://github.com/g0v/TWRadiationAndroid",
+    "languages": {
+      "Java": 463032
+    },
     "name": "TWRadiationAndroid",
     "readme_filename": "g0v`TWRadiationAndroid`README.md",
     "url": "https://api.github.com/repos/g0v/TWRadiationAndroid"
   },
   "g0v/TWRadiationApp": {
     "description": "台灣輻射地圖APP for iOS",
+    "g0vjson_filename": "g0v`TWRadiationApp`g0v.json",
     "html_url": "https://github.com/g0v/TWRadiationApp",
+    "languages": {
+      "Objective-C": 182673,
+      "Ruby": 509
+    },
     "name": "TWRadiationApp",
     "readme_filename": "g0v`TWRadiationApp`README.md",
     "url": "https://api.github.com/repos/g0v/TWRadiationApp"
   },
   "g0v/TWRadiationApp-backend": {
     "description": "",
+    "g0vjson_filename": "g0v`TWRadiationApp-backend`g0v.json",
     "html_url": "https://github.com/g0v/TWRadiationApp-backend",
+    "languages": {
+      "CSS": 369251,
+      "JavaScript": 4099475,
+      "PHP": 5332241,
+      "Perl": 96
+    },
     "name": "TWRadiationApp-backend",
     "readme_filename": "g0v`TWRadiationApp-backend`README.markdown",
     "url": "https://api.github.com/repos/g0v/TWRadiationApp-backend"
@@ -362,6 +590,7 @@
   "g0v/TWRadiationMapRestApi": {
     "description": "",
     "html_url": "https://github.com/g0v/TWRadiationMapRestApi",
+    "languages": {},
     "name": "TWRadiationMapRestApi",
     "readme_filename": "g0v`TWRadiationMapRestApi`README.md",
     "url": "https://api.github.com/repos/g0v/TWRadiationMapRestApi"
@@ -369,19 +598,30 @@
   "g0v/Translate4you": {
     "description": "關鍵字的萬國語生產器",
     "html_url": "https://github.com/g0v/Translate4you",
+    "languages": {
+      "Python": 3459
+    },
     "name": "Translate4you",
     "url": "https://api.github.com/repos/g0v/Translate4you"
   },
   "g0v/VoteforClimate": {
     "description": "氣候選戰 Vote for Climate",
     "html_url": "https://github.com/g0v/VoteforClimate",
+    "languages": {},
     "name": "VoteforClimate",
     "readme_filename": "g0v`VoteforClimate`README.md",
     "url": "https://api.github.com/repos/g0v/VoteforClimate"
   },
   "g0v/abroadplay": {
     "description": "公務員出國考察追蹤網",
+    "g0vjson_filename": "g0v`abroadplay`g0v.json",
     "html_url": "https://github.com/g0v/abroadplay",
+    "languages": {
+      "CSS": 38957,
+      "JavaScript": 20186,
+      "PHP": 1292919,
+      "Perl": 26
+    },
     "name": "abroadplay",
     "readme_filename": "g0v`abroadplay`README.md",
     "url": "https://api.github.com/repos/g0v/abroadplay"
@@ -389,6 +629,12 @@
   "g0v/addressbook-data-converter": {
     "description": "addressbook data converter - convert Taiwan government open contact data in popolized format",
     "html_url": "https://github.com/g0v/addressbook-data-converter",
+    "languages": {
+      "HTML": 66863,
+      "LiveScript": 37364,
+      "Makefile": 429,
+      "PLSQL": 13698934
+    },
     "name": "addressbook-data-converter",
     "readme_filename": "g0v`addressbook-data-converter`README.md",
     "url": "https://api.github.com/repos/g0v/addressbook-data-converter"
@@ -396,6 +642,11 @@
   "g0v/addressbook-frontend": {
     "description": "Taiwan government open contact server frontend",
     "html_url": "https://github.com/g0v/addressbook-frontend",
+    "languages": {
+      "CSS": 7788,
+      "CoffeeScript": 1936,
+      "JavaScript": 27283
+    },
     "name": "addressbook-frontend",
     "readme_filename": "g0v`addressbook-frontend`README.md",
     "url": "https://api.github.com/repos/g0v/addressbook-frontend"
@@ -403,6 +654,9 @@
   "g0v/addressbook-grano": {
     "description": "",
     "html_url": "https://github.com/g0v/addressbook-grano",
+    "languages": {
+      "Ruby": 4800
+    },
     "name": "addressbook-grano",
     "readme_filename": "g0v`addressbook-grano`README.md",
     "url": "https://api.github.com/repos/g0v/addressbook-grano"
@@ -410,13 +664,22 @@
   "g0v/addressbook-iOS": {
     "description": "政府公開通訊錄 iOS 版",
     "html_url": "https://github.com/g0v/addressbook-iOS",
+    "languages": {
+      "Objective-C": 38856,
+      "Ruby": 287
+    },
     "name": "addressbook-iOS",
     "readme_filename": "g0v`addressbook-iOS`README.md",
     "url": "https://api.github.com/repos/g0v/addressbook-iOS"
   },
   "g0v/addressbook.parser": {
     "description": "Taiwan government addressbook parser",
+    "g0vjson_filename": "g0v`addressbook.parser`g0v.json",
     "html_url": "https://github.com/g0v/addressbook.parser",
+    "languages": {
+      "LiveScript": 3933,
+      "Python": 39136
+    },
     "name": "addressbook.parser",
     "readme_filename": "g0v`addressbook.parser`Readme.md",
     "url": "https://api.github.com/repos/g0v/addressbook.parser"
@@ -424,6 +687,9 @@
   "g0v/aec-process": {
     "description": "The data-process programs for aec data.",
     "html_url": "https://github.com/g0v/aec-process",
+    "languages": {
+      "Perl": 2984
+    },
     "name": "aec-process",
     "readme_filename": "g0v`aec-process`README.md",
     "url": "https://api.github.com/repos/g0v/aec-process"
@@ -431,6 +697,13 @@
   "g0v/agriculture": {
     "description": "農域入口網站 Prototype",
     "html_url": "https://github.com/g0v/agriculture",
+    "languages": {
+      "CSS": 14326,
+      "HTML": 34176,
+      "JavaScript": 48282,
+      "LiveScript": 1283,
+      "Perl": 456
+    },
     "name": "agriculture",
     "readme_filename": "g0v`agriculture`README.md",
     "url": "https://api.github.com/repos/g0v/agriculture"
@@ -438,6 +711,10 @@
   "g0v/angular-laweasyread": {
     "description": "angular directive of laweasyread",
     "html_url": "https://github.com/g0v/angular-laweasyread",
+    "languages": {
+      "JavaScript": 1387622,
+      "LiveScript": 1862
+    },
     "name": "angular-laweasyread",
     "readme_filename": "g0v`angular-laweasyread`README.md",
     "url": "https://api.github.com/repos/g0v/angular-laweasyread"
@@ -445,6 +722,15 @@
   "g0v/animal.coa": {
     "description": "各縣市公立動物收容所資訊統整系統",
     "html_url": "https://github.com/g0v/animal.coa",
+    "languages": {
+      "HTML": 1817303,
+      "JavaScript": 2545,
+      "LiveScript": 1342,
+      "PHP": 75352,
+      "Perl": 1537,
+      "Python": 54835,
+      "Visual Basic": 1148
+    },
     "name": "animal.coa",
     "readme_filename": "g0v`animal.coa`README.md",
     "url": "https://api.github.com/repos/g0v/animal.coa"
@@ -452,13 +738,29 @@
   "g0v/api.addressbook": {
     "description": "Taiwan government open contact server backend",
     "html_url": "https://github.com/g0v/api.addressbook",
+    "languages": {
+      "LiveScript": 2450,
+      "Ruby": 6044,
+      "Shell": 922
+    },
     "name": "api.addressbook",
     "readme_filename": "g0v`api.addressbook`README.md",
     "url": "https://api.github.com/repos/g0v/api.addressbook"
   },
   "g0v/api.ly": {
     "description": "api.ly.g0v.tw - ly api endpoint",
+    "g0vjson_filename": "g0v`api.ly`g0v.json",
     "html_url": "https://github.com/g0v/api.ly",
+    "languages": {
+      "API Blueprint": 6209,
+      "CoffeeScript": 3583,
+      "HTML": 4138,
+      "LiveScript": 50951,
+      "Perl": 1862,
+      "Python": 3372,
+      "Ruby": 14358,
+      "Shell": 4539
+    },
     "name": "api.ly",
     "readme_filename": "g0v`api.ly`README.md",
     "url": "https://api.github.com/repos/g0v/api.ly"
@@ -466,12 +768,20 @@
   "g0v/aqx-graphite": {
     "description": "A processor that sends AQX measures to graphite",
     "html_url": "https://github.com/g0v/aqx-graphite",
+    "languages": {
+      "Perl": 16340
+    },
     "name": "aqx-graphite",
     "url": "https://api.github.com/repos/g0v/aqx-graphite"
   },
   "g0v/ask-sorting-statements": {
     "description": "",
     "html_url": "https://github.com/g0v/ask-sorting-statements",
+    "languages": {
+      "CSS": 7219,
+      "HTML": 31093,
+      "JavaScript": 155332
+    },
     "name": "ask-sorting-statements",
     "readme_filename": "g0v`ask-sorting-statements`README.md",
     "url": "https://api.github.com/repos/g0v/ask-sorting-statements"
@@ -479,6 +789,11 @@
   "g0v/askkk": {
     "description": "wethepeople.tw codebase",
     "html_url": "https://github.com/g0v/askkk",
+    "languages": {
+      "CSS": 1000931,
+      "JavaScript": 2698183,
+      "LiveScript": 15098
+    },
     "name": "askkk",
     "readme_filename": "g0v`askkk`README.md",
     "url": "https://api.github.com/repos/g0v/askkk"
@@ -486,6 +801,10 @@
   "g0v/automate.tscs": {
     "description": "Semi-automate Taiwan Social Change Survey cross-year result",
     "html_url": "https://github.com/g0v/automate.tscs",
+    "languages": {
+      "JavaScript": 8374,
+      "Shell": 543
+    },
     "name": "automate.tscs",
     "readme_filename": "g0v`automate.tscs`README.md",
     "url": "https://api.github.com/repos/g0v/automate.tscs"
@@ -493,6 +812,9 @@
   "g0v/awesome-g0v": {
     "description": "A curated list of g0v projects",
     "html_url": "https://github.com/g0v/awesome-g0v",
+    "languages": {
+      "LiveScript": 1477
+    },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
@@ -500,6 +822,7 @@
   "g0v/awesome-tw-openagri": {
     "description": "整理農業開放資料相關資源與專案",
     "html_url": "https://github.com/g0v/awesome-tw-openagri",
+    "languages": {},
     "name": "awesome-tw-openagri",
     "readme_filename": "g0v`awesome-tw-openagri`README.md",
     "url": "https://api.github.com/repos/g0v/awesome-tw-openagri"
@@ -507,6 +830,12 @@
   "g0v/b0t-hubot": {
     "description": "g0v irc robot by hubot (http://hubot.github.com/)",
     "html_url": "https://github.com/g0v/b0t-hubot",
+    "languages": {
+      "CoffeeScript": 4647,
+      "LiveScript": 1488,
+      "PHP": 979,
+      "Shell": 935
+    },
     "name": "b0t-hubot",
     "readme_filename": "g0v`b0t-hubot`README.md",
     "url": "https://api.github.com/repos/g0v/b0t-hubot"
@@ -514,6 +843,13 @@
   "g0v/bMagic": {
     "description": "",
     "html_url": "https://github.com/g0v/bMagic",
+    "languages": {
+      "CSS": 747952,
+      "HTML": 8052,
+      "Java": 15152,
+      "JavaScript": 3156162,
+      "Objective-C": 20570
+    },
     "name": "bMagic",
     "readme_filename": "g0v`bMagic`README.md",
     "url": "https://api.github.com/repos/g0v/bMagic"
@@ -521,6 +857,11 @@
   "g0v/beSafe": {
     "description": "BeSafe: 災害警示公開資料彙整",
     "html_url": "https://github.com/g0v/beSafe",
+    "languages": {
+      "CSS": 498,
+      "HTML": 1888,
+      "JavaScript": 3685550
+    },
     "name": "beSafe",
     "readme_filename": "g0v`beSafe`README.md",
     "url": "https://api.github.com/repos/g0v/beSafe"
@@ -528,6 +869,7 @@
   "g0v/bill-nicknames": {
     "description": "Table of popular nicknames and keywords for bills",
     "html_url": "https://github.com/g0v/bill-nicknames",
+    "languages": {},
     "name": "bill-nicknames",
     "readme_filename": "g0v`bill-nicknames`README.md",
     "url": "https://api.github.com/repos/g0v/bill-nicknames"
@@ -535,6 +877,9 @@
   "g0v/blood": {
     "description": "",
     "html_url": "https://github.com/g0v/blood",
+    "languages": {
+      "JavaScript": 2077
+    },
     "name": "blood",
     "readme_filename": "g0v`blood`README.md",
     "url": "https://api.github.com/repos/g0v/blood"
@@ -542,6 +887,7 @@
   "g0v/bopomofo-standard-gitbook": {
     "description": "國語注音符號手冊 Gitbook",
     "html_url": "https://github.com/g0v/bopomofo-standard-gitbook",
+    "languages": {},
     "name": "bopomofo-standard-gitbook",
     "readme_filename": "g0v`bopomofo-standard-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/bopomofo-standard-gitbook"
@@ -549,6 +895,13 @@
   "g0v/call-liwei-backend": {
     "description": "g0v",
     "html_url": "https://github.com/g0v/call-liwei-backend",
+    "languages": {
+      "ApacheConf": 553,
+      "CSS": 72,
+      "HTML": 2127,
+      "JavaScript": 503,
+      "PHP": 67538
+    },
     "name": "call-liwei-backend",
     "readme_filename": "g0v`call-liwei-backend`readme.md",
     "url": "https://api.github.com/repos/g0v/call-liwei-backend"
@@ -556,6 +909,9 @@
   "g0v/callnow": {
     "description": "callnow webpage original files and folders.",
     "html_url": "https://github.com/g0v/callnow",
+    "languages": {
+      "JavaScript": 7466
+    },
     "name": "callnow",
     "readme_filename": "g0v`callnow`README.md",
     "url": "https://api.github.com/repos/g0v/callnow"
@@ -563,6 +919,9 @@
   "g0v/cancer": {
     "description": "Statistics in town level of patients with cancer, from 2004 to 2012.",
     "html_url": "https://github.com/g0v/cancer",
+    "languages": {
+      "LiveScript": 1905
+    },
     "name": "cancer",
     "readme_filename": "g0v`cancer`README.md",
     "url": "https://api.github.com/repos/g0v/cancer"
@@ -570,6 +929,11 @@
   "g0v/cchelper": {
     "description": "CC授權小幫手",
     "html_url": "https://github.com/g0v/cchelper",
+    "languages": {
+      "CSS": 2131,
+      "HTML": 6291,
+      "JavaScript": 7175
+    },
     "name": "cchelper",
     "readme_filename": "g0v`cchelper`README.md",
     "url": "https://api.github.com/repos/g0v/cchelper"
@@ -577,12 +941,22 @@
   "g0v/cec": {
     "description": "Central Election Commission",
     "html_url": "https://github.com/g0v/cec",
+    "languages": {
+      "LiveScript": 8776,
+      "PHP": 2378
+    },
     "name": "cec",
     "url": "https://api.github.com/repos/g0v/cec"
   },
   "g0v/chikage": {
     "description": "KAGE data API server and a HTML5 glyph editor",
     "html_url": "https://github.com/g0v/chikage",
+    "languages": {
+      "CSS": 56,
+      "HTML": 185,
+      "JavaScript": 5113,
+      "LiveScript": 5459
+    },
     "name": "chikage",
     "readme_filename": "g0v`chikage`README.md",
     "url": "https://api.github.com/repos/g0v/chikage"
@@ -590,6 +964,7 @@
   "g0v/citation_transition": {
     "description": "從康熙字典到萌典的引用變遷",
     "html_url": "https://github.com/g0v/citation_transition",
+    "languages": {},
     "name": "citation_transition",
     "readme_filename": "g0v`citation_transition`README.md",
     "url": "https://api.github.com/repos/g0v/citation_transition"
@@ -597,6 +972,7 @@
   "g0v/ckan": {
     "description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and data.gov.uk among many other sites.",
     "html_url": "https://github.com/g0v/ckan",
+    "languages": {},
     "name": "ckan",
     "readme_filename": "g0v`ckan`README.rst",
     "url": "https://api.github.com/repos/g0v/ckan"
@@ -604,6 +980,9 @@
   "g0v/closelyheld-act1-gitbook": {
     "description": "vTaiwan 閉鎖型公司：公司法部分條文修正草案",
     "html_url": "https://github.com/g0v/closelyheld-act1-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "closelyheld-act1-gitbook",
     "readme_filename": "g0v`closelyheld-act1-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/closelyheld-act1-gitbook"
@@ -611,6 +990,10 @@
   "g0v/closelyheld-gitbook": {
     "description": "vTaiwan 數位商務模式：閉鎖型公司",
     "html_url": "https://github.com/g0v/closelyheld-gitbook",
+    "languages": {
+      "JavaScript": 161,
+      "Shell": 1205
+    },
     "name": "closelyheld-gitbook",
     "readme_filename": "g0v`closelyheld-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/closelyheld-gitbook"
@@ -618,6 +1001,9 @@
   "g0v/closelyheld-ref1-gitbook": {
     "description": "vTaiwan 閉鎖型公司：草案 #1",
     "html_url": "https://github.com/g0v/closelyheld-ref1-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "closelyheld-ref1-gitbook",
     "readme_filename": "g0v`closelyheld-ref1-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/closelyheld-ref1-gitbook"
@@ -625,6 +1011,9 @@
   "g0v/closelyheld-ref1.vtaiwan.tw": {
     "description": " 「閉鎖性股份有限公司」草案（邵老師團隊版）",
     "html_url": "https://github.com/g0v/closelyheld-ref1.vtaiwan.tw",
+    "languages": {
+      "LiveScript": 1183
+    },
     "name": "closelyheld-ref1.vtaiwan.tw",
     "readme_filename": "g0v`closelyheld-ref1.vtaiwan.tw`README.md",
     "url": "https://api.github.com/repos/g0v/closelyheld-ref1.vtaiwan.tw"
@@ -632,6 +1021,9 @@
   "g0v/closelyheld-spec-gitbook": {
     "description": "vTaiwan 閉鎖型公司：具體建議",
     "html_url": "https://github.com/g0v/closelyheld-spec-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "closelyheld-spec-gitbook",
     "readme_filename": "g0v`closelyheld-spec-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/closelyheld-spec-gitbook"
@@ -639,6 +1031,9 @@
   "g0v/codeforwelfare": {
     "description": "codeforwelfare",
     "html_url": "https://github.com/g0v/codeforwelfare",
+    "languages": {
+      "JavaScript": 232228
+    },
     "name": "codeforwelfare",
     "readme_filename": "g0v`codeforwelfare`README.md",
     "url": "https://api.github.com/repos/g0v/codeforwelfare"
@@ -646,12 +1041,23 @@
   "g0v/color": {
     "description": "",
     "html_url": "https://github.com/g0v/color",
+    "languages": {
+      "CSS": 1988,
+      "HTML": 48736,
+      "JavaScript": 466
+    },
     "name": "color",
     "url": "https://api.github.com/repos/g0v/color"
   },
   "g0v/conference-map-main": {
     "description": "零時廣場 - 動態地圖、議程",
     "html_url": "https://github.com/g0v/conference-map-main",
+    "languages": {
+      "CSS": 59128,
+      "JavaScript": 849398,
+      "LiveScript": 3498,
+      "Shell": 823
+    },
     "name": "conference-map-main",
     "readme_filename": "g0v`conference-map-main`README.md",
     "url": "https://api.github.com/repos/g0v/conference-map-main"
@@ -659,6 +1065,7 @@
   "g0v/conference-map-message-server": {
     "description": "socket.io server for conference-map (我的活動地圖)",
     "html_url": "https://github.com/g0v/conference-map-message-server",
+    "languages": {},
     "name": "conference-map-message-server",
     "readme_filename": "g0v`conference-map-message-server`README.md",
     "url": "https://api.github.com/repos/g0v/conference-map-message-server"
@@ -666,13 +1073,26 @@
   "g0v/congress-vote-analytics": {
     "description": "選票成份分析網站",
     "html_url": "https://github.com/g0v/congress-vote-analytics",
+    "languages": {
+      "CSS": 11746,
+      "JavaScript": 88069,
+      "PHP": 181843,
+      "Shell": 356
+    },
     "name": "congress-vote-analytics",
     "readme_filename": "g0v`congress-vote-analytics`README.md",
     "url": "https://api.github.com/repos/g0v/congress-vote-analytics"
   },
   "g0v/congress-vote-analytics-beta": {
     "description": "rebuilt by codeigniter",
+    "g0vjson_filename": "g0v`congress-vote-analytics-beta`g0v.json",
     "html_url": "https://github.com/g0v/congress-vote-analytics-beta",
+    "languages": {
+      "CSS": 6593,
+      "JavaScript": 11010,
+      "PHP": 1237555,
+      "Perl": 26
+    },
     "name": "congress-vote-analytics-beta",
     "readme_filename": "g0v`congress-vote-analytics-beta`README.md",
     "url": "https://api.github.com/repos/g0v/congress-vote-analytics-beta"
@@ -680,6 +1100,9 @@
   "g0v/consumer-protection-gitbook": {
     "description": "vTaiwan 數位公民環境：網路消費者保護",
     "html_url": "https://github.com/g0v/consumer-protection-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "consumer-protection-gitbook",
     "readme_filename": "g0v`consumer-protection-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/consumer-protection-gitbook"
@@ -687,13 +1110,22 @@
   "g0v/consumer-protection-ref1-gitbook": {
     "description": "legal reform reference as to consumer protection in 2016",
     "html_url": "https://github.com/g0v/consumer-protection-ref1-gitbook",
+    "languages": {},
     "name": "consumer-protection-ref1-gitbook",
     "readme_filename": "g0v`consumer-protection-ref1-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/consumer-protection-ref1-gitbook"
   },
   "g0v/councilor-voter-guide": {
     "description": "議員投票指南",
+    "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
+    "languages": {
+      "CSS": 47858,
+      "HTML": 212055,
+      "JavaScript": 92126,
+      "Python": 485549,
+      "Shell": 3874
+    },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
@@ -701,6 +1133,10 @@
   "g0v/crowdfunding-gitbook": {
     "description": "vTaiwan 數位商務模式：群眾募資",
     "html_url": "https://github.com/g0v/crowdfunding-gitbook",
+    "languages": {
+      "JavaScript": 161,
+      "Shell": 1205
+    },
     "name": "crowdfunding-gitbook",
     "readme_filename": "g0v`crowdfunding-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/crowdfunding-gitbook"
@@ -708,6 +1144,9 @@
   "g0v/crowdfunding-ref1-gitbook": {
     "description": "",
     "html_url": "https://github.com/g0v/crowdfunding-ref1-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "crowdfunding-ref1-gitbook",
     "readme_filename": "g0v`crowdfunding-ref1-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/crowdfunding-ref1-gitbook"
@@ -715,6 +1154,9 @@
   "g0v/crowdfunding-spec-gitbook": {
     "description": "vTaiwan 股權式群募：具體建議",
     "html_url": "https://github.com/g0v/crowdfunding-spec-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "crowdfunding-spec-gitbook",
     "readme_filename": "g0v`crowdfunding-spec-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/crowdfunding-spec-gitbook"
@@ -722,6 +1164,11 @@
   "g0v/cuora": {
     "description": "救救食蛇龜",
     "html_url": "https://github.com/g0v/cuora",
+    "languages": {
+      "CSS": 5183,
+      "HTML": 8108,
+      "JavaScript": 20939
+    },
     "name": "cuora",
     "readme_filename": "g0v`cuora`README.md",
     "url": "https://api.github.com/repos/g0v/cuora"
@@ -729,6 +1176,9 @@
   "g0v/cyberbullying-gitbook": {
     "description": "vTaiwan 數位公民環境：網路霸凌",
     "html_url": "https://github.com/g0v/cyberbullying-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "cyberbullying-gitbook",
     "readme_filename": "g0v`cyberbullying-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/cyberbullying-gitbook"
@@ -736,6 +1186,9 @@
   "g0v/d3visualization": {
     "description": "An alternative gallery for d3.js",
     "html_url": "https://github.com/g0v/d3visualization",
+    "languages": {
+      "CSS": 4139
+    },
     "name": "d3visualization",
     "readme_filename": "g0v`d3visualization`README.md",
     "url": "https://api.github.com/repos/g0v/d3visualization"
@@ -743,6 +1196,12 @@
   "g0v/data-design": {
     "description": "Data + Design Traditional Chinese Edition",
     "html_url": "https://github.com/g0v/data-design",
+    "languages": {
+      "CSS": 69097,
+      "HTML": 610098,
+      "JavaScript": 1146,
+      "Liquid": 3472
+    },
     "name": "data-design",
     "readme_filename": "g0v`data-design`README.md",
     "url": "https://api.github.com/repos/g0v/data-design"
@@ -750,6 +1209,9 @@
   "g0v/data-levy-act1-gitbook": {
     "description": " 資料分類及授權利用：定案",
     "html_url": "https://github.com/g0v/data-levy-act1-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "data-levy-act1-gitbook",
     "readme_filename": "g0v`data-levy-act1-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/data-levy-act1-gitbook"
@@ -757,6 +1219,9 @@
   "g0v/data-levy-gitbook": {
     "description": "vTaiwan 數位公民環境：開放資料例外收費原則",
     "html_url": "https://github.com/g0v/data-levy-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "data-levy-gitbook",
     "readme_filename": "g0v`data-levy-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/data-levy-gitbook"
@@ -764,6 +1229,9 @@
   "g0v/data-levy-ref1-gitbook": {
     "description": "資料分類及授權利用：草案 #1",
     "html_url": "https://github.com/g0v/data-levy-ref1-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "data-levy-ref1-gitbook",
     "readme_filename": "g0v`data-levy-ref1-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/data-levy-ref1-gitbook"
@@ -771,6 +1239,9 @@
   "g0v/data-levy-spec-gitbook": {
     "description": "vTaiwan 開放資料例外收費原則：具體建議",
     "html_url": "https://github.com/g0v/data-levy-spec-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "data-levy-spec-gitbook",
     "readme_filename": "g0v`data-levy-spec-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/data-levy-spec-gitbook"
@@ -778,6 +1249,10 @@
   "g0v/datasmith": {
     "description": "data news generator",
     "html_url": "https://github.com/g0v/datasmith",
+    "languages": {
+      "HTML": 1601,
+      "Ruby": 2937
+    },
     "name": "datasmith",
     "readme_filename": "g0v`datasmith`README.md",
     "url": "https://api.github.com/repos/g0v/datasmith"
@@ -785,6 +1260,12 @@
   "g0v/dc.vtaiwan.tw": {
     "description": "匯流五法：線上徵詢",
     "html_url": "https://github.com/g0v/dc.vtaiwan.tw",
+    "languages": {
+      "CSS": 37366,
+      "HTML": 15210,
+      "JavaScript": 56976,
+      "LiveScript": 3564
+    },
     "name": "dc.vtaiwan.tw",
     "readme_filename": "g0v`dc.vtaiwan.tw`README.md",
     "url": "https://api.github.com/repos/g0v/dc.vtaiwan.tw"
@@ -792,6 +1273,10 @@
   "g0v/decent.tw": {
     "description": "Explore de¢ent brands / 台灣的老闆都很 Decent 的，這一定有什麼誤會",
     "html_url": "https://github.com/g0v/decent.tw",
+    "languages": {
+      "CSS": 44,
+      "LiveScript": 11157
+    },
     "name": "decent.tw",
     "readme_filename": "g0v`decent.tw`README.md",
     "url": "https://api.github.com/repos/g0v/decent.tw"
@@ -799,19 +1284,30 @@
   "g0v/design-guide": {
     "description": "design guide and bootstrap v3 css for g0v websites",
     "html_url": "https://github.com/g0v/design-guide",
+    "languages": {
+      "CSS": 1924,
+      "HTML": 7195
+    },
     "name": "design-guide",
     "readme_filename": "g0v`design-guide`README.md",
     "url": "https://api.github.com/repos/g0v/design-guide"
   },
   "g0v/dev": {
     "description": "dev.g0v.tw",
+    "g0vjson_filename": "g0v`dev`g0v.json",
     "html_url": "https://github.com/g0v/dev",
+    "languages": {
+      "CSS": 37715,
+      "JavaScript": 11313,
+      "LiveScript": 435
+    },
     "name": "dev",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/discourse": {
     "description": "A platform for community discussion. Free, open, simple.",
     "html_url": "https://github.com/g0v/discourse",
+    "languages": {},
     "name": "discourse",
     "readme_filename": "g0v`discourse`README.md",
     "url": "https://api.github.com/repos/g0v/discourse"
@@ -819,6 +1315,9 @@
   "g0v/distant-education-gitbook": {
     "description": "vTaiwan 數位生活：遠距教育",
     "html_url": "https://github.com/g0v/distant-education-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "distant-education-gitbook",
     "readme_filename": "g0v`distant-education-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/distant-education-gitbook"
@@ -826,6 +1325,9 @@
   "g0v/distant-education-spec-gitbook": {
     "description": " vTaiwan 遠距教育：具體建議 ",
     "html_url": "https://github.com/g0v/distant-education-spec-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "distant-education-spec-gitbook",
     "readme_filename": "g0v`distant-education-spec-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/distant-education-spec-gitbook"
@@ -833,6 +1335,7 @@
   "g0v/dkan-core": {
     "description": "data.g0v.tw use DKAN. dkan-core doesn't include any 3-party module and drupal in code.",
     "html_url": "https://github.com/g0v/dkan-core",
+    "languages": {},
     "name": "dkan-core",
     "readme_filename": "g0v`dkan-core`README.md",
     "url": "https://api.github.com/repos/g0v/dkan-core"
@@ -840,6 +1343,12 @@
   "g0v/dkan-theme": {
     "description": "Clone of dkan theme for data.g0v.tw usage",
     "html_url": "https://github.com/g0v/dkan-theme",
+    "languages": {
+      "CSS": 155540,
+      "JavaScript": 3776,
+      "PHP": 38746,
+      "Ruby": 963
+    },
     "name": "dkan-theme",
     "readme_filename": "g0v`dkan-theme`README.md",
     "url": "https://api.github.com/repos/g0v/dkan-theme"
@@ -847,6 +1356,14 @@
   "g0v/don-constitute": {
     "description": "動民主 x 公民憲政會議草根論壇 = 動憲法",
     "html_url": "https://github.com/g0v/don-constitute",
+    "languages": {
+      "CSS": 1515240,
+      "HTML": 80273,
+      "JavaScript": 1705664,
+      "LiveScript": 8015,
+      "Ruby": 2514,
+      "Shell": 279
+    },
     "name": "don-constitute",
     "readme_filename": "g0v`don-constitute`README.md",
     "url": "https://api.github.com/repos/g0v/don-constitute"
@@ -854,6 +1371,12 @@
   "g0v/don-press": {
     "description": "動民主 app 之全民記者會",
     "html_url": "https://github.com/g0v/don-press",
+    "languages": {
+      "CSS": 716459,
+      "JavaScript": 1473959,
+      "LiveScript": 568,
+      "Ruby": 2051
+    },
     "name": "don-press",
     "readme_filename": "g0v`don-press`README.md",
     "url": "https://api.github.com/repos/g0v/don-press"
@@ -861,6 +1384,10 @@
   "g0v/don-republic": {
     "description": "動民主",
     "html_url": "https://github.com/g0v/don-republic",
+    "languages": {
+      "CSS": 10541,
+      "JavaScript": 7339
+    },
     "name": "don-republic",
     "readme_filename": "g0v`don-republic`README.md",
     "url": "https://api.github.com/repos/g0v/don-republic"
@@ -868,6 +1395,13 @@
   "g0v/don-republic-mockup": {
     "description": "",
     "html_url": "https://github.com/g0v/don-republic-mockup",
+    "languages": {
+      "CSS": 35439,
+      "JavaScript": 6796,
+      "LiveScript": 12485,
+      "Ruby": 2112,
+      "Shell": 701
+    },
     "name": "don-republic-mockup",
     "readme_filename": "g0v`don-republic-mockup`README.md",
     "url": "https://api.github.com/repos/g0v/don-republic-mockup"
@@ -875,6 +1409,11 @@
   "g0v/donvote": {
     "description": "動民主 0.5 - 動投票 - 獨立 repo",
     "html_url": "https://github.com/g0v/donvote",
+    "languages": {
+      "CSS": 333441,
+      "JavaScript": 374190,
+      "LiveScript": 27011
+    },
     "name": "donvote",
     "readme_filename": "g0v`donvote`README.md",
     "url": "https://api.github.com/repos/g0v/donvote"
@@ -882,13 +1421,20 @@
   "g0v/e04": {
     "description": "g0v 人力資源部",
     "html_url": "https://github.com/g0v/e04",
+    "languages": {},
     "name": "e04",
     "readme_filename": "g0v`e04`README.md",
     "url": "https://api.github.com/repos/g0v/e04"
   },
   "g0v/editor": {
     "description": "g0v.json editor for every g0v project",
+    "g0vjson_filename": "g0v`editor`g0v.json",
     "html_url": "https://github.com/g0v/editor",
+    "languages": {
+      "CSS": 1550,
+      "HTML": 507,
+      "JavaScript": 8791
+    },
     "name": "editor",
     "readme_filename": "g0v`editor`README.md",
     "url": "https://api.github.com/repos/g0v/editor"
@@ -896,6 +1442,9 @@
   "g0v/eia_crawler": {
     "description": "Crawl the EIA reports via Scrapy.",
     "html_url": "https://github.com/g0v/eia_crawler",
+    "languages": {
+      "Python": 8206
+    },
     "name": "eia_crawler",
     "readme_filename": "g0v`eia_crawler`README.md",
     "url": "https://api.github.com/repos/g0v/eia_crawler"
@@ -903,6 +1452,11 @@
   "g0v/election-village": {
     "description": "crawler for 2010 borough chief election candidate list and result",
     "html_url": "https://github.com/g0v/election-village",
+    "languages": {
+      "CSS": 306448,
+      "JavaScript": 352891,
+      "LiveScript": 14061
+    },
     "name": "election-village",
     "readme_filename": "g0v`election-village`README.md",
     "url": "https://api.github.com/repos/g0v/election-village"
@@ -910,13 +1464,29 @@
   "g0v/encoding-mashup-server": {
     "description": "A system to help users find the correct Unicode or the CNS 11643 encoding for Han characters found as pictures (due to the limitation of Big-5) in many dictionaries published by the Ministry of Education (Taiwan)",
     "html_url": "https://github.com/g0v/encoding-mashup-server",
+    "languages": {
+      "CoffeeScript": 2552,
+      "Haskell": 36980,
+      "JavaScript": 64574,
+      "Puppet": 3487,
+      "Python": 2314,
+      "Shell": 832
+    },
     "name": "encoding-mashup-server",
     "readme_filename": "g0v`encoding-mashup-server`README.md",
     "url": "https://api.github.com/repos/g0v/encoding-mashup-server"
   },
   "g0v/env.g0v.tw": {
     "description": "Taiwan Environment Dashboard",
+    "g0vjson_filename": "g0v`env.g0v.tw`g0v.json",
     "html_url": "https://github.com/g0v/env.g0v.tw",
+    "languages": {
+      "CSS": 7507,
+      "HTML": 10764,
+      "LiveScript": 29449,
+      "Makefile": 696,
+      "Shell": 3884
+    },
     "name": "env.g0v.tw",
     "readme_filename": "g0v`env.g0v.tw`README.md",
     "url": "https://api.github.com/repos/g0v/env.g0v.tw"
@@ -924,6 +1494,10 @@
   "g0v/epa-data": {
     "description": "",
     "html_url": "https://github.com/g0v/epa-data",
+    "languages": {
+      "LiveScript": 4211,
+      "PHP": 2114
+    },
     "name": "epa-data",
     "readme_filename": "g0v`epa-data`README.md",
     "url": "https://api.github.com/repos/g0v/epa-data"
@@ -931,12 +1505,21 @@
   "g0v/er-map": {
     "description": "",
     "html_url": "https://github.com/g0v/er-map",
+    "languages": {
+      "JavaScript": 7703,
+      "LiveScript": 3264
+    },
     "name": "er-map",
     "url": "https://api.github.com/repos/g0v/er-map"
   },
   "g0v/er.mohw": {
     "description": "ER information",
     "html_url": "https://github.com/g0v/er.mohw",
+    "languages": {
+      "LiveScript": 2713,
+      "Python": 2026,
+      "Shell": 371
+    },
     "name": "er.mohw",
     "readme_filename": "g0v`er.mohw`README.md",
     "url": "https://api.github.com/repos/g0v/er.mohw"
@@ -944,12 +1527,18 @@
   "g0v/esly": {
     "description": "Some play to index parsed ly gazette in ES",
     "html_url": "https://github.com/g0v/esly",
+    "languages": {
+      "Perl": 9527
+    },
     "name": "esly",
     "url": "https://api.github.com/repos/g0v/esly"
   },
   "g0v/esmoe": {
     "description": "",
     "html_url": "https://github.com/g0v/esmoe",
+    "languages": {
+      "Perl": 5770
+    },
     "name": "esmoe",
     "readme_filename": "g0v`esmoe`README.md",
     "url": "https://api.github.com/repos/g0v/esmoe"
@@ -957,6 +1546,10 @@
   "g0v/etax-gitbook": {
     "description": "vTaiwan 數位商務模式：網路交易課稅 ",
     "html_url": "https://github.com/g0v/etax-gitbook",
+    "languages": {
+      "JavaScript": 161,
+      "Shell": 1205
+    },
     "name": "etax-gitbook",
     "readme_filename": "g0v`etax-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/etax-gitbook"
@@ -964,6 +1557,9 @@
   "g0v/etax-spec-gitbook": {
     "description": "vTaiwan 網路交易課稅：具體建議",
     "html_url": "https://github.com/g0v/etax-spec-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "etax-spec-gitbook",
     "readme_filename": "g0v`etax-spec-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/etax-spec-gitbook"
@@ -971,6 +1567,10 @@
   "g0v/excel-data-tool": {
     "description": "這邊放一些把 excel 資料轉成易讀資料的工具",
     "html_url": "https://github.com/g0v/excel-data-tool",
+    "languages": {
+      "HTML": 11134,
+      "JavaScript": 6082
+    },
     "name": "excel-data-tool",
     "readme_filename": "g0v`excel-data-tool`README.md",
     "url": "https://api.github.com/repos/g0v/excel-data-tool"
@@ -978,6 +1578,10 @@
   "g0v/facebook2parse": {
     "description": "",
     "html_url": "https://github.com/g0v/facebook2parse",
+    "languages": {
+      "CSS": 1161,
+      "JavaScript": 998
+    },
     "name": "facebook2parse",
     "readme_filename": "g0v`facebook2parse`README.md",
     "url": "https://api.github.com/repos/g0v/facebook2parse"
@@ -985,6 +1589,10 @@
   "g0v/farmer": {
     "description": "農業相關資訊工具",
     "html_url": "https://github.com/g0v/farmer",
+    "languages": {
+      "CSS": 42829,
+      "JavaScript": 56991
+    },
     "name": "farmer",
     "readme_filename": "g0v`farmer`README.md",
     "url": "https://api.github.com/repos/g0v/farmer"
@@ -992,12 +1600,20 @@
   "g0v/farmers": {
     "description": "a mobile app for all kind farmers",
     "html_url": "https://github.com/g0v/farmers",
+    "languages": {
+      "CSS": 622242,
+      "JavaScript": 1360334,
+      "Ruby": 2995
+    },
     "name": "farmers",
     "url": "https://api.github.com/repos/g0v/farmers"
   },
   "g0v/foundationtw": {
     "description": "",
     "html_url": "https://github.com/g0v/foundationtw",
+    "languages": {
+      "PHP": 175463
+    },
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
     "url": "https://api.github.com/repos/g0v/foundationtw"
@@ -1005,6 +1621,11 @@
   "g0v/front-end-demo": {
     "description": "simple html demo",
     "html_url": "https://github.com/g0v/front-end-demo",
+    "languages": {
+      "CSS": 11624,
+      "JavaScript": 96,
+      "Ruby": 853
+    },
     "name": "front-end-demo",
     "readme_filename": "g0v`front-end-demo`README.md",
     "url": "https://api.github.com/repos/g0v/front-end-demo"
@@ -1012,24 +1633,37 @@
   "g0v/g0v-call-liwei": {
     "description": null,
     "html_url": "https://github.com/g0v/g0v-call-liwei",
+    "languages": {
+      "CSS": 184,
+      "HTML": 481,
+      "JavaScript": 1583867
+    },
     "name": "g0v-call-liwei",
     "url": "https://api.github.com/repos/g0v/g0v-call-liwei"
   },
   "g0v/g0v-paradise": {
     "description": "vagrant settings for g0v box",
     "html_url": "https://github.com/g0v/g0v-paradise",
+    "languages": {},
     "name": "g0v-paradise",
     "url": "https://api.github.com/repos/g0v/g0v-paradise"
   },
   "g0v/g0v-tender-builder": {
     "description": null,
     "html_url": "https://github.com/g0v/g0v-tender-builder",
+    "languages": {},
     "name": "g0v-tender-builder",
     "url": "https://api.github.com/repos/g0v/g0v-tender-builder"
   },
   "g0v/g0v-tour-guide": {
     "description": "a guide to g0v",
     "html_url": "https://github.com/g0v/g0v-tour-guide",
+    "languages": {
+      "CSS": 699774,
+      "JavaScript": 1171657,
+      "LiveScript": 2827,
+      "Ruby": 2667
+    },
     "name": "g0v-tour-guide",
     "readme_filename": "g0v`g0v-tour-guide`README.md",
     "url": "https://api.github.com/repos/g0v/g0v-tour-guide"
@@ -1037,6 +1671,11 @@
   "g0v/g0v.asia": {
     "description": "g0v.asia landing page",
     "html_url": "https://github.com/g0v/g0v.asia",
+    "languages": {
+      "CSS": 298347,
+      "HTML": 224861,
+      "JavaScript": 166467
+    },
     "name": "g0v.asia",
     "readme_filename": "g0v`g0v.asia`README.md",
     "url": "https://api.github.com/repos/g0v/g0v.asia"
@@ -1044,6 +1683,9 @@
   "g0v/g0v.github.io": {
     "description": "",
     "html_url": "https://github.com/g0v/g0v.github.io",
+    "languages": {
+      "HTML": 56
+    },
     "name": "g0v.github.io",
     "readme_filename": "g0v`g0v.github.io`README.md",
     "url": "https://api.github.com/repos/g0v/g0v.github.io"
@@ -1051,6 +1693,10 @@
   "g0v/g0v.io": {
     "description": "Captive Portal for people inside and around the occupied area in Taiwan",
     "html_url": "https://github.com/g0v/g0v.io",
+    "languages": {
+      "CSS": 1919,
+      "JavaScript": 1305
+    },
     "name": "g0v.io",
     "readme_filename": "g0v`g0v.io`README.md",
     "url": "https://api.github.com/repos/g0v/g0v.io"
@@ -1058,6 +1704,9 @@
   "g0v/g0v.json": {
     "description": "The specification of g0v.json",
     "html_url": "https://github.com/g0v/g0v.json",
+    "languages": {
+      "JavaScript": 247
+    },
     "name": "g0v.json",
     "readme_filename": "g0v`g0v.json`README.md",
     "url": "https://api.github.com/repos/g0v/g0v.json"
@@ -1065,13 +1714,29 @@
   "g0v/g0v.today": {
     "description": "",
     "html_url": "https://github.com/g0v/g0v.today",
+    "languages": {
+      "CSS": 357150,
+      "CoffeeScript": 1055,
+      "JavaScript": 1124669,
+      "LiveScript": 185,
+      "Ruby": 32880
+    },
     "name": "g0v.today",
     "readme_filename": "g0v`g0v.today`README.md",
     "url": "https://api.github.com/repos/g0v/g0v.today"
   },
   "g0v/g0v.tw": {
     "description": "g0v.tw site",
+    "g0vjson_filename": "g0v`g0v.tw`g0v.json",
     "html_url": "https://github.com/g0v/g0v.tw",
+    "languages": {
+      "CSS": 13948,
+      "GCC Machine Description": 186,
+      "HTML": 104621,
+      "JavaScript": 13,
+      "LiveScript": 22234,
+      "Shell": 1890
+    },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
@@ -1079,6 +1744,9 @@
   "g0v/g0vHackpads2PadagraphIO": {
     "description": "",
     "html_url": "https://github.com/g0v/g0vHackpads2PadagraphIO",
+    "languages": {
+      "Python": 6635
+    },
     "name": "g0vHackpads2PadagraphIO",
     "readme_filename": "g0v`g0vHackpads2PadagraphIO`README.md",
     "url": "https://api.github.com/repos/g0v/g0vHackpads2PadagraphIO"
@@ -1086,6 +1754,11 @@
   "g0v/g0vTxT": {
     "description": "Visualize g0v hackpad's information.",
     "html_url": "https://github.com/g0v/g0vTxT",
+    "languages": {
+      "CSS": 2773,
+      "JavaScript": 15422,
+      "LiveScript": 1206
+    },
     "name": "g0vTxT",
     "readme_filename": "g0v`g0vTxT`README.md",
     "url": "https://api.github.com/repos/g0v/g0vTxT"
@@ -1093,6 +1766,11 @@
   "g0v/g0vcaptcha": {
     "description": "",
     "html_url": "https://github.com/g0v/g0vcaptcha",
+    "languages": {
+      "HTML": 315,
+      "Perl": 13271,
+      "Perl6": 1355
+    },
     "name": "g0vcaptcha",
     "readme_filename": "g0v`g0vcaptcha`README.md",
     "url": "https://api.github.com/repos/g0v/g0vcaptcha"
@@ -1100,6 +1778,11 @@
   "g0v/g0villa": {
     "description": "tabzilla for g0v sites",
     "html_url": "https://github.com/g0v/g0villa",
+    "languages": {
+      "CSS": 43389,
+      "JavaScript": 49968,
+      "LiveScript": 898
+    },
     "name": "g0villa",
     "readme_filename": "g0v`g0villa`README.md",
     "url": "https://api.github.com/repos/g0v/g0villa"
@@ -1107,6 +1790,11 @@
   "g0v/g0village": {
     "description": "新手村計畫",
     "html_url": "https://github.com/g0v/g0village",
+    "languages": {
+      "CSS": 3764,
+      "DOT": 6509,
+      "JavaScript": 725234
+    },
     "name": "g0village",
     "readme_filename": "g0v`g0village`README.md",
     "url": "https://api.github.com/repos/g0v/g0village"
@@ -1114,6 +1802,10 @@
   "g0v/g0village-8bit": {
     "description": "g0v 新手村計劃 8bit",
     "html_url": "https://github.com/g0v/g0village-8bit",
+    "languages": {
+      "CSS": 4340,
+      "JavaScript": 408041
+    },
     "name": "g0village-8bit",
     "readme_filename": "g0v`g0village-8bit`README.md",
     "url": "https://api.github.com/repos/g0v/g0village-8bit"
@@ -1121,6 +1813,11 @@
   "g0v/g0vis": {
     "description": "Visualization of g0v ",
     "html_url": "https://github.com/g0v/g0vis",
+    "languages": {
+      "CSS": 309935,
+      "JavaScript": 678120,
+      "LiveScript": 10195
+    },
     "name": "g0vis",
     "readme_filename": "g0v`g0vis`README.md",
     "url": "https://api.github.com/repos/g0v/g0vis"
@@ -1128,6 +1825,10 @@
   "g0v/g0vkeyword": {
     "description": "",
     "html_url": "https://github.com/g0v/g0vkeyword",
+    "languages": {
+      "JavaScript": 61752,
+      "PHP": 4406
+    },
     "name": "g0vkeyword",
     "readme_filename": "g0v`g0vkeyword`README.md",
     "url": "https://api.github.com/repos/g0v/g0vkeyword"
@@ -1135,6 +1836,11 @@
   "g0v/g0vre": {
     "description": "Generic Reader/Extractor service for *.gov.tw URLs",
     "html_url": "https://github.com/g0v/g0vre",
+    "languages": {
+      "LiveScript": 12977,
+      "Makefile": 119,
+      "Perl": 7847
+    },
     "name": "g0vre",
     "readme_filename": "g0v`g0vre`README.md",
     "url": "https://api.github.com/repos/g0v/g0vre"
@@ -1142,6 +1848,10 @@
   "g0v/gcaa-legislator-vs-nuke-ui-design": {
     "description": "2013-gcaa-立委議題傾向",
     "html_url": "https://github.com/g0v/gcaa-legislator-vs-nuke-ui-design",
+    "languages": {
+      "JavaScript": 737,
+      "Ruby": 549
+    },
     "name": "gcaa-legislator-vs-nuke-ui-design",
     "readme_filename": "g0v`gcaa-legislator-vs-nuke-ui-design`README.md",
     "url": "https://api.github.com/repos/g0v/gcaa-legislator-vs-nuke-ui-design"
@@ -1149,6 +1859,10 @@
   "g0v/generator-g0v-webapp": {
     "description": "Yeoman Generator for generating g0v common webapp",
     "html_url": "https://github.com/g0v/generator-g0v-webapp",
+    "languages": {
+      "JavaScript": 2839,
+      "LiveScript": 1549
+    },
     "name": "generator-g0v-webapp",
     "readme_filename": "g0v`generator-g0v-webapp`README.md",
     "url": "https://api.github.com/repos/g0v/generator-g0v-webapp"
@@ -1156,13 +1870,21 @@
   "g0v/gitbook-plugin-discourse": {
     "description": "",
     "html_url": "https://github.com/g0v/gitbook-plugin-discourse",
+    "languages": {
+      "JavaScript": 3397
+    },
     "name": "gitbook-plugin-discourse",
     "readme_filename": "g0v`gitbook-plugin-discourse`README.md",
     "url": "https://api.github.com/repos/g0v/gitbook-plugin-discourse"
   },
   "g0v/glyph": {
     "description": null,
+    "g0vjson_filename": "g0v`glyph`g0v.json",
     "html_url": "https://github.com/g0v/glyph",
+    "languages": {
+      "CSS": 14813,
+      "HTML": 10426
+    },
     "name": "glyph",
     "readme_filename": "g0v`glyph`README.md",
     "url": "https://api.github.com/repos/g0v/glyph"
@@ -1170,6 +1892,12 @@
   "g0v/goban": {
     "description": "hacker's goban",
     "html_url": "https://github.com/g0v/goban",
+    "languages": {
+      "CSS": 22173,
+      "HTML": 44120,
+      "JavaScript": 22267,
+      "Ruby": 900
+    },
     "name": "goban",
     "readme_filename": "g0v`goban`README.md",
     "url": "https://api.github.com/repos/g0v/goban"
@@ -1177,6 +1905,11 @@
   "g0v/govfeeds": {
     "description": "collection of rss links found on gov.tw pages",
     "html_url": "https://github.com/g0v/govfeeds",
+    "languages": {
+      "LiveScript": 2944,
+      "Makefile": 37,
+      "Perl": 1276
+    },
     "name": "govfeeds",
     "readme_filename": "g0v`govfeeds`README.md",
     "url": "https://api.github.com/repos/g0v/govfeeds"
@@ -1184,13 +1917,28 @@
   "g0v/grabejs": {
     "description": "customize phantomjs for take snapshot / html shot of website.",
     "html_url": "https://github.com/g0v/grabejs",
+    "languages": {
+      "JavaScript": 5866
+    },
     "name": "grabejs",
     "readme_filename": "g0v`grabejs`README.md",
     "url": "https://api.github.com/repos/g0v/grabejs"
   },
   "g0v/hack.g0v.tw": {
     "description": "organize gdoc and hackpad for hackathons",
+    "g0vjson_filename": "g0v`hack.g0v.tw`g0v.json",
     "html_url": "https://github.com/g0v/hack.g0v.tw",
+    "languages": {
+      "CSS": 16133,
+      "GCC Machine Description": 36230,
+      "Groff": 7908,
+      "HTML": 81526,
+      "JavaScript": 11619,
+      "LiveScript": 57675,
+      "Makefile": 1635,
+      "Perl": 5303,
+      "Shell": 3355
+    },
     "name": "hack.g0v.tw",
     "readme_filename": "g0v`hack.g0v.tw`README.md",
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
@@ -1198,6 +1946,11 @@
   "g0v/hackeditr": {
     "description": "",
     "html_url": "https://github.com/g0v/hackeditr",
+    "languages": {
+      "CSS": 1480,
+      "HTML": 6785,
+      "JavaScript": 11646
+    },
     "name": "hackeditr",
     "readme_filename": "g0v`hackeditr`README.md",
     "url": "https://api.github.com/repos/g0v/hackeditr"
@@ -1205,6 +1958,15 @@
   "g0v/hackfoldr-2.0-forkme": {
     "description": "a forkable version of hackfoldr 2.0, made for moztw community",
     "html_url": "https://github.com/g0v/hackfoldr-2.0-forkme",
+    "languages": {
+      "Batchfile": 291,
+      "CSS": 345172,
+      "HTML": 66444,
+      "JavaScript": 484040,
+      "LiveScript": 1471,
+      "Ruby": 2624,
+      "Shell": 2010
+    },
     "name": "hackfoldr-2.0-forkme",
     "readme_filename": "g0v`hackfoldr-2.0-forkme`README.md",
     "url": "https://api.github.com/repos/g0v/hackfoldr-2.0-forkme"
@@ -1212,6 +1974,9 @@
   "g0v/hackpad-parser": {
     "description": "Parse the ideal pool and project information",
     "html_url": "https://github.com/g0v/hackpad-parser",
+    "languages": {
+      "JavaScript": 1669
+    },
     "name": "hackpad-parser",
     "readme_filename": "g0v`hackpad-parser`README.md",
     "url": "https://api.github.com/repos/g0v/hackpad-parser"
@@ -1219,6 +1984,14 @@
   "g0v/hacktabl": {
     "description": "Comparison table generator, using Ethercalc and Google Doc as the content backend.",
     "html_url": "https://github.com/g0v/hacktabl",
+    "languages": {
+      "CSS": 36679,
+      "HTML": 65006,
+      "JavaScript": 5221,
+      "LiveScript": 49867,
+      "Makefile": 861,
+      "Ruby": 937
+    },
     "name": "hacktabl",
     "readme_filename": "g0v`hacktabl`README.md",
     "url": "https://api.github.com/repos/g0v/hacktabl"
@@ -1226,6 +1999,9 @@
   "g0v/hakka_elearning": {
     "description": "客語能力認證 資料檔",
     "html_url": "https://github.com/g0v/hakka_elearning",
+    "languages": {
+      "Python": 25370
+    },
     "name": "hakka_elearning",
     "readme_filename": "g0v`hakka_elearning`README.md",
     "url": "https://api.github.com/repos/g0v/hakka_elearning"
@@ -1233,12 +2009,25 @@
   "g0v/hanconvert": {
     "description": "han convert proxy",
     "html_url": "https://github.com/g0v/hanconvert",
+    "languages": {
+      "HTML": 311,
+      "Perl": 5432,
+      "Shell": 58
+    },
     "name": "hanconvert",
     "url": "https://api.github.com/repos/g0v/hanconvert"
   },
   "g0v/howsfood-mockup": {
     "description": "web and app for howsfood market",
     "html_url": "https://github.com/g0v/howsfood-mockup",
+    "languages": {
+      "CSS": 2790636,
+      "HTML": 41599,
+      "JavaScript": 2729428,
+      "LiveScript": 8015,
+      "Ruby": 2573,
+      "Shell": 279
+    },
     "name": "howsfood-mockup",
     "readme_filename": "g0v`howsfood-mockup`README.md",
     "url": "https://api.github.com/repos/g0v/howsfood-mockup"
@@ -1246,13 +2035,18 @@
   "g0v/hub": {
     "description": "g0v 專案與技能媒合工具",
     "html_url": "https://github.com/g0v/hub",
+    "languages": {
+      "JavaScript": 7327
+    },
     "name": "hub",
     "readme_filename": "g0v`hub`README.md",
     "url": "https://api.github.com/repos/g0v/hub"
   },
   "g0v/i64885": {
     "description": "A request tracking and notification system for legal aid.  Helping political victims in emergency situation.  ",
+    "g0vjson_filename": "g0v`i64885`g0v.json",
     "html_url": "https://github.com/g0v/i64885",
+    "languages": {},
     "name": "i64885",
     "readme_filename": "g0v`i64885`README.md",
     "url": "https://api.github.com/repos/g0v/i64885"
@@ -1260,12 +2054,14 @@
   "g0v/i69": {
     "description": "",
     "html_url": "https://github.com/g0v/i69",
+    "languages": {},
     "name": "i69",
     "url": "https://api.github.com/repos/g0v/i69"
   },
   "g0v/ideograph-on-demand": {
     "description": "Generate CJK ideogram given an expression.",
     "html_url": "https://github.com/g0v/ideograph-on-demand",
+    "languages": {},
     "name": "ideograph-on-demand",
     "readme_filename": "g0v`ideograph-on-demand`README.md",
     "url": "https://api.github.com/repos/g0v/ideograph-on-demand"
@@ -1273,13 +2069,19 @@
   "g0v/idskage": {
     "description": "Generate Kage glyph format from IDS",
     "html_url": "https://github.com/g0v/idskage",
+    "languages": {
+      "HTML": 974,
+      "JavaScript": 98106
+    },
     "name": "idskage",
     "readme_filename": "g0v`idskage`README.md",
     "url": "https://api.github.com/repos/g0v/idskage"
   },
   "g0v/inLiveTwTextChrome": {
     "description": "InLiveTw for ChromeCast through Google Cast extension",
+    "g0vjson_filename": "g0v`inLiveTwTextChrome`g0v.json",
     "html_url": "https://github.com/g0v/inLiveTwTextChrome",
+    "languages": {},
     "name": "inLiveTwTextChrome",
     "readme_filename": "g0v`inLiveTwTextChrome`README.md",
     "url": "https://api.github.com/repos/g0v/inLiveTwTextChrome"
@@ -1287,6 +2089,9 @@
   "g0v/infosecurity-gitbook": {
     "description": "vTaiwan — 資安管理",
     "html_url": "https://github.com/g0v/infosecurity-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "infosecurity-gitbook",
     "readme_filename": "g0v`infosecurity-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/infosecurity-gitbook"
@@ -1294,6 +2099,12 @@
   "g0v/inviteyoself": {
     "description": "Allow people to invite themselves to your slack team.",
     "html_url": "https://github.com/g0v/inviteyoself",
+    "languages": {
+      "CSS": 2464,
+      "Clojure": 11691,
+      "HTML": 2178,
+      "JavaScript": 2193
+    },
     "name": "inviteyoself",
     "readme_filename": "g0v`inviteyoself`README.md",
     "url": "https://api.github.com/repos/g0v/inviteyoself"
@@ -1301,12 +2112,18 @@
   "g0v/ipad-air-case-selector": {
     "description": "how to choose an appropriate case for your ipad air?",
     "html_url": "https://github.com/g0v/ipad-air-case-selector",
+    "languages": {},
     "name": "ipad-air-case-selector",
     "url": "https://api.github.com/repos/g0v/ipad-air-case-selector"
   },
   "g0v/ircstat": {
     "description": "irc activity collection and visualization",
     "html_url": "https://github.com/g0v/ircstat",
+    "languages": {
+      "CSS": 10724,
+      "JavaScript": 504864,
+      "LiveScript": 2579
+    },
     "name": "ircstat",
     "readme_filename": "g0v`ircstat`README.md",
     "url": "https://api.github.com/repos/g0v/ircstat"
@@ -1314,13 +2131,21 @@
   "g0v/issue-aspect": {
     "description": "為以後政府特定議題可以提出正、反討論的觀點",
     "html_url": "https://github.com/g0v/issue-aspect",
+    "languages": {
+      "JavaScript": 16362,
+      "Shell": 28
+    },
     "name": "issue-aspect",
     "readme_filename": "g0v`issue-aspect`readme.md",
     "url": "https://api.github.com/repos/g0v/issue-aspect"
   },
   "g0v/issue_aggregator": {
     "description": "g0v issues aggregator",
+    "g0vjson_filename": "g0v`issue_aggregator`g0v.json",
     "html_url": "https://github.com/g0v/issue_aggregator",
+    "languages": {
+      "Python": 17564
+    },
     "name": "issue_aggregator",
     "readme_filename": "g0v`issue_aggregator`README.md",
     "url": "https://api.github.com/repos/g0v/issue_aggregator"
@@ -1328,6 +2153,13 @@
   "g0v/itaigi": {
     "description": "新台語·運動",
     "html_url": "https://github.com/g0v/itaigi",
+    "languages": {
+      "CSS": 2230,
+      "HTML": 2615,
+      "JavaScript": 488577,
+      "Python": 20592,
+      "VimL": 47
+    },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
     "url": "https://api.github.com/repos/g0v/itaigi"
@@ -1335,13 +2167,25 @@
   "g0v/ivod-download-client": {
     "description": "ivod download client",
     "html_url": "https://github.com/g0v/ivod-download-client",
+    "languages": {
+      "PHP": 83071,
+      "Python": 19703,
+      "Shell": 273
+    },
     "name": "ivod-download-client",
     "readme_filename": "g0v`ivod-download-client`README.md",
     "url": "https://api.github.com/repos/g0v/ivod-download-client"
   },
   "g0v/ivod.ly.g0v.tw": {
     "description": "",
+    "g0vjson_filename": "g0v`ivod.ly.g0v.tw`g0v.json",
     "html_url": "https://github.com/g0v/ivod.ly.g0v.tw",
+    "languages": {
+      "CSS": 154434,
+      "HTML": 15960,
+      "JavaScript": 71779,
+      "LiveScript": 31647
+    },
     "name": "ivod.ly.g0v.tw",
     "readme_filename": "g0v`ivod.ly.g0v.tw`README.md",
     "url": "https://api.github.com/repos/g0v/ivod.ly.g0v.tw"
@@ -1349,6 +2193,10 @@
   "g0v/kage.json": {
     "description": "parse KAGE format to JSON for future use",
     "html_url": "https://github.com/g0v/kage.json",
+    "languages": {
+      "JavaScript": 45,
+      "LiveScript": 4465
+    },
     "name": "kage.json",
     "readme_filename": "g0v`kage.json`README.md",
     "url": "https://api.github.com/repos/g0v/kage.json"
@@ -1356,6 +2204,9 @@
   "g0v/kakunoko": {
     "description": "格納庫，用來放些拆房子的利器",
     "html_url": "https://github.com/g0v/kakunoko",
+    "languages": {
+      "Java": 12589
+    },
     "name": "kakunoko",
     "readme_filename": "g0v`kakunoko`README.md",
     "url": "https://api.github.com/repos/g0v/kakunoko"
@@ -1363,26 +2214,47 @@
   "g0v/kitchen": {
     "description": "chef kitchen",
     "html_url": "https://github.com/g0v/kitchen",
+    "languages": {
+      "Ruby": 925
+    },
     "name": "kitchen",
     "url": "https://api.github.com/repos/g0v/kitchen"
   },
   "g0v/koktai": {
     "description": " 吳守禮《國臺對照活用辭典》電子化",
     "html_url": "https://github.com/g0v/koktai",
+    "languages": {
+      "C": 474528,
+      "CSS": 710,
+      "HTML": 27656579,
+      "Makefile": 2113,
+      "Perl": 24956,
+      "Perl6": 6620,
+      "Python": 58340
+    },
     "name": "koktai",
     "readme_filename": "g0v`koktai`README.md",
     "url": "https://api.github.com/repos/g0v/koktai"
   },
   "g0v/kuansim": {
     "description": "鄉民關心你 - 事件追蹤分析系統",
+    "g0vjson_filename": "g0v`kuansim`g0v.json",
     "html_url": "https://github.com/g0v/kuansim",
+    "languages": {
+      "LiveScript": 1435,
+      "Ruby": 7653
+    },
     "name": "kuansim",
     "readme_filename": "g0v`kuansim`README.md",
     "url": "https://api.github.com/repos/g0v/kuansim"
   },
   "g0v/kuansim-backend": {
     "description": "kuansim - backend",
+    "g0vjson_filename": "g0v`kuansim-backend`g0v.json",
     "html_url": "https://github.com/g0v/kuansim-backend",
+    "languages": {
+      "LiveScript": 7239
+    },
     "name": "kuansim-backend",
     "readme_filename": "g0v`kuansim-backend`README.md",
     "url": "https://api.github.com/repos/g0v/kuansim-backend"
@@ -1390,13 +2262,24 @@
   "g0v/kuansim-devops": {
     "description": "鄉民關心你的行政事務, 論壇維護及新手文件整理",
     "html_url": "https://github.com/g0v/kuansim-devops",
+    "languages": {
+      "Python": 3151
+    },
     "name": "kuansim-devops",
     "readme_filename": "g0v`kuansim-devops`README.md",
     "url": "https://api.github.com/repos/g0v/kuansim-devops"
   },
   "g0v/kuansim-frontend": {
     "description": "鄉民關心你",
+    "g0vjson_filename": "g0v`kuansim-frontend`g0v.json",
     "html_url": "https://github.com/g0v/kuansim-frontend",
+    "languages": {
+      "CSS": 8081,
+      "JavaScript": 940,
+      "LiveScript": 7756,
+      "Makefile": 578,
+      "Shell": 311
+    },
     "name": "kuansim-frontend",
     "readme_filename": "g0v`kuansim-frontend`README.md",
     "url": "https://api.github.com/repos/g0v/kuansim-frontend"
@@ -1404,6 +2287,10 @@
   "g0v/kuansim-mockdata": {
     "description": "mockdata_generator",
     "html_url": "https://github.com/g0v/kuansim-mockdata",
+    "languages": {
+      "Haskell": 4787,
+      "LiveScript": 877
+    },
     "name": "kuansim-mockdata",
     "readme_filename": "g0v`kuansim-mockdata`README.md",
     "url": "https://api.github.com/repos/g0v/kuansim-mockdata"
@@ -1411,20 +2298,36 @@
   "g0v/kuansim-rails": {
     "description": "Rails backend for the kuansim project",
     "html_url": "https://github.com/g0v/kuansim-rails",
+    "languages": {
+      "CSS": 560234,
+      "CoffeeScript": 687,
+      "JavaScript": 662496,
+      "Ruby": 81973
+    },
     "name": "kuansim-rails",
     "readme_filename": "g0v`kuansim-rails`README.md",
     "url": "https://api.github.com/repos/g0v/kuansim-rails"
   },
   "g0v/kuansim_chrome": {
     "description": "google chrome extension for kuansim",
+    "g0vjson_filename": "g0v`kuansim_chrome`g0v.json",
     "html_url": "https://github.com/g0v/kuansim_chrome",
+    "languages": {
+      "JavaScript": 2046
+    },
     "name": "kuansim_chrome",
     "readme_filename": "g0v`kuansim_chrome`README.md",
     "url": "https://api.github.com/repos/g0v/kuansim_chrome"
   },
   "g0v/laweasyread": {
     "description": "API for Taiwan Law",
+    "g0vjson_filename": "g0v`laweasyread`g0v.json",
     "html_url": "https://github.com/g0v/laweasyread",
+    "languages": {
+      "CSS": 79,
+      "JavaScript": 1510624,
+      "LiveScript": 20285
+    },
     "name": "laweasyread",
     "readme_filename": "g0v`laweasyread`README.md",
     "url": "https://api.github.com/repos/g0v/laweasyread"
@@ -1432,13 +2335,25 @@
   "g0v/laweasyread-data": {
     "description": "",
     "html_url": "https://github.com/g0v/laweasyread-data",
+    "languages": {
+      "CSS": 150,
+      "JavaScript": 3281,
+      "LiveScript": 22120,
+      "Shell": 148
+    },
     "name": "laweasyread-data",
     "readme_filename": "g0v`laweasyread-data`README.md",
     "url": "https://api.github.com/repos/g0v/laweasyread-data"
   },
   "g0v/laweasyread-front": {
     "description": "an extension for browsers to view Taiwan's law articles/websites easier",
+    "g0vjson_filename": "g0v`laweasyread-front`g0v.json",
     "html_url": "https://github.com/g0v/laweasyread-front",
+    "languages": {
+      "CSS": 5187,
+      "HTML": 6095,
+      "JavaScript": 889057
+    },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
@@ -1446,6 +2361,7 @@
   "g0v/leve1up": {
     "description": "deprecated leve1up repo, redirect to g0v.tw",
     "html_url": "https://github.com/g0v/leve1up",
+    "languages": {},
     "name": "leve1up",
     "readme_filename": "g0v`leve1up`README.md",
     "url": "https://api.github.com/repos/g0v/leve1up"
@@ -1453,6 +2369,9 @@
   "g0v/lfapi": {
     "description": "mirror of http://www.public-software-group.org/mercurial/lfapi",
     "html_url": "https://github.com/g0v/lfapi",
+    "languages": {
+      "JavaScript": 120855
+    },
     "name": "lfapi",
     "readme_filename": "g0v`lfapi`README",
     "url": "https://api.github.com/repos/g0v/lfapi"
@@ -1460,6 +2379,9 @@
   "g0v/lfrest": {
     "description": "Reimplementation of lfapi with pgrest",
     "html_url": "https://github.com/g0v/lfrest",
+    "languages": {
+      "LiveScript": 2643
+    },
     "name": "lfrest",
     "readme_filename": "g0v`lfrest`README.md",
     "url": "https://api.github.com/repos/g0v/lfrest"
@@ -1467,6 +2389,10 @@
   "g0v/liquid_feedback_core": {
     "description": "mirror of http://www.public-software-group.org/mercurial/liquid_feedback_core",
     "html_url": "https://github.com/g0v/liquid_feedback_core",
+    "languages": {
+      "C": 27673,
+      "Shell": 1383
+    },
     "name": "liquid_feedback_core",
     "readme_filename": "g0v`liquid_feedback_core`README",
     "url": "https://api.github.com/repos/g0v/liquid_feedback_core"
@@ -1474,6 +2400,11 @@
   "g0v/liquid_feedback_frontend": {
     "description": "mirror of http://www.public-software-group.org/mercurial/liquid_feedback_frontend",
     "html_url": "https://github.com/g0v/liquid_feedback_frontend",
+    "languages": {
+      "C": 3978,
+      "JavaScript": 49296,
+      "Lua": 953986
+    },
     "name": "liquid_feedback_frontend",
     "readme_filename": "g0v`liquid_feedback_frontend`README",
     "url": "https://api.github.com/repos/g0v/liquid_feedback_frontend"
@@ -1481,6 +2412,10 @@
   "g0v/listening": {
     "description": "",
     "html_url": "https://github.com/g0v/listening",
+    "languages": {
+      "JavaScript": 24439,
+      "Shell": 123
+    },
     "name": "listening",
     "readme_filename": "g0v`listening`README.md",
     "url": "https://api.github.com/repos/g0v/listening"
@@ -1488,6 +2423,10 @@
   "g0v/listening-data": {
     "description": "爬出各縣市政府的福利資料",
     "html_url": "https://github.com/g0v/listening-data",
+    "languages": {
+      "Python": 1299,
+      "Ruby": 2307
+    },
     "name": "listening-data",
     "readme_filename": "g0v`listening-data`README.md",
     "url": "https://api.github.com/repos/g0v/listening-data"
@@ -1495,6 +2434,12 @@
   "g0v/listening_api": {
     "description": "",
     "html_url": "https://github.com/g0v/listening_api",
+    "languages": {
+      "CSS": 719,
+      "CoffeeScript": 319,
+      "JavaScript": 1168,
+      "Ruby": 65717
+    },
     "name": "listening_api",
     "readme_filename": "g0v`listening_api`README.md",
     "url": "https://api.github.com/repos/g0v/listening_api"
@@ -1502,6 +2447,9 @@
   "g0v/listening_test": {
     "description": "",
     "html_url": "https://github.com/g0v/listening_test",
+    "languages": {
+      "JavaScript": 61208
+    },
     "name": "listening_test",
     "readme_filename": "g0v`listening_test`README.md",
     "url": "https://api.github.com/repos/g0v/listening_test"
@@ -1509,6 +2457,12 @@
   "g0v/live": {
     "description": "Live broadcasting aggregator via hackfoldr",
     "html_url": "https://github.com/g0v/live",
+    "languages": {
+      "CSS": 9701,
+      "CoffeeScript": 573,
+      "JavaScript": 28728,
+      "Shell": 991
+    },
     "name": "live",
     "readme_filename": "g0v`live`README.md",
     "url": "https://api.github.com/repos/g0v/live"
@@ -1516,6 +2470,7 @@
   "g0v/live_teach": {
     "description": "",
     "html_url": "https://github.com/g0v/live_teach",
+    "languages": {},
     "name": "live_teach",
     "readme_filename": "g0v`live_teach`README.md",
     "url": "https://api.github.com/repos/g0v/live_teach"
@@ -1523,6 +2478,10 @@
   "g0v/liveext": {
     "description": "live channel for chrome extension",
     "html_url": "https://github.com/g0v/liveext",
+    "languages": {
+      "CSS": 164238,
+      "JavaScript": 1690395
+    },
     "name": "liveext",
     "readme_filename": "g0v`liveext`README.md",
     "url": "https://api.github.com/repos/g0v/liveext"
@@ -1530,6 +2489,13 @@
   "g0v/local.data": {
     "description": "Open Data Census website and dashboard",
     "html_url": "https://github.com/g0v/local.data",
+    "languages": {
+      "CSS": 25722,
+      "JavaScript": 119147,
+      "LiveScript": 528,
+      "Python": 4894,
+      "Shell": 575
+    },
     "name": "local.data",
     "readme_filename": "g0v`local.data`README.md",
     "url": "https://api.github.com/repos/g0v/local.data"
@@ -1537,12 +2503,21 @@
   "g0v/loopin_android": {
     "description": "",
     "html_url": "https://github.com/g0v/loopin_android",
+    "languages": {
+      "Java": 2988
+    },
     "name": "loopin_android",
     "url": "https://api.github.com/repos/g0v/loopin_android"
   },
   "g0v/loopin_backend": {
     "description": "",
     "html_url": "https://github.com/g0v/loopin_backend",
+    "languages": {
+      "CSS": 686,
+      "HTML": 4884,
+      "JavaScript": 661,
+      "Ruby": 23981
+    },
     "name": "loopin_backend",
     "readme_filename": "g0v`loopin_backend`README.rdoc",
     "url": "https://api.github.com/repos/g0v/loopin_backend"
@@ -1550,12 +2525,14 @@
   "g0v/loopin_ios": {
     "description": "",
     "html_url": "https://github.com/g0v/loopin_ios",
+    "languages": {},
     "name": "loopin_ios",
     "url": "https://api.github.com/repos/g0v/loopin_ios"
   },
   "g0v/loopin_web": {
     "description": "",
     "html_url": "https://github.com/g0v/loopin_web",
+    "languages": {},
     "name": "loopin_web",
     "readme_filename": "g0v`loopin_web`README.md",
     "url": "https://api.github.com/repos/g0v/loopin_web"
@@ -1563,18 +2540,24 @@
   "g0v/lvr.land.moi": {
     "description": "wrapper for real-price.appspot.com",
     "html_url": "https://github.com/g0v/lvr.land.moi",
+    "languages": {},
     "name": "lvr.land.moi",
     "url": "https://api.github.com/repos/g0v/lvr.land.moi"
   },
   "g0v/ly-committee": {
     "description": "Name lists of legislative committee members.",
     "html_url": "https://github.com/g0v/ly-committee",
+    "languages": {},
     "name": "ly-committee",
     "url": "https://api.github.com/repos/g0v/ly-committee"
   },
   "g0v/ly-crx": {
     "description": "Chrome extension for ly.gov.tw site improvements from ly.g0v.tw",
     "html_url": "https://github.com/g0v/ly-crx",
+    "languages": {
+      "CoffeeScript": 831,
+      "LiveScript": 2243
+    },
     "name": "ly-crx",
     "readme_filename": "g0v`ly-crx`README.md",
     "url": "https://api.github.com/repos/g0v/ly-crx"
@@ -1582,19 +2565,29 @@
   "g0v/ly-gazette": {
     "description": "parsed gazettes",
     "html_url": "https://github.com/g0v/ly-gazette",
+    "languages": {},
     "name": "ly-gazette",
     "url": "https://api.github.com/repos/g0v/ly-gazette"
   },
   "g0v/ly-glossary": {
     "description": "立法院中英雙語詞彙對照表",
     "html_url": "https://github.com/g0v/ly-glossary",
+    "languages": {
+      "JavaScript": 1175
+    },
     "name": "ly-glossary",
     "readme_filename": "g0v`ly-glossary`README.md",
     "url": "https://api.github.com/repos/g0v/ly-glossary"
   },
   "g0v/ly-tel": {
     "description": "立委聯絡資訊",
+    "g0vjson_filename": "g0v`ly-tel`g0v.json",
     "html_url": "https://github.com/g0v/ly-tel",
+    "languages": {
+      "CSS": 939,
+      "HTML": 2285,
+      "JavaScript": 5174
+    },
     "name": "ly-tel",
     "readme_filename": "g0v`ly-tel`README.md",
     "url": "https://api.github.com/repos/g0v/ly-tel"
@@ -1602,33 +2595,60 @@
   "g0v/ly-vote": {
     "description": "Voting Result Visualization of Legislative Committee Members",
     "html_url": "https://github.com/g0v/ly-vote",
+    "languages": {
+      "CSS": 184,
+      "JavaScript": 15220,
+      "LiveScript": 7823
+    },
     "name": "ly-vote",
     "readme_filename": "g0v`ly-vote`README.md",
     "url": "https://api.github.com/repos/g0v/ly-vote"
   },
   "g0v/ly.g0v.tw": {
     "description": "ly.g0v.tw - Congress Matters / 國會大代誌",
+    "g0vjson_filename": "g0v`ly.g0v.tw`g0v.json",
     "html_url": "https://github.com/g0v/ly.g0v.tw",
+    "languages": {
+      "CSS": 36095,
+      "HTML": 473583,
+      "JavaScript": 1914,
+      "LiveScript": 104487,
+      "Shell": 153
+    },
     "name": "ly.g0v.tw",
     "readme_filename": "g0v`ly.g0v.tw`README.md",
     "url": "https://api.github.com/repos/g0v/ly.g0v.tw"
   },
   "g0v/magic-mirror": {
     "description": "定時 mirror *.gov.tw 上有時效性的資料到 git repository.",
+    "g0vjson_filename": "g0v`magic-mirror`g0v.json",
     "html_url": "https://github.com/g0v/magic-mirror",
+    "languages": {
+      "Perl": 15061,
+      "Shell": 477
+    },
     "name": "magic-mirror",
     "readme_filename": "g0v`magic-mirror`README.md",
     "url": "https://api.github.com/repos/g0v/magic-mirror"
   },
   "g0v/mapView": {
     "description": "using map to render data and make social activities",
+    "g0vjson_filename": "g0v`mapView`g0v.json",
     "html_url": "https://github.com/g0v/mapView",
+    "languages": {
+      "CSS": 48966,
+      "JavaScript": 638336
+    },
     "name": "mapView",
     "url": "https://api.github.com/repos/g0v/mapView"
   },
   "g0v/mapbox-gl-styles": {
     "description": "Prebuilt Mapbox GL styles for use in Mapbox GL JS or the Mapbox Mobile SDKs and as a starting point for custom maps built with Mapbox Studio",
     "html_url": "https://github.com/g0v/mapbox-gl-styles",
+    "languages": {
+      "JavaScript": 13394,
+      "Shell": 283
+    },
     "name": "mapbox-gl-styles",
     "readme_filename": "g0v`mapbox-gl-styles`README.md",
     "url": "https://api.github.com/repos/g0v/mapbox-gl-styles"
@@ -1636,6 +2656,9 @@
   "g0v/meta.g0v.tw": {
     "description": "g0v相關專案的meta data匯集",
     "html_url": "https://github.com/g0v/meta.g0v.tw",
+    "languages": {
+      "Ruby": 1732
+    },
     "name": "meta.g0v.tw",
     "readme_filename": "g0v`meta.g0v.tw`README.md",
     "url": "https://api.github.com/repos/g0v/meta.g0v.tw"
@@ -1643,13 +2666,21 @@
   "g0v/moc": {
     "description": "g0v Ministry of Culture",
     "html_url": "https://github.com/g0v/moc",
+    "languages": {},
     "name": "moc",
     "readme_filename": "g0v`moc`README.md",
     "url": "https://api.github.com/repos/g0v/moc"
   },
   "g0v/moc-license-center": {
     "description": null,
+    "g0vjson_filename": "g0v`moc-license-center`g0v.json",
     "html_url": "https://github.com/g0v/moc-license-center",
+    "languages": {
+      "CSS": 342098,
+      "Elixir": 4540,
+      "JavaScript": 344166,
+      "Ruby": 2369
+    },
     "name": "moc-license-center",
     "readme_filename": "g0v`moc-license-center`README.md",
     "url": "https://api.github.com/repos/g0v/moc-license-center"
@@ -1657,13 +2688,23 @@
   "g0v/moedict-app": {
     "description": "Stand-alone MoeDict app snapshot",
     "html_url": "https://github.com/g0v/moedict-app",
+    "languages": {
+      "HTML": 23109,
+      "Java": 121692,
+      "JavaScript": 86000,
+      "LiveScript": 81004,
+      "Makefile": 2172,
+      "Shell": 117
+    },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
     "description": "教育部重編國語辭典 資料檔; 若有建議或 bug 請在 moedict-process 反應",
+    "g0vjson_filename": "g0v`moedict-data`g0v.json",
     "html_url": "https://github.com/g0v/moedict-data",
+    "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
     "url": "https://api.github.com/repos/g0v/moedict-data"
@@ -1671,6 +2712,10 @@
   "g0v/moedict-data-csld": {
     "description": "中華大辭典",
     "html_url": "https://github.com/g0v/moedict-data-csld",
+    "languages": {
+      "Makefile": 171,
+      "Perl": 46330
+    },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
@@ -1678,6 +2723,7 @@
   "g0v/moedict-data-gieumunmiang": {
     "description": "狗問名客博資料集",
     "html_url": "https://github.com/g0v/moedict-data-gieumunmiang",
+    "languages": {},
     "name": "moedict-data-gieumunmiang",
     "readme_filename": "g0v`moedict-data-gieumunmiang`README.md",
     "url": "https://api.github.com/repos/g0v/moedict-data-gieumunmiang"
@@ -1685,6 +2731,11 @@
   "g0v/moedict-data-hakka": {
     "description": "臺灣客家語常用詞辭典 資料檔",
     "html_url": "https://github.com/g0v/moedict-data-hakka",
+    "languages": {
+      "LiveScript": 6934,
+      "Makefile": 626,
+      "Python": 3538
+    },
     "name": "moedict-data-hakka",
     "readme_filename": "g0v`moedict-data-hakka`README.md",
     "url": "https://api.github.com/repos/g0v/moedict-data-hakka"
@@ -1692,6 +2743,11 @@
   "g0v/moedict-data-terms": {
     "description": "開放語料庫專案",
     "html_url": "https://github.com/g0v/moedict-data-terms",
+    "languages": {
+      "Makefile": 67,
+      "Python": 255,
+      "Shell": 295
+    },
     "name": "moedict-data-terms",
     "readme_filename": "g0v`moedict-data-terms`README.md",
     "url": "https://api.github.com/repos/g0v/moedict-data-terms"
@@ -1699,6 +2755,12 @@
   "g0v/moedict-data-twblg": {
     "description": "臺灣閩南語常用詞辭典 資料檔",
     "html_url": "https://github.com/g0v/moedict-data-twblg",
+    "languages": {
+      "LiveScript": 4812,
+      "Makefile": 2496,
+      "Perl": 2123,
+      "Python": 3418
+    },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
@@ -1706,6 +2768,7 @@
   "g0v/moedict-design": {
     "description": "Design assets and style guide for moedict projects",
     "html_url": "https://github.com/g0v/moedict-design",
+    "languages": {},
     "name": "moedict-design",
     "readme_filename": "g0v`moedict-design`README.md",
     "url": "https://api.github.com/repos/g0v/moedict-design"
@@ -1713,6 +2776,11 @@
   "g0v/moedict-dodo": {
     "description": "萌典啄木鳥",
     "html_url": "https://github.com/g0v/moedict-dodo",
+    "languages": {
+      "Haskell": 639,
+      "LiveScript": 17317,
+      "Perl": 538567
+    },
     "name": "moedict-dodo",
     "readme_filename": "g0v`moedict-dodo`README.md",
     "url": "https://api.github.com/repos/g0v/moedict-dodo"
@@ -1720,12 +2788,24 @@
   "g0v/moedict-epub": {
     "description": "萌典一書",
     "html_url": "https://github.com/g0v/moedict-epub",
+    "languages": {
+      "CSS": 359,
+      "HTML": 1433031,
+      "Makefile": 117,
+      "Perl": 16285,
+      "Python": 13618
+    },
     "name": "moedict-epub",
     "url": "https://api.github.com/repos/g0v/moedict-epub"
   },
   "g0v/moedict-process": {
     "description": "教育部重編國語辭典 資料處理",
+    "g0vjson_filename": "g0v`moedict-process`g0v.json",
     "html_url": "https://github.com/g0v/moedict-process",
+    "languages": {
+      "Makefile": 482,
+      "Python": 16839
+    },
     "name": "moedict-process",
     "readme_filename": "g0v`moedict-process`README.md",
     "url": "https://api.github.com/repos/g0v/moedict-process"
@@ -1733,13 +2813,22 @@
   "g0v/moedict.tw": {
     "description": "Static API serving for moedict",
     "html_url": "https://github.com/g0v/moedict.tw",
+    "languages": {
+      "Makefile": 593,
+      "Perl": 7213
+    },
     "name": "moedict.tw",
     "readme_filename": "g0v`moedict.tw`README.md",
     "url": "https://api.github.com/repos/g0v/moedict.tw"
   },
   "g0v/moer.g0v.tw": {
     "description": "Visualizations for opendata.epa.gov.tw data",
+    "g0vjson_filename": "g0v`moer.g0v.tw`g0v.json",
     "html_url": "https://github.com/g0v/moer.g0v.tw",
+    "languages": {
+      "CSS": 136832,
+      "JavaScript": 4467
+    },
     "name": "moer.g0v.tw",
     "readme_filename": "g0v`moer.g0v.tw`README.md",
     "url": "https://api.github.com/repos/g0v/moer.g0v.tw"
@@ -1747,27 +2836,53 @@
   "g0v/naming-gitbook": {
     "description": "discussion concerning company registration with its English name ",
     "html_url": "https://github.com/g0v/naming-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "naming-gitbook",
     "readme_filename": "g0v`naming-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/naming-gitbook"
   },
   "g0v/news-diff": {
     "description": "A news crawler, parser and diff engine",
+    "g0vjson_filename": "g0v`news-diff`g0v.json",
     "html_url": "https://github.com/g0v/news-diff",
+    "languages": {
+      "Python": 47180
+    },
     "name": "news-diff",
     "readme_filename": "g0v`news-diff`README.md",
     "url": "https://api.github.com/repos/g0v/news-diff"
   },
   "g0v/newshelper-backend": {
     "description": "新聞小幫手網站及 API server",
+    "g0vjson_filename": "g0v`newshelper-backend`g0v.json",
     "html_url": "https://github.com/g0v/newshelper-backend",
+    "languages": {
+      "ApacheConf": 152,
+      "CSS": 34396,
+      "HTML": 4538048,
+      "JavaScript": 10419,
+      "LiveScript": 1241,
+      "PHP": 1471232,
+      "Perl": 3794,
+      "Python": 16292,
+      "Shell": 4721
+    },
     "name": "newshelper-backend",
     "readme_filename": "g0v`newshelper-backend`README.md",
     "url": "https://api.github.com/repos/g0v/newshelper-backend"
   },
   "g0v/newshelper-extension": {
     "description": "協助您判別含有誤導資訊的新聞",
+    "g0vjson_filename": "g0v`newshelper-extension`g0v.json",
     "html_url": "https://github.com/g0v/newshelper-extension",
+    "languages": {
+      "CSS": 1328,
+      "HTML": 3535,
+      "JavaScript": 30065,
+      "PHP": 7774
+    },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
@@ -1775,12 +2890,16 @@
   "g0v/newsplanet": {
     "description": "",
     "html_url": "https://github.com/g0v/newsplanet",
+    "languages": {},
     "name": "newsplanet",
     "url": "https://api.github.com/repos/g0v/newsplanet"
   },
   "g0v/nowin_core": {
     "description": "Nowin core library",
     "html_url": "https://github.com/g0v/nowin_core",
+    "languages": {
+      "Python": 299101
+    },
     "name": "nowin_core",
     "readme_filename": "g0v`nowin_core`README.md",
     "url": "https://api.github.com/repos/g0v/nowin_core"
@@ -1788,6 +2907,12 @@
   "g0v/npratio": {
     "description": "台灣護病比查詢",
     "html_url": "https://github.com/g0v/npratio",
+    "languages": {
+      "CSS": 5513,
+      "HTML": 962,
+      "JavaScript": 10700,
+      "Python": 986
+    },
     "name": "npratio",
     "readme_filename": "g0v`npratio`README.md",
     "url": "https://api.github.com/repos/g0v/npratio"
@@ -1795,13 +2920,24 @@
   "g0v/nsc-projects": {
     "description": "national science council projecti budget for every single institute since 1989",
     "html_url": "https://github.com/g0v/nsc-projects",
+    "languages": {
+      "Python": 6285,
+      "Shell": 404590
+    },
     "name": "nsc-projects",
     "readme_filename": "g0v`nsc-projects`README.md",
     "url": "https://api.github.com/repos/g0v/nsc-projects"
   },
   "g0v/nuclear-data": {
     "description": "核電翻譯機",
+    "g0vjson_filename": "g0v`nuclear-data`g0v.json",
     "html_url": "https://github.com/g0v/nuclear-data",
+    "languages": {
+      "CSS": 2218,
+      "LiveScript": 7183,
+      "Python": 6626,
+      "Ruby": 989
+    },
     "name": "nuclear-data",
     "readme_filename": "g0v`nuclear-data`README.md",
     "url": "https://api.github.com/repos/g0v/nuclear-data"
@@ -1809,6 +2945,12 @@
   "g0v/oh-my-hub": {
     "description": "this is in very early stage now. don't use it",
     "html_url": "https://github.com/g0v/oh-my-hub",
+    "languages": {
+      "CSS": 3033,
+      "JavaScript": 59,
+      "LiveScript": 10825,
+      "Ruby": 9616
+    },
     "name": "oh-my-hub",
     "readme_filename": "g0v`oh-my-hub`README.md",
     "url": "https://api.github.com/repos/g0v/oh-my-hub"
@@ -1816,6 +2958,12 @@
   "g0v/openingparliament": {
     "description": "",
     "html_url": "https://github.com/g0v/openingparliament",
+    "languages": {
+      "CSS": 15575,
+      "JavaScript": 13606,
+      "Python": 8009,
+      "Shell": 950
+    },
     "name": "openingparliament",
     "readme_filename": "g0v`openingparliament`README.md",
     "url": "https://api.github.com/repos/g0v/openingparliament"
@@ -1823,6 +2971,9 @@
   "g0v/p0st-data": {
     "description": "post.gov.tw data processing",
     "html_url": "https://github.com/g0v/p0st-data",
+    "languages": {
+      "Perl": 7755
+    },
     "name": "p0st-data",
     "readme_filename": "g0v`p0st-data`README.md",
     "url": "https://api.github.com/repos/g0v/p0st-data"
@@ -1830,6 +2981,9 @@
   "g0v/padnews": {
     "description": "",
     "html_url": "https://github.com/g0v/padnews",
+    "languages": {
+      "LiveScript": 2525
+    },
     "name": "padnews",
     "readme_filename": "g0v`padnews`README.md",
     "url": "https://api.github.com/repos/g0v/padnews"
@@ -1837,6 +2991,9 @@
   "g0v/padnews-cli": {
     "description": "cli client for padnews",
     "html_url": "https://github.com/g0v/padnews-cli",
+    "languages": {
+      "LiveScript": 474
+    },
     "name": "padnews-cli",
     "readme_filename": "g0v`padnews-cli`README.md",
     "url": "https://api.github.com/repos/g0v/padnews-cli"
@@ -1844,6 +3001,11 @@
   "g0v/padnews-web": {
     "description": "A web client for padnews.",
     "html_url": "https://github.com/g0v/padnews-web",
+    "languages": {
+      "CSS": 69698,
+      "JavaScript": 3680,
+      "LiveScript": 3529
+    },
     "name": "padnews-web",
     "readme_filename": "g0v`padnews-web`README.md",
     "url": "https://api.github.com/repos/g0v/padnews-web"
@@ -1851,12 +3013,22 @@
   "g0v/partyvote2016": {
     "description": "",
     "html_url": "https://github.com/g0v/partyvote2016",
+    "languages": {
+      "CSS": 1394,
+      "HTML": 7262,
+      "JavaScript": 16353
+    },
     "name": "partyvote2016",
     "url": "https://api.github.com/repos/g0v/partyvote2016"
   },
   "g0v/pdf-text-cutter": {
     "description": "從 pdf 中切字出來的工具",
     "html_url": "https://github.com/g0v/pdf-text-cutter",
+    "languages": {
+      "Perl": 29031,
+      "Perl6": 11175,
+      "Shell": 932
+    },
     "name": "pdf-text-cutter",
     "readme_filename": "g0v`pdf-text-cutter`README.md",
     "url": "https://api.github.com/repos/g0v/pdf-text-cutter"
@@ -1864,6 +3036,9 @@
   "g0v/pdf-to-markdown": {
     "description": "Convert PDF files into markdown files",
     "html_url": "https://github.com/g0v/pdf-to-markdown",
+    "languages": {
+      "Python": 19334
+    },
     "name": "pdf-to-markdown",
     "readme_filename": "g0v`pdf-to-markdown`README.md",
     "url": "https://api.github.com/repos/g0v/pdf-to-markdown"
@@ -1871,6 +3046,9 @@
   "g0v/personal-data-protection-gitbook": {
     "description": " vTaiwan 數位公民環境：個人資料利用與去識別化",
     "html_url": "https://github.com/g0v/personal-data-protection-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "personal-data-protection-gitbook",
     "readme_filename": "g0v`personal-data-protection-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/personal-data-protection-gitbook"
@@ -1878,6 +3056,9 @@
   "g0v/personal-data-protection-ref1-gitbook": {
     "description": "個資利用與去識別化：草案 #1",
     "html_url": "https://github.com/g0v/personal-data-protection-ref1-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "personal-data-protection-ref1-gitbook",
     "readme_filename": "g0v`personal-data-protection-ref1-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/personal-data-protection-ref1-gitbook"
@@ -1885,13 +3066,24 @@
   "g0v/personal-data-protection-spec-gitbook": {
     "description": " vTaiwan 個資利用與去識別化：具體建議",
     "html_url": "https://github.com/g0v/personal-data-protection-spec-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "personal-data-protection-spec-gitbook",
     "readme_filename": "g0v`personal-data-protection-spec-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/personal-data-protection-spec-gitbook"
   },
   "g0v/petneed.me": {
     "description": "Animal Adoption Platform by Django",
+    "g0vjson_filename": "g0v`petneed.me`g0v.json",
     "html_url": "https://github.com/g0v/petneed.me",
+    "languages": {
+      "CSS": 661273,
+      "JavaScript": 353618,
+      "Perl": 40,
+      "Python": 41150,
+      "Shell": 3289
+    },
     "name": "petneed.me",
     "readme_filename": "g0v`petneed.me`README.md",
     "url": "https://api.github.com/repos/g0v/petneed.me"
@@ -1899,12 +3091,17 @@
   "g0v/photos": {
     "description": "",
     "html_url": "https://github.com/g0v/photos",
+    "languages": {},
     "name": "photos",
     "url": "https://api.github.com/repos/g0v/photos"
   },
   "g0v/pirate_feedback_ui_redesign": {
     "description": "",
     "html_url": "https://github.com/g0v/pirate_feedback_ui_redesign",
+    "languages": {
+      "JavaScript": 5424,
+      "Ruby": 950
+    },
     "name": "pirate_feedback_ui_redesign",
     "readme_filename": "g0v`pirate_feedback_ui_redesign`README.md",
     "url": "https://api.github.com/repos/g0v/pirate_feedback_ui_redesign"
@@ -1912,6 +3109,9 @@
   "g0v/poll": {
     "description": "2014全臺投開票所",
     "html_url": "https://github.com/g0v/poll",
+    "languages": {
+      "JavaScript": 4707
+    },
     "name": "poll",
     "readme_filename": "g0v`poll`README.md",
     "url": "https://api.github.com/repos/g0v/poll"
@@ -1919,6 +3119,10 @@
   "g0v/posland": {
     "description": "台灣地址、地號經緯度查詢",
     "html_url": "https://github.com/g0v/posland",
+    "languages": {
+      "HTML": 84,
+      "LiveScript": 5351
+    },
     "name": "posland",
     "readme_filename": "g0v`posland`README.md",
     "url": "https://api.github.com/repos/g0v/posland"
@@ -1926,6 +3130,12 @@
   "g0v/potluckmap": {
     "description": "create an osm map that can be collaboratively built by collecting url's of remote geojson/gpx/csv pages, each of which can be independently edited.",
     "html_url": "https://github.com/g0v/potluckmap",
+    "languages": {
+      "CSS": 9809,
+      "HTML": 23551,
+      "JavaScript": 25556,
+      "PHP": 1463
+    },
     "name": "potluckmap",
     "readme_filename": "g0v`potluckmap`README.md",
     "url": "https://api.github.com/repos/g0v/potluckmap"
@@ -1933,6 +3143,9 @@
   "g0v/powergrid": {
     "description": "An Android app for finding corresponding WGS coordinates for Taiwan power grid coordinates",
     "html_url": "https://github.com/g0v/powergrid",
+    "languages": {
+      "Java": 12310
+    },
     "name": "powergrid",
     "readme_filename": "g0v`powergrid`README.md",
     "url": "https://api.github.com/repos/g0v/powergrid"
@@ -1940,6 +3153,11 @@
   "g0v/ppt": {
     "description": "政治承諾追蹤網 Political Promise Tracker",
     "html_url": "https://github.com/g0v/ppt",
+    "languages": {
+      "CSS": 561,
+      "HTML": 1040,
+      "JavaScript": 104950
+    },
     "name": "ppt",
     "readme_filename": "g0v`ppt`README.md",
     "url": "https://api.github.com/repos/g0v/ppt"
@@ -1947,6 +3165,9 @@
   "g0v/ppt-commitment-parser": {
     "description": "將施政報告或施政綱要轉換成 CSV 的工具。",
     "html_url": "https://github.com/g0v/ppt-commitment-parser",
+    "languages": {
+      "JavaScript": 30995
+    },
     "name": "ppt-commitment-parser",
     "readme_filename": "g0v`ppt-commitment-parser`README.md",
     "url": "https://api.github.com/repos/g0v/ppt-commitment-parser"
@@ -1954,6 +3175,9 @@
   "g0v/president-process": {
     "description": "The data-process programs for 總統府相關資料",
     "html_url": "https://github.com/g0v/president-process",
+    "languages": {
+      "Python": 17395
+    },
     "name": "president-process",
     "readme_filename": "g0v`president-process`README.md",
     "url": "https://api.github.com/repos/g0v/president-process"
@@ -1961,18 +3185,29 @@
   "g0v/process-bulletin-cec-pdf": {
     "description": "",
     "html_url": "https://github.com/g0v/process-bulletin-cec-pdf",
+    "languages": {
+      "Perl": 13103
+    },
     "name": "process-bulletin-cec-pdf",
     "url": "https://api.github.com/repos/g0v/process-bulletin-cec-pdf"
   },
   "g0v/project-hub": {
     "description": "project hub (read only version)",
     "html_url": "https://github.com/g0v/project-hub",
+    "languages": {},
     "name": "project-hub",
     "url": "https://api.github.com/repos/g0v/project-hub"
   },
   "g0v/project-hub-mockup": {
     "description": "mockups for the new g0v project hub",
     "html_url": "https://github.com/g0v/project-hub-mockup",
+    "languages": {
+      "CSS": 686205,
+      "JavaScript": 1213354,
+      "LiveScript": 113149,
+      "Ruby": 2573,
+      "Shell": 1471
+    },
     "name": "project-hub-mockup",
     "readme_filename": "g0v`project-hub-mockup`README.md",
     "url": "https://api.github.com/repos/g0v/project-hub-mockup"
@@ -1980,6 +3215,12 @@
   "g0v/projectPool": {
     "description": "The g0v project pool.",
     "html_url": "https://github.com/g0v/projectPool",
+    "languages": {
+      "CSS": 356,
+      "HTML": 15172,
+      "JavaScript": 37,
+      "LiveScript": 1205
+    },
     "name": "projectPool",
     "readme_filename": "g0v`projectPool`README.md",
     "url": "https://api.github.com/repos/g0v/projectPool"
@@ -1987,6 +3228,14 @@
   "g0v/projectV": {
     "description": "Victory is my middle name",
     "html_url": "https://github.com/g0v/projectV",
+    "languages": {
+      "ApacheConf": 24139,
+      "CSS": 22546,
+      "HTML": 52300624,
+      "JavaScript": 139578,
+      "Python": 3367,
+      "Shell": 2428
+    },
     "name": "projectV",
     "readme_filename": "g0v`projectV`README.md",
     "url": "https://api.github.com/repos/g0v/projectV"
@@ -1994,12 +3243,18 @@
   "g0v/punctuation-standard-gitbook": {
     "description": "重訂標點符號手冊 Gitbook ",
     "html_url": "https://github.com/g0v/punctuation-standard-gitbook",
+    "languages": {},
     "name": "punctuation-standard-gitbook",
     "url": "https://api.github.com/repos/g0v/punctuation-standard-gitbook"
   },
   "g0v/react-ask-app": {
     "description": "isomorhpic app for asking candidates with policies",
     "html_url": "https://github.com/g0v/react-ask-app",
+    "languages": {
+      "CSS": 328597,
+      "JavaScript": 105078,
+      "Makefile": 714
+    },
     "name": "react-ask-app",
     "readme_filename": "g0v`react-ask-app`README.md",
     "url": "https://api.github.com/repos/g0v/react-ask-app"
@@ -2007,12 +3262,24 @@
   "g0v/react-native-sample": {
     "description": null,
     "html_url": "https://github.com/g0v/react-native-sample",
+    "languages": {
+      "Java": 25811,
+      "JavaScript": 18284,
+      "Objective-C": 99035,
+      "Python": 1501,
+      "Shell": 28493
+    },
     "name": "react-native-sample",
     "url": "https://api.github.com/repos/g0v/react-native-sample"
   },
   "g0v/react-zh-stroker": {
     "description": "A stroke drawing React component for zh-stroke-data.",
     "html_url": "https://github.com/g0v/react-zh-stroker",
+    "languages": {
+      "HTML": 441,
+      "JavaScript": 1406026,
+      "LiveScript": 13835
+    },
     "name": "react-zh-stroker",
     "readme_filename": "g0v`react-zh-stroker`README.md",
     "url": "https://api.github.com/repos/g0v/react-zh-stroker"
@@ -2020,6 +3287,11 @@
   "g0v/react.addressbook": {
     "description": "g0v kuansim addressbook rewrite in reactjs",
     "html_url": "https://github.com/g0v/react.addressbook",
+    "languages": {
+      "CSS": 3119,
+      "HTML": 970,
+      "JavaScript": 11068
+    },
     "name": "react.addressbook",
     "readme_filename": "g0v`react.addressbook`README.md",
     "url": "https://api.github.com/repos/g0v/react.addressbook"
@@ -2027,13 +3299,20 @@
   "g0v/react.vtaiwan.tw": {
     "description": "行政院法規線上諮詢系統 界面 2.0",
     "html_url": "https://github.com/g0v/react.vtaiwan.tw",
+    "languages": {
+      "CSS": 37548,
+      "HTML": 15239,
+      "JavaScript": 67990
+    },
     "name": "react.vtaiwan.tw",
     "readme_filename": "g0v`react.vtaiwan.tw`README.md",
     "url": "https://api.github.com/repos/g0v/react.vtaiwan.tw"
   },
   "g0v/readme": {
     "description": "Quick markdown wrapper for project needs convert md to html.",
+    "g0vjson_filename": "g0v`readme`g0v.json",
     "html_url": "https://github.com/g0v/readme",
+    "languages": {},
     "name": "readme",
     "readme_filename": "g0v`readme`README.md",
     "url": "https://api.github.com/repos/g0v/readme"
@@ -2041,6 +3320,11 @@
   "g0v/realprice": {
     "description": "House and land price visualization",
     "html_url": "https://github.com/g0v/realprice",
+    "languages": {
+      "LiveScript": 5152,
+      "Ruby": 4780,
+      "Shell": 319
+    },
     "name": "realprice",
     "readme_filename": "g0v`realprice`README.md",
     "url": "https://api.github.com/repos/g0v/realprice"
@@ -2048,6 +3332,11 @@
   "g0v/report": {
     "description": null,
     "html_url": "https://github.com/g0v/report",
+    "languages": {
+      "CSS": 7404,
+      "JavaScript": 16243,
+      "PHP": 123346
+    },
     "name": "report",
     "readme_filename": "g0v`report`README.md",
     "url": "https://api.github.com/repos/g0v/report"
@@ -2055,6 +3344,10 @@
   "g0v/reporter": {
     "description": "公民記者證列印",
     "html_url": "https://github.com/g0v/reporter",
+    "languages": {
+      "CSS": 24701,
+      "JavaScript": 1572
+    },
     "name": "reporter",
     "readme_filename": "g0v`reporter`README.md",
     "url": "https://api.github.com/repos/g0v/reporter"
@@ -2062,6 +3355,7 @@
   "g0v/research_time": {
     "description": "碩博研究/畢業時間統計",
     "html_url": "https://github.com/g0v/research_time",
+    "languages": {},
     "name": "research_time",
     "readme_filename": "g0v`research_time`README.md",
     "url": "https://api.github.com/repos/g0v/research_time"
@@ -2069,13 +3363,26 @@
   "g0v/restore": {
     "description": "auto backup tool",
     "html_url": "https://github.com/g0v/restore",
+    "languages": {
+      "Python": 1930
+    },
     "name": "restore",
     "readme_filename": "g0v`restore`README.md",
     "url": "https://api.github.com/repos/g0v/restore"
   },
   "g0v/roadpin": {
     "description": "g0v 路見不平專案",
+    "g0vjson_filename": "g0v`roadpin`g0v.json",
     "html_url": "https://github.com/g0v/roadpin",
+    "languages": {
+      "CSS": 20490,
+      "JavaScript": 6585,
+      "LiveScript": 47825,
+      "PHP": 2007,
+      "Python": 198128,
+      "Ruby": 26501,
+      "Shell": 21893
+    },
     "name": "roadpin",
     "readme_filename": "g0v`roadpin`README.md",
     "url": "https://api.github.com/repos/g0v/roadpin"
@@ -2083,6 +3390,9 @@
   "g0v/sandbox-gitbook": {
     "description": "discussion concerning necessity of setting financial sandbox in Taiwan",
     "html_url": "https://github.com/g0v/sandbox-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "sandbox-gitbook",
     "readme_filename": "g0v`sandbox-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/sandbox-gitbook"
@@ -2090,6 +3400,11 @@
   "g0v/search-g0v": {
     "description": "基礎建設 - 更快搜尋 g0v 社群內的工具",
     "html_url": "https://github.com/g0v/search-g0v",
+    "languages": {
+      "CSS": 363,
+      "HTML": 3880,
+      "Python": 43382
+    },
     "name": "search-g0v",
     "readme_filename": "g0v`search-g0v`README.md",
     "url": "https://api.github.com/repos/g0v/search-g0v"
@@ -2097,6 +3412,11 @@
   "g0v/semantic-ui-experiment": {
     "description": null,
     "html_url": "https://github.com/g0v/semantic-ui-experiment",
+    "languages": {
+      "CSS": 357939,
+      "JavaScript": 1602,
+      "Ruby": 2034
+    },
     "name": "semantic-ui-experiment",
     "readme_filename": "g0v`semantic-ui-experiment`README.md",
     "url": "https://api.github.com/repos/g0v/semantic-ui-experiment"
@@ -2104,6 +3424,10 @@
   "g0v/slack-irc-plugin": {
     "description": "Slack plugin to sync IRC with your slack.com account",
     "html_url": "https://github.com/g0v/slack-irc-plugin",
+    "languages": {
+      "JavaScript": 10043,
+      "Makefile": 282
+    },
     "name": "slack-irc-plugin",
     "readme_filename": "g0v`slack-irc-plugin`README.md",
     "url": "https://api.github.com/repos/g0v/slack-irc-plugin"
@@ -2111,12 +3435,14 @@
   "g0v/slap": {
     "description": "",
     "html_url": "https://github.com/g0v/slap",
+    "languages": {},
     "name": "slap",
     "url": "https://api.github.com/repos/g0v/slap"
   },
   "g0v/sticker-story": {
     "description": "To record the stories of sticks on the back of a laptop.",
     "html_url": "https://github.com/g0v/sticker-story",
+    "languages": {},
     "name": "sticker-story",
     "readme_filename": "g0v`sticker-story`README.md",
     "url": "https://api.github.com/repos/g0v/sticker-story"
@@ -2124,6 +3450,9 @@
   "g0v/stop-taiwan-sopa": {
     "description": "",
     "html_url": "https://github.com/g0v/stop-taiwan-sopa",
+    "languages": {
+      "Ruby": 1369
+    },
     "name": "stop-taiwan-sopa",
     "readme_filename": "g0v`stop-taiwan-sopa`README.md",
     "url": "https://api.github.com/repos/g0v/stop-taiwan-sopa"
@@ -2131,13 +3460,22 @@
   "g0v/style-guide": {
     "description": "G0V style guilde",
     "html_url": "https://github.com/g0v/style-guide",
+    "languages": {
+      "CSS": 607,
+      "HTML": 4894
+    },
     "name": "style-guide",
     "readme_filename": "g0v`style-guide`README.md",
     "url": "https://api.github.com/repos/g0v/style-guide"
   },
   "g0v/submit": {
     "description": "零時政府揪松團電子報投稿平台",
+    "g0vjson_filename": "g0v`submit`g0v.json",
     "html_url": "https://github.com/g0v/submit",
+    "languages": {
+      "LiveScript": 9736,
+      "Shell": 182
+    },
     "name": "submit",
     "readme_filename": "g0v`submit`README.md",
     "url": "https://api.github.com/repos/g0v/submit"
@@ -2145,6 +3483,11 @@
   "g0v/summit-assets": {
     "description": "design assets for g0v summit 2016",
     "html_url": "https://github.com/g0v/summit-assets",
+    "languages": {
+      "CSS": 5698,
+      "HTML": 15786,
+      "JavaScript": 9683
+    },
     "name": "summit-assets",
     "readme_filename": "g0v`summit-assets`README.md",
     "url": "https://api.github.com/repos/g0v/summit-assets"
@@ -2152,6 +3495,7 @@
   "g0v/summit-static": {
     "description": "Static files (PDF, etc.) for summit.g0v.tw",
     "html_url": "https://github.com/g0v/summit-static",
+    "languages": {},
     "name": "summit-static",
     "readme_filename": "g0v`summit-static`README.md",
     "url": "https://api.github.com/repos/g0v/summit-static"
@@ -2159,6 +3503,12 @@
   "g0v/summit.g0v.tw": {
     "description": "g0v summit website",
     "html_url": "https://github.com/g0v/summit.g0v.tw",
+    "languages": {
+      "CSS": 31473,
+      "HTML": 994,
+      "JavaScript": 102922,
+      "Shell": 2148
+    },
     "name": "summit.g0v.tw",
     "readme_filename": "g0v`summit.g0v.tw`README.md",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
@@ -2166,13 +3516,25 @@
   "g0v/sunflower": {
     "description": "島嶼天光學潮實紀錄 Source Code.",
     "html_url": "https://github.com/g0v/sunflower",
+    "languages": {
+      "CSS": 6802,
+      "JavaScript": 7214,
+      "LiveScript": 1004,
+      "PHP": 1479,
+      "Shell": 1193
+    },
     "name": "sunflower",
     "readme_filename": "g0v`sunflower`README.md",
     "url": "https://api.github.com/repos/g0v/sunflower"
   },
   "g0v/sunshine.cy": {
     "description": "金錢報 - 公職人員財產申報",
+    "g0vjson_filename": "g0v`sunshine.cy`g0v.json",
     "html_url": "https://github.com/g0v/sunshine.cy",
+    "languages": {
+      "HTML": 73319,
+      "Python": 77454
+    },
     "name": "sunshine.cy",
     "readme_filename": "g0v`sunshine.cy`README.md",
     "url": "https://api.github.com/repos/g0v/sunshine.cy"
@@ -2180,12 +3542,14 @@
   "g0v/tainan-map": {
     "description": "OpenStreetMap with Tainan old maps.",
     "html_url": "https://github.com/g0v/tainan-map",
+    "languages": {},
     "name": "tainan-map",
     "url": "https://api.github.com/repos/g0v/tainan-map"
   },
   "g0v/taipei": {
     "description": "Things to know about Taipei for our overseas friends! ",
     "html_url": "https://github.com/g0v/taipei",
+    "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
     "url": "https://api.github.com/repos/g0v/taipei"
@@ -2193,6 +3557,13 @@
   "g0v/tcbus": {
     "description": "臺中市公車地圖 (採用 leaflet 連 OSM 底圖)",
     "html_url": "https://github.com/g0v/tcbus",
+    "languages": {
+      "CSS": 11221,
+      "HTML": 6475,
+      "JavaScript": 3571,
+      "Perl": 990,
+      "Shell": 1381
+    },
     "name": "tcbus",
     "readme_filename": "g0v`tcbus`README.md",
     "url": "https://api.github.com/repos/g0v/tcbus"
@@ -2200,6 +3571,9 @@
   "g0v/telemedicine-gitbook": {
     "description": "vTaiwan 數位生活：遠距健康照護",
     "html_url": "https://github.com/g0v/telemedicine-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "telemedicine-gitbook",
     "readme_filename": "g0v`telemedicine-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/telemedicine-gitbook"
@@ -2207,6 +3581,9 @@
   "g0v/telework-gitbook": {
     "description": "vTaiwan 數位生活：電傳勞動",
     "html_url": "https://github.com/g0v/telework-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "telework-gitbook",
     "readme_filename": "g0v`telework-gitbook`README.md",
     "url": "https://api.github.com/repos/g0v/telework-gitbook"
@@ -2214,6 +3591,10 @@
   "g0v/thedaywefightback": {
     "description": "thedaywefightback.g0v.tw",
     "html_url": "https://github.com/g0v/thedaywefightback",
+    "languages": {
+      "CSS": 29840,
+      "JavaScript": 15444
+    },
     "name": "thedaywefightback",
     "readme_filename": "g0v`thedaywefightback`README.md",
     "url": "https://api.github.com/repos/g0v/thedaywefightback"
@@ -2221,6 +3602,9 @@
   "g0v/tibet": {
     "description": "圖博資訊站",
     "html_url": "https://github.com/g0v/tibet",
+    "languages": {
+      "JavaScript": 6932
+    },
     "name": "tibet",
     "readme_filename": "g0v`tibet`README.md",
     "url": "https://api.github.com/repos/g0v/tibet"
@@ -2228,6 +3612,12 @@
   "g0v/timemap": {
     "description": "the source of timemap.kuansim.com",
     "html_url": "https://github.com/g0v/timemap",
+    "languages": {
+      "CSS": 11490,
+      "HTML": 33186,
+      "JavaScript": 144472,
+      "Shell": 127
+    },
     "name": "timemap",
     "readme_filename": "g0v`timemap`README.md",
     "url": "https://api.github.com/repos/g0v/timemap"
@@ -2235,13 +3625,25 @@
   "g0v/timemapper": {
     "description": "Create and share elegant timelines and timemaps fast",
     "html_url": "https://github.com/g0v/timemapper",
+    "languages": {
+      "CSS": 11098,
+      "JavaScript": 134019,
+      "Shell": 127
+    },
     "name": "timemapper",
     "readme_filename": "g0v`timemapper`README.md",
     "url": "https://api.github.com/repos/g0v/timemapper"
   },
   "g0v/tisa-map": {
     "description": "trade in service agreement map.",
+    "g0vjson_filename": "g0v`tisa-map`g0v.json",
     "html_url": "https://github.com/g0v/tisa-map",
+    "languages": {
+      "CSS": 20571,
+      "JavaScript": 144344,
+      "LiveScript": 740,
+      "Ruby": 27163
+    },
     "name": "tisa-map",
     "readme_filename": "g0v`tisa-map`README.md",
     "url": "https://api.github.com/repos/g0v/tisa-map"
@@ -2249,6 +3651,9 @@
   "g0v/tmsearch": {
     "description": "trademark search from tipo.gov.tw",
     "html_url": "https://github.com/g0v/tmsearch",
+    "languages": {
+      "LiveScript": 2180
+    },
     "name": "tmsearch",
     "readme_filename": "g0v`tmsearch`README.md",
     "url": "https://api.github.com/repos/g0v/tmsearch"
@@ -2256,13 +3661,24 @@
   "g0v/tv4mobile": {
     "description": "",
     "html_url": "https://github.com/g0v/tv4mobile",
+    "languages": {
+      "CSS": 164337,
+      "JavaScript": 1681261
+    },
     "name": "tv4mobile",
     "readme_filename": "g0v`tv4mobile`README.md",
     "url": "https://api.github.com/repos/g0v/tv4mobile"
   },
   "g0v/twangry": {
     "description": "政誌 - Angry event made in Taiwan.",
+    "g0vjson_filename": "g0v`twangry`g0v.json",
     "html_url": "https://github.com/g0v/twangry",
+    "languages": {
+      "CSS": 66530,
+      "HTML": 22121,
+      "JavaScript": 714368,
+      "Nginx": 1726
+    },
     "name": "twangry",
     "readme_filename": "g0v`twangry`README.md",
     "url": "https://api.github.com/repos/g0v/twangry"
@@ -2270,13 +3686,28 @@
   "g0v/twbot-data": {
     "description": "BOT/BTO/RO/OT/BOO/Other cases data retrieved from http://http://ppp.pcc.gov.tw/",
     "html_url": "https://github.com/g0v/twbot-data",
+    "languages": {
+      "JavaScript": 6827,
+      "LiveScript": 3711
+    },
     "name": "twbot-data",
     "readme_filename": "g0v`twbot-data`README.md",
     "url": "https://api.github.com/repos/g0v/twbot-data"
   },
   "g0v/twbudget": {
     "description": "twbudget hacks for yahoo hackday tw 2012",
+    "g0vjson_filename": "g0v`twbudget`g0v.json",
     "html_url": "https://github.com/g0v/twbudget",
+    "languages": {
+      "CSS": 14554,
+      "CoffeeScript": 1350,
+      "HTML": 12393,
+      "JavaScript": 6109,
+      "LiveScript": 53903,
+      "Makefile": 363,
+      "Python": 25277,
+      "Shell": 743
+    },
     "name": "twbudget",
     "readme_filename": "g0v`twbudget`README.md",
     "url": "https://api.github.com/repos/g0v/twbudget"
@@ -2284,12 +3715,22 @@
   "g0v/tweet-html-diff": {
     "description": "For tweeting live updates from http://congress-text-live.herokuapp.com/",
     "html_url": "https://github.com/g0v/tweet-html-diff",
+    "languages": {
+      "Perl": 16229
+    },
     "name": "tweet-html-diff",
     "url": "https://api.github.com/repos/g0v/tweet-html-diff"
   },
   "g0v/twgeojson": {
     "description": "geojson data for Taiwan",
     "html_url": "https://github.com/g0v/twgeojson",
+    "languages": {
+      "HTML": 3880,
+      "JavaScript": 20,
+      "LiveScript": 10050,
+      "Makefile": 1839,
+      "Python": 6979
+    },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
     "url": "https://api.github.com/repos/g0v/twgeojson"
@@ -2297,27 +3738,53 @@
   "g0v/twhgis": {
     "description": "historical geographic inforamtion data for Taiwan",
     "html_url": "https://github.com/g0v/twhgis",
+    "languages": {
+      "LiveScript": 10277,
+      "Makefile": 776,
+      "Perl": 1453
+    },
     "name": "twhgis",
     "readme_filename": "g0v`twhgis`README.md",
     "url": "https://api.github.com/repos/g0v/twhgis"
   },
   "g0v/twlaw": {
     "description": "Organize Taiwan laws",
+    "g0vjson_filename": "g0v`twlaw`g0v.json",
     "html_url": "https://github.com/g0v/twlaw",
+    "languages": {
+      "CSS": 140,
+      "LiveScript": 18633,
+      "Python": 1902,
+      "Shell": 791
+    },
     "name": "twlaw",
     "readme_filename": "g0v`twlaw`README.md",
     "url": "https://api.github.com/repos/g0v/twlaw"
   },
   "g0v/twly-voter-guide": {
     "description": "立委投票指南",
+    "g0vjson_filename": "g0v`twly-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/twly-voter-guide",
+    "languages": {
+      "CSS": 27585,
+      "HTML": 178795,
+      "JavaScript": 23644,
+      "Python": 92033,
+      "Shell": 130
+    },
     "name": "twly-voter-guide",
     "readme_filename": "g0v`twly-voter-guide`README.md",
     "url": "https://api.github.com/repos/g0v/twly-voter-guide"
   },
   "g0v/twly_crawler": {
     "description": "Crawl Taiwan Congress Data by Scrapy",
+    "g0vjson_filename": "g0v`twly_crawler`g0v.json",
     "html_url": "https://github.com/g0v/twly_crawler",
+    "languages": {
+      "JavaScript": 3510,
+      "Python": 28064,
+      "Shell": 284
+    },
     "name": "twly_crawler",
     "readme_filename": "g0v`twly_crawler`README.md",
     "url": "https://api.github.com/repos/g0v/twly_crawler"
@@ -2325,6 +3792,13 @@
   "g0v/twlyparser": {
     "description": "parse TW congress logs",
     "html_url": "https://github.com/g0v/twlyparser",
+    "languages": {
+      "LiveScript": 139244,
+      "PHP": 5980,
+      "Perl": 734,
+      "Python": 5578,
+      "Shell": 754
+    },
     "name": "twlyparser",
     "readme_filename": "g0v`twlyparser`README.md",
     "url": "https://api.github.com/repos/g0v/twlyparser"
@@ -2332,6 +3806,10 @@
   "g0v/twlyreader-prototype": {
     "description": "",
     "html_url": "https://github.com/g0v/twlyreader-prototype",
+    "languages": {
+      "JavaScript": 120033,
+      "Ruby": 2696
+    },
     "name": "twlyreader-prototype",
     "readme_filename": "g0v`twlyreader-prototype`README.markdown",
     "url": "https://api.github.com/repos/g0v/twlyreader-prototype"
@@ -2339,6 +3817,11 @@
   "g0v/twpolitwoops-collector": {
     "description": "Python workers that collect tweets/feeds from the twitter/facebook streaming api and track deletions",
     "html_url": "https://github.com/g0v/twpolitwoops-collector",
+    "languages": {
+      "JavaScript": 70114,
+      "Python": 180396,
+      "Shell": 623
+    },
     "name": "twpolitwoops-collector",
     "readme_filename": "g0v`twpolitwoops-collector`README.md",
     "url": "https://api.github.com/repos/g0v/twpolitwoops-collector"
@@ -2346,13 +3829,22 @@
   "g0v/twstat": {
     "description": "Taiwan National Statistics Data",
     "html_url": "https://github.com/g0v/twstat",
+    "languages": {
+      "Groff": 53442,
+      "LiveScript": 5159,
+      "Python": 2965
+    },
     "name": "twstat",
     "readme_filename": "g0v`twstat`README.md",
     "url": "https://api.github.com/repos/g0v/twstat"
   },
   "g0v/typo-resolver": {
     "description": "a Google Chrome extension",
+    "g0vjson_filename": "g0v`typo-resolver`g0v.json",
     "html_url": "https://github.com/g0v/typo-resolver",
+    "languages": {
+      "JavaScript": 5401
+    },
     "name": "typo-resolver",
     "readme_filename": "g0v`typo-resolver`README.md",
     "url": "https://api.github.com/repos/g0v/typo-resolver"
@@ -2360,6 +3852,10 @@
   "g0v/ui": {
     "description": "ui design",
     "html_url": "https://github.com/g0v/ui",
+    "languages": {
+      "CSS": 1523,
+      "HTML": 2555
+    },
     "name": "ui",
     "readme_filename": "g0v`ui`README.md",
     "url": "https://api.github.com/repos/g0v/ui"
@@ -2367,6 +3863,9 @@
   "g0v/urbancode-commission": {
     "description": "開放都市計畫-都委會會議紀錄資料庫",
     "html_url": "https://github.com/g0v/urbancode-commission",
+    "languages": {
+      "R": 39021
+    },
     "name": "urbancode-commission",
     "readme_filename": "g0v`urbancode-commission`README.md",
     "url": "https://api.github.com/repos/g0v/urbancode-commission"
@@ -2374,6 +3873,10 @@
   "g0v/urbancodeg0vtw": {
     "description": "開放都市計畫",
     "html_url": "https://github.com/g0v/urbancodeg0vtw",
+    "languages": {
+      "CSS": 4050,
+      "HTML": 5313
+    },
     "name": "urbancodeg0vtw",
     "readme_filename": "g0v`urbancodeg0vtw`README.md",
     "url": "https://api.github.com/repos/g0v/urbancodeg0vtw"
@@ -2381,6 +3884,10 @@
   "g0v/url-normalizer.js": {
     "description": "Normalize URL",
     "html_url": "https://github.com/g0v/url-normalizer.js",
+    "languages": {
+      "JavaScript": 10419,
+      "PHP": 8034
+    },
     "name": "url-normalizer.js",
     "readme_filename": "g0v`url-normalizer.js`README.md",
     "url": "https://api.github.com/repos/g0v/url-normalizer.js"
@@ -2388,6 +3895,10 @@
   "g0v/urlshot": {
     "description": "URL Rasterization as a service",
     "html_url": "https://github.com/g0v/urlshot",
+    "languages": {
+      "JavaScript": 1326,
+      "Perl": 820
+    },
     "name": "urlshot",
     "readme_filename": "g0v`urlshot`README.md",
     "url": "https://api.github.com/repos/g0v/urlshot"
@@ -2395,6 +3906,13 @@
   "g0v/victim": {
     "description": "",
     "html_url": "https://github.com/g0v/victim",
+    "languages": {
+      "Java": 47624,
+      "JavaScript": 58420,
+      "Objective-C": 422402,
+      "Python": 1499,
+      "Shell": 7124
+    },
     "name": "victim",
     "readme_filename": "g0v`victim`README.md",
     "url": "https://api.github.com/repos/g0v/victim"
@@ -2402,6 +3920,11 @@
   "g0v/vtaiwan.tw": {
     "description": "[舊版] 行政院法規線上諮詢系統",
     "html_url": "https://github.com/g0v/vtaiwan.tw",
+    "languages": {
+      "CSS": 36870,
+      "HTML": 45315,
+      "JavaScript": 24746
+    },
     "name": "vtaiwan.tw",
     "readme_filename": "g0v`vtaiwan.tw`README.md",
     "url": "https://api.github.com/repos/g0v/vtaiwan.tw"
@@ -2409,6 +3932,10 @@
   "g0v/vtw.link": {
     "description": "行政院法規形成文件彙整發佈區",
     "html_url": "https://github.com/g0v/vtw.link",
+    "languages": {
+      "CSS": 358312,
+      "JavaScript": 484040
+    },
     "name": "vtw.link",
     "readme_filename": "g0v`vtw.link`README.md",
     "url": "https://api.github.com/repos/g0v/vtw.link"
@@ -2416,6 +3943,11 @@
   "g0v/we-are-g0v": {
     "description": "facebook cover generator",
     "html_url": "https://github.com/g0v/we-are-g0v",
+    "languages": {
+      "JavaScript": 7912,
+      "LiveScript": 2721,
+      "Shell": 702
+    },
     "name": "we-are-g0v",
     "readme_filename": "g0v`we-are-g0v`README.md",
     "url": "https://api.github.com/repos/g0v/we-are-g0v"
@@ -2423,6 +3955,11 @@
   "g0v/workweek": {
     "description": "勞基法計算機",
     "html_url": "https://github.com/g0v/workweek",
+    "languages": {
+      "HTML": 1856,
+      "JavaScript": 28917,
+      "Vue": 17401
+    },
     "name": "workweek",
     "readme_filename": "g0v`workweek`README.md",
     "url": "https://api.github.com/repos/g0v/workweek"
@@ -2430,6 +3967,7 @@
   "g0v/worldwonder": {
     "description": "World wonder !",
     "html_url": "https://github.com/g0v/worldwonder",
+    "languages": {},
     "name": "worldwonder",
     "readme_filename": "g0v`worldwonder`README.md",
     "url": "https://api.github.com/repos/g0v/worldwonder"
@@ -2437,6 +3975,9 @@
   "g0v/ww-simulation": {
     "description": "The simulation of g0v graph server",
     "html_url": "https://github.com/g0v/ww-simulation",
+    "languages": {
+      "JavaScript": 536
+    },
     "name": "ww-simulation",
     "readme_filename": "g0v`ww-simulation`README.md",
     "url": "https://api.github.com/repos/g0v/ww-simulation"
@@ -2444,13 +3985,28 @@
   "g0v/z0y": {
     "description": "零時字引－部件筆劃查字",
     "html_url": "https://github.com/g0v/z0y",
+    "languages": {
+      "Batchfile": 194,
+      "CSS": 81,
+      "HTML": 428,
+      "JavaScript": 268633
+    },
     "name": "z0y",
     "readme_filename": "g0v`z0y`README.md",
     "url": "https://api.github.com/repos/g0v/z0y"
   },
   "g0v/zh-stroke-data": {
     "description": "常用國字標準字體筆劃 XML 資料檔",
+    "g0vjson_filename": "g0v`zh-stroke-data`g0v.json",
     "html_url": "https://github.com/g0v/zh-stroke-data",
+    "languages": {
+      "CSS": 855,
+      "CoffeeScript": 18403,
+      "Go": 2340,
+      "JavaScript": 62902,
+      "Perl": 499,
+      "Shell": 261
+    },
     "name": "zh-stroke-data",
     "readme_filename": "g0v`zh-stroke-data`README.md",
     "url": "https://api.github.com/repos/g0v/zh-stroke-data"
@@ -2458,6 +4014,10 @@
   "godgunman/ncc-complain-data": {
     "description": "go go!! save the world !!",
     "html_url": "https://github.com/godgunman/ncc-complain-data",
+    "languages": {
+      "CSS": 1723,
+      "JavaScript": 7355
+    },
     "name": "ncc-complain-data",
     "readme_filename": "godgunman`ncc-complain-data`README.md",
     "url": "https://api.github.com/repos/godgunman/ncc-complain-data"
@@ -2465,6 +4025,15 @@
   "hackfoldr/hackfoldr-2.0": {
     "description": "hackfoldr ui improvement inspired by moztw",
     "html_url": "https://github.com/hackfoldr/hackfoldr-2.0",
+    "languages": {
+      "Batchfile": 270,
+      "CSS": 345172,
+      "HTML": 67949,
+      "JavaScript": 484040,
+      "LiveScript": 1555,
+      "Ruby": 2624,
+      "Shell": 1990
+    },
     "name": "hackfoldr-2.0",
     "readme_filename": "hackfoldr`hackfoldr-2.0`README.md",
     "url": "https://api.github.com/repos/hackfoldr/hackfoldr-2.0"
@@ -2472,6 +4041,11 @@
   "immortalmice/Real-time-Air-Quality-Map": {
     "description": "整合各方空汙監測站的觀測資料與各種汙染源的排放資料以地圖視覺化呈現 清楚明瞭的即時空汙動態追蹤，以此達到排汙監督的社會效益",
     "html_url": "https://github.com/immortalmice/Real-time-Air-Quality-Map",
+    "languages": {
+      "CSS": 787,
+      "HTML": 22382,
+      "JavaScript": 51495
+    },
     "name": "Real-time-Air-Quality-Map",
     "readme_filename": "immortalmice`Real-time-Air-Quality-Map`README.md",
     "url": "https://api.github.com/repos/immortalmice/Real-time-Air-Quality-Map"
@@ -2479,6 +4053,13 @@
   "jcsky/Solveissues": {
     "description": "2015 Taiwan Hackthon project, use to create/support 議題",
     "html_url": "https://github.com/jcsky/Solveissues",
+    "languages": {
+      "CSS": 20623,
+      "CoffeeScript": 844,
+      "HTML": 66244,
+      "JavaScript": 1370,
+      "Ruby": 94526
+    },
     "name": "Solveissues",
     "readme_filename": "jcsky`Solveissues`README.rdoc",
     "url": "https://api.github.com/repos/jcsky/Solveissues"
@@ -2486,13 +4067,28 @@
   "jimyhuang/twlandsat-browse": {
     "description": "Browsing processed map by map viewer.",
     "html_url": "https://github.com/jimyhuang/twlandsat-browse",
+    "languages": {
+      "CSS": 4893,
+      "HTML": 40251,
+      "JavaScript": 27886,
+      "PHP": 9365,
+      "Smarty": 11475
+    },
     "name": "twlandsat-browse",
     "readme_filename": "jimyhuang`twlandsat-browse`README.md",
     "url": "https://api.github.com/repos/jimyhuang/twlandsat-browse"
   },
   "jsleetw/petneed.me": {
     "description": "Animal Adoption Platform by Django",
+    "g0vjson_filename": "jsleetw`petneed.me`g0v.json",
     "html_url": "https://github.com/jsleetw/petneed.me",
+    "languages": {
+      "CSS": 515299,
+      "JavaScript": 295102,
+      "Perl": 40,
+      "Python": 41150,
+      "Shell": 3289
+    },
     "name": "petneed.me",
     "readme_filename": "jsleetw`petneed.me`README.md",
     "url": "https://api.github.com/repos/jsleetw/petneed.me"
@@ -2500,6 +4096,13 @@
   "junsuwhy/ly-tel": {
     "description": "find ly for help!",
     "html_url": "https://github.com/junsuwhy/ly-tel",
+    "languages": {
+      "CSS": 20439,
+      "HTML": 51906,
+      "Handlebars": 9862,
+      "JavaScript": 8715,
+      "Ruby": 649
+    },
     "name": "ly-tel",
     "readme_filename": "junsuwhy`ly-tel`README.md",
     "url": "https://api.github.com/repos/junsuwhy/ly-tel"
@@ -2507,6 +4110,14 @@
   "kevinphys/BatDrone": {
     "description": "",
     "html_url": "https://github.com/kevinphys/BatDrone",
+    "languages": {
+      "CSS": 44556,
+      "HTML": 2434576,
+      "Java": 48129,
+      "JavaScript": 3111,
+      "Objective-C": 99338,
+      "Ruby": 149
+    },
     "name": "BatDrone",
     "readme_filename": "kevinphys`BatDrone`README.md",
     "url": "https://api.github.com/repos/kevinphys/BatDrone"
@@ -2514,6 +4125,10 @@
   "kiang/chimney_map": {
     "description": "",
     "html_url": "https://github.com/kiang/chimney_map",
+    "languages": {
+      "HTML": 14489,
+      "JavaScript": 24079
+    },
     "name": "chimney_map",
     "readme_filename": "kiang`chimney_map`README",
     "url": "https://api.github.com/repos/kiang/chimney_map"
@@ -2521,12 +4136,23 @@
   "kiang/dgbas.gov.tw": {
     "description": "to collect and sort data from dgbas.gov.tw",
     "html_url": "https://github.com/kiang/dgbas.gov.tw",
+    "languages": {
+      "PHP": 21360
+    },
     "name": "dgbas.gov.tw",
     "url": "https://api.github.com/repos/kiang/dgbas.gov.tw"
   },
   "kiang/elections": {
     "description": "A platform to collect candidates profiles for all elections in Taiwan",
     "html_url": "https://github.com/kiang/elections",
+    "languages": {
+      "Batchfile": 2888,
+      "CSS": 38228,
+      "JavaScript": 19159,
+      "PHP": 8775272,
+      "Python": 278,
+      "Shell": 4170
+    },
     "name": "elections",
     "readme_filename": "kiang`elections`README.md",
     "url": "https://api.github.com/repos/kiang/elections"
@@ -2534,24 +4160,46 @@
   "kiang/lead_pipes": {
     "description": "to show lead pipes which used to deliver water in taiwan.",
     "html_url": "https://github.com/kiang/lead_pipes",
+    "languages": {
+      "HTML": 34083,
+      "JavaScript": 5691,
+      "PHP": 154984
+    },
     "name": "lead_pipes",
     "url": "https://api.github.com/repos/kiang/lead_pipes"
   },
   "kiang/salary": {
     "description": "Salary related tools for people in Taiwan",
     "html_url": "https://github.com/kiang/salary",
+    "languages": {
+      "PHP": 2293
+    },
     "name": "salary",
     "url": "https://api.github.com/repos/kiang/salary"
   },
   "kiang/tncc": {
     "description": "collect and convert data related to tncc.gov.tw",
     "html_url": "https://github.com/kiang/tncc",
+    "languages": {
+      "HTML": 8295724,
+      "PHP": 64338,
+      "Scala": 2153
+    },
     "name": "tncc",
     "url": "https://api.github.com/repos/kiang/tncc"
   },
   "miaoski/amis-francais": {
     "description": "Dictionnaire Amis-Français",
     "html_url": "https://github.com/miaoski/amis-francais",
+    "languages": {
+      "CSS": 1392,
+      "HTML": 20211808,
+      "JavaScript": 4043,
+      "PHP": 6278,
+      "PLpgSQL": 208,
+      "Python": 5410,
+      "Shell": 405
+    },
     "name": "amis-francais",
     "readme_filename": "miaoski`amis-francais`README.md",
     "url": "https://api.github.com/repos/miaoski/amis-francais"
@@ -2559,6 +4207,12 @@
   "miaoski/amis-safolu": {
     "description": "蔡中涵委員阿美語字典",
     "html_url": "https://github.com/miaoski/amis-safolu",
+    "languages": {
+      "Perl": 646,
+      "Python": 18866,
+      "Ruby": 3874,
+      "Shell": 1646
+    },
     "name": "amis-safolu",
     "readme_filename": "miaoski`amis-safolu`README.md",
     "url": "https://api.github.com/repos/miaoski/amis-safolu"
@@ -2566,6 +4220,14 @@
   "mlwmlw/pcc": {
     "description": "政府標案資料查詢、分析",
     "html_url": "https://github.com/mlwmlw/pcc",
+    "languages": {
+      "CSS": 22951,
+      "CoffeeScript": 2988,
+      "HTML": 199440,
+      "JavaScript": 1325578,
+      "LiveScript": 29899,
+      "PHP": 546
+    },
     "name": "pcc",
     "readme_filename": "mlwmlw`pcc`README.md",
     "url": "https://api.github.com/repos/mlwmlw/pcc"
@@ -2573,18 +4235,30 @@
   "nansenat16/jobhelper-ie": {
     "description": "求職小幫手IE版",
     "html_url": "https://github.com/nansenat16/jobhelper-ie",
+    "languages": {
+      "JavaScript": 13026
+    },
     "name": "jobhelper-ie",
     "url": "https://api.github.com/repos/nansenat16/jobhelper-ie"
   },
   "nansenat16/jobhelper-mobile": {
     "description": "求職小幫手 - 手機網頁版",
     "html_url": "https://github.com/nansenat16/jobhelper-mobile",
+    "languages": {
+      "JavaScript": 7669
+    },
     "name": "jobhelper-mobile",
     "url": "https://api.github.com/repos/nansenat16/jobhelper-mobile"
   },
   "nccu-floodfire/news-seg": {
     "description": "",
     "html_url": "https://github.com/nccu-floodfire/news-seg",
+    "languages": {
+      "ApacheConf": 356,
+      "JavaScript": 2491,
+      "Makefile": 455,
+      "PHP": 83642
+    },
     "name": "news-seg",
     "readme_filename": "nccu-floodfire`news-seg`readme.md",
     "url": "https://api.github.com/repos/nccu-floodfire/news-seg"
@@ -2592,24 +4266,41 @@
   "ronnywang/axe.g0v.tw": {
     "description": "斧頭幫大挑戰",
     "html_url": "https://github.com/ronnywang/axe.g0v.tw",
+    "languages": {
+      "CSS": 14908,
+      "PHP": 362326
+    },
     "name": "axe.g0v.tw",
     "url": "https://api.github.com/repos/ronnywang/axe.g0v.tw"
   },
   "ronnywang/campaign-finance.g0v.ronny.tw": {
     "description": "http://campaign-finance.g0v.ronny.tw/ 程式碼",
     "html_url": "https://github.com/ronnywang/campaign-finance.g0v.ronny.tw",
+    "languages": {
+      "CSS": 14908,
+      "PHP": 362051
+    },
     "name": "campaign-finance.g0v.ronny.tw",
     "url": "https://api.github.com/repos/ronnywang/campaign-finance.g0v.ronny.tw"
   },
   "ronnywang/company-graph": {
     "description": "company-graph.g0v.ronny.tw 公司關係圖",
     "html_url": "https://github.com/ronnywang/company-graph",
+    "languages": {
+      "CSS": 15554,
+      "JavaScript": 302638,
+      "PHP": 373627
+    },
     "name": "company-graph",
     "url": "https://api.github.com/repos/ronnywang/company-graph"
   },
   "ronnywang/data.g0v.ronny.tw": {
     "description": "data.gov.tw 的備份",
     "html_url": "https://github.com/ronnywang/data.g0v.ronny.tw",
+    "languages": {
+      "CSS": 14908,
+      "PHP": 364969
+    },
     "name": "data.g0v.ronny.tw",
     "readme_filename": "ronnywang`data.g0v.ronny.tw`README.md",
     "url": "https://api.github.com/repos/ronnywang/data.g0v.ronny.tw"
@@ -2617,6 +4308,14 @@
   "ronnywang/dev-env": {
     "description": "",
     "html_url": "https://github.com/ronnywang/dev-env",
+    "languages": {
+      "HTML": 17587,
+      "JavaScript": 35,
+      "PHP": 12349,
+      "Python": 27,
+      "Ruby": 24,
+      "Shell": 53
+    },
     "name": "dev-env",
     "readme_filename": "ronnywang`dev-env`README.md",
     "url": "https://api.github.com/repos/ronnywang/dev-env"
@@ -2624,6 +4323,9 @@
   "ronnywang/ecolife.epa.gov.tw": {
     "description": "台灣村里家戶用電量",
     "html_url": "https://github.com/ronnywang/ecolife.epa.gov.tw",
+    "languages": {
+      "PHP": 35390
+    },
     "name": "ecolife.epa.gov.tw",
     "readme_filename": "ronnywang`ecolife.epa.gov.tw`README.md",
     "url": "https://api.github.com/repos/ronnywang/ecolife.epa.gov.tw"
@@ -2631,6 +4333,10 @@
   "ronnywang/jobhelper": {
     "description": "求職小幫手 Google Chrome Extension",
     "html_url": "https://github.com/ronnywang/jobhelper",
+    "languages": {
+      "HTML": 1259,
+      "JavaScript": 19748
+    },
     "name": "jobhelper",
     "readme_filename": "ronnywang`jobhelper`README.md",
     "url": "https://api.github.com/repos/ronnywang/jobhelper"
@@ -2638,6 +4344,10 @@
   "ronnywang/lagnews": {
     "description": "LagNews腿新聞",
     "html_url": "https://github.com/ronnywang/lagnews",
+    "languages": {
+      "CSS": 14908,
+      "PHP": 491391
+    },
     "name": "lagnews",
     "readme_filename": "ronnywang`lagnews`README",
     "url": "https://api.github.com/repos/ronnywang/lagnews"
@@ -2645,6 +4355,13 @@
   "ronnywang/newsdiff": {
     "description": "",
     "html_url": "https://github.com/ronnywang/newsdiff",
+    "languages": {
+      "ApacheConf": 111,
+      "CSS": 16113,
+      "HTML": 4547596,
+      "JavaScript": 81598,
+      "PHP": 3004477
+    },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
     "url": "https://api.github.com/repos/ronnywang/newsdiff"
@@ -2652,6 +4369,10 @@
   "ronnywang/newstrend.g0v.ronny.tw": {
     "description": "newstrend.g0v.ronny.tw",
     "html_url": "https://github.com/ronnywang/newstrend.g0v.ronny.tw",
+    "languages": {
+      "CSS": 14908,
+      "PHP": 371440
+    },
     "name": "newstrend.g0v.ronny.tw",
     "readme_filename": "ronnywang`newstrend.g0v.ronny.tw`README.md",
     "url": "https://api.github.com/repos/ronnywang/newstrend.g0v.ronny.tw"
@@ -2659,6 +4380,10 @@
   "ronnywang/taiwan-address-lookup": {
     "description": "地址轉經緯度 API",
     "html_url": "https://github.com/ronnywang/taiwan-address-lookup",
+    "languages": {
+      "HTML": 7665,
+      "JavaScript": 22594
+    },
     "name": "taiwan-address-lookup",
     "readme_filename": "ronnywang`taiwan-address-lookup`README.md",
     "url": "https://api.github.com/repos/ronnywang/taiwan-address-lookup"
@@ -2666,6 +4391,10 @@
   "ronnywang/taiwan-cabinet": {
     "description": "台灣內閣記錄",
     "html_url": "https://github.com/ronnywang/taiwan-cabinet",
+    "languages": {
+      "HTML": 7355,
+      "PHP": 30987
+    },
     "name": "taiwan-cabinet",
     "readme_filename": "ronnywang`taiwan-cabinet`README.md",
     "url": "https://api.github.com/repos/ronnywang/taiwan-cabinet"
@@ -2673,6 +4402,12 @@
   "ronnywang/tw-campaign-finance": {
     "description": "台灣政治獻金資料",
     "html_url": "https://github.com/ronnywang/tw-campaign-finance",
+    "languages": {
+      "C++": 1421,
+      "HTML": 119069,
+      "PHP": 92844,
+      "Shell": 132
+    },
     "name": "tw-campaign-finance",
     "readme_filename": "ronnywang`tw-campaign-finance`README.md",
     "url": "https://api.github.com/repos/ronnywang/tw-campaign-finance"
@@ -2680,6 +4415,10 @@
   "ronnywang/tw-court-parser": {
     "description": "",
     "html_url": "https://github.com/ronnywang/tw-court-parser",
+    "languages": {
+      "HTML": 4236,
+      "JavaScript": 18449
+    },
     "name": "tw-court-parser",
     "readme_filename": "ronnywang`tw-court-parser`README.md",
     "url": "https://api.github.com/repos/ronnywang/tw-court-parser"
@@ -2687,6 +4426,12 @@
   "ronnywang/twcompany": {
     "description": "台灣統一編號資料",
     "html_url": "https://github.com/ronnywang/twcompany",
+    "languages": {
+      "ApacheConf": 85,
+      "CSS": 14908,
+      "HTML": 4553385,
+      "PHP": 2932854
+    },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
@@ -2694,12 +4439,21 @@
   "ronnywang/vote2014": {
     "description": "2014 中選會界接 API",
     "html_url": "https://github.com/ronnywang/vote2014",
+    "languages": {
+      "CSS": 14908,
+      "PHP": 405313
+    },
     "name": "vote2014",
     "url": "https://api.github.com/repos/ronnywang/vote2014"
   },
   "soidid/soidid.github.io": {
     "description": "",
     "html_url": "https://github.com/soidid/soidid.github.io",
+    "languages": {
+      "CSS": 957702,
+      "JavaScript": 1496838,
+      "LiveScript": 853
+    },
     "name": "soidid.github.io",
     "readme_filename": "soidid`soidid.github.io`README.md",
     "url": "https://api.github.com/repos/soidid/soidid.github.io"
@@ -2707,6 +4461,9 @@
   "superChing/extract_declared_sentence": {
     "description": "code for text extraction ",
     "html_url": "https://github.com/superChing/extract_declared_sentence",
+    "languages": {
+      "Python": 20473
+    },
     "name": "extract_declared_sentence",
     "readme_filename": "superChing`extract_declared_sentence`README.md",
     "url": "https://api.github.com/repos/superChing/extract_declared_sentence"
@@ -2714,6 +4471,11 @@
   "teia-tw/drinking_water": {
     "description": "「飲水地圖」網站",
     "html_url": "https://github.com/teia-tw/drinking_water",
+    "languages": {
+      "CSS": 12577,
+      "HTML": 4172,
+      "JavaScript": 34929
+    },
     "name": "drinking_water",
     "readme_filename": "teia-tw`drinking_water`README.md",
     "url": "https://api.github.com/repos/teia-tw/drinking_water"
@@ -2721,6 +4483,13 @@
   "tka/ideapool": {
     "description": "",
     "html_url": "https://github.com/tka/ideapool",
+    "languages": {
+      "CSS": 198,
+      "CoffeeScript": 211,
+      "HTML": 17016,
+      "JavaScript": 4802,
+      "Ruby": 64874
+    },
     "name": "ideapool",
     "readme_filename": "tka`ideapool`README.rdoc",
     "url": "https://api.github.com/repos/tka/ideapool"
@@ -2728,12 +4497,21 @@
   "tommy87166/tommy87166.github.io": {
     "description": "",
     "html_url": "https://github.com/tommy87166/tommy87166.github.io",
+    "languages": {
+      "HTML": 37814,
+      "JavaScript": 65135,
+      "Python": 3347
+    },
     "name": "tommy87166.github.io",
     "url": "https://api.github.com/repos/tommy87166/tommy87166.github.io"
   },
   "weitsai/iHelp-android": {
     "description": "不必透過聲音就能夠報案的 App，主要對象為使用手機對話不方便者為主。",
+    "g0vjson_filename": "weitsai`iHelp-android`g0v.json",
     "html_url": "https://github.com/weitsai/iHelp-android",
+    "languages": {
+      "Java": 111269
+    },
     "name": "iHelp-android",
     "readme_filename": "weitsai`iHelp-android`README.md",
     "url": "https://api.github.com/repos/weitsai/iHelp-android"
@@ -2741,13 +4519,21 @@
   "yisheng-liu/jobhelper_ff": {
     "description": "求職小幫手的火狐版本",
     "html_url": "https://github.com/yisheng-liu/jobhelper_ff",
+    "languages": {
+      "JavaScript": 20960
+    },
     "name": "jobhelper_ff",
     "readme_filename": "yisheng-liu`jobhelper_ff`README.md",
     "url": "https://api.github.com/repos/yisheng-liu/jobhelper_ff"
   },
   "yllan/newshelper-safari": {
     "description": "新聞小幫手 https://github.com/g0v/newshelper-extension 的 Safari 版本。",
+    "g0vjson_filename": "yllan`newshelper-safari`g0v.json",
     "html_url": "https://github.com/yllan/newshelper-safari",
+    "languages": {
+      "CSS": 1321,
+      "JavaScript": 17141
+    },
     "name": "newshelper-safari",
     "readme_filename": "yllan`newshelper-safari`README.md",
     "url": "https://api.github.com/repos/yllan/newshelper-safari"
@@ -2755,13 +4541,27 @@
   "zbryikt/g0vphotos": {
     "description": "",
     "html_url": "https://github.com/zbryikt/g0vphotos",
+    "languages": {
+      "CSS": 6930,
+      "LiveScript": 10734
+    },
     "name": "g0vphotos",
     "readme_filename": "zbryikt`g0vphotos`README.md",
     "url": "https://api.github.com/repos/zbryikt/g0vphotos"
   },
   "zbryikt/ppllink": {
     "description": "public person relationship visualization",
+    "g0vjson_filename": "zbryikt`ppllink`g0v.json",
     "html_url": "https://github.com/zbryikt/ppllink",
+    "languages": {
+      "CSS": 19697,
+      "HTML": 18405,
+      "JavaScript": 114778,
+      "LiveScript": 16028,
+      "Makefile": 85,
+      "Python": 134133,
+      "Shell": 70
+    },
     "name": "ppllink",
     "readme_filename": "zbryikt`ppllink`README.md",
     "url": "https://api.github.com/repos/zbryikt/ppllink"
@@ -2769,6 +4569,11 @@
   "zbryikt/visualize": {
     "description": "misc visualization ",
     "html_url": "https://github.com/zbryikt/visualize",
+    "languages": {
+      "CSS": 5755,
+      "JavaScript": 2129,
+      "LiveScript": 6990
+    },
     "name": "visualize",
     "readme_filename": "zbryikt`visualize`README.md",
     "url": "https://api.github.com/repos/zbryikt/visualize"
@@ -2776,6 +4581,9 @@
   "zhusee2/boycott-helper": {
     "description": "網站抵制小幫手 Safari Extension，幫你阻擋你想抵制的網站",
     "html_url": "https://github.com/zhusee2/boycott-helper",
+    "languages": {
+      "JavaScript": 3361
+    },
     "name": "boycott-helper",
     "url": "https://api.github.com/repos/zhusee2/boycott-helper"
   }

@@ -1,0 +1,40 @@
+{
+  "author": "bestian",
+  "status": "alpha",
+  "name": "民代地圖：快速找民代",
+  "description": "ly map: fast connect to ly",
+  "description_zh": "民代地圖：快速找民代",
+  "homepage": "http://g0v.github.io/mapView/ly.html",
+  "document": "http://g0v.github.io/mapView/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bestian/shackhand"
+  },
+  "licenses": [
+    {
+      "type": "CC0"
+    }
+  ],
+  "keywords": [
+    "backbone",
+    "leaflet",
+    "ly"
+  ],
+  "audience": [
+    "contributor"
+  ],
+  "products": [
+    "website"
+  ],
+  "projects": [
+    "ly"
+  ],
+  "contributors": [
+    "bestian"
+  ],
+  "needs": [
+    "designer",
+    "coder",
+    "link with other g0v projects"
+  ]
+}

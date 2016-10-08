@@ -1,0 +1,37 @@
+{
+  "author": "kcliu",
+  "contributors": [
+    "hychen"
+  ],
+  "status": "alpha",
+  "name": "kuansim_chrome",
+  "name_zh": "鄉民關心你 - Google Crhome Extension",
+  "description": "Chrome extension for kuansim",
+  "description_zh": "鄉民關心你Chrome瀏覽器外掛",
+  "document": "http://hack.g0v.tw/kuansim_chrome",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g0v/kuansim_chrome"
+  },
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ],
+  "keywords": [
+    "javascript",
+  ],
+  "audience": [
+    "public"
+  ],
+  "products": [
+    "Google Chrome Extension"
+  ],
+  "projects": [
+    "kuansim"
+  ],
+  "thumbnail": "",
+  "needs": [
+    "programmer",
+  ]
+}
