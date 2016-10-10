@@ -934,12 +934,12 @@
     "html_url": "https://github.com/g0v/beSafe",
     "languages": {
       "CSS": 531,
-      "HTML": 1964,
-      "JavaScript": 3686282
+      "HTML": 1996,
+      "JavaScript": 3686521
     },
     "name": "beSafe",
     "readme_filename": "g0v`beSafe`README.md",
-    "updated_at": "2016-10-06T18:16:31Z",
+    "updated_at": "2016-10-09T04:47:51Z",
     "url": "https://api.github.com/repos/g0v/beSafe"
   },
   "g0v/bill-nicknames": {
@@ -1565,7 +1565,7 @@
     },
     "name": "editor",
     "readme_filename": "g0v`editor`README.md",
-    "updated_at": "2016-10-08T04:58:44Z",
+    "updated_at": "2016-10-09T08:54:04Z",
     "url": "https://api.github.com/repos/g0v/editor"
   },
   "g0v/eia_crawler": {
@@ -4176,7 +4176,7 @@
     },
     "name": "twstat",
     "readme_filename": "g0v`twstat`README.md",
-    "updated_at": "2016-10-08T09:49:57Z",
+    "updated_at": "2016-10-09T12:45:09Z",
     "url": "https://api.github.com/repos/g0v/twstat"
   },
   "g0v/typo-resolver": {
@@ -4294,9 +4294,9 @@
     "description": "行政院法規線上諮詢系統 界面 3.0",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
-      "HTML": 487,
-      "JavaScript": 10274,
-      "Vue": 856
+      "HTML": 611,
+      "JavaScript": 10676,
+      "Vue": 3831
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
