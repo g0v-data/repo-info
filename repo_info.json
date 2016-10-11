@@ -888,7 +888,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2016-09-10T13:21:45Z",
+    "updated_at": "2016-10-10T18:18:20Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -934,8 +934,8 @@
     "html_url": "https://github.com/g0v/beSafe",
     "languages": {
       "CSS": 531,
-      "HTML": 1996,
-      "JavaScript": 3686521
+      "HTML": 2046,
+      "JavaScript": 3687151
     },
     "name": "beSafe",
     "readme_filename": "g0v`beSafe`README.md",
@@ -1999,6 +1999,7 @@
   },
   "g0v/g0vre": {
     "description": "Generic Reader/Extractor service for *.gov.tw URLs",
+    "g0vjson_filename": "g0v`g0vre`g0v.json",
     "html_url": "https://github.com/g0v/g0vre",
     "languages": {
       "LiveScript": 12977,
@@ -2348,7 +2349,7 @@
     "languages": {
       "CSS": 2230,
       "HTML": 2615,
-      "JavaScript": 488577,
+      "JavaScript": 491003,
       "Python": 20592,
       "VimL": 47
     },
@@ -2932,7 +2933,7 @@
       "HTML": 23109,
       "Java": 121692,
       "JavaScript": 86000,
-      "LiveScript": 81004,
+      "LiveScript": 81031,
       "Makefile": 2172,
       "Shell": 117
     },
@@ -3174,7 +3175,7 @@
     },
     "name": "npratio",
     "readme_filename": "g0v`npratio`README.md",
-    "updated_at": "2016-08-25T06:51:14Z",
+    "updated_at": "2016-10-10T03:09:46Z",
     "url": "https://api.github.com/repos/g0v/npratio"
   },
   "g0v/nsc-projects": {
@@ -3869,7 +3870,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2016-05-15T18:21:14Z",
+    "updated_at": "2016-10-10T18:08:26Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
@@ -4065,7 +4066,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2016-10-02T02:54:03Z",
+    "updated_at": "2016-10-10T20:36:16Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
@@ -4294,9 +4295,10 @@
     "description": "行政院法規線上諮詢系統 界面 3.0",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
-      "HTML": 611,
-      "JavaScript": 10676,
-      "Vue": 3831
+      "CSS": 247,
+      "HTML": 705,
+      "JavaScript": 10791,
+      "Vue": 6466
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
