@@ -935,7 +935,7 @@
     "languages": {
       "CSS": 531,
       "HTML": 2046,
-      "JavaScript": 3687155
+      "JavaScript": 3687449
     },
     "name": "beSafe",
     "readme_filename": "g0v`beSafe`README.md",
@@ -1418,7 +1418,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2016-09-15T03:51:04Z",
+    "updated_at": "2016-10-12T06:58:49Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/discourse": {
@@ -4298,7 +4298,7 @@
       "CSS": 247,
       "HTML": 705,
       "JavaScript": 10791,
-      "Vue": 6466
+      "Vue": 8289
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
