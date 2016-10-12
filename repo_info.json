@@ -935,7 +935,7 @@
     "languages": {
       "CSS": 531,
       "HTML": 2046,
-      "JavaScript": 3687151
+      "JavaScript": 3687155
     },
     "name": "beSafe",
     "readme_filename": "g0v`beSafe`README.md",
@@ -1657,7 +1657,7 @@
     },
     "name": "er.mohw",
     "readme_filename": "g0v`er.mohw`README.md",
-    "updated_at": "2016-06-06T03:30:23Z",
+    "updated_at": "2016-10-11T10:29:00Z",
     "url": "https://api.github.com/repos/g0v/er.mohw"
   },
   "g0v/esly": {
@@ -2217,7 +2217,7 @@
     "description": "g0v 專案與技能媒合工具",
     "html_url": "https://github.com/g0v/hub",
     "languages": {
-      "JavaScript": 10675
+      "JavaScript": 26933
     },
     "name": "hub",
     "readme_filename": "g0v`hub`README.md",
@@ -2939,7 +2939,7 @@
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2016-06-04T18:50:35Z",
+    "updated_at": "2016-10-11T10:45:51Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
@@ -4066,7 +4066,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2016-10-10T20:36:16Z",
+    "updated_at": "2016-10-11T13:33:36Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
