@@ -2724,7 +2724,7 @@
     "url": "https://api.github.com/repos/g0v/local.data"
   },
   "g0v/loopin_android": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/loopin_android",
     "languages": {
       "Java": 2988
@@ -2734,7 +2734,7 @@
     "url": "https://api.github.com/repos/g0v/loopin_android"
   },
   "g0v/loopin_backend": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/loopin_backend",
     "languages": {
       "CSS": 686,
@@ -2748,7 +2748,7 @@
     "url": "https://api.github.com/repos/g0v/loopin_backend"
   },
   "g0v/loopin_ios": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/loopin_ios",
     "languages": {},
     "name": "loopin_ios",
@@ -2756,7 +2756,7 @@
     "url": "https://api.github.com/repos/g0v/loopin_ios"
   },
   "g0v/loopin_web": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/loopin_web",
     "languages": {},
     "name": "loopin_web",
@@ -3280,7 +3280,7 @@
     "url": "https://api.github.com/repos/g0v/padnews-web"
   },
   "g0v/partyvote2016": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/partyvote2016",
     "languages": {
       "CSS": 1394,
@@ -3365,7 +3365,7 @@
     "url": "https://api.github.com/repos/g0v/petneed.me"
   },
   "g0v/photos": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/photos",
     "languages": {},
     "name": "photos",
@@ -4252,7 +4252,7 @@
     "url": "https://api.github.com/repos/g0v/urlshot"
   },
   "g0v/victim": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/victim",
     "languages": {
       "Java": 47624,
@@ -4297,7 +4297,7 @@
     "languages": {
       "CSS": 247,
       "HTML": 705,
-      "JavaScript": 10791,
+      "JavaScript": 10935,
       "Vue": 8289
     },
     "name": "vue.vtaiwan.tw",
@@ -4502,7 +4502,7 @@
     "url": "https://api.github.com/repos/kevinphys/BatDrone"
   },
   "kiang/chimney_map": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/kiang/chimney_map",
     "languages": {
       "HTML": 14489,
@@ -4835,7 +4835,7 @@
       "ApacheConf": 85,
       "CSS": 14908,
       "HTML": 4553385,
-      "PHP": 2933139
+      "PHP": 2933329
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
@@ -4891,7 +4891,7 @@
     "url": "https://api.github.com/repos/teia-tw/drinking_water"
   },
   "tka/ideapool": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/tka/ideapool",
     "languages": {
       "CSS": 198,
@@ -4906,7 +4906,7 @@
     "url": "https://api.github.com/repos/tka/ideapool"
   },
   "tommy87166/tommy87166.github.io": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/tommy87166/tommy87166.github.io",
     "languages": {
       "HTML": 37814,
