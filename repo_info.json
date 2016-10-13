@@ -118,7 +118,7 @@
     "url": "https://api.github.com/repos/chungheng/g0v"
   },
   "councilor2014/councilor2014.github.io": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/councilor2014/councilor2014.github.io",
     "languages": {
       "CSS": 1035483,
@@ -145,7 +145,7 @@
     "url": "https://api.github.com/repos/ctiml/campaign-finance.g0v.ctiml.tw"
   },
   "ctiml/vote2014": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/ctiml/vote2014",
     "languages": {
       "CSS": 1223,
@@ -248,7 +248,7 @@
     "url": "https://api.github.com/repos/g0v/3du.tw"
   },
   "g0v/5050": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/5050",
     "languages": {
       "CSS": 2998,
@@ -601,7 +601,7 @@
     "url": "https://api.github.com/repos/g0v/TWLegislativeYuanData"
   },
   "g0v/TWRadiationAndroid": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/TWRadiationAndroid",
     "languages": {
       "Java": 463032
@@ -625,7 +625,7 @@
     "url": "https://api.github.com/repos/g0v/TWRadiationApp"
   },
   "g0v/TWRadiationApp-backend": {
-    "description": "",
+    "description": null,
     "g0vjson_filename": "g0v`TWRadiationApp-backend`g0v.json",
     "html_url": "https://github.com/g0v/TWRadiationApp-backend",
     "languages": {
@@ -640,7 +640,7 @@
     "url": "https://api.github.com/repos/g0v/TWRadiationApp-backend"
   },
   "g0v/TWRadiationMapRestApi": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/TWRadiationMapRestApi",
     "languages": {},
     "name": "TWRadiationMapRestApi",
@@ -710,7 +710,7 @@
     "url": "https://api.github.com/repos/g0v/addressbook-frontend"
   },
   "g0v/addressbook-grano": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/addressbook-grano",
     "languages": {
       "Ruby": 4800
@@ -843,7 +843,7 @@
     "url": "https://api.github.com/repos/g0v/aqx-graphite"
   },
   "g0v/ask-sorting-statements": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/ask-sorting-statements",
     "languages": {
       "CSS": 7219,
@@ -888,7 +888,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2016-10-10T18:18:20Z",
+    "updated_at": "2016-10-13T05:28:35Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -915,7 +915,7 @@
     "url": "https://api.github.com/repos/g0v/b0t-hubot"
   },
   "g0v/bMagic": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/bMagic",
     "languages": {
       "CSS": 747952,
@@ -952,7 +952,7 @@
     "url": "https://api.github.com/repos/g0v/bill-nicknames"
   },
   "g0v/blood": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/blood",
     "languages": {
       "JavaScript": 2077
@@ -1132,7 +1132,7 @@
     "url": "https://api.github.com/repos/g0v/codeforwelfare"
   },
   "g0v/color": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/color",
     "languages": {
       "CSS": 1988,
@@ -1244,7 +1244,7 @@
     "url": "https://api.github.com/repos/g0v/crowdfunding-gitbook"
   },
   "g0v/crowdfunding-ref1-gitbook": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/crowdfunding-ref1-gitbook",
     "languages": {
       "JavaScript": 161
@@ -1518,7 +1518,7 @@
     "url": "https://api.github.com/repos/g0v/don-republic"
   },
   "g0v/don-republic-mockup": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/don-republic-mockup",
     "languages": {
       "CSS": 35439,
@@ -1625,7 +1625,7 @@
     "url": "https://api.github.com/repos/g0v/env.g0v.tw"
   },
   "g0v/epa-data": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/epa-data",
     "languages": {
       "LiveScript": 4211,
@@ -1637,7 +1637,7 @@
     "url": "https://api.github.com/repos/g0v/epa-data"
   },
   "g0v/er-map": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/er-map",
     "languages": {
       "JavaScript": 7703,
@@ -1671,7 +1671,7 @@
     "url": "https://api.github.com/repos/g0v/esly"
   },
   "g0v/esmoe": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/esmoe",
     "languages": {
       "Perl": 5770
@@ -1717,7 +1717,7 @@
     "url": "https://api.github.com/repos/g0v/excel-data-tool"
   },
   "g0v/facebook2parse": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/facebook2parse",
     "languages": {
       "CSS": 1161,
@@ -1753,7 +1753,7 @@
     "url": "https://api.github.com/repos/g0v/farmers"
   },
   "g0v/foundationtw": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/foundationtw",
     "languages": {
       "PHP": 175463
@@ -1866,7 +1866,7 @@
     "url": "https://api.github.com/repos/g0v/g0v.json"
   },
   "g0v/g0v.today": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/g0v.today",
     "languages": {
       "CSS": 357150,
@@ -1922,7 +1922,7 @@
     "url": "https://api.github.com/repos/g0v/g0vTxT"
   },
   "g0v/g0vcaptcha": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/g0vcaptcha",
     "languages": {
       "HTML": 315,
@@ -1986,7 +1986,7 @@
     "url": "https://api.github.com/repos/g0v/g0vis"
   },
   "g0v/g0vkeyword": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/g0vkeyword",
     "languages": {
       "JavaScript": 61752,
@@ -2036,7 +2036,7 @@
     "url": "https://api.github.com/repos/g0v/generator-g0v-webapp"
   },
   "g0v/gitbook-plugin-discourse": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/gitbook-plugin-discourse",
     "languages": {
       "JavaScript": 3397
@@ -2118,7 +2118,7 @@
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
   },
   "g0v/hackeditr": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/hackeditr",
     "languages": {
       "CSS": 1480,
@@ -2235,7 +2235,7 @@
     "url": "https://api.github.com/repos/g0v/i64885"
   },
   "g0v/i69": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/i69",
     "languages": {},
     "name": "i69",
@@ -2349,7 +2349,7 @@
     "languages": {
       "CSS": 2230,
       "HTML": 2615,
-      "JavaScript": 491003,
+      "JavaScript": 491173,
       "Python": 20592,
       "VimL": 47
     },
@@ -2372,7 +2372,7 @@
     "url": "https://api.github.com/repos/g0v/ivod-download-client"
   },
   "g0v/ivod.ly.g0v.tw": {
-    "description": "",
+    "description": null,
     "g0vjson_filename": "g0v`ivod.ly.g0v.tw`g0v.json",
     "html_url": "https://github.com/g0v/ivod.ly.g0v.tw",
     "languages": {
@@ -2541,7 +2541,7 @@
     "url": "https://api.github.com/repos/g0v/laweasyread"
   },
   "g0v/laweasyread-data": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/laweasyread-data",
     "languages": {
       "CSS": 150,
@@ -2625,7 +2625,7 @@
     "url": "https://api.github.com/repos/g0v/liquid_feedback_frontend"
   },
   "g0v/listening": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/listening",
     "languages": {
       "JavaScript": 24439,
@@ -2649,7 +2649,7 @@
     "url": "https://api.github.com/repos/g0v/listening-data"
   },
   "g0v/listening_api": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/listening_api",
     "languages": {
       "CSS": 719,
@@ -2663,7 +2663,7 @@
     "url": "https://api.github.com/repos/g0v/listening_api"
   },
   "g0v/listening_test": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/listening_test",
     "languages": {
       "JavaScript": 61208
@@ -2688,7 +2688,7 @@
     "url": "https://api.github.com/repos/g0v/live"
   },
   "g0v/live_teach": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/live_teach",
     "languages": {},
     "name": "live_teach",
@@ -3146,7 +3146,7 @@
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/newsplanet",
     "languages": {},
     "name": "newsplanet",
@@ -3220,7 +3220,7 @@
     "url": "https://api.github.com/repos/g0v/oh-my-hub"
   },
   "g0v/openingparliament": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/openingparliament",
     "languages": {
       "CSS": 15575,
@@ -3245,7 +3245,7 @@
     "url": "https://api.github.com/repos/g0v/p0st-data"
   },
   "g0v/padnews": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/padnews",
     "languages": {
       "LiveScript": 2525
@@ -3373,7 +3373,7 @@
     "url": "https://api.github.com/repos/g0v/photos"
   },
   "g0v/pirate_feedback_ui_redesign": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/pirate_feedback_ui_redesign",
     "languages": {
       "JavaScript": 5424,
@@ -3468,7 +3468,7 @@
     "url": "https://api.github.com/repos/g0v/president-process"
   },
   "g0v/process-bulletin-cec-pdf": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/process-bulletin-cec-pdf",
     "languages": {
       "Perl": 13103
@@ -3740,7 +3740,7 @@
     "url": "https://api.github.com/repos/g0v/slack-irc-plugin"
   },
   "g0v/slap": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/slap",
     "languages": {},
     "name": "slap",
@@ -3757,7 +3757,7 @@
     "url": "https://api.github.com/repos/g0v/sticker-story"
   },
   "g0v/stop-taiwan-sopa": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/stop-taiwan-sopa",
     "languages": {
       "Ruby": 1369
@@ -3987,7 +3987,7 @@
     "url": "https://api.github.com/repos/g0v/tmsearch"
   },
   "g0v/tv4mobile": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/tv4mobile",
     "languages": {
       "CSS": 164337,
@@ -4143,7 +4143,7 @@
     "url": "https://api.github.com/repos/g0v/twlyparser"
   },
   "g0v/twlyreader-prototype": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/twlyreader-prototype",
     "languages": {
       "JavaScript": 120033,
@@ -4486,7 +4486,7 @@
     "url": "https://api.github.com/repos/junsuwhy/ly-tel"
   },
   "kevinphys/BatDrone": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/kevinphys/BatDrone",
     "languages": {
       "CSS": 44556,
@@ -4641,7 +4641,7 @@
     "url": "https://api.github.com/repos/nansenat16/jobhelper-mobile"
   },
   "nccu-floodfire/news-seg": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/nccu-floodfire/news-seg",
     "languages": {
       "ApacheConf": 356,
@@ -4752,7 +4752,7 @@
     "url": "https://api.github.com/repos/ronnywang/lagnews"
   },
   "ronnywang/newsdiff": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/ronnywang/newsdiff",
     "languages": {
       "ApacheConf": 111,
@@ -4817,7 +4817,7 @@
     "url": "https://api.github.com/repos/ronnywang/tw-campaign-finance"
   },
   "ronnywang/tw-court-parser": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/ronnywang/tw-court-parser",
     "languages": {
       "HTML": 4236,
@@ -4835,7 +4835,7 @@
       "ApacheConf": 85,
       "CSS": 14908,
       "HTML": 4553385,
-      "PHP": 2932854
+      "PHP": 2933139
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
@@ -4854,7 +4854,7 @@
     "url": "https://api.github.com/repos/ronnywang/vote2014"
   },
   "soidid/soidid.github.io": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/soidid/soidid.github.io",
     "languages": {
       "CSS": 957702,
@@ -4954,7 +4954,7 @@
     "url": "https://api.github.com/repos/yllan/newshelper-safari"
   },
   "zbryikt/g0vphotos": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/zbryikt/g0vphotos",
     "languages": {
       "CSS": 6930,
