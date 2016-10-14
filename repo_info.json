@@ -1221,9 +1221,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 47858,
-      "HTML": 212055,
+      "HTML": 212499,
       "JavaScript": 92126,
-      "Python": 485549,
+      "Python": 485769,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -1832,7 +1832,7 @@
     "url": "https://api.github.com/repos/g0v/g0v.asia"
   },
   "g0v/g0v.github.io": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/g0v.github.io",
     "languages": {
       "HTML": 56
@@ -1898,7 +1898,7 @@
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/g0v/g0vHackpads2PadagraphIO",
     "languages": {
       "Python": 6635
@@ -4297,12 +4297,12 @@
     "languages": {
       "CSS": 247,
       "HTML": 705,
-      "JavaScript": 10935,
+      "JavaScript": 12671,
       "Vue": 8289
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2016-10-08T10:27:15Z",
+    "updated_at": "2016-10-13T23:03:17Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -4701,7 +4701,7 @@
     "url": "https://api.github.com/repos/ronnywang/data.g0v.ronny.tw"
   },
   "ronnywang/dev-env": {
-    "description": "",
+    "description": null,
     "html_url": "https://github.com/ronnywang/dev-env",
     "languages": {
       "HTML": 17587,
