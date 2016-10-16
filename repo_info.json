@@ -515,7 +515,7 @@
     "languages": {
       "CSS": 23,
       "HTML": 1366,
-      "JavaScript": 6668,
+      "JavaScript": 10436,
       "SuperCollider": 642
     },
     "name": "OneButton-server-js",
@@ -675,10 +675,11 @@
     "g0vjson_filename": "g0v`abroadplay`g0v.json",
     "html_url": "https://github.com/g0v/abroadplay",
     "languages": {
+      "ApacheConf": 149,
       "CSS": 38957,
-      "JavaScript": 20186,
-      "PHP": 1292919,
-      "Perl": 26
+      "HTML": 35935,
+      "JavaScript": 20063,
+      "PHP": 1292919
     },
     "name": "abroadplay",
     "readme_filename": "g0v`abroadplay`README.md",
@@ -936,9 +937,9 @@
     "description": "BeSafe: 災害警示公開資料彙整",
     "html_url": "https://github.com/g0v/beSafe",
     "languages": {
-      "CSS": 531,
-      "HTML": 2046,
-      "JavaScript": 3687449
+      "CSS": 590,
+      "HTML": 2178,
+      "JavaScript": 3689421
     },
     "name": "beSafe",
     "readme_filename": "g0v`beSafe`README.md",
@@ -1375,6 +1376,7 @@
   },
   "g0v/dc.vtaiwan.tw": {
     "description": "匯流五法：線上徵詢",
+    "g0vjson_filename": "g0v`dc.vtaiwan.tw`g0v.json",
     "html_url": "https://github.com/g0v/dc.vtaiwan.tw",
     "languages": {
       "CSS": 37366,
@@ -1859,13 +1861,14 @@
   },
   "g0v/g0v.json": {
     "description": "The specification of g0v.json",
+    "g0vjson_filename": "g0v`g0v.json`g0v.json",
     "html_url": "https://github.com/g0v/g0v.json",
     "languages": {
       "JavaScript": 247
     },
     "name": "g0v.json",
     "readme_filename": "g0v`g0v.json`README.md",
-    "updated_at": "2016-09-07T15:08:37Z",
+    "updated_at": "2016-10-16T00:41:00Z",
     "url": "https://api.github.com/repos/g0v/g0v.json"
   },
   "g0v/g0v.today": {
@@ -2108,7 +2111,7 @@
       "CSS": 16133,
       "GCC Machine Description": 36230,
       "Groff": 7908,
-      "HTML": 81526,
+      "HTML": 81716,
       "JavaScript": 11619,
       "LiveScript": 57675,
       "Makefile": 1635,
@@ -2224,7 +2227,7 @@
     },
     "name": "hub",
     "readme_filename": "g0v`hub`README.md",
-    "updated_at": "2016-10-09T01:08:03Z",
+    "updated_at": "2016-10-15T06:37:51Z",
     "url": "https://api.github.com/repos/g0v/hub"
   },
   "g0v/i64885": {
@@ -2358,7 +2361,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2016-10-01T06:41:37Z",
+    "updated_at": "2016-10-15T09:28:35Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3596,6 +3599,7 @@
   },
   "g0v/react.vtaiwan.tw": {
     "description": "行政院法規線上諮詢系統 界面 2.0",
+    "g0vjson_filename": "g0v`react.vtaiwan.tw`g0v.json",
     "html_url": "https://github.com/g0v/react.vtaiwan.tw",
     "languages": {
       "CSS": 37548,
@@ -3645,14 +3649,16 @@
   },
   "g0v/reporter": {
     "description": "公民記者證列印",
+    "g0vjson_filename": "g0v`reporter`g0v.json",
     "html_url": "https://github.com/g0v/reporter",
     "languages": {
       "CSS": 24701,
+      "HTML": 15281,
       "JavaScript": 1572
     },
     "name": "reporter",
     "readme_filename": "g0v`reporter`README.md",
-    "updated_at": "2015-07-10T04:53:05Z",
+    "updated_at": "2016-10-15T15:15:23Z",
     "url": "https://api.github.com/repos/g0v/reporter"
   },
   "g0v/research_time": {
@@ -3729,6 +3735,16 @@
     "readme_filename": "g0v`semantic-ui-experiment`README.md",
     "updated_at": "2014-01-28T20:34:19Z",
     "url": "https://api.github.com/repos/g0v/semantic-ui-experiment"
+  },
+  "g0v/slack-bot": {
+    "description": null,
+    "html_url": "https://github.com/g0v/slack-bot",
+    "languages": {
+      "JavaScript": 1049
+    },
+    "name": "slack-bot",
+    "updated_at": "2016-10-15T06:51:41Z",
+    "url": "https://api.github.com/repos/g0v/slack-bot"
   },
   "g0v/slack-irc-plugin": {
     "description": "Slack plugin to sync IRC with your slack.com account",
@@ -3833,17 +3849,19 @@
   },
   "g0v/sunflower": {
     "description": "島嶼天光學潮實紀錄 Source Code.",
+    "g0vjson_filename": "g0v`sunflower`g0v.json",
     "html_url": "https://github.com/g0v/sunflower",
     "languages": {
       "CSS": 6802,
+      "HTML": 11281,
       "JavaScript": 7214,
       "LiveScript": 1004,
       "PHP": 1479,
-      "Shell": 1193
+      "Shell": 1307
     },
     "name": "sunflower",
     "readme_filename": "g0v`sunflower`README.md",
-    "updated_at": "2014-08-02T09:16:03Z",
+    "updated_at": "2016-10-15T15:15:58Z",
     "url": "https://api.github.com/repos/g0v/sunflower"
   },
   "g0v/sunshine.cy": {
@@ -4007,13 +4025,13 @@
     "html_url": "https://github.com/g0v/twangry",
     "languages": {
       "CSS": 66530,
-      "HTML": 22121,
+      "HTML": 43081,
       "JavaScript": 714368,
       "Nginx": 1726
     },
     "name": "twangry",
     "readme_filename": "g0v`twangry`README.md",
-    "updated_at": "2016-09-06T04:14:36Z",
+    "updated_at": "2016-10-15T16:32:17Z",
     "url": "https://api.github.com/repos/g0v/twangry"
   },
   "g0v/twbot-data": {
@@ -4172,6 +4190,7 @@
   },
   "g0v/twstat": {
     "description": "Taiwan National Statistics Data",
+    "g0vjson_filename": "g0v`twstat`g0v.json",
     "html_url": "https://github.com/g0v/twstat",
     "languages": {
       "Groff": 53442,
@@ -4271,6 +4290,7 @@
   },
   "g0v/vtaiwan.tw": {
     "description": "[舊版] 行政院法規線上諮詢系統",
+    "g0vjson_filename": "g0v`vtaiwan.tw`g0v.json",
     "html_url": "https://github.com/g0v/vtaiwan.tw",
     "languages": {
       "CSS": 36870,
@@ -4301,11 +4321,11 @@
       "CSS": 148,
       "HTML": 705,
       "JavaScript": 13207,
-      "Vue": 8289
+      "Vue": 8442
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2016-10-13T23:03:17Z",
+    "updated_at": "2016-10-15T11:45:02Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -4742,20 +4762,39 @@
     "updated_at": "2016-09-22T09:01:12Z",
     "url": "https://api.github.com/repos/ronnywang/jobhelper"
   },
+  "ronnywang/judicial-easyer": {
+    "description": null,
+    "g0vjson_filename": "ronnywang`judicial-easyer`g0v.json",
+    "html_url": "https://github.com/ronnywang/judicial-easyer",
+    "languages": {
+      "ApacheConf": 56,
+      "CSS": 2401,
+      "JavaScript": 24072,
+      "PHP": 14547
+    },
+    "name": "judicial-easyer",
+    "readme_filename": "ronnywang`judicial-easyer`README.md",
+    "updated_at": "2016-05-10T16:37:57Z",
+    "url": "https://api.github.com/repos/ronnywang/judicial-easyer"
+  },
   "ronnywang/lagnews": {
     "description": "LagNews腿新聞",
+    "g0vjson_filename": "ronnywang`lagnews`g0v.json",
     "html_url": "https://github.com/ronnywang/lagnews",
     "languages": {
+      "ApacheConf": 82,
       "CSS": 14908,
+      "HTML": 4516250,
       "PHP": 491391
     },
     "name": "lagnews",
     "readme_filename": "ronnywang`lagnews`README",
-    "updated_at": "2016-07-24T04:56:33Z",
+    "updated_at": "2016-10-15T08:30:03Z",
     "url": "https://api.github.com/repos/ronnywang/lagnews"
   },
   "ronnywang/newsdiff": {
     "description": null,
+    "g0vjson_filename": "ronnywang`newsdiff`g0v.json",
     "html_url": "https://github.com/ronnywang/newsdiff",
     "languages": {
       "ApacheConf": 111,
@@ -4771,14 +4810,17 @@
   },
   "ronnywang/newstrend.g0v.ronny.tw": {
     "description": "newstrend.g0v.ronny.tw",
+    "g0vjson_filename": "ronnywang`newstrend.g0v.ronny.tw`g0v.json",
     "html_url": "https://github.com/ronnywang/newstrend.g0v.ronny.tw",
     "languages": {
+      "ApacheConf": 82,
       "CSS": 14908,
+      "HTML": 4521256,
       "PHP": 371440
     },
     "name": "newstrend.g0v.ronny.tw",
     "readme_filename": "ronnywang`newstrend.g0v.ronny.tw`README.md",
-    "updated_at": "2016-04-04T08:36:02Z",
+    "updated_at": "2016-10-15T08:29:33Z",
     "url": "https://api.github.com/repos/ronnywang/newstrend.g0v.ronny.tw"
   },
   "ronnywang/taiwan-address-lookup": {
@@ -4795,6 +4837,7 @@
   },
   "ronnywang/taiwan-cabinet": {
     "description": "台灣內閣記錄",
+    "g0vjson_filename": "ronnywang`taiwan-cabinet`g0v.json",
     "html_url": "https://github.com/ronnywang/taiwan-cabinet",
     "languages": {
       "HTML": 7355,
@@ -4818,18 +4861,6 @@
     "readme_filename": "ronnywang`tw-campaign-finance`README.md",
     "updated_at": "2016-01-12T01:47:24Z",
     "url": "https://api.github.com/repos/ronnywang/tw-campaign-finance"
-  },
-  "ronnywang/tw-court-parser": {
-    "description": null,
-    "html_url": "https://github.com/ronnywang/tw-court-parser",
-    "languages": {
-      "HTML": 4236,
-      "JavaScript": 18449
-    },
-    "name": "tw-court-parser",
-    "readme_filename": "ronnywang`tw-court-parser`README.md",
-    "updated_at": "2016-05-10T15:50:42Z",
-    "url": "https://api.github.com/repos/ronnywang/tw-court-parser"
   },
   "ronnywang/twcompany": {
     "description": "台灣統一編號資料",

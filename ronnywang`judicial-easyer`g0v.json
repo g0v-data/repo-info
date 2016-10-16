@@ -1,0 +1,40 @@
+{
+  "author": "ronnywang",
+  "status": "Released",
+  "name": "judicial-easyer",
+  "name_zh": "判決書小幫手",
+  "description": "",
+  "description_zh": 因為司法院法學資料庫有擋外連， 使得判決書難以分享討論，這邊幫判決書可以產生短網址。",
+  "homepage": "http://judicial.ronny.tw/",
+  "document": "https://github.com/ronnywang/judicial-easyer/blob/master/README.md",
+  "thumbnail": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronnywang/judicial-easyer"
+  },
+  "licenses": [
+    {
+      "type": ""
+    }
+  ],
+  "keywords": [
+    "judicial",
+    "easyer",
+    "parser"
+  ],
+  "audience": [
+    "contributor"
+  ],
+  "products": [
+    "website"
+  ],
+  "projects": [
+    "??"
+  ],
+  "contributors": [
+    "ronnywang"
+  ],
+  "needs": [
+    ""
+  ]
+}
