@@ -1232,7 +1232,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2016-09-20T06:59:38Z",
+    "updated_at": "2016-10-17T03:30:42Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1714,7 +1714,7 @@
     "html_url": "https://github.com/g0v/excel-data-tool",
     "languages": {
       "HTML": 11134,
-      "JavaScript": 6082
+      "JavaScript": 6097
     },
     "name": "excel-data-tool",
     "readme_filename": "g0v`excel-data-tool`README.md",
@@ -3077,7 +3077,7 @@
     },
     "name": "moedict.tw",
     "readme_filename": "g0v`moedict.tw`README.md",
-    "updated_at": "2016-09-28T02:14:25Z",
+    "updated_at": "2016-10-17T06:01:05Z",
     "url": "https://api.github.com/repos/g0v/moedict.tw"
   },
   "g0v/moer.g0v.tw": {
