@@ -1833,7 +1833,7 @@
     },
     "name": "g0v.asia",
     "readme_filename": "g0v`g0v.asia`README.md",
-    "updated_at": "2016-10-21T13:54:59Z",
+    "updated_at": "2016-10-21T16:56:50Z",
     "url": "https://api.github.com/repos/g0v/g0v.asia"
   },
   "g0v/g0v.github.io": {
@@ -3645,6 +3645,18 @@
     "readme_filename": "g0v`realprice`README.md",
     "updated_at": "2013-10-26T07:42:43Z",
     "url": "https://api.github.com/repos/g0v/realprice"
+  },
+  "g0v/repo-info": {
+    "description": "整合 g0v repo 列表",
+    "html_url": "https://github.com/g0v/repo-info",
+    "languages": {
+      "Python": 7711,
+      "Shell": 571
+    },
+    "name": "repo-info",
+    "readme_filename": "g0v`repo-info`README.md",
+    "updated_at": "2016-10-21T14:13:43Z",
+    "url": "https://api.github.com/repos/g0v/repo-info"
   },
   "g0v/report": {
     "description": null,
