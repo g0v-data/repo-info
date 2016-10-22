@@ -21,3 +21,6 @@ $ mv _data/config_template.json _data/config.json
 
 ## 執行時間
 根據 repo 數量多寡而定，目前約 350+ 個 repos, 全部掃完 ≈ 4 mins.
+
+## LICENSE
+MIT
