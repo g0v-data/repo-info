@@ -1423,7 +1423,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2016-10-12T06:58:49Z",
+    "updated_at": "2016-10-24T09:37:38Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/discourse": {
@@ -1765,7 +1765,7 @@
     },
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2016-02-18T15:38:07Z",
+    "updated_at": "2016-10-24T18:01:16Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -4342,10 +4342,10 @@
     "description": "行政院法規線上諮詢系統 界面 3.0",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
-      "CSS": 148,
-      "HTML": 705,
+      "CSS": 170,
+      "HTML": 864,
       "JavaScript": 13207,
-      "Vue": 8442
+      "Vue": 10359
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4984,7 +4984,7 @@
     },
     "name": "iHelp-android",
     "readme_filename": "weitsai`iHelp-android`README.md",
-    "updated_at": "2016-06-10T06:25:42Z",
+    "updated_at": "2016-10-24T04:09:21Z",
     "url": "https://api.github.com/repos/weitsai/iHelp-android"
   },
   "yisheng-liu/jobhelper_ff": {
