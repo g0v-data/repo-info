@@ -869,7 +869,7 @@
     },
     "name": "askkk",
     "readme_filename": "g0v`askkk`README.md",
-    "updated_at": "2016-10-19T12:19:09Z",
+    "updated_at": "2016-10-25T12:04:40Z",
     "url": "https://api.github.com/repos/g0v/askkk"
   },
   "g0v/automate.tscs": {
@@ -3016,7 +3016,7 @@
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2016-10-03T13:42:10Z",
+    "updated_at": "2016-10-25T08:27:52Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -3616,11 +3616,11 @@
     "languages": {
       "CSS": 37548,
       "HTML": 15239,
-      "JavaScript": 67990
+      "JavaScript": 68876
     },
     "name": "react.vtaiwan.tw",
     "readme_filename": "g0v`react.vtaiwan.tw`README.md",
-    "updated_at": "2016-10-08T09:03:38Z",
+    "updated_at": "2016-10-25T14:00:48Z",
     "url": "https://api.github.com/repos/g0v/react.vtaiwan.tw"
   },
   "g0v/readme": {
@@ -3819,7 +3819,7 @@
     },
     "name": "style-guide",
     "readme_filename": "g0v`style-guide`README.md",
-    "updated_at": "2016-09-30T13:47:01Z",
+    "updated_at": "2016-10-25T06:07:38Z",
     "url": "https://api.github.com/repos/g0v/style-guide"
   },
   "g0v/submit": {
