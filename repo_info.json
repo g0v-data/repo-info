@@ -3580,7 +3580,7 @@
       "Shell": 28493
     },
     "name": "react-native-sample",
-    "updated_at": "2016-10-06T05:08:43Z",
+    "updated_at": "2016-10-27T10:48:25Z",
     "url": "https://api.github.com/repos/g0v/react-native-sample"
   },
   "g0v/react-zh-stroker": {
@@ -4345,7 +4345,7 @@
       "CSS": 170,
       "HTML": 864,
       "JavaScript": 13207,
-      "Vue": 10359
+      "Vue": 10535
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
