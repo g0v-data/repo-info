@@ -1827,13 +1827,13 @@
     "description": "g0v.asia landing page",
     "html_url": "https://github.com/g0v/g0v.asia",
     "languages": {
-      "CSS": 298347,
-      "HTML": 224861,
-      "JavaScript": 166467
+      "CSS": 426415,
+      "HTML": 491430,
+      "JavaScript": 209340
     },
     "name": "g0v.asia",
     "readme_filename": "g0v`g0v.asia`README.md",
-    "updated_at": "2016-10-21T16:56:50Z",
+    "updated_at": "2016-10-29T03:19:46Z",
     "url": "https://api.github.com/repos/g0v/g0v.asia"
   },
   "g0v/g0v.github.io": {
@@ -4345,7 +4345,7 @@
       "CSS": 170,
       "HTML": 864,
       "JavaScript": 13207,
-      "Vue": 10535
+      "Vue": 10570
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
