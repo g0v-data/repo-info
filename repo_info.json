@@ -3915,7 +3915,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2016-10-10T18:08:26Z",
+    "updated_at": "2016-10-30T02:54:54Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
@@ -4492,13 +4492,13 @@
     "languages": {
       "CSS": 4893,
       "HTML": 40251,
-      "JavaScript": 27886,
+      "JavaScript": 27930,
       "PHP": 9365,
       "Smarty": 11475
     },
     "name": "twlandsat-browse",
     "readme_filename": "jimyhuang`twlandsat-browse`README.md",
-    "updated_at": "2015-04-29T03:50:06Z",
+    "updated_at": "2016-10-30T06:44:44Z",
     "url": "https://api.github.com/repos/jimyhuang/twlandsat-browse"
   },
   "jsleetw/petneed.me": {
