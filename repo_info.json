@@ -1423,7 +1423,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2016-10-24T09:37:38Z",
+    "updated_at": "2016-11-02T10:59:16Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/discourse": {
@@ -2355,7 +2355,7 @@
     "languages": {
       "CSS": 2421,
       "HTML": 2152,
-      "JavaScript": 491450,
+      "JavaScript": 491578,
       "Python": 20592,
       "VimL": 47
     },
@@ -3208,7 +3208,7 @@
     },
     "name": "nuclear-data",
     "readme_filename": "g0v`nuclear-data`README.md",
-    "updated_at": "2016-06-23T08:02:07Z",
+    "updated_at": "2016-11-02T02:12:09Z",
     "url": "https://api.github.com/repos/g0v/nuclear-data"
   },
   "g0v/oh-my-hub": {
@@ -4897,7 +4897,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2016-09-06T03:04:18Z",
+    "updated_at": "2016-11-02T09:13:06Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
