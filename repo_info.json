@@ -1570,7 +1570,7 @@
     },
     "name": "editor",
     "readme_filename": "g0v`editor`README.md",
-    "updated_at": "2016-10-09T08:54:04Z",
+    "updated_at": "2016-11-05T18:26:25Z",
     "url": "https://api.github.com/repos/g0v/editor"
   },
   "g0v/eia_crawler": {
@@ -2870,7 +2870,7 @@
     },
     "name": "magic-mirror",
     "readme_filename": "g0v`magic-mirror`README.md",
-    "updated_at": "2016-02-07T15:33:09Z",
+    "updated_at": "2016-11-05T16:52:16Z",
     "url": "https://api.github.com/repos/g0v/magic-mirror"
   },
   "g0v/mapView": {
@@ -3129,11 +3129,11 @@
       "PHP": 1471232,
       "Perl": 3794,
       "Python": 16292,
-      "Shell": 4721
+      "Shell": 4761
     },
     "name": "newshelper-backend",
     "readme_filename": "g0v`newshelper-backend`README.md",
-    "updated_at": "2016-10-03T08:04:23Z",
+    "updated_at": "2016-11-05T20:05:25Z",
     "url": "https://api.github.com/repos/g0v/newshelper-backend"
   },
   "g0v/newshelper-extension": {
