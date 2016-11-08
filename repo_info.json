@@ -1423,7 +1423,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2016-11-02T10:59:16Z",
+    "updated_at": "2016-11-08T02:44:03Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/discourse": {
@@ -3580,7 +3580,7 @@
       "Shell": 28493
     },
     "name": "react-native-sample",
-    "updated_at": "2016-10-27T10:48:25Z",
+    "updated_at": "2016-11-08T08:59:02Z",
     "url": "https://api.github.com/repos/g0v/react-native-sample"
   },
   "g0v/react-zh-stroker": {
@@ -3588,12 +3588,12 @@
     "html_url": "https://github.com/g0v/react-zh-stroker",
     "languages": {
       "HTML": 441,
-      "JavaScript": 1406026,
-      "LiveScript": 13835
+      "JavaScript": 1406625,
+      "LiveScript": 14176
     },
     "name": "react-zh-stroker",
     "readme_filename": "g0v`react-zh-stroker`README.md",
-    "updated_at": "2016-02-23T20:30:31Z",
+    "updated_at": "2016-11-08T20:43:18Z",
     "url": "https://api.github.com/repos/g0v/react-zh-stroker"
   },
   "g0v/react.addressbook": {
