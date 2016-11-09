@@ -3429,14 +3429,14 @@
     "description": "create an osm map that can be collaboratively built by collecting url's of remote geojson/gpx/csv pages, each of which can be independently edited.",
     "html_url": "https://github.com/g0v/potluckmap",
     "languages": {
-      "CSS": 9809,
-      "HTML": 23551,
-      "JavaScript": 25556,
+      "CSS": 19992,
+      "HTML": 23371,
+      "JavaScript": 67269,
       "PHP": 1463
     },
     "name": "potluckmap",
     "readme_filename": "g0v`potluckmap`README.md",
-    "updated_at": "2016-09-12T16:00:47Z",
+    "updated_at": "2016-11-09T04:26:30Z",
     "url": "https://api.github.com/repos/g0v/potluckmap"
   },
   "g0v/powergrid": {
