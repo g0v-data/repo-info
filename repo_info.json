@@ -2355,7 +2355,7 @@
     "languages": {
       "CSS": 2421,
       "HTML": 2152,
-      "JavaScript": 491578,
+      "JavaScript": 491331,
       "Python": 20592,
       "VimL": 47
     },
@@ -4111,7 +4111,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2016-11-10T08:08:22Z",
+    "updated_at": "2016-11-11T01:49:21Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
