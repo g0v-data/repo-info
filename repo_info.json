@@ -2355,7 +2355,7 @@
     "languages": {
       "CSS": 2421,
       "HTML": 2152,
-      "JavaScript": 491331,
+      "JavaScript": 492765,
       "Python": 20592,
       "VimL": 47
     },
@@ -3436,7 +3436,7 @@
     },
     "name": "potluckmap",
     "readme_filename": "g0v`potluckmap`README.md",
-    "updated_at": "2016-11-09T04:26:30Z",
+    "updated_at": "2016-11-12T02:45:41Z",
     "url": "https://api.github.com/repos/g0v/potluckmap"
   },
   "g0v/powergrid": {
@@ -4345,11 +4345,11 @@
       "CSS": 170,
       "HTML": 864,
       "JavaScript": 13207,
-      "Vue": 10570
+      "Vue": 12239
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2016-11-04T09:04:22Z",
+    "updated_at": "2016-11-12T09:08:48Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -4491,8 +4491,8 @@
     "html_url": "https://github.com/jimyhuang/twlandsat-browse",
     "languages": {
       "CSS": 4893,
-      "HTML": 40251,
-      "JavaScript": 27930,
+      "HTML": 52356,
+      "JavaScript": 28068,
       "PHP": 9365,
       "Smarty": 11475
     },
@@ -4984,7 +4984,7 @@
     },
     "name": "iHelp-android",
     "readme_filename": "weitsai`iHelp-android`README.md",
-    "updated_at": "2016-10-24T04:09:21Z",
+    "updated_at": "2016-11-12T15:58:09Z",
     "url": "https://api.github.com/repos/weitsai/iHelp-android"
   },
   "yisheng-liu/jobhelper_ff": {
