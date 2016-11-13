@@ -3915,7 +3915,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2016-10-30T02:54:54Z",
+    "updated_at": "2016-11-13T14:16:44Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
@@ -3943,6 +3943,15 @@
     "readme_filename": "g0v`telemedicine-gitbook`README.md",
     "updated_at": "2015-08-05T09:22:10Z",
     "url": "https://api.github.com/repos/g0v/telemedicine-gitbook"
+  },
+  "g0v/telemedicine-ref1-gitbook": {
+    "description": "legal reform reference as to online drugstore ",
+    "html_url": "https://github.com/g0v/telemedicine-ref1-gitbook",
+    "languages": {},
+    "name": "telemedicine-ref1-gitbook",
+    "readme_filename": "g0v`telemedicine-ref1-gitbook`README.md",
+    "updated_at": "2016-11-13T13:16:47Z",
+    "url": "https://api.github.com/repos/g0v/telemedicine-ref1-gitbook"
   },
   "g0v/telework-gitbook": {
     "description": "vTaiwan 數位生活：電傳勞動",
