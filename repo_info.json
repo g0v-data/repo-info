@@ -70,14 +70,14 @@
     "html_url": "https://github.com/billy3321/billy3321.github.io",
     "languages": {
       "CSS": 38954,
-      "HTML": 507836,
+      "HTML": 507848,
       "JavaScript": 6238,
       "PostScript": 22199,
       "Ruby": 607
     },
     "name": "billy3321.github.io",
     "readme_filename": "billy3321`billy3321.github.io`README.md",
-    "updated_at": "2016-01-12T14:40:04Z",
+    "updated_at": "2016-11-14T02:58:39Z",
     "url": "https://api.github.com/repos/billy3321/billy3321.github.io"
   },
   "cades/taipei-building-has-reward": {
@@ -4164,7 +4164,7 @@
     },
     "name": "twly-voter-guide",
     "readme_filename": "g0v`twly-voter-guide`README.md",
-    "updated_at": "2016-10-28T14:27:22Z",
+    "updated_at": "2016-11-14T16:10:37Z",
     "url": "https://api.github.com/repos/g0v/twly-voter-guide"
   },
   "g0v/twly_crawler": {
@@ -4354,11 +4354,11 @@
       "CSS": 170,
       "HTML": 864,
       "JavaScript": 13207,
-      "Vue": 12239
+      "Vue": 13355
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2016-11-12T09:08:48Z",
+    "updated_at": "2016-11-14T06:02:40Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -4548,13 +4548,11 @@
       "CSS": 44556,
       "HTML": 2434576,
       "Java": 48129,
-      "JavaScript": 3111,
-      "Objective-C": 99338,
-      "Ruby": 149
+      "JavaScript": 3111
     },
     "name": "BatDrone",
     "readme_filename": "kevinphys`BatDrone`README.md",
-    "updated_at": "2015-08-22T06:49:30Z",
+    "updated_at": "2016-11-14T19:19:32Z",
     "url": "https://api.github.com/repos/kevinphys/BatDrone"
   },
   "kiang/chimney_map": {
