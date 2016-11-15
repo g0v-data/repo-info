@@ -1315,7 +1315,7 @@
     },
     "name": "data-design",
     "readme_filename": "g0v`data-design`README.md",
-    "updated_at": "2016-08-14T03:28:04Z",
+    "updated_at": "2016-11-15T09:54:07Z",
     "url": "https://api.github.com/repos/g0v/data-design"
   },
   "g0v/data-levy-act1-gitbook": {
@@ -1423,7 +1423,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2016-11-08T02:44:03Z",
+    "updated_at": "2016-11-15T15:08:03Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/discourse": {
@@ -4351,14 +4351,14 @@
     "description": "行政院法規線上諮詢系統 界面 3.0",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
-      "CSS": 170,
+      "CSS": 168,
       "HTML": 864,
-      "JavaScript": 13207,
-      "Vue": 13355
+      "JavaScript": 13199,
+      "Vue": 13264
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2016-11-14T06:02:40Z",
+    "updated_at": "2016-11-14T22:36:25Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -4904,7 +4904,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2016-11-02T09:13:06Z",
+    "updated_at": "2016-11-15T03:34:07Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
