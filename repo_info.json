@@ -2361,7 +2361,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2016-11-18T10:41:56Z",
+    "updated_at": "2016-11-19T01:37:08Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4318,7 +4318,7 @@
     },
     "name": "victim",
     "readme_filename": "g0v`victim`README.md",
-    "updated_at": "2016-09-21T02:07:52Z",
+    "updated_at": "2016-11-19T04:04:55Z",
     "url": "https://api.github.com/repos/g0v/victim"
   },
   "g0v/vtaiwan.tw": {
@@ -4353,8 +4353,8 @@
     "languages": {
       "CSS": 168,
       "HTML": 864,
-      "JavaScript": 13199,
-      "Vue": 13264
+      "JavaScript": 13221,
+      "Vue": 16169
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
