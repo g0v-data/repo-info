@@ -2975,7 +2975,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2016-08-05T07:00:48Z",
+    "updated_at": "2016-11-24T22:03:39Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -4362,7 +4362,7 @@
       "CSS": 168,
       "HTML": 864,
       "JavaScript": 13221,
-      "Vue": 20446
+      "Vue": 20349
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
