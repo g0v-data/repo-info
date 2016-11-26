@@ -1418,7 +1418,7 @@
     },
     "name": "design-guide",
     "readme_filename": "g0v`design-guide`README.md",
-    "updated_at": "2016-10-16T05:00:50Z",
+    "updated_at": "2016-11-26T12:17:41Z",
     "url": "https://api.github.com/repos/g0v/design-guide"
   },
   "g0v/dev": {
@@ -1800,6 +1800,15 @@
     "name": "g0v-call-liwei",
     "updated_at": "2016-07-23T12:58:49Z",
     "url": "https://api.github.com/repos/g0v/g0v-call-liwei"
+  },
+  "g0v/g0v-news-gd": {
+    "description": "g0v news graphic design.",
+    "html_url": "https://github.com/g0v/g0v-news-gd",
+    "languages": {},
+    "name": "g0v-news-gd",
+    "readme_filename": "g0v`g0v-news-gd`README.md",
+    "updated_at": "2016-11-26T16:15:40Z",
+    "url": "https://api.github.com/repos/g0v/g0v-news-gd"
   },
   "g0v/g0v-paradise": {
     "description": "vagrant settings for g0v box",
@@ -2361,7 +2370,7 @@
     "description": "新台語·運動",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 2495,
+      "CSS": 2517,
       "HTML": 2152,
       "JavaScript": 498908,
       "Python": 20592,
@@ -3601,7 +3610,7 @@
     },
     "name": "react-zh-stroker",
     "readme_filename": "g0v`react-zh-stroker`README.md",
-    "updated_at": "2016-11-08T20:43:18Z",
+    "updated_at": "2016-11-26T12:18:05Z",
     "url": "https://api.github.com/repos/g0v/react-zh-stroker"
   },
   "g0v/react.addressbook": {
@@ -4362,7 +4371,7 @@
       "CSS": 168,
       "HTML": 864,
       "JavaScript": 13221,
-      "Vue": 20349
+      "Vue": 22472
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
