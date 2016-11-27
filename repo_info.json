@@ -1804,10 +1804,12 @@
   "g0v/g0v-news-gd": {
     "description": "g0v news graphic design.",
     "html_url": "https://github.com/g0v/g0v-news-gd",
-    "languages": {},
+    "languages": {
+      "CSS": 2549
+    },
     "name": "g0v-news-gd",
     "readme_filename": "g0v`g0v-news-gd`README.md",
-    "updated_at": "2016-11-26T16:15:40Z",
+    "updated_at": "2016-11-27T06:14:10Z",
     "url": "https://api.github.com/repos/g0v/g0v-news-gd"
   },
   "g0v/g0v-paradise": {
@@ -4368,10 +4370,10 @@
     "description": "行政院法規線上諮詢系統 界面 3.0",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
-      "CSS": 168,
+      "CSS": 352,
       "HTML": 864,
-      "JavaScript": 13221,
-      "Vue": 22472
+      "JavaScript": 13457,
+      "Vue": 25573
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
