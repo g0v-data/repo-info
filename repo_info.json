@@ -71,7 +71,7 @@
     "languages": {
       "CSS": 35065,
       "HTML": 437961,
-      "JavaScript": 6238,
+      "JavaScript": 6463,
       "Ruby": 607
     },
     "name": "billy3321.github.io",
@@ -2843,11 +2843,11 @@
     "languages": {
       "CSS": 939,
       "HTML": 2285,
-      "JavaScript": 5174
+      "JavaScript": 5425
     },
     "name": "ly-tel",
     "readme_filename": "g0v`ly-tel`README.md",
-    "updated_at": "2016-10-02T07:12:43Z",
+    "updated_at": "2016-11-28T10:04:57Z",
     "url": "https://api.github.com/repos/g0v/ly-tel"
   },
   "g0v/ly-vote": {
@@ -2986,7 +2986,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2016-11-24T22:03:39Z",
+    "updated_at": "2016-11-28T11:43:32Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -4212,7 +4212,7 @@
     },
     "name": "twlyparser",
     "readme_filename": "g0v`twlyparser`README.md",
-    "updated_at": "2016-08-14T03:33:49Z",
+    "updated_at": "2016-11-28T09:37:28Z",
     "url": "https://api.github.com/repos/g0v/twlyparser"
   },
   "g0v/twlyreader-prototype": {
