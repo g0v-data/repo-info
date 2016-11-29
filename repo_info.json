@@ -71,7 +71,7 @@
     "languages": {
       "CSS": 35065,
       "HTML": 437961,
-      "JavaScript": 6463,
+      "JavaScript": 6483,
       "Ruby": 607
     },
     "name": "billy3321.github.io",
@@ -514,7 +514,7 @@
     "languages": {
       "CSS": 23,
       "HTML": 1366,
-      "JavaScript": 12368,
+      "JavaScript": 12158,
       "SuperCollider": 642
     },
     "name": "OneButton-server-js",
@@ -4330,7 +4330,7 @@
     "html_url": "https://github.com/g0v/victim",
     "languages": {
       "Java": 47624,
-      "JavaScript": 58420,
+      "JavaScript": 136919,
       "Objective-C": 422402,
       "Python": 1499,
       "Shell": 7124
