@@ -4330,7 +4330,7 @@
     "html_url": "https://github.com/g0v/victim",
     "languages": {
       "Java": 47624,
-      "JavaScript": 136919,
+      "JavaScript": 142862,
       "Objective-C": 422402,
       "Python": 1499,
       "Shell": 7124
@@ -4855,7 +4855,7 @@
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
-    "updated_at": "2016-06-16T07:48:24Z",
+    "updated_at": "2016-11-30T09:19:12Z",
     "url": "https://api.github.com/repos/ronnywang/newsdiff"
   },
   "ronnywang/newstrend.g0v.ronny.tw": {
