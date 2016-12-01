@@ -2374,7 +2374,7 @@
     "languages": {
       "CSS": 2517,
       "HTML": 2152,
-      "JavaScript": 498908,
+      "JavaScript": 498909,
       "Python": 20592,
       "VimL": 47
     },
@@ -4839,7 +4839,7 @@
     },
     "name": "lagnews",
     "readme_filename": "ronnywang`lagnews`README",
-    "updated_at": "2016-10-15T08:30:03Z",
+    "updated_at": "2016-11-30T22:01:04Z",
     "url": "https://api.github.com/repos/ronnywang/lagnews"
   },
   "ronnywang/newsdiff": {
