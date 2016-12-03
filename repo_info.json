@@ -871,15 +871,6 @@
     "updated_at": "2016-10-25T12:04:40Z",
     "url": "https://api.github.com/repos/g0v/askkk"
   },
-  "g0v/asset_secured_regulation": {
-    "description": "企業資產擔保法草案意見徵集",
-    "html_url": "https://github.com/g0v/asset_secured_regulation",
-    "languages": {},
-    "name": "asset_secured_regulation",
-    "readme_filename": "g0v`asset_secured_regulation`README.md",
-    "updated_at": "2016-11-21T02:45:46Z",
-    "url": "https://api.github.com/repos/g0v/asset_secured_regulation"
-  },
   "g0v/automate.tscs": {
     "description": "Semi-automate Taiwan Social Change Survey cross-year result",
     "html_url": "https://github.com/g0v/automate.tscs",
@@ -1107,7 +1098,7 @@
     },
     "name": "closelyheld-ref1-gitbook",
     "readme_filename": "g0v`closelyheld-ref1-gitbook`README.md",
-    "updated_at": "2015-03-01T13:33:09Z",
+    "updated_at": "2016-12-03T07:57:14Z",
     "url": "https://api.github.com/repos/g0v/closelyheld-ref1-gitbook"
   },
   "g0v/closelyheld-ref1.vtaiwan.tw": {
@@ -1670,7 +1661,7 @@
     },
     "name": "er.mohw",
     "readme_filename": "g0v`er.mohw`README.md",
-    "updated_at": "2016-10-11T10:29:00Z",
+    "updated_at": "2016-12-03T04:36:44Z",
     "url": "https://api.github.com/repos/g0v/er.mohw"
   },
   "g0v/esly": {
@@ -2372,9 +2363,9 @@
     "description": "新台語·運動",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 2517,
+      "CSS": 2595,
       "HTML": 2152,
-      "JavaScript": 498909,
+      "JavaScript": 499166,
       "Python": 20592,
       "VimL": 47
     },
@@ -3120,7 +3111,7 @@
     },
     "name": "naming-gitbook",
     "readme_filename": "g0v`naming-gitbook`README.md",
-    "updated_at": "2016-09-13T08:27:06Z",
+    "updated_at": "2016-12-03T08:21:51Z",
     "url": "https://api.github.com/repos/g0v/naming-gitbook"
   },
   "g0v/news-diff": {
@@ -3639,7 +3630,7 @@
     },
     "name": "react.vtaiwan.tw",
     "readme_filename": "g0v`react.vtaiwan.tw`README.md",
-    "updated_at": "2016-11-03T21:24:14Z",
+    "updated_at": "2016-12-03T06:29:58Z",
     "url": "https://api.github.com/repos/g0v/react.vtaiwan.tw"
   },
   "g0v/readme": {
@@ -3765,6 +3756,26 @@
     "readme_filename": "g0v`search-g0v`README.md",
     "updated_at": "2016-10-08T03:19:41Z",
     "url": "https://api.github.com/repos/g0v/search-g0v"
+  },
+  "g0v/securitization-gitbook": {
+    "description": "企業資產擔保法草案意見徵集",
+    "html_url": "https://github.com/g0v/securitization-gitbook",
+    "languages": {},
+    "name": "securitization-gitbook",
+    "readme_filename": "g0v`securitization-gitbook`README.md",
+    "updated_at": "2016-12-03T10:07:21Z",
+    "url": "https://api.github.com/repos/g0v/securitization-gitbook"
+  },
+  "g0v/securitization-ref1-gitbook": {
+    "description": "企業資產擔保法草案",
+    "html_url": "https://github.com/g0v/securitization-ref1-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
+    "name": "securitization-ref1-gitbook",
+    "readme_filename": "g0v`securitization-ref1-gitbook`README.md",
+    "updated_at": "2016-12-03T13:04:08Z",
+    "url": "https://api.github.com/repos/g0v/securitization-ref1-gitbook"
   },
   "g0v/semantic-ui-experiment": {
     "description": null,
@@ -4372,8 +4383,8 @@
     "languages": {
       "CSS": 352,
       "HTML": 864,
-      "JavaScript": 13457,
-      "Vue": 25573
+      "JavaScript": 13521,
+      "Vue": 27543
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4483,7 +4494,7 @@
     },
     "name": "hackfoldr-2.0",
     "readme_filename": "hackfoldr`hackfoldr-2.0`README.md",
-    "updated_at": "2016-12-02T08:05:57Z",
+    "updated_at": "2016-12-02T23:25:01Z",
     "url": "https://api.github.com/repos/hackfoldr/hackfoldr-2.0"
   },
   "immortalmice/Real-time-Air-Quality-Map": {
