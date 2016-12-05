@@ -832,7 +832,7 @@
     },
     "name": "api.ly",
     "readme_filename": "g0v`api.ly`README.md",
-    "updated_at": "2015-05-23T19:17:48Z",
+    "updated_at": "2016-12-05T08:04:46Z",
     "url": "https://api.github.com/repos/g0v/api.ly"
   },
   "g0v/aqx-graphite": {
@@ -1792,6 +1792,15 @@
     "updated_at": "2016-07-23T12:58:49Z",
     "url": "https://api.github.com/repos/g0v/g0v-call-liwei"
   },
+  "g0v/g0v-grant-landing": {
+    "description": null,
+    "html_url": "https://github.com/g0v/g0v-grant-landing",
+    "languages": {},
+    "name": "g0v-grant-landing",
+    "readme_filename": "g0v`g0v-grant-landing`README.md",
+    "updated_at": "2016-12-05T09:34:21Z",
+    "url": "https://api.github.com/repos/g0v/g0v-grant-landing"
+  },
   "g0v/g0v-news-gd": {
     "description": "g0v news graphic design.",
     "html_url": "https://github.com/g0v/g0v-news-gd",
@@ -2059,7 +2068,7 @@
     },
     "name": "gitbook-plugin-discourse",
     "readme_filename": "g0v`gitbook-plugin-discourse`README.md",
-    "updated_at": "2016-08-13T07:25:28Z",
+    "updated_at": "2016-12-05T10:38:48Z",
     "url": "https://api.github.com/repos/g0v/gitbook-plugin-discourse"
   },
   "g0v/glyph": {
@@ -3440,7 +3449,7 @@
     "html_url": "https://github.com/g0v/potluckmap",
     "languages": {
       "CSS": 19992,
-      "HTML": 35858,
+      "HTML": 35866,
       "JavaScript": 67269,
       "PHP": 1463
     },
@@ -4384,7 +4393,7 @@
       "CSS": 352,
       "HTML": 864,
       "JavaScript": 13726,
-      "Vue": 31467
+      "Vue": 33455
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
