@@ -69,9 +69,9 @@
     "description": "billy3321's pages",
     "html_url": "https://github.com/billy3321/billy3321.github.io",
     "languages": {
-      "CSS": 35065,
-      "HTML": 437961,
-      "JavaScript": 6483,
+      "CSS": 34126,
+      "HTML": 435676,
+      "JavaScript": 1038,
       "Ruby": 607
     },
     "name": "billy3321.github.io",
@@ -1795,10 +1795,14 @@
   "g0v/g0v-grant-landing": {
     "description": null,
     "html_url": "https://github.com/g0v/g0v-grant-landing",
-    "languages": {},
+    "languages": {
+      "CSS": 9713,
+      "HTML": 35372,
+      "LiveScript": 10832
+    },
     "name": "g0v-grant-landing",
     "readme_filename": "g0v`g0v-grant-landing`README.md",
-    "updated_at": "2016-12-05T09:34:21Z",
+    "updated_at": "2016-12-06T07:55:00Z",
     "url": "https://api.github.com/repos/g0v/g0v-grant-landing"
   },
   "g0v/g0v-news-gd": {
@@ -2128,7 +2132,6 @@
     "html_url": "https://github.com/g0v/hack.g0v.tw",
     "languages": {
       "CSS": 16133,
-      "GCC Machine Description": 36230,
       "Groff": 7908,
       "HTML": 81716,
       "JavaScript": 11619,
@@ -2139,7 +2142,7 @@
     },
     "name": "hack.g0v.tw",
     "readme_filename": "g0v`hack.g0v.tw`README.md",
-    "updated_at": "2016-08-16T09:48:27Z",
+    "updated_at": "2016-12-06T03:53:13Z",
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
   },
   "g0v/hackeditr": {
@@ -4232,7 +4235,7 @@
     },
     "name": "twlyparser",
     "readme_filename": "g0v`twlyparser`README.md",
-    "updated_at": "2016-11-28T09:37:28Z",
+    "updated_at": "2016-12-06T03:57:57Z",
     "url": "https://api.github.com/repos/g0v/twlyparser"
   },
   "g0v/twlyreader-prototype": {
@@ -4392,8 +4395,8 @@
     "languages": {
       "CSS": 352,
       "HTML": 864,
-      "JavaScript": 13726,
-      "Vue": 33455
+      "JavaScript": 13773,
+      "Vue": 34866
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
