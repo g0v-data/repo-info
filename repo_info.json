@@ -2375,15 +2375,15 @@
     "description": "新台語·運動",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 2595,
+      "CSS": 2630,
       "HTML": 2152,
-      "JavaScript": 499166,
+      "JavaScript": 499066,
       "Python": 20592,
       "VimL": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2016-11-19T01:37:08Z",
+    "updated_at": "2016-12-08T13:26:57Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3638,7 +3638,8 @@
     "languages": {
       "CSS": 37548,
       "HTML": 15239,
-      "JavaScript": 68876
+      "JavaScript": 68904,
+      "Shell": 2086
     },
     "name": "react.vtaiwan.tw",
     "readme_filename": "g0v`react.vtaiwan.tw`README.md",
