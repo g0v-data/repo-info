@@ -1797,12 +1797,12 @@
     "html_url": "https://github.com/g0v/g0v-grant-landing",
     "languages": {
       "CSS": 9713,
-      "HTML": 35545,
+      "HTML": 35718,
       "LiveScript": 10832
     },
     "name": "g0v-grant-landing",
     "readme_filename": "g0v`g0v-grant-landing`README.md",
-    "updated_at": "2016-12-06T07:55:00Z",
+    "updated_at": "2016-12-12T07:52:45Z",
     "url": "https://api.github.com/repos/g0v/g0v-grant-landing"
   },
   "g0v/g0v-news-gd": {
@@ -3038,7 +3038,7 @@
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2016-11-18T03:34:45Z",
+    "updated_at": "2016-12-12T18:49:21Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -3958,7 +3958,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2016-11-13T14:16:44Z",
+    "updated_at": "2016-12-12T05:58:38Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
