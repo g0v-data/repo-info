@@ -1796,9 +1796,10 @@
     "description": null,
     "html_url": "https://github.com/g0v/g0v-grant-landing",
     "languages": {
-      "CSS": 9713,
-      "HTML": 35718,
-      "LiveScript": 10832
+      "CSS": 10181,
+      "HTML": 36769,
+      "JavaScript": 20,
+      "LiveScript": 10851
     },
     "name": "g0v-grant-landing",
     "readme_filename": "g0v`g0v-grant-landing`README.md",
@@ -2377,7 +2378,7 @@
     "languages": {
       "CSS": 2630,
       "HTML": 2152,
-      "JavaScript": 499066,
+      "JavaScript": 499444,
       "Python": 20592,
       "VimL": 47
     },
@@ -3638,8 +3639,8 @@
     "languages": {
       "CSS": 37548,
       "HTML": 15239,
-      "JavaScript": 68904,
-      "Shell": 2086
+      "JavaScript": 69278,
+      "Shell": 2160
     },
     "name": "react.vtaiwan.tw",
     "readme_filename": "g0v`react.vtaiwan.tw`README.md",
@@ -3773,10 +3774,12 @@
   "g0v/securitization-gitbook": {
     "description": "企業資產擔保法草案意見徵集",
     "html_url": "https://github.com/g0v/securitization-gitbook",
-    "languages": {},
+    "languages": {
+      "JavaScript": 161
+    },
     "name": "securitization-gitbook",
     "readme_filename": "g0v`securitization-gitbook`README.md",
-    "updated_at": "2016-12-03T10:07:21Z",
+    "updated_at": "2016-12-13T07:01:57Z",
     "url": "https://api.github.com/repos/g0v/securitization-gitbook"
   },
   "g0v/securitization-ref1-gitbook": {
@@ -4261,7 +4264,7 @@
     },
     "name": "twpolitwoops-collector",
     "readme_filename": "g0v`twpolitwoops-collector`README.md",
-    "updated_at": "2015-04-20T17:05:55Z",
+    "updated_at": "2016-12-13T01:34:24Z",
     "url": "https://api.github.com/repos/g0v/twpolitwoops-collector"
   },
   "g0v/twstat": {
@@ -4947,7 +4950,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2016-12-02T04:43:32Z",
+    "updated_at": "2016-12-13T04:33:36Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {

@@ -5,6 +5,8 @@ static landing page for g0v grant for discussion and content editing.
 
 ## usage
 
+1. install nodejs
+2. under repo directory, run:
 
     npm i
     npm start
