@@ -1797,7 +1797,7 @@
     "html_url": "https://github.com/g0v/g0v-grant-landing",
     "languages": {
       "CSS": 10181,
-      "HTML": 36769,
+      "HTML": 36745,
       "JavaScript": 20,
       "LiveScript": 10851
     },
@@ -2384,7 +2384,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2016-12-08T13:26:57Z",
+    "updated_at": "2016-12-14T07:04:32Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3639,8 +3639,8 @@
     "languages": {
       "CSS": 37548,
       "HTML": 15239,
-      "JavaScript": 69278,
-      "Shell": 2160
+      "JavaScript": 69341,
+      "Shell": 528
     },
     "name": "react.vtaiwan.tw",
     "readme_filename": "g0v`react.vtaiwan.tw`README.md",
@@ -3835,6 +3835,17 @@
     "name": "slap",
     "updated_at": "2014-11-22T21:28:09Z",
     "url": "https://api.github.com/repos/g0v/slap"
+  },
+  "g0v/social-enterprise-gitbook": {
+    "description": "公司法修法：社會企業",
+    "html_url": "https://github.com/g0v/social-enterprise-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
+    "name": "social-enterprise-gitbook",
+    "readme_filename": "g0v`social-enterprise-gitbook`README.md",
+    "updated_at": "2016-12-14T21:49:42Z",
+    "url": "https://api.github.com/repos/g0v/social-enterprise-gitbook"
   },
   "g0v/sticker-story": {
     "description": "To record the stories of sticks on the back of a laptop.",
