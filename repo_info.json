@@ -1797,7 +1797,7 @@
     "html_url": "https://github.com/g0v/g0v-grant-landing",
     "languages": {
       "CSS": 10181,
-      "HTML": 36745,
+      "HTML": 36757,
       "JavaScript": 20,
       "LiveScript": 10851
     },
@@ -2143,7 +2143,7 @@
     },
     "name": "hack.g0v.tw",
     "readme_filename": "g0v`hack.g0v.tw`README.md",
-    "updated_at": "2016-12-06T03:53:13Z",
+    "updated_at": "2016-12-15T11:27:11Z",
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
   },
   "g0v/hackeditr": {
