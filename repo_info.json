@@ -1796,10 +1796,10 @@
     "description": null,
     "html_url": "https://github.com/g0v/g0v-grant-landing",
     "languages": {
-      "CSS": 10181,
-      "HTML": 36757,
-      "JavaScript": 20,
-      "LiveScript": 10851
+      "CSS": 16905,
+      "HTML": 58036,
+      "JavaScript": 602,
+      "LiveScript": 10860
     },
     "name": "g0v-grant-landing",
     "readme_filename": "g0v`g0v-grant-landing`README.md",
@@ -3639,7 +3639,7 @@
     "languages": {
       "CSS": 37548,
       "HTML": 15239,
-      "JavaScript": 69341,
+      "JavaScript": 69347,
       "Shell": 528
     },
     "name": "react.vtaiwan.tw",
