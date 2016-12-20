@@ -505,7 +505,7 @@
     },
     "name": "OneButton",
     "readme_filename": "g0v`OneButton`README.md",
-    "updated_at": "2016-11-16T06:05:05Z",
+    "updated_at": "2016-12-20T07:20:48Z",
     "url": "https://api.github.com/repos/g0v/OneButton"
   },
   "g0v/OneButton-server-js": {
@@ -1798,8 +1798,8 @@
     "html_url": "https://github.com/g0v/g0v-grant-landing",
     "languages": {
       "CSS": 16905,
-      "HTML": 53316,
-      "JavaScript": 633,
+      "HTML": 58049,
+      "JavaScript": 20,
       "LiveScript": 10860
     },
     "name": "g0v-grant-landing",
@@ -1918,7 +1918,7 @@
     "languages": {
       "CSS": 13948,
       "GCC Machine Description": 186,
-      "HTML": 104621,
+      "HTML": 105050,
       "JavaScript": 13,
       "LiveScript": 22234,
       "Shell": 1890
@@ -2144,7 +2144,7 @@
     },
     "name": "hack.g0v.tw",
     "readme_filename": "g0v`hack.g0v.tw`README.md",
-    "updated_at": "2016-12-15T11:27:11Z",
+    "updated_at": "2016-12-19T23:14:12Z",
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
   },
   "g0v/hackeditr": {
@@ -2251,7 +2251,7 @@
     },
     "name": "hub",
     "readme_filename": "g0v`hub`README.md",
-    "updated_at": "2016-10-15T06:37:51Z",
+    "updated_at": "2016-12-20T07:20:37Z",
     "url": "https://api.github.com/repos/g0v/hub"
   },
   "g0v/i64885": {
@@ -2894,7 +2894,7 @@
     },
     "name": "magic-mirror",
     "readme_filename": "g0v`magic-mirror`README.md",
-    "updated_at": "2016-11-07T06:41:30Z",
+    "updated_at": "2016-12-20T13:50:05Z",
     "url": "https://api.github.com/repos/g0v/magic-mirror"
   },
   "g0v/mapView": {
@@ -4369,7 +4369,7 @@
     "html_url": "https://github.com/g0v/victim",
     "languages": {
       "Java": 47624,
-      "JavaScript": 142862,
+      "JavaScript": 143021,
       "Objective-C": 422402,
       "Python": 1499,
       "Shell": 7124
@@ -4522,7 +4522,7 @@
     },
     "name": "hackfoldr-2.0",
     "readme_filename": "hackfoldr`hackfoldr-2.0`README.md",
-    "updated_at": "2016-12-02T23:25:01Z",
+    "updated_at": "2016-12-20T13:55:29Z",
     "url": "https://api.github.com/repos/hackfoldr/hackfoldr-2.0"
   },
   "immortalmice/Real-time-Air-Quality-Map": {
