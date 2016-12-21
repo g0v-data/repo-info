@@ -1047,7 +1047,7 @@
     },
     "name": "chikage",
     "readme_filename": "g0v`chikage`README.md",
-    "updated_at": "2016-03-23T17:06:38Z",
+    "updated_at": "2016-12-21T18:11:22Z",
     "url": "https://api.github.com/repos/g0v/chikage"
   },
   "g0v/citation_transition": {
@@ -1799,7 +1799,7 @@
     "languages": {
       "CSS": 16905,
       "HTML": 58049,
-      "JavaScript": 20,
+      "JavaScript": 634,
       "LiveScript": 10860
     },
     "name": "g0v-grant-landing",
@@ -3147,10 +3147,10 @@
     "languages": {
       "ApacheConf": 181,
       "CSS": 34396,
-      "HTML": 4539132,
+      "HTML": 4539246,
       "JavaScript": 10419,
       "LiveScript": 1241,
-      "PHP": 1477178,
+      "PHP": 1477381,
       "Perl": 3794,
       "Python": 16292,
       "Shell": 4781
@@ -4369,7 +4369,7 @@
     "html_url": "https://github.com/g0v/victim",
     "languages": {
       "Java": 47624,
-      "JavaScript": 143021,
+      "JavaScript": 148563,
       "Objective-C": 422402,
       "Python": 1499,
       "Shell": 7124
@@ -4411,7 +4411,7 @@
     "languages": {
       "CSS": 352,
       "HTML": 864,
-      "JavaScript": 13773,
+      "JavaScript": 13788,
       "Vue": 34866
     },
     "name": "vue.vtaiwan.tw",
@@ -4848,7 +4848,7 @@
     },
     "name": "jobhelper",
     "readme_filename": "ronnywang`jobhelper`README.md",
-    "updated_at": "2016-09-22T09:01:12Z",
+    "updated_at": "2016-12-21T02:31:36Z",
     "url": "https://api.github.com/repos/ronnywang/jobhelper"
   },
   "ronnywang/judicial-easyer": {
