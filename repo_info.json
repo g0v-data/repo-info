@@ -479,7 +479,7 @@
     },
     "name": "Logbot",
     "readme_filename": "g0v`Logbot`README.md",
-    "updated_at": "2016-12-19T06:38:52Z",
+    "updated_at": "2016-12-22T13:59:48Z",
     "url": "https://api.github.com/repos/g0v/Logbot"
   },
   "g0v/NoUseBuildingTool": {
@@ -1800,7 +1800,7 @@
       "CSS": 16905,
       "HTML": 58049,
       "JavaScript": 634,
-      "LiveScript": 10860
+      "LiveScript": 10841
     },
     "name": "g0v-grant-landing",
     "readme_filename": "g0v`g0v-grant-landing`README.md",
@@ -1853,7 +1853,7 @@
     "html_url": "https://github.com/g0v/g0v.asia",
     "languages": {
       "CSS": 426415,
-      "HTML": 491430,
+      "HTML": 491433,
       "JavaScript": 209340
     },
     "name": "g0v.asia",
@@ -3172,7 +3172,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2016-12-18T11:36:24Z",
+    "updated_at": "2016-12-22T12:25:56Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
@@ -3446,7 +3446,7 @@
     },
     "name": "posland",
     "readme_filename": "g0v`posland`README.md",
-    "updated_at": "2016-09-06T16:48:19Z",
+    "updated_at": "2016-12-22T07:41:35Z",
     "url": "https://api.github.com/repos/g0v/posland"
   },
   "g0v/potluckmap": {
@@ -4369,7 +4369,7 @@
     "html_url": "https://github.com/g0v/victim",
     "languages": {
       "Java": 47624,
-      "JavaScript": 148563,
+      "JavaScript": 150376,
       "Objective-C": 422402,
       "Python": 1499,
       "Shell": 7124
@@ -4442,7 +4442,7 @@
     },
     "name": "workweek",
     "readme_filename": "g0v`workweek`README.md",
-    "updated_at": "2016-09-06T16:46:19Z",
+    "updated_at": "2016-12-22T03:29:29Z",
     "url": "https://api.github.com/repos/g0v/workweek"
   },
   "g0v/worldwonder": {
@@ -4713,7 +4713,7 @@
     },
     "name": "amis-safolu",
     "readme_filename": "miaoski`amis-safolu`README.md",
-    "updated_at": "2016-12-17T04:46:41Z",
+    "updated_at": "2016-12-22T11:10:13Z",
     "url": "https://api.github.com/repos/miaoski/amis-safolu"
   },
   "mlwmlw/pcc": {
@@ -5073,7 +5073,7 @@
     },
     "name": "newshelper-safari",
     "readme_filename": "yllan`newshelper-safari`README.md",
-    "updated_at": "2016-12-19T02:29:08Z",
+    "updated_at": "2016-12-22T12:24:17Z",
     "url": "https://api.github.com/repos/yllan/newshelper-safari"
   },
   "zbryikt/g0vphotos": {
