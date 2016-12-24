@@ -2385,7 +2385,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2016-12-17T09:36:01Z",
+    "updated_at": "2016-12-24T05:35:24Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4222,7 +4222,7 @@
     },
     "name": "twly-voter-guide",
     "readme_filename": "g0v`twly-voter-guide`README.md",
-    "updated_at": "2016-11-14T16:10:37Z",
+    "updated_at": "2016-12-24T14:20:31Z",
     "url": "https://api.github.com/repos/g0v/twly-voter-guide"
   },
   "g0v/twly_crawler": {
