@@ -2128,6 +2128,19 @@
     "updated_at": "2014-10-10T17:30:26Z",
     "url": "https://api.github.com/repos/g0v/grabejs"
   },
+  "g0v/grantdash": {
+    "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
+    "html_url": "https://github.com/g0v/grantdash",
+    "languages": {
+      "CSS": 67402,
+      "HTML": 44386,
+      "JavaScript": 1098363
+    },
+    "name": "grantdash",
+    "readme_filename": "g0v`grantdash`README.md",
+    "updated_at": "2016-12-26T18:26:17Z",
+    "url": "https://api.github.com/repos/g0v/grantdash"
+  },
   "g0v/hack.g0v.tw": {
     "description": "organize gdoc and hackpad for hackathons",
     "g0vjson_filename": "g0v`hack.g0v.tw`g0v.json",
@@ -2377,9 +2390,9 @@
     "description": "新台語·運動",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 2630,
+      "CSS": 2744,
       "HTML": 2152,
-      "JavaScript": 499443,
+      "JavaScript": 501481,
       "Python": 20592,
       "VimL": 47
     },
@@ -2960,7 +2973,7 @@
     "description": "Stand-alone MoeDict app snapshot",
     "html_url": "https://github.com/g0v/moedict-app",
     "languages": {
-      "HTML": 23109,
+      "HTML": 23280,
       "Java": 121692,
       "JavaScript": 86000,
       "LiveScript": 81031,
@@ -2969,7 +2982,7 @@
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2016-10-11T10:45:51Z",
+    "updated_at": "2016-12-26T10:51:29Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
@@ -4369,7 +4382,7 @@
     "html_url": "https://github.com/g0v/victim",
     "languages": {
       "Java": 47624,
-      "JavaScript": 150376,
+      "JavaScript": 151188,
       "Objective-C": 422402,
       "Python": 1499,
       "Shell": 7124
