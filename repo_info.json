@@ -3653,8 +3653,8 @@
     "languages": {
       "CSS": 37548,
       "HTML": 15239,
-      "JavaScript": 70577,
-      "Shell": 528
+      "JavaScript": 71031,
+      "Shell": 629
     },
     "name": "react.vtaiwan.tw",
     "readme_filename": "g0v`react.vtaiwan.tw`README.md",
@@ -4691,7 +4691,7 @@
     "html_url": "https://github.com/kiang/tncc",
     "languages": {
       "HTML": 8295724,
-      "PHP": 64338,
+      "PHP": 64339,
       "Scala": 2153
     },
     "name": "tncc",
