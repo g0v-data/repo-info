@@ -1423,8 +1423,19 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2016-11-24T17:44:50Z",
+    "updated_at": "2016-12-30T08:50:07Z",
     "url": "https://api.github.com/repos/g0v/dev"
+  },
+  "g0v/directors-election-gitbook": {
+    "description": "董事選任制度改革",
+    "html_url": "https://github.com/g0v/directors-election-gitbook",
+    "languages": {
+      "JavaScript": 161
+    },
+    "name": "directors-election-gitbook",
+    "readme_filename": "g0v`directors-election-gitbook`README.md",
+    "updated_at": "2016-12-30T06:56:18Z",
+    "url": "https://api.github.com/repos/g0v/directors-election-gitbook"
   },
   "g0v/discourse": {
     "description": "A platform for community discussion. Free, open, simple.",
@@ -1798,7 +1809,7 @@
     "html_url": "https://github.com/g0v/g0v-grant-landing",
     "languages": {
       "CSS": 16905,
-      "HTML": 58079,
+      "HTML": 58827,
       "JavaScript": 634,
       "LiveScript": 10841
     },
@@ -2132,9 +2143,9 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 67402,
-      "HTML": 44397,
-      "JavaScript": 1098528
+      "CSS": 79107,
+      "HTML": 71933,
+      "JavaScript": 1503018
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -4429,7 +4440,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2016-11-14T22:36:25Z",
+    "updated_at": "2016-12-30T07:15:45Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
