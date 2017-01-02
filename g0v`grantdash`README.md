@@ -1,49 +1,45 @@
-HackDash
-========
+GrantDash
+=========
 
+Grants Submission Dashboard based on [HackDash](http://hackdash.org)
 
-Organize hackaton ideas into a dashboard
+## Quick Start
 
-![HackDash Logo](http://i.imgur.com/XLQGF3y.png)
+### Development
 
-Install
-===========
+```
+docker-compose build
+docker-compose run --rm -p 3000:3000 app
+```
 
-I wrote a [blog post](http://zajdband.com/installing-hackdash) explaining the installation process. Also check the [wiki](https://github.com/danzajdband/hackdash/wiki) for more info and docs
+You might want to import the stub data to get started:
 
-Config
-======
+```
+docker-compose run --rm mongodb mongoimport --host mongodb --db hackdash --collection dashboards --file /dev/stdin < ./data/dashboards.json
+```
 
-In your `config.json`:
+### Produection
 
-* `db`:
-	+ `url`: Overrides other db config. Full MongoDB URL.
-	+ `host`
-	+ `port`
-* `host`: Your instance host (i.e. yourdomain.com)
-* `port`: Your port (i.e. 3000)
-* `session`: Your session key (it must be a secret string)
-* `title`: Instance title used in the html title tag and other headings.
-* `live`: Boolean (true, false) that enable/disable the live feed feature in yourdomain.com/live.
-* `mailer`: SMTP mail info to enable email notifications using nodemailer. Check out the [options](https://github.com/andris9/Nodemailer#setting-up-smtp)
-* `team`: An array of `user`.`_id` to be shown as Team on Landing Page.
-* `maxQueryLimit`: a Number for the max amount of results at the landing page searchs.
-* `googleAnalytics`: the UA-XXXXXXXX-X code from Google Analytics. if not specified wont set the script.
-* `facebookAppId`: the Facebook App Id for share buttons. It will take first from keys.json, if not will use this one. Don't set it to not show FB share buttons.
-* `prerender`:
-	+ `enabled`: Boolean (true, false). Where the website would use the SEO Prerender 
-	+ `db`: The Mongo URI of Cached Pages.
+```
+docker-compose -f docker-compose.yml -f docker-compose.prod.yml up --build -d
+```
 
-Running instances
-=================
+For setting up SSL, consider using [Docker letsencrypt nginx proxy companion]](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion).
 
-* [HackDash platform](http://hackdash.org): Create your own Dashboard for free. Maintained by the HackDash Creators.
-* [Auth0 HackDash platform](http://safe-tor-9833.herokuapp.com/): Create a Dashboard for your company using Auth0 service.
-* [BAHackaton](http://bahackaton.herokuapp.com): Buenos Aires City hackaton ideas.
+## Config
 
-Add your own Dashboard!
+### Basics
 
+See config/config.json.sample and key.json.sample.
 
-Contribute
-==========
-Please check the [WIKI](https://github.com/danzajdband/hackdash/wiki)
+### Discourse Integration
+
+Each submitted project will have discourse embedded if you configure `discourseUrl`.  Make sure you have the correct embed settings in the discourse instance to have posts automatically created in the right category.
+
+If you configure `discourseSsoSecret`, the GrantDash instance will provide sso user account for discourse.  In discourse, configure the sso url to be `*hackdash-instance.host*/api/v2/sso`, and make sure the sso secret is the same for discourse and grantdash.
+
+## License
+
+[MIT](https://g0v.mit-license.org)
+
+Based on HackDash (c) Dan Zajdband under The MIT License.

@@ -2143,9 +2143,9 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 81671,
+      "CSS": 81718,
       "HTML": 73392,
-      "JavaScript": 1512080
+      "JavaScript": 1512123
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2403,7 +2403,7 @@
     "languages": {
       "CSS": 2744,
       "HTML": 2152,
-      "JavaScript": 501481,
+      "JavaScript": 502260,
       "Python": 20592,
       "VimL": 47
     },
@@ -3140,6 +3140,19 @@
     "readme_filename": "g0v`moer.g0v.tw`README.md",
     "updated_at": "2014-11-27T05:32:26Z",
     "url": "https://api.github.com/repos/g0v/moer.g0v.tw"
+  },
+  "g0v/mydaka": {
+    "description": "mydaka麥打卡提供個人JSON-LD定義的工時紀錄，工時記錄從掌握在雇主的專屬系統裡面脫離，轉換為掌握在勞動者手上。",
+    "html_url": "https://github.com/g0v/mydaka",
+    "languages": {
+      "CSS": 94,
+      "HTML": 1660,
+      "JavaScript": 517
+    },
+    "name": "mydaka",
+    "readme_filename": "g0v`mydaka`README.md",
+    "updated_at": "2017-01-02T07:40:47Z",
+    "url": "https://api.github.com/repos/g0v/mydaka"
   },
   "g0v/naming-gitbook": {
     "description": "discussion concerning company registration with its English name ",
@@ -4025,7 +4038,7 @@
     },
     "name": "tcbus",
     "readme_filename": "g0v`tcbus`README.md",
-    "updated_at": "2016-09-06T16:45:41Z",
+    "updated_at": "2017-01-02T15:28:09Z",
     "url": "https://api.github.com/repos/g0v/tcbus"
   },
   "g0v/telemedicine-gitbook": {
