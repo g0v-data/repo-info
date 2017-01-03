@@ -474,7 +474,7 @@
       "HTML": 8526,
       "JavaScript": 19223,
       "LiveScript": 2300,
-      "Ruby": 11595,
+      "Ruby": 11577,
       "Shell": 738
     },
     "name": "Logbot",
@@ -892,7 +892,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2016-10-20T01:27:14Z",
+    "updated_at": "2017-01-03T08:46:57Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1232,7 +1232,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2016-10-17T03:30:42Z",
+    "updated_at": "2017-01-03T15:24:41Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -2143,9 +2143,9 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 81718,
-      "HTML": 73392,
-      "JavaScript": 1512123
+      "CSS": 81839,
+      "HTML": 73384,
+      "JavaScript": 1512297
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2403,7 +2403,7 @@
     "languages": {
       "CSS": 2744,
       "HTML": 2152,
-      "JavaScript": 502260,
+      "JavaScript": 502172,
       "Python": 20592,
       "VimL": 47
     },
@@ -3146,12 +3146,12 @@
     "html_url": "https://github.com/g0v/mydaka",
     "languages": {
       "CSS": 94,
-      "HTML": 1660,
-      "JavaScript": 517
+      "HTML": 1699,
+      "JavaScript": 2371
     },
     "name": "mydaka",
     "readme_filename": "g0v`mydaka`README.md",
-    "updated_at": "2017-01-02T07:40:47Z",
+    "updated_at": "2017-01-03T15:30:18Z",
     "url": "https://api.github.com/repos/g0v/mydaka"
   },
   "g0v/naming-gitbook": {
@@ -3534,7 +3534,7 @@
     },
     "name": "ppt",
     "readme_filename": "g0v`ppt`README.md",
-    "updated_at": "2016-03-15T04:56:31Z",
+    "updated_at": "2017-01-03T12:31:53Z",
     "url": "https://api.github.com/repos/g0v/ppt"
   },
   "g0v/ppt-commitment-parser": {
@@ -4272,7 +4272,7 @@
     },
     "name": "twly-voter-guide",
     "readme_filename": "g0v`twly-voter-guide`README.md",
-    "updated_at": "2016-12-24T14:20:31Z",
+    "updated_at": "2017-01-03T15:24:29Z",
     "url": "https://api.github.com/repos/g0v/twly-voter-guide"
   },
   "g0v/twly_crawler": {

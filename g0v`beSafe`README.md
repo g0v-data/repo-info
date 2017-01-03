@@ -1,18 +1,12 @@
 # BeSafe: 災害警示公開資料彙整
 
-透過 P2P 網路彙整公開災害警示資料 RSS Feed
+彙整公開災害警示資料 RSS Feed
 
 ## 資料來源
 
 * [國家災害防救科技中心](https://alerts.ncdr.nat.gov.tw/)
 * [中央災害應變中心災害情報站](http://www.emic.gov.tw/Content.aspx?ID=18&MenuID=65)
 * [中央氣象局多元服務中心](http://www.cwb.gov.tw/V7/service/eservice/rss.htm)
-
-## Development
-
-1. 用 [hyperfeed-server](https://github.com/poga/hyperfeed-server) 將 RSS/ATOM Feed 轉成 P2P Hyperfeed
-2. 將 1 得到的 merge feed key 填入 `index.js` 中
-3. `npm run build`
 
 ## License
 
