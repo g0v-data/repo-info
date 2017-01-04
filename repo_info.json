@@ -474,7 +474,7 @@
       "HTML": 8526,
       "JavaScript": 19223,
       "LiveScript": 2300,
-      "Ruby": 11577,
+      "Ruby": 10539,
       "Shell": 738
     },
     "name": "Logbot",
@@ -623,7 +623,7 @@
     },
     "name": "TWRadiationApp",
     "readme_filename": "g0v`TWRadiationApp`README.md",
-    "updated_at": "2016-06-19T09:05:41Z",
+    "updated_at": "2017-01-04T02:32:06Z",
     "url": "https://api.github.com/repos/g0v/TWRadiationApp"
   },
   "g0v/TWRadiationApp-backend": {
@@ -732,7 +732,7 @@
     },
     "name": "addressbook-iOS",
     "readme_filename": "g0v`addressbook-iOS`README.md",
-    "updated_at": "2016-04-18T01:58:04Z",
+    "updated_at": "2017-01-04T02:32:08Z",
     "url": "https://api.github.com/repos/g0v/addressbook-iOS"
   },
   "g0v/addressbook.parser": {
@@ -1809,7 +1809,7 @@
     "html_url": "https://github.com/g0v/g0v-grant-landing",
     "languages": {
       "CSS": 16905,
-      "HTML": 58827,
+      "HTML": 59153,
       "JavaScript": 634,
       "LiveScript": 10841
     },
@@ -1936,7 +1936,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2016-12-28T20:00:40Z",
+    "updated_at": "2017-01-04T07:31:45Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -2143,13 +2143,13 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 81839,
-      "HTML": 73384,
-      "JavaScript": 1512297
+      "CSS": 82566,
+      "HTML": 74331,
+      "JavaScript": 1512254
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2016-12-26T18:26:17Z",
+    "updated_at": "2017-01-04T03:02:50Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/hack.g0v.tw": {
@@ -2403,7 +2403,7 @@
     "languages": {
       "CSS": 2744,
       "HTML": 2152,
-      "JavaScript": 502172,
+      "JavaScript": 502366,
       "Python": 20592,
       "VimL": 47
     },
@@ -3125,7 +3125,7 @@
     },
     "name": "moedict.tw",
     "readme_filename": "g0v`moedict.tw`README.md",
-    "updated_at": "2016-10-28T04:38:14Z",
+    "updated_at": "2017-01-04T07:11:22Z",
     "url": "https://api.github.com/repos/g0v/moedict.tw"
   },
   "g0v/moer.g0v.tw": {
@@ -3654,7 +3654,7 @@
       "Shell": 28493
     },
     "name": "react-native-sample",
-    "updated_at": "2016-11-08T08:59:02Z",
+    "updated_at": "2017-01-04T02:32:04Z",
     "url": "https://api.github.com/repos/g0v/react-native-sample"
   },
   "g0v/react-zh-stroker": {
@@ -4426,7 +4426,7 @@
     },
     "name": "victim",
     "readme_filename": "g0v`victim`README.md",
-    "updated_at": "2016-11-19T04:04:55Z",
+    "updated_at": "2017-01-04T02:32:02Z",
     "url": "https://api.github.com/repos/g0v/victim"
   },
   "g0v/vtaiwan.tw": {
