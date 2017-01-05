@@ -1929,7 +1929,7 @@
     "languages": {
       "CSS": 13948,
       "GCC Machine Description": 186,
-      "HTML": 104863,
+      "HTML": 104889,
       "JavaScript": 13,
       "LiveScript": 22234,
       "Shell": 1890
@@ -2143,8 +2143,8 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 82566,
-      "HTML": 74331,
+      "CSS": 82552,
+      "HTML": 74393,
       "JavaScript": 1512254
     },
     "name": "grantdash",
@@ -3003,7 +3003,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2016-12-19T12:51:39Z",
+    "updated_at": "2017-01-05T10:18:24Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -4572,7 +4572,7 @@
     },
     "name": "hackfoldr-2.0",
     "readme_filename": "hackfoldr`hackfoldr-2.0`README.md",
-    "updated_at": "2016-12-20T13:55:29Z",
+    "updated_at": "2017-01-05T02:54:53Z",
     "url": "https://api.github.com/repos/hackfoldr/hackfoldr-2.0"
   },
   "immortalmice/Real-time-Air-Quality-Map": {
@@ -4940,7 +4940,7 @@
       "CSS": 16113,
       "HTML": 4547596,
       "JavaScript": 81598,
-      "PHP": 3004477
+      "PHP": 3004893
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
