@@ -479,7 +479,7 @@
     },
     "name": "Logbot",
     "readme_filename": "g0v`Logbot`README.md",
-    "updated_at": "2016-12-22T13:59:48Z",
+    "updated_at": "2017-01-06T08:14:02Z",
     "url": "https://api.github.com/repos/g0v/Logbot"
   },
   "g0v/NoUseBuildingTool": {
@@ -1427,14 +1427,14 @@
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
-    "description": "董事選任制度改革",
+    "description": "公司法：董監事選任",
     "html_url": "https://github.com/g0v/directors-election-gitbook",
     "languages": {
       "JavaScript": 161
     },
     "name": "directors-election-gitbook",
     "readme_filename": "g0v`directors-election-gitbook`README.md",
-    "updated_at": "2016-12-30T06:56:18Z",
+    "updated_at": "2017-01-06T11:36:46Z",
     "url": "https://api.github.com/repos/g0v/directors-election-gitbook"
   },
   "g0v/discourse": {
@@ -2143,9 +2143,9 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 82552,
-      "HTML": 74393,
-      "JavaScript": 1512254
+      "CSS": 83120,
+      "HTML": 75636,
+      "JavaScript": 1518209
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2403,7 +2403,7 @@
     "languages": {
       "CSS": 2744,
       "HTML": 2152,
-      "JavaScript": 502366,
+      "JavaScript": 502554,
       "Python": 20592,
       "VimL": 47
     },
@@ -3690,8 +3690,8 @@
     "languages": {
       "CSS": 37548,
       "HTML": 15239,
-      "JavaScript": 71031,
-      "Shell": 629
+      "JavaScript": 71471,
+      "Shell": 682
     },
     "name": "react.vtaiwan.tw",
     "readme_filename": "g0v`react.vtaiwan.tw`README.md",
@@ -3888,14 +3888,14 @@
     "url": "https://api.github.com/repos/g0v/slap"
   },
   "g0v/social-enterprise-gitbook": {
-    "description": "公司法修法：社會企業",
+    "description": "公司法：社會企業",
     "html_url": "https://github.com/g0v/social-enterprise-gitbook",
     "languages": {
       "JavaScript": 161
     },
     "name": "social-enterprise-gitbook",
     "readme_filename": "g0v`social-enterprise-gitbook`README.md",
-    "updated_at": "2016-12-14T21:49:42Z",
+    "updated_at": "2017-01-06T11:37:13Z",
     "url": "https://api.github.com/repos/g0v/social-enterprise-gitbook"
   },
   "g0v/sticker-story": {
@@ -4940,7 +4940,7 @@
       "CSS": 16113,
       "HTML": 4547596,
       "JavaScript": 81598,
-      "PHP": 3004893
+      "PHP": 3004803
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
