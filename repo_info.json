@@ -2403,7 +2403,7 @@
     "languages": {
       "CSS": 2744,
       "HTML": 2152,
-      "JavaScript": 502554,
+      "JavaScript": 502618,
       "Python": 20592,
       "VimL": 47
     },
@@ -4940,7 +4940,7 @@
       "CSS": 16113,
       "HTML": 4547596,
       "JavaScript": 81598,
-      "PHP": 3004803
+      "PHP": 3008030
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
