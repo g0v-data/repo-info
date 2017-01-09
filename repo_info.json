@@ -4459,10 +4459,10 @@
     "description": "行政院法規線上諮詢系統 界面 3.0",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
-      "CSS": 352,
+      "CSS": 887,
       "HTML": 864,
-      "JavaScript": 13788,
-      "Vue": 34866
+      "JavaScript": 14684,
+      "Vue": 51066
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
