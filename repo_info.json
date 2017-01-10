@@ -892,7 +892,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-01-03T08:46:57Z",
+    "updated_at": "2017-01-10T06:58:34Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -2143,9 +2143,9 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 83153,
-      "HTML": 75927,
-      "JavaScript": 1518317
+      "CSS": 83589,
+      "HTML": 78402,
+      "JavaScript": 1521312
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -4371,11 +4371,12 @@
     "description": "開放都市計畫-都委會會議紀錄資料庫",
     "html_url": "https://github.com/g0v/urbancode-commission",
     "languages": {
+      "PHP": 77160,
       "R": 39021
     },
     "name": "urbancode-commission",
     "readme_filename": "g0v`urbancode-commission`README.md",
-    "updated_at": "2016-09-12T20:34:08Z",
+    "updated_at": "2017-01-10T12:35:49Z",
     "url": "https://api.github.com/repos/g0v/urbancode-commission"
   },
   "g0v/urbancodeg0vtw": {
@@ -4461,8 +4462,8 @@
     "languages": {
       "CSS": 887,
       "HTML": 864,
-      "JavaScript": 14684,
-      "Vue": 51066
+      "JavaScript": 14033,
+      "Vue": 52849
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
