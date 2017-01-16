@@ -1927,7 +1927,7 @@
     "g0vjson_filename": "g0v`g0v.tw`g0v.json",
     "html_url": "https://github.com/g0v/g0v.tw",
     "languages": {
-      "CSS": 13948,
+      "CSS": 14059,
       "GCC Machine Description": 186,
       "HTML": 104889,
       "JavaScript": 13,
@@ -1936,7 +1936,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2017-01-13T07:24:56Z",
+    "updated_at": "2017-01-16T04:05:35Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -2143,9 +2143,9 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 83589,
+      "CSS": 83622,
       "HTML": 79625,
-      "JavaScript": 1521312
+      "JavaScript": 1523386
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2409,7 +2409,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-01-14T09:29:45Z",
+    "updated_at": "2017-01-16T05:38:10Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4463,7 +4463,7 @@
       "CSS": 1032,
       "HTML": 871,
       "JavaScript": 14033,
-      "Vue": 71930
+      "Vue": 71988
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
