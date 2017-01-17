@@ -2145,7 +2145,7 @@
     "languages": {
       "CSS": 83622,
       "HTML": 79625,
-      "JavaScript": 1523386
+      "JavaScript": 1523780
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -4463,11 +4463,11 @@
       "CSS": 1032,
       "HTML": 871,
       "JavaScript": 14033,
-      "Vue": 71988
+      "Vue": 73942
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-01-13T18:36:56Z",
+    "updated_at": "2017-01-16T21:59:27Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
