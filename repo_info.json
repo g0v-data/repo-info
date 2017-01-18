@@ -4030,9 +4030,9 @@
     "description": "臺中市公車地圖 (採用 leaflet 連 OSM 底圖)",
     "html_url": "https://github.com/g0v/tcbus",
     "languages": {
-      "CSS": 11221,
-      "HTML": 6475,
-      "JavaScript": 3571,
+      "CSS": 12182,
+      "HTML": 7185,
+      "JavaScript": 4255,
       "Perl": 990,
       "Shell": 1381
     },
@@ -4463,7 +4463,7 @@
       "CSS": 1032,
       "HTML": 871,
       "JavaScript": 14033,
-      "Vue": 73942
+      "Vue": 73816
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
