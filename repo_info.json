@@ -479,7 +479,7 @@
     },
     "name": "Logbot",
     "readme_filename": "g0v`Logbot`README.md",
-    "updated_at": "2017-01-06T08:14:02Z",
+    "updated_at": "2017-01-19T20:37:27Z",
     "url": "https://api.github.com/repos/g0v/Logbot"
   },
   "g0v/NoUseBuildingTool": {
@@ -1673,7 +1673,7 @@
     },
     "name": "er.mohw",
     "readme_filename": "g0v`er.mohw`README.md",
-    "updated_at": "2017-01-13T14:03:57Z",
+    "updated_at": "2017-01-19T01:37:28Z",
     "url": "https://api.github.com/repos/g0v/er.mohw"
   },
   "g0v/esly": {
@@ -3380,7 +3380,7 @@
     },
     "name": "pdf-text-cutter",
     "readme_filename": "g0v`pdf-text-cutter`README.md",
-    "updated_at": "2016-03-18T10:56:31Z",
+    "updated_at": "2017-01-19T10:02:35Z",
     "url": "https://api.github.com/repos/g0v/pdf-text-cutter"
   },
   "g0v/pdf-to-markdown": {
@@ -4463,7 +4463,7 @@
       "CSS": 1032,
       "HTML": 871,
       "JavaScript": 14033,
-      "Vue": 73816
+      "Vue": 72868
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
