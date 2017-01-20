@@ -2143,9 +2143,9 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 83622,
-      "HTML": 79625,
-      "JavaScript": 1523780
+      "CSS": 83648,
+      "HTML": 79663,
+      "JavaScript": 1524808
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -4467,7 +4467,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-01-16T21:59:27Z",
+    "updated_at": "2017-01-20T08:47:11Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
