@@ -1802,6 +1802,17 @@
     "updated_at": "2014-07-28T04:08:57Z",
     "url": "https://api.github.com/repos/g0v/front-end-demo"
   },
+  "g0v/g00gle": {
+    "description": "g0v search UI",
+    "html_url": "https://github.com/g0v/g00gle",
+    "languages": {
+      "HTML": 882,
+      "JavaScript": 1655
+    },
+    "name": "g00gle",
+    "updated_at": "2017-01-23T14:11:30Z",
+    "url": "https://api.github.com/repos/g0v/g00gle"
+  },
   "g0v/g0v-call-liwei": {
     "description": null,
     "html_url": "https://github.com/g0v/g0v-call-liwei",
@@ -1892,7 +1903,7 @@
     },
     "name": "g0v.asia",
     "readme_filename": "g0v`g0v.asia`README.md",
-    "updated_at": "2016-12-23T05:38:38Z",
+    "updated_at": "2017-01-23T14:44:54Z",
     "url": "https://api.github.com/repos/g0v/g0v.asia"
   },
   "g0v/g0v.github.io": {
@@ -2177,8 +2188,8 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 83703,
-      "HTML": 80625,
+      "CSS": 83766,
+      "HTML": 81011,
       "JavaScript": 1524786
     },
     "name": "grantdash",
@@ -2427,7 +2438,7 @@
       "CSS": 2744,
       "HTML": 2152,
       "JavaScript": 502618,
-      "Python": 20592,
+      "Python": 20603,
       "VimL": 47
     },
     "name": "itaigi",
@@ -4450,7 +4461,7 @@
     },
     "name": "victim",
     "readme_filename": "g0v`victim`README.md",
-    "updated_at": "2017-01-04T02:32:02Z",
+    "updated_at": "2017-01-23T02:06:35Z",
     "url": "https://api.github.com/repos/g0v/victim"
   },
   "g0v/vtaiwan.tw": {
@@ -4483,14 +4494,14 @@
     "description": "行政院法規線上諮詢系統 界面 3.0",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
-      "CSS": 1032,
-      "HTML": 871,
+      "CSS": 1162,
+      "HTML": 879,
       "JavaScript": 14033,
-      "Vue": 73149
+      "Vue": 69990
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-01-22T16:15:44Z",
+    "updated_at": "2017-01-23T03:46:22Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
