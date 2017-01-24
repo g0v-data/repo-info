@@ -304,7 +304,7 @@
     "languages": {
       "CSS": 245723,
       "CoffeeScript": 1832,
-      "DOT": 605,
+      "Graphviz (DOT)": 605,
       "JavaScript": 3306576,
       "PHP": 619,
       "Ruby": 2995054,
@@ -1807,7 +1807,7 @@
     "html_url": "https://github.com/g0v/g00gle",
     "languages": {
       "HTML": 882,
-      "JavaScript": 1655
+      "JavaScript": 55258
     },
     "name": "g00gle",
     "updated_at": "2017-01-23T14:11:30Z",
@@ -2039,7 +2039,7 @@
     "html_url": "https://github.com/g0v/g0village",
     "languages": {
       "CSS": 3764,
-      "DOT": 6509,
+      "Graphviz (DOT)": 6509,
       "JavaScript": 725234
     },
     "name": "g0village",
@@ -2443,7 +2443,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-01-16T05:38:10Z",
+    "updated_at": "2017-01-24T15:52:19Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3037,7 +3037,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2017-01-11T02:54:34Z",
+    "updated_at": "2017-01-24T09:36:59Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3905,12 +3905,12 @@
     "description": "Slack plugin to sync IRC with your slack.com account",
     "html_url": "https://github.com/g0v/slack-irc-plugin",
     "languages": {
-      "JavaScript": 10043,
+      "JavaScript": 10202,
       "Makefile": 282
     },
     "name": "slack-irc-plugin",
     "readme_filename": "g0v`slack-irc-plugin`README.md",
-    "updated_at": "2016-06-20T11:04:12Z",
+    "updated_at": "2017-01-24T15:57:45Z",
     "url": "https://api.github.com/repos/g0v/slack-irc-plugin"
   },
   "g0v/slap": {
@@ -4494,10 +4494,10 @@
     "description": "行政院法規線上諮詢系統 界面 3.0",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
-      "CSS": 1162,
+      "CSS": 1220,
       "HTML": 879,
-      "JavaScript": 14033,
-      "Vue": 69990
+      "JavaScript": 14040,
+      "Vue": 70886
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
