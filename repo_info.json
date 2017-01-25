@@ -2443,7 +2443,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-01-24T15:52:19Z",
+    "updated_at": "2017-01-25T10:06:41Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3037,7 +3037,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2017-01-24T09:36:59Z",
+    "updated_at": "2017-01-25T03:50:16Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3049,7 +3049,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2016-11-28T11:43:32Z",
+    "updated_at": "2017-01-25T03:50:20Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -3084,7 +3084,7 @@
     },
     "name": "moedict-data-terms",
     "readme_filename": "g0v`moedict-data-terms`README.md",
-    "updated_at": "2016-04-18T01:58:44Z",
+    "updated_at": "2017-01-25T04:02:44Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-terms"
   },
   "g0v/moedict-data-twblg": {
@@ -3098,7 +3098,7 @@
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2016-12-12T18:49:21Z",
+    "updated_at": "2017-01-25T04:01:04Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -3120,7 +3120,7 @@
     },
     "name": "moedict-dodo",
     "readme_filename": "g0v`moedict-dodo`README.md",
-    "updated_at": "2016-04-18T01:54:37Z",
+    "updated_at": "2017-01-25T03:50:18Z",
     "url": "https://api.github.com/repos/g0v/moedict-dodo"
   },
   "g0v/moedict-epub": {
@@ -3134,7 +3134,7 @@
       "Python": 13618
     },
     "name": "moedict-epub",
-    "updated_at": "2016-04-16T21:19:42Z",
+    "updated_at": "2017-01-25T03:49:39Z",
     "url": "https://api.github.com/repos/g0v/moedict-epub"
   },
   "g0v/moedict-process": {
@@ -3159,7 +3159,7 @@
     },
     "name": "moedict.tw",
     "readme_filename": "g0v`moedict.tw`README.md",
-    "updated_at": "2017-01-04T07:11:22Z",
+    "updated_at": "2017-01-25T03:44:21Z",
     "url": "https://api.github.com/repos/g0v/moedict.tw"
   },
   "g0v/moer.g0v.tw": {
@@ -3276,7 +3276,7 @@
     },
     "name": "npratio",
     "readme_filename": "g0v`npratio`README.md",
-    "updated_at": "2016-10-10T03:09:46Z",
+    "updated_at": "2017-01-25T15:10:35Z",
     "url": "https://api.github.com/repos/g0v/npratio"
   },
   "g0v/nsc-projects": {
@@ -4497,7 +4497,7 @@
       "CSS": 1220,
       "HTML": 879,
       "JavaScript": 14040,
-      "Vue": 70886
+      "Vue": 71110
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -5015,7 +5015,7 @@
     "html_url": "https://github.com/ronnywang/taiwan-cabinet",
     "languages": {
       "HTML": 7355,
-      "PHP": 30987
+      "PHP": 31306
     },
     "name": "taiwan-cabinet",
     "readme_filename": "ronnywang`taiwan-cabinet`README.md",
