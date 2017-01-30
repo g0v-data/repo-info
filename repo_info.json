@@ -1424,7 +1424,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2016-12-30T08:50:07Z",
+    "updated_at": "2017-01-30T11:05:09Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -1587,7 +1587,7 @@
     "languages": {
       "CSS": 1550,
       "HTML": 507,
-      "JavaScript": 9171
+      "JavaScript": 9610
     },
     "name": "editor",
     "readme_filename": "g0v`editor`README.md",
