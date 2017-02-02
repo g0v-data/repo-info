@@ -2213,7 +2213,7 @@
     },
     "name": "hack.g0v.tw",
     "readme_filename": "g0v`hack.g0v.tw`README.md",
-    "updated_at": "2016-12-19T23:14:12Z",
+    "updated_at": "2017-02-02T03:26:53Z",
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
   },
   "g0v/hackeditr": {
@@ -3243,7 +3243,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2016-12-22T12:25:56Z",
+    "updated_at": "2017-02-02T17:52:13Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
@@ -4497,7 +4497,7 @@
       "CSS": 1240,
       "HTML": 1716,
       "JavaScript": 16821,
-      "Vue": 69443
+      "Vue": 70213
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",

@@ -52,8 +52,11 @@ Otherwise follow the procedeures below for "All other passports".
 
 ### All other passports
 
-
 See [here](https://www.boca.gov.tw/np.asp?ctNode=776&mp=2)
+
+### Arrivial
+
+Facial and fingerprint registartion is required for all foriegn passport holders.  The only exception is to be invited by a institution and the host has to apply for your fingerprinting exemption by proving your exceptional academic or professional achievement, according to "執行外來人口入出國（境）辨識個人生物特徵作業要點" 三(三）依國際機場禮遇作業辦法申請國賓禮遇、特別禮遇及一般禮遇 with this [form](https://www.immigration.gov.tw/public/Attachment/551315351157.pdf).  Please allow two-week lead time.
 
 ## Data SIM Card
 
@@ -86,6 +89,8 @@ No need to tip.
 
 Chinese & English, most of people will help you anyway.
 
+English news can be found on [Taiwan News](http://www.taiwannews.com.tw/)
+
 ## Getting Around
 
 **[Taipei MRT](http://english.metro.taipei)** should be your first choice.
@@ -105,6 +110,9 @@ The public transport system runs on a reloadable contactless card called EasyCar
 EasyCard credits are refundable (with some fees) so if you still have some credits left, remember to go to the MRT counter to apply for a refund.
 
 **No eating or drinking is allowed inside the station or on the train.**
+
+### YouBike
+[YouBike](http://taipei.youbike.com.tw/en/f43.php) allows commuters to rent from one station and return at another. To use YouBike, you will need an [EasyCard](https://www.easycard.com.tw/english/easycard/buy.asp) that is available at all metro station information counters and convenience stores.
 
 ## Sight Seeing
 
