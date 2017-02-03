@@ -2189,7 +2189,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 83766,
-      "HTML": 80593,
+      "HTML": 80606,
       "JavaScript": 711675
     },
     "name": "grantdash",
@@ -2437,9 +2437,9 @@
     "languages": {
       "CSS": 2744,
       "HTML": 2152,
-      "JavaScript": 502618,
+      "JavaScript": 502622,
       "Python": 20603,
-      "VimL": 47
+      "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
@@ -3905,7 +3905,7 @@
     "description": "Slack plugin to sync IRC with your slack.com account",
     "html_url": "https://github.com/g0v/slack-irc-plugin",
     "languages": {
-      "JavaScript": 10202,
+      "JavaScript": 10391,
       "Makefile": 282
     },
     "name": "slack-irc-plugin",
@@ -4495,13 +4495,14 @@
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1240,
-      "HTML": 1716,
+      "HTML": 1664,
       "JavaScript": 16821,
-      "Vue": 70213
+      "Shell": 700,
+      "Vue": 73639
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-01-23T03:46:22Z",
+    "updated_at": "2017-02-03T17:10:13Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
