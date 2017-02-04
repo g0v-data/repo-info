@@ -3243,7 +3243,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2017-02-02T17:52:13Z",
+    "updated_at": "2017-02-04T09:57:12Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
@@ -3875,7 +3875,7 @@
     },
     "name": "securitization-ref1-gitbook",
     "readme_filename": "g0v`securitization-ref1-gitbook`README.md",
-    "updated_at": "2016-12-03T13:04:08Z",
+    "updated_at": "2017-02-04T01:55:11Z",
     "url": "https://api.github.com/repos/g0v/securitization-ref1-gitbook"
   },
   "g0v/semantic-ui-experiment": {
@@ -4498,11 +4498,11 @@
       "HTML": 1664,
       "JavaScript": 16821,
       "Shell": 700,
-      "Vue": 73639
+      "Vue": 76557
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-02-03T17:10:13Z",
+    "updated_at": "2017-02-04T16:40:07Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
