@@ -2190,7 +2190,7 @@
     "languages": {
       "CSS": 83766,
       "HTML": 80606,
-      "JavaScript": 711675
+      "JavaScript": 711803
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -3147,7 +3147,7 @@
     },
     "name": "moedict-process",
     "readme_filename": "g0v`moedict-process`README.md",
-    "updated_at": "2017-01-11T07:13:10Z",
+    "updated_at": "2017-02-05T05:15:03Z",
     "url": "https://api.github.com/repos/g0v/moedict-process"
   },
   "g0v/moedict.tw": {
@@ -3724,7 +3724,7 @@
     "languages": {
       "CSS": 37548,
       "HTML": 15239,
-      "JavaScript": 71473,
+      "JavaScript": 71716,
       "Shell": 682
     },
     "name": "react.vtaiwan.tw",
@@ -4498,7 +4498,7 @@
       "HTML": 1664,
       "JavaScript": 16821,
       "Shell": 700,
-      "Vue": 76557
+      "Vue": 76943
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4976,7 +4976,7 @@
       "CSS": 16113,
       "HTML": 4547596,
       "JavaScript": 81598,
-      "PHP": 3008030
+      "PHP": 3008582
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
