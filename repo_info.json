@@ -2189,8 +2189,8 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 83766,
-      "HTML": 80606,
-      "JavaScript": 711803
+      "HTML": 80917,
+      "JavaScript": 712935
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2433,11 +2433,12 @@
   },
   "g0v/itaigi": {
     "description": "新台語·運動",
+    "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
       "CSS": 2744,
       "HTML": 2152,
-      "JavaScript": 502622,
+      "JavaScript": 502665,
       "Python": 20603,
       "Vim script": 47
     },
@@ -2521,7 +2522,7 @@
     },
     "name": "koktai",
     "readme_filename": "g0v`koktai`README.md",
-    "updated_at": "2016-09-07T13:25:40Z",
+    "updated_at": "2017-02-07T20:32:12Z",
     "url": "https://api.github.com/repos/g0v/koktai"
   },
   "g0v/kuansim": {
@@ -3143,7 +3144,7 @@
     "html_url": "https://github.com/g0v/moedict-process",
     "languages": {
       "Makefile": 482,
-      "Python": 16839
+      "Python": 16842
     },
     "name": "moedict-process",
     "readme_filename": "g0v`moedict-process`README.md",
@@ -4461,7 +4462,7 @@
     },
     "name": "victim",
     "readme_filename": "g0v`victim`README.md",
-    "updated_at": "2017-01-23T02:06:35Z",
+    "updated_at": "2017-02-07T06:03:50Z",
     "url": "https://api.github.com/repos/g0v/victim"
   },
   "g0v/vtaiwan.tw": {
@@ -4496,9 +4497,9 @@
     "languages": {
       "CSS": 1240,
       "HTML": 1664,
-      "JavaScript": 16821,
-      "Shell": 700,
-      "Vue": 75732
+      "JavaScript": 18884,
+      "Shell": 732,
+      "Vue": 78834
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -5015,8 +5016,8 @@
     "g0vjson_filename": "ronnywang`taiwan-cabinet`g0v.json",
     "html_url": "https://github.com/ronnywang/taiwan-cabinet",
     "languages": {
-      "HTML": 7355,
-      "PHP": 30134
+      "HTML": 7354,
+      "PHP": 31002
     },
     "name": "taiwan-cabinet",
     "readme_filename": "ronnywang`taiwan-cabinet`README.md",
