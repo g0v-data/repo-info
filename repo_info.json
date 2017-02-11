@@ -2444,7 +2444,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-01-25T10:06:41Z",
+    "updated_at": "2017-02-11T10:07:15Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4071,7 +4071,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2016-12-12T05:58:38Z",
+    "updated_at": "2017-02-11T11:12:20Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
@@ -4420,8 +4420,7 @@
     "g0vjson_filename": "g0v`urbancode-commission`g0v.json",
     "html_url": "https://github.com/g0v/urbancode-commission",
     "languages": {
-      "PHP": 92401,
-      "R": 39021
+      "PHP": 92401
     },
     "name": "urbancode-commission",
     "readme_filename": "g0v`urbancode-commission`README.md",
