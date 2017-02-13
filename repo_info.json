@@ -2018,7 +2018,7 @@
     },
     "name": "g0ver-box",
     "readme_filename": "g0v`g0ver-box`README.md",
-    "updated_at": "2017-02-08T05:55:28Z",
+    "updated_at": "2017-02-13T06:07:24Z",
     "url": "https://api.github.com/repos/g0v/g0ver-box"
   },
   "g0v/g0villa": {
@@ -2436,15 +2436,15 @@
     "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 2689,
+      "CSS": 3422,
       "HTML": 2152,
-      "JavaScript": 500390,
+      "JavaScript": 508206,
       "Python": 20603,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-02-11T10:07:15Z",
+    "updated_at": "2017-02-13T21:47:20Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -2685,7 +2685,7 @@
     },
     "name": "lfrest",
     "readme_filename": "g0v`lfrest`README.md",
-    "updated_at": "2014-04-24T07:51:39Z",
+    "updated_at": "2017-02-13T16:00:04Z",
     "url": "https://api.github.com/repos/g0v/lfrest"
   },
   "g0v/liquid_feedback_core": {
@@ -4505,18 +4505,18 @@
     "url": "https://api.github.com/repos/g0v/vtw.link"
   },
   "g0v/vue.vtaiwan.tw": {
-    "description": "行政院法規線上諮詢系統 界面 3.0",
+    "description": "行政院法規線上諮詢系統 界面 3.0 - http://vue.vtaiwan.tw",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1318,
-      "HTML": 2513,
+      "HTML": 3629,
       "JavaScript": 19038,
       "Shell": 1956,
-      "Vue": 86025
+      "Vue": 86467
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-02-10T05:52:51Z",
+    "updated_at": "2017-02-13T07:06:32Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
