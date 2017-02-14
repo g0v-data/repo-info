@@ -514,7 +514,7 @@
     "languages": {
       "CSS": 23,
       "HTML": 1366,
-      "JavaScript": 12158,
+      "JavaScript": 12738,
       "SuperCollider": 642
     },
     "name": "OneButton-server-js",
@@ -2188,8 +2188,8 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 83766,
-      "HTML": 80923,
+      "CSS": 83936,
+      "HTML": 83638,
       "JavaScript": 713186
     },
     "name": "grantdash",
@@ -2438,7 +2438,7 @@
     "languages": {
       "CSS": 3422,
       "HTML": 2152,
-      "JavaScript": 508206,
+      "JavaScript": 507338,
       "Python": 20603,
       "Vim script": 47
     },
@@ -4050,7 +4050,7 @@
     "html_url": "https://github.com/g0v/sunshine.cy",
     "languages": {
       "HTML": 102309648,
-      "Python": 77632
+      "Python": 81603
     },
     "name": "sunshine.cy",
     "readme_filename": "g0v`sunshine.cy`README.md",
@@ -4510,9 +4510,9 @@
     "languages": {
       "CSS": 1318,
       "HTML": 3629,
-      "JavaScript": 19038,
+      "JavaScript": 19309,
       "Shell": 1956,
-      "Vue": 86467
+      "Vue": 90418
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
