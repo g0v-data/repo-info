@@ -2438,7 +2438,7 @@
     "languages": {
       "CSS": 3422,
       "HTML": 2152,
-      "JavaScript": 507338,
+      "JavaScript": 505042,
       "Python": 20603,
       "Vim script": 47
     },
@@ -3229,7 +3229,7 @@
     },
     "name": "newshelper-backend",
     "readme_filename": "g0v`newshelper-backend`README.md",
-    "updated_at": "2016-11-05T20:05:25Z",
+    "updated_at": "2017-02-15T04:46:54Z",
     "url": "https://api.github.com/repos/g0v/newshelper-backend"
   },
   "g0v/newshelper-extension": {
@@ -3743,7 +3743,7 @@
     },
     "name": "react.vtaiwan.tw",
     "readme_filename": "g0v`react.vtaiwan.tw`README.md",
-    "updated_at": "2016-12-03T06:29:58Z",
+    "updated_at": "2017-02-15T12:50:20Z",
     "url": "https://api.github.com/repos/g0v/react.vtaiwan.tw"
   },
   "g0v/readme": {
@@ -4509,10 +4509,10 @@
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1318,
-      "HTML": 3629,
+      "HTML": 4745,
       "JavaScript": 19309,
       "Shell": 1956,
-      "Vue": 90418
+      "Vue": 90084
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
