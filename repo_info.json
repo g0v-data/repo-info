@@ -892,7 +892,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-02-16T03:25:51Z",
+    "updated_at": "2017-02-17T08:55:56Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -2203,7 +2203,7 @@
     "html_url": "https://github.com/g0v/hack.g0v.tw",
     "languages": {
       "CSS": 16133,
-      "HTML": 81739,
+      "HTML": 81737,
       "JavaScript": 11619,
       "LiveScript": 57675,
       "Makefile": 1635,
@@ -2438,7 +2438,7 @@
     "languages": {
       "CSS": 3422,
       "HTML": 2117,
-      "JavaScript": 505041,
+      "JavaScript": 505034,
       "Python": 20603,
       "Vim script": 47
     },
@@ -4050,7 +4050,7 @@
     "html_url": "https://github.com/g0v/sunshine.cy",
     "languages": {
       "HTML": 102309648,
-      "Python": 81603
+      "Python": 83559
     },
     "name": "sunshine.cy",
     "readme_filename": "g0v`sunshine.cy`README.md",
@@ -4512,7 +4512,7 @@
       "HTML": 4745,
       "JavaScript": 19309,
       "Shell": 1956,
-      "Vue": 90107
+      "Vue": 90592
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
