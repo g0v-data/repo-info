@@ -22,22 +22,6 @@
 ]
 ```
 
-# How to run
-
-## Server
-
-### Pre-install
-```
-npm install -g yarn
-```
-
-### Run service
-```
-yarn install
-yarn global add babel-cli
-yarn start
-```
-
 # License
 
 [MIT License](https://opensource.org/licenses/MIT)

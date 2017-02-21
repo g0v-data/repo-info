@@ -500,7 +500,7 @@
     "languages": {
       "CSS": 435,
       "HTML": 2536,
-      "JavaScript": 17217,
+      "JavaScript": 23202,
       "Scala": 4366
     },
     "name": "OneButton",
@@ -514,7 +514,7 @@
     "languages": {
       "CSS": 23,
       "HTML": 1366,
-      "JavaScript": 12738,
+      "JavaScript": 12785,
       "SuperCollider": 642
     },
     "name": "OneButton-server-js",
@@ -3919,7 +3919,7 @@
     "description": "Slack plugin to sync IRC with your slack.com account",
     "html_url": "https://github.com/g0v/slack-irc-plugin",
     "languages": {
-      "JavaScript": 10391,
+      "JavaScript": 10506,
       "Makefile": 282
     },
     "name": "slack-irc-plugin",
@@ -4468,7 +4468,7 @@
     "html_url": "https://github.com/g0v/victim",
     "languages": {
       "Java": 47720,
-      "JavaScript": 151188,
+      "JavaScript": 154746,
       "Objective-C": 422402,
       "Python": 1499,
       "Shell": 7124
@@ -4512,7 +4512,7 @@
       "HTML": 4745,
       "JavaScript": 19309,
       "Shell": 1956,
-      "Vue": 88586
+      "Vue": 89280
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
