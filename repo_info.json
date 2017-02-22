@@ -2438,7 +2438,7 @@
     "languages": {
       "CSS": 3422,
       "HTML": 2117,
-      "JavaScript": 505034,
+      "JavaScript": 505057,
       "Python": 20603,
       "Vim script": 47
     },
@@ -3517,7 +3517,7 @@
     "languages": {
       "ApacheConf": 504,
       "HTML": 1104,
-      "PHP": 202121
+      "PHP": 202588
     },
     "name": "poli-radar-api",
     "readme_filename": "g0v`poli-radar-api`README.md",
@@ -4467,11 +4467,10 @@
     "description": null,
     "html_url": "https://github.com/g0v/victim",
     "languages": {
-      "Java": 47720,
-      "JavaScript": 154746,
-      "Objective-C": 422402,
-      "Python": 1499,
-      "Shell": 7124
+      "Java": 11431,
+      "JavaScript": 146293,
+      "Objective-C": 195192,
+      "Python": 1499
     },
     "name": "victim",
     "readme_filename": "g0v`victim`README.md",
@@ -4509,10 +4508,10 @@
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1318,
-      "HTML": 4745,
+      "HTML": 5001,
       "JavaScript": 19309,
       "Shell": 1956,
-      "Vue": 89280
+      "Vue": 91100
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
