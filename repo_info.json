@@ -1424,7 +1424,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-02-10T15:21:33Z",
+    "updated_at": "2017-02-23T10:28:05Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -4276,7 +4276,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2017-02-10T02:56:13Z",
+    "updated_at": "2017-02-23T05:17:29Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
@@ -4467,14 +4467,14 @@
     "description": null,
     "html_url": "https://github.com/g0v/victim",
     "languages": {
-      "Java": 11431,
-      "JavaScript": 146293,
-      "Objective-C": 195192,
-      "Python": 1499
+      "Java": 1857,
+      "JavaScript": 142558,
+      "Objective-C": 4520,
+      "Python": 1637
     },
     "name": "victim",
     "readme_filename": "g0v`victim`README.md",
-    "updated_at": "2017-02-07T06:03:50Z",
+    "updated_at": "2017-02-23T15:50:09Z",
     "url": "https://api.github.com/repos/g0v/victim"
   },
   "g0v/vtaiwan.tw": {
@@ -4504,18 +4504,18 @@
     "url": "https://api.github.com/repos/g0v/vtw.link"
   },
   "g0v/vue.vtaiwan.tw": {
-    "description": "行政院法規線上諮詢系統 界面 3.0 - http://vue.vtaiwan.tw",
+    "description": "數位經濟法規線上諮詢系統 界面 3.0 - http://vue.vtaiwan.tw",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
-      "CSS": 1318,
-      "HTML": 5001,
-      "JavaScript": 19309,
+      "CSS": 1482,
+      "HTML": 4884,
+      "JavaScript": 19714,
       "Shell": 1956,
-      "Vue": 91100
+      "Vue": 94983
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-02-13T07:06:32Z",
+    "updated_at": "2017-02-23T00:16:13Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -4949,7 +4949,7 @@
     },
     "name": "jobhelper",
     "readme_filename": "ronnywang`jobhelper`README.md",
-    "updated_at": "2017-01-27T03:50:01Z",
+    "updated_at": "2017-02-23T04:31:53Z",
     "url": "https://api.github.com/repos/ronnywang/jobhelper"
   },
   "ronnywang/judicial-easyer": {
