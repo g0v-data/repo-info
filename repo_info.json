@@ -2189,8 +2189,8 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 83936,
-      "HTML": 83638,
-      "JavaScript": 713186
+      "HTML": 84060,
+      "JavaScript": 714287
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2436,9 +2436,9 @@
     "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 3422,
+      "CSS": 3458,
       "HTML": 2117,
-      "JavaScript": 505057,
+      "JavaScript": 502519,
       "Python": 20603,
       "Vim script": 47
     },
@@ -3517,7 +3517,7 @@
     "languages": {
       "ApacheConf": 504,
       "HTML": 1104,
-      "PHP": 202588
+      "PHP": 205576
     },
     "name": "poli-radar-api",
     "readme_filename": "g0v`poli-radar-api`README.md",
@@ -4467,8 +4467,8 @@
     "description": null,
     "html_url": "https://github.com/g0v/victim",
     "languages": {
-      "Java": 1857,
-      "JavaScript": 142558,
+      "Java": 1768,
+      "JavaScript": 147014,
       "Objective-C": 4520,
       "Python": 1637
     },
@@ -4509,9 +4509,9 @@
     "languages": {
       "CSS": 1482,
       "HTML": 4884,
-      "JavaScript": 19714,
+      "JavaScript": 21574,
       "Shell": 1956,
-      "Vue": 94983
+      "Vue": 100047
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
