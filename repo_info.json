@@ -2438,7 +2438,7 @@
     "languages": {
       "CSS": 3458,
       "HTML": 2117,
-      "JavaScript": 502519,
+      "JavaScript": 502924,
       "Python": 20603,
       "Vim script": 47
     },
@@ -3517,7 +3517,7 @@
     "languages": {
       "ApacheConf": 504,
       "HTML": 1104,
-      "PHP": 206095
+      "PHP": 206119
     },
     "name": "poli-radar-api",
     "readme_filename": "g0v`poli-radar-api`README.md",
@@ -5058,8 +5058,8 @@
     "languages": {
       "ApacheConf": 85,
       "CSS": 14908,
-      "HTML": 4553385,
-      "PHP": 2933329
+      "HTML": 4553537,
+      "PHP": 2935711
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",

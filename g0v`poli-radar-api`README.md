@@ -1,5 +1,9 @@
 # 政治人物探測雷達後端
 
+## Demo
+
+Demo API end point at <https://poli-radar-api.herokuapp.com/api/>.  For example, you can retrieve all event data at <https://poli-radar-api.herokuapp.com/api/events?include=persons.membershipslace>.
+
 ## Development
 
 ```
