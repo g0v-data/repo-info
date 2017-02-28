@@ -3511,6 +3511,20 @@
     "updated_at": "2013-11-07T07:46:33Z",
     "url": "https://api.github.com/repos/g0v/pirate_feedback_ui_redesign"
   },
+  "g0v/poli-radar": {
+    "description": null,
+    "html_url": "https://github.com/g0v/poli-radar",
+    "languages": {
+      "ApacheConf": 1526,
+      "CSS": 552,
+      "HTML": 9929,
+      "JavaScript": 126598
+    },
+    "name": "poli-radar",
+    "readme_filename": "g0v`poli-radar`README.md",
+    "updated_at": "2017-02-28T14:04:12Z",
+    "url": "https://api.github.com/repos/g0v/poli-radar"
+  },
   "g0v/poli-radar-api": {
     "description": null,
     "html_url": "https://github.com/g0v/poli-radar-api",
@@ -4467,8 +4481,8 @@
     "description": null,
     "html_url": "https://github.com/g0v/victim",
     "languages": {
-      "Java": 1768,
-      "JavaScript": 147014,
+      "Java": 1835,
+      "JavaScript": 144940,
       "Objective-C": 4520,
       "Python": 1637
     },
