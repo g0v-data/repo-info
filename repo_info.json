@@ -2213,7 +2213,7 @@
     },
     "name": "hack.g0v.tw",
     "readme_filename": "g0v`hack.g0v.tw`README.md",
-    "updated_at": "2017-02-02T03:26:53Z",
+    "updated_at": "2017-03-01T07:17:28Z",
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
   },
   "g0v/hackeditr": {
@@ -2438,7 +2438,7 @@
     "languages": {
       "CSS": 3458,
       "HTML": 2117,
-      "JavaScript": 502924,
+      "JavaScript": 509715,
       "Python": 20603,
       "Vim script": 47
     },
@@ -3518,7 +3518,7 @@
       "ApacheConf": 1526,
       "CSS": 552,
       "HTML": 9929,
-      "JavaScript": 126598
+      "JavaScript": 126609
     },
     "name": "poli-radar",
     "readme_filename": "g0v`poli-radar`README.md",
@@ -4523,9 +4523,9 @@
     "languages": {
       "CSS": 1482,
       "HTML": 4759,
-      "JavaScript": 21574,
+      "JavaScript": 21592,
       "Shell": 1956,
-      "Vue": 100047
+      "Vue": 100228
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
