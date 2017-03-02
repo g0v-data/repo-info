@@ -2436,15 +2436,15 @@
     "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 3458,
+      "CSS": 3524,
       "HTML": 2117,
-      "JavaScript": 509715,
+      "JavaScript": 510875,
       "Python": 20603,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-02-13T21:47:20Z",
+    "updated_at": "2017-03-02T14:22:48Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4482,7 +4482,7 @@
     "html_url": "https://github.com/g0v/victim",
     "languages": {
       "Java": 1835,
-      "JavaScript": 144940,
+      "JavaScript": 95805,
       "Objective-C": 4520,
       "Python": 1637
     },
@@ -4521,11 +4521,11 @@
     "description": "數位經濟法規線上諮詢系統 界面 3.0 - http://vue.vtaiwan.tw",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
-      "CSS": 1482,
-      "HTML": 4759,
-      "JavaScript": 21592,
+      "CSS": 1444,
+      "HTML": 5234,
+      "JavaScript": 21646,
       "Shell": 1956,
-      "Vue": 100228
+      "Vue": 89679
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
