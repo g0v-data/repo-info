@@ -498,9 +498,9 @@
     "description": "OneButton is a one-click solution for ipa to finish all hackathon duties at once.",
     "html_url": "https://github.com/g0v/OneButton",
     "languages": {
-      "CSS": 593,
+      "CSS": 822,
       "HTML": 883,
-      "JavaScript": 32299,
+      "JavaScript": 32507,
       "Scala": 4366
     },
     "name": "OneButton",
@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 47858,
-      "HTML": 212499,
+      "HTML": 212665,
       "JavaScript": 92126,
-      "Python": 485769,
+      "Python": 481710,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2189,8 +2189,8 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 83936,
-      "HTML": 84115,
-      "JavaScript": 714287
+      "HTML": 84205,
+      "JavaScript": 714393
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -4525,7 +4525,7 @@
       "HTML": 4771,
       "JavaScript": 21646,
       "Shell": 1956,
-      "Vue": 86863
+      "Vue": 86986
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
