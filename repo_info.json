@@ -1227,7 +1227,7 @@
       "CSS": 47858,
       "HTML": 212665,
       "JavaScript": 92126,
-      "Python": 470064,
+      "Python": 466748,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2188,9 +2188,9 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 83936,
-      "HTML": 84205,
-      "JavaScript": 714393
+      "CSS": 84283,
+      "HTML": 84605,
+      "JavaScript": 714248
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2213,7 +2213,7 @@
     },
     "name": "hack.g0v.tw",
     "readme_filename": "g0v`hack.g0v.tw`README.md",
-    "updated_at": "2017-03-01T07:17:28Z",
+    "updated_at": "2017-03-09T17:35:34Z",
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
   },
   "g0v/hackeditr": {
@@ -3038,7 +3038,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2017-02-09T14:42:02Z",
+    "updated_at": "2017-03-09T17:21:03Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -4525,7 +4525,7 @@
       "HTML": 4771,
       "JavaScript": 21646,
       "Shell": 1956,
-      "Vue": 87780
+      "Vue": 88830
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
