@@ -1227,12 +1227,12 @@
       "CSS": 47858,
       "HTML": 212665,
       "JavaScript": 92126,
-      "Python": 466748,
+      "Python": 465213,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-03-08T02:44:25Z",
+    "updated_at": "2017-03-10T08:16:01Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1446,6 +1446,17 @@
     "readme_filename": "g0v`discourse`README.md",
     "updated_at": "2014-04-29T06:01:04Z",
     "url": "https://api.github.com/repos/g0v/discourse"
+  },
+  "g0v/discourse-watch-category": {
+    "description": "Watches a category for all the users in a particular group",
+    "html_url": "https://github.com/g0v/discourse-watch-category",
+    "languages": {
+      "Ruby": 2777
+    },
+    "name": "discourse-watch-category",
+    "readme_filename": "g0v`discourse-watch-category`README.md",
+    "updated_at": "2017-03-10T08:38:24Z",
+    "url": "https://api.github.com/repos/g0v/discourse-watch-category"
   },
   "g0v/distant-education-gitbook": {
     "description": "vTaiwan 數位生活：遠距教育",
@@ -2188,7 +2199,7 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 84283,
+      "CSS": 84348,
       "HTML": 84605,
       "JavaScript": 714248
     },
@@ -3757,7 +3768,7 @@
     },
     "name": "react.vtaiwan.tw",
     "readme_filename": "g0v`react.vtaiwan.tw`README.md",
-    "updated_at": "2017-02-16T02:51:24Z",
+    "updated_at": "2017-03-10T08:14:37Z",
     "url": "https://api.github.com/repos/g0v/react.vtaiwan.tw"
   },
   "g0v/readme": {
@@ -4525,7 +4536,7 @@
       "HTML": 4771,
       "JavaScript": 21646,
       "Shell": 1956,
-      "Vue": 88830
+      "Vue": 89368
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4955,7 +4966,7 @@
     },
     "name": "dev-env",
     "readme_filename": "ronnywang`dev-env`README.md",
-    "updated_at": "2016-06-29T09:53:14Z",
+    "updated_at": "2017-03-10T18:04:25Z",
     "url": "https://api.github.com/repos/ronnywang/dev-env"
   },
   "ronnywang/ecolife.epa.gov.tw": {
