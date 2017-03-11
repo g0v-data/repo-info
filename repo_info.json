@@ -1227,7 +1227,7 @@
       "CSS": 47858,
       "HTML": 212665,
       "JavaScript": 92126,
-      "Python": 465213,
+      "Python": 457091,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2067,7 +2067,7 @@
     },
     "name": "g0village-8bit",
     "readme_filename": "g0v`g0village-8bit`README.md",
-    "updated_at": "2016-12-10T08:34:30Z",
+    "updated_at": "2017-03-11T08:09:38Z",
     "url": "https://api.github.com/repos/g0v/g0village-8bit"
   },
   "g0v/g0vis": {
@@ -5244,7 +5244,7 @@
     },
     "name": "ppllink",
     "readme_filename": "zbryikt`ppllink`README.md",
-    "updated_at": "2017-02-19T15:57:15Z",
+    "updated_at": "2017-03-11T14:45:33Z",
     "url": "https://api.github.com/repos/zbryikt/ppllink"
   },
   "zbryikt/visualize": {
