@@ -732,7 +732,7 @@
     },
     "name": "addressbook-iOS",
     "readme_filename": "g0v`addressbook-iOS`README.md",
-    "updated_at": "2017-01-04T02:32:08Z",
+    "updated_at": "2017-03-16T14:14:00Z",
     "url": "https://api.github.com/repos/g0v/addressbook-iOS"
   },
   "g0v/addressbook.parser": {
@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 47858,
-      "HTML": 212665,
+      "HTML": 212784,
       "JavaScript": 92126,
-      "Python": 437398,
+      "Python": 438943,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -3159,7 +3159,7 @@
     },
     "name": "moedict-process",
     "readme_filename": "g0v`moedict-process`README.md",
-    "updated_at": "2017-02-05T05:15:03Z",
+    "updated_at": "2017-03-16T08:58:20Z",
     "url": "https://api.github.com/repos/g0v/moedict-process"
   },
   "g0v/moedict.tw": {
@@ -4632,7 +4632,7 @@
     },
     "name": "zh-stroke-data",
     "readme_filename": "g0v`zh-stroke-data`README.md",
-    "updated_at": "2016-09-13T04:42:51Z",
+    "updated_at": "2017-03-16T14:14:15Z",
     "url": "https://api.github.com/repos/g0v/zh-stroke-data"
   },
   "godgunman/ncc-complain-data": {
