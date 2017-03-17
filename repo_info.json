@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 47858,
-      "HTML": 212784,
+      "HTML": 212945,
       "JavaScript": 92126,
-      "Python": 438943,
+      "Python": 439948,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -3255,7 +3255,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2017-02-04T09:57:12Z",
+    "updated_at": "2017-03-17T15:33:30Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
@@ -3542,7 +3542,7 @@
     "languages": {
       "ApacheConf": 504,
       "HTML": 1104,
-      "PHP": 206119
+      "PHP": 207719
     },
     "name": "poli-radar-api",
     "readme_filename": "g0v`poli-radar-api`README.md",
