@@ -1227,7 +1227,7 @@
       "CSS": 47858,
       "HTML": 212945,
       "JavaScript": 92126,
-      "Python": 439948,
+      "Python": 441515,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -4445,7 +4445,7 @@
     "g0vjson_filename": "g0v`urbancode-commission`g0v.json",
     "html_url": "https://github.com/g0v/urbancode-commission",
     "languages": {
-      "PHP": 92317
+      "PHP": 97169
     },
     "name": "urbancode-commission",
     "readme_filename": "g0v`urbancode-commission`README.md",
