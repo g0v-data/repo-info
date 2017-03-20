@@ -623,7 +623,7 @@
     },
     "name": "TWRadiationApp",
     "readme_filename": "g0v`TWRadiationApp`README.md",
-    "updated_at": "2017-01-04T02:32:06Z",
+    "updated_at": "2017-03-20T09:15:30Z",
     "url": "https://api.github.com/repos/g0v/TWRadiationApp"
   },
   "g0v/TWRadiationApp-backend": {
@@ -732,7 +732,7 @@
     },
     "name": "addressbook-iOS",
     "readme_filename": "g0v`addressbook-iOS`README.md",
-    "updated_at": "2017-03-16T14:14:00Z",
+    "updated_at": "2017-03-20T09:15:33Z",
     "url": "https://api.github.com/repos/g0v/addressbook-iOS"
   },
   "g0v/addressbook.parser": {
@@ -1225,14 +1225,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 47858,
-      "HTML": 212945,
+      "HTML": 212953,
       "JavaScript": 92126,
-      "Python": 441515,
+      "Python": 446628,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-03-10T08:16:01Z",
+    "updated_at": "2017-03-20T08:01:16Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -3727,7 +3727,7 @@
       "Shell": 28493
     },
     "name": "react-native-sample",
-    "updated_at": "2017-01-04T02:32:04Z",
+    "updated_at": "2017-03-20T09:15:30Z",
     "url": "https://api.github.com/repos/g0v/react-native-sample"
   },
   "g0v/react-zh-stroker": {
@@ -4499,7 +4499,7 @@
     },
     "name": "victim",
     "readme_filename": "g0v`victim`README.md",
-    "updated_at": "2017-02-23T15:50:09Z",
+    "updated_at": "2017-03-20T09:15:29Z",
     "url": "https://api.github.com/repos/g0v/victim"
   },
   "g0v/vtaiwan.tw": {
