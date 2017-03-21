@@ -1227,7 +1227,7 @@
       "CSS": 47858,
       "HTML": 212953,
       "JavaScript": 92126,
-      "Python": 446628,
+      "Python": 446618,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -1424,7 +1424,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-02-23T10:28:05Z",
+    "updated_at": "2017-03-20T23:26:16Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -2055,7 +2055,7 @@
     },
     "name": "g0village",
     "readme_filename": "g0v`g0village`README.md",
-    "updated_at": "2013-11-07T07:43:17Z",
+    "updated_at": "2017-03-20T23:26:23Z",
     "url": "https://api.github.com/repos/g0v/g0village"
   },
   "g0v/g0village-8bit": {
@@ -2546,7 +2546,7 @@
     },
     "name": "kuansim",
     "readme_filename": "g0v`kuansim`README.md",
-    "updated_at": "2016-01-20T02:02:00Z",
+    "updated_at": "2017-03-20T23:26:10Z",
     "url": "https://api.github.com/repos/g0v/kuansim"
   },
   "g0v/kuansim-backend": {
@@ -2897,7 +2897,7 @@
     "html_url": "https://github.com/g0v/ly-gazette",
     "languages": {},
     "name": "ly-gazette",
-    "updated_at": "2014-01-05T07:14:32Z",
+    "updated_at": "2017-03-20T23:26:15Z",
     "url": "https://api.github.com/repos/g0v/ly-gazette"
   },
   "g0v/ly-glossary": {
@@ -2935,7 +2935,7 @@
     },
     "name": "ly-vote",
     "readme_filename": "g0v`ly-vote`README.md",
-    "updated_at": "2015-11-16T08:27:36Z",
+    "updated_at": "2017-03-20T23:26:11Z",
     "url": "https://api.github.com/repos/g0v/ly-vote"
   },
   "g0v/ly.g0v.tw": {
@@ -2951,7 +2951,7 @@
     },
     "name": "ly.g0v.tw",
     "readme_filename": "g0v`ly.g0v.tw`README.md",
-    "updated_at": "2016-10-28T14:27:28Z",
+    "updated_at": "2017-03-20T23:26:12Z",
     "url": "https://api.github.com/repos/g0v/ly.g0v.tw"
   },
   "g0v/magic-mirror": {
@@ -4345,7 +4345,7 @@
     },
     "name": "twly-voter-guide",
     "readme_filename": "g0v`twly-voter-guide`README.md",
-    "updated_at": "2017-01-03T15:24:29Z",
+    "updated_at": "2017-03-21T06:26:14Z",
     "url": "https://api.github.com/repos/g0v/twly-voter-guide"
   },
   "g0v/twly_crawler": {
@@ -4536,7 +4536,7 @@
       "HTML": 4771,
       "JavaScript": 21646,
       "Shell": 1956,
-      "Vue": 91045
+      "Vue": 91114
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4562,7 +4562,7 @@
     "languages": {
       "CSS": 1444,
       "HTML": 4771,
-      "JavaScript": 21646,
+      "JavaScript": 22990,
       "Shell": 1956,
       "Vue": 87671
     },
