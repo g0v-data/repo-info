@@ -1,3 +1,7 @@
+# IMPORTANT
+
+ - Please go to https://github.com/g0v/wiselike (a new vue 2 project).
+
 # FRONTEND
 
  - vue.vtaiwan - [12345] + autofocus-on-discussion-area + expand discourse

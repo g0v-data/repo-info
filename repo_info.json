@@ -959,11 +959,11 @@
     "description": null,
     "html_url": "https://github.com/g0v/blood",
     "languages": {
-      "JavaScript": 2077
+      "JavaScript": 1749
     },
     "name": "blood",
     "readme_filename": "g0v`blood`README.md",
-    "updated_at": "2016-10-05T06:53:34Z",
+    "updated_at": "2017-03-22T02:37:05Z",
     "url": "https://api.github.com/repos/g0v/blood"
   },
   "g0v/bopomofo-standard-gitbook": {
@@ -1144,7 +1144,7 @@
       "JavaScript": 466
     },
     "name": "color",
-    "updated_at": "2015-07-01T15:30:06Z",
+    "updated_at": "2017-03-22T03:00:15Z",
     "url": "https://api.github.com/repos/g0v/color"
   },
   "g0v/conference-map-main": {
@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 47858,
-      "HTML": 212953,
+      "HTML": 213447,
       "JavaScript": 92126,
-      "Python": 446618,
+      "Python": 451570,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -1694,7 +1694,7 @@
     },
     "name": "er.mohw",
     "readme_filename": "g0v`er.mohw`README.md",
-    "updated_at": "2017-01-19T01:37:28Z",
+    "updated_at": "2017-03-22T11:49:01Z",
     "url": "https://api.github.com/repos/g0v/er.mohw"
   },
   "g0v/esly": {
@@ -3577,7 +3577,7 @@
     "html_url": "https://github.com/g0v/potluckmap",
     "languages": {
       "CSS": 19992,
-      "HTML": 35866,
+      "HTML": 36379,
       "JavaScript": 67269,
       "PHP": 1463
     },
@@ -4536,7 +4536,7 @@
       "HTML": 4771,
       "JavaScript": 21646,
       "Shell": 1956,
-      "Vue": 91114
+      "Vue": 91093
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4556,8 +4556,22 @@
     "updated_at": "2014-05-06T08:42:57Z",
     "url": "https://api.github.com/repos/g0v/we-are-g0v"
   },
-  "g0v/wiselike.tw": {
+  "g0v/wiselike": {
     "description": "自己的 wiselike 自己救",
+    "html_url": "https://github.com/g0v/wiselike",
+    "languages": {
+      "HTML": 196,
+      "JavaScript": 19350,
+      "Makefile": 149,
+      "Vue": 3327
+    },
+    "name": "wiselike",
+    "readme_filename": "g0v`wiselike`README.md",
+    "updated_at": "2017-03-22T17:25:40Z",
+    "url": "https://api.github.com/repos/g0v/wiselike"
+  },
+  "g0v/wiselike.tw": {
+    "description": "自己的 wiselike 自己救 => repo has changed to https://github.com/g0v/wiselike",
     "html_url": "https://github.com/g0v/wiselike.tw",
     "languages": {
       "CSS": 1444,
@@ -4568,7 +4582,7 @@
     },
     "name": "wiselike.tw",
     "readme_filename": "g0v`wiselike.tw`README.md",
-    "updated_at": "2017-03-08T11:09:26Z",
+    "updated_at": "2017-03-22T17:31:42Z",
     "url": "https://api.github.com/repos/g0v/wiselike.tw"
   },
   "g0v/workweek": {
@@ -4780,10 +4794,10 @@
     "description": "A platform to collect candidates profiles for all elections in Taiwan",
     "html_url": "https://github.com/kiang/elections",
     "languages": {
-      "Batchfile": 2888,
-      "CSS": 38228,
+      "Batchfile": 2785,
+      "CSS": 38146,
       "JavaScript": 19159,
-      "PHP": 8775272,
+      "PHP": 9112188,
       "Python": 278,
       "Shell": 4170
     },
