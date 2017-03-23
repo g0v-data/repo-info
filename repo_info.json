@@ -1224,10 +1224,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 47858,
-      "HTML": 213447,
-      "JavaScript": 92126,
-      "Python": 451570,
+      "CSS": 77169,
+      "HTML": 160978,
+      "JavaScript": 107708,
+      "Python": 454464,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -4445,11 +4445,11 @@
     "g0vjson_filename": "g0v`urbancode-commission`g0v.json",
     "html_url": "https://github.com/g0v/urbancode-commission",
     "languages": {
-      "PHP": 97169
+      "PHP": 98297
     },
     "name": "urbancode-commission",
     "readme_filename": "g0v`urbancode-commission`README.md",
-    "updated_at": "2017-01-10T12:35:49Z",
+    "updated_at": "2017-03-23T07:54:22Z",
     "url": "https://api.github.com/repos/g0v/urbancode-commission"
   },
   "g0v/urbancodeg0vtw": {
@@ -4561,9 +4561,9 @@
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
       "HTML": 196,
-      "JavaScript": 19350,
-      "Makefile": 149,
-      "Vue": 3327
+      "JavaScript": 20286,
+      "Makefile": 223,
+      "Vue": 8168
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
