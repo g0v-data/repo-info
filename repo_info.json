@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 77169,
-      "HTML": 160978,
+      "HTML": 161403,
       "JavaScript": 107708,
-      "Python": 454464,
+      "Python": 457728,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -3528,8 +3528,8 @@
     "languages": {
       "ApacheConf": 1526,
       "CSS": 552,
-      "HTML": 9929,
-      "JavaScript": 126609
+      "HTML": 9930,
+      "JavaScript": 127909
     },
     "name": "poli-radar",
     "readme_filename": "g0v`poli-radar`README.md",
@@ -3542,7 +3542,7 @@
     "languages": {
       "ApacheConf": 504,
       "HTML": 1104,
-      "PHP": 207719
+      "PHP": 208843
     },
     "name": "poli-radar-api",
     "readme_filename": "g0v`poli-radar-api`README.md",
@@ -4561,9 +4561,9 @@
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
       "HTML": 196,
-      "JavaScript": 20286,
+      "JavaScript": 21110,
       "Makefile": 223,
-      "Vue": 8168
+      "Vue": 9774
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -5003,7 +5003,7 @@
     },
     "name": "jobhelper",
     "readme_filename": "ronnywang`jobhelper`README.md",
-    "updated_at": "2017-02-23T04:31:53Z",
+    "updated_at": "2017-03-24T07:18:02Z",
     "url": "https://api.github.com/repos/ronnywang/jobhelper"
   },
   "ronnywang/judicial-easyer": {
@@ -5076,7 +5076,7 @@
     },
     "name": "taiwan-address-lookup",
     "readme_filename": "ronnywang`taiwan-address-lookup`README.md",
-    "updated_at": "2016-07-27T04:27:16Z",
+    "updated_at": "2017-03-24T03:19:07Z",
     "url": "https://api.github.com/repos/ronnywang/taiwan-address-lookup"
   },
   "ronnywang/taiwan-cabinet": {
