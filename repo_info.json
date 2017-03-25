@@ -1227,7 +1227,7 @@
       "CSS": 77169,
       "HTML": 161403,
       "JavaScript": 107708,
-      "Python": 457728,
+      "Python": 458084,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2447,15 +2447,15 @@
     "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 3524,
+      "CSS": 3557,
       "HTML": 2117,
-      "JavaScript": 510886,
+      "JavaScript": 511321,
       "Python": 20591,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-03-02T14:22:48Z",
+    "updated_at": "2017-03-25T04:52:52Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4561,13 +4561,13 @@
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
       "HTML": 196,
-      "JavaScript": 21110,
+      "JavaScript": 22686,
       "Makefile": 223,
       "Vue": 9774
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
-    "updated_at": "2017-03-22T17:25:40Z",
+    "updated_at": "2017-03-25T18:03:13Z",
     "url": "https://api.github.com/repos/g0v/wiselike"
   },
   "g0v/wiselike.tw": {
@@ -5204,7 +5204,7 @@
     },
     "name": "iHelp-android",
     "readme_filename": "weitsai`iHelp-android`README.md",
-    "updated_at": "2016-11-12T15:58:09Z",
+    "updated_at": "2017-03-25T10:24:22Z",
     "url": "https://api.github.com/repos/weitsai/iHelp-android"
   },
   "yisheng-liu/jobhelper_ff": {
