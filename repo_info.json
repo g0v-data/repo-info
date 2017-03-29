@@ -1227,7 +1227,7 @@
       "CSS": 98419,
       "HTML": 166303,
       "JavaScript": 124590,
-      "Python": 458596,
+      "Python": 462193,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -4452,6 +4452,21 @@
     "updated_at": "2017-03-23T07:54:22Z",
     "url": "https://api.github.com/repos/g0v/urbancode-commission"
   },
+  "g0v/urbancode-commission3w": {
+    "description": null,
+    "html_url": "https://github.com/g0v/urbancode-commission3w",
+    "languages": {
+      "ApacheConf": 553,
+      "HTML": 2748,
+      "JavaScript": 1132,
+      "PHP": 72492,
+      "Vue": 563
+    },
+    "name": "urbancode-commission3w",
+    "readme_filename": "g0v`urbancode-commission3w`readme.md",
+    "updated_at": "2017-03-29T15:59:04Z",
+    "url": "https://api.github.com/repos/g0v/urbancode-commission3w"
+  },
   "g0v/urbancodeg0vtw": {
     "description": "開放都市計畫",
     "html_url": "https://github.com/g0v/urbancodeg0vtw",
@@ -4493,8 +4508,8 @@
     "html_url": "https://github.com/g0v/victim",
     "languages": {
       "Java": 1835,
-      "JavaScript": 105444,
-      "Objective-C": 4520,
+      "JavaScript": 106783,
+      "Objective-C": 4517,
       "Python": 1637
     },
     "name": "victim",
@@ -4563,7 +4578,7 @@
       "HTML": 196,
       "JavaScript": 22686,
       "Makefile": 223,
-      "Vue": 14929
+      "Vue": 13055
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
