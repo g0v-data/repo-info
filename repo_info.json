@@ -892,7 +892,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-03-13T08:18:08Z",
+    "updated_at": "2017-03-30T15:19:34Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98419,
-      "HTML": 166303,
+      "HTML": 160826,
       "JavaScript": 124590,
-      "Python": 462193,
+      "Python": 464867,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -4340,7 +4340,7 @@
       "CSS": 27585,
       "HTML": 178897,
       "JavaScript": 23644,
-      "Python": 92033,
+      "Python": 92017,
       "Shell": 130
     },
     "name": "twly-voter-guide",
@@ -4445,7 +4445,7 @@
     "g0vjson_filename": "g0v`urbancode-commission`g0v.json",
     "html_url": "https://github.com/g0v/urbancode-commission",
     "languages": {
-      "PHP": 98297
+      "PHP": 105856
     },
     "name": "urbancode-commission",
     "readme_filename": "g0v`urbancode-commission`README.md",
@@ -4578,7 +4578,7 @@
       "HTML": 196,
       "JavaScript": 22686,
       "Makefile": 223,
-      "Vue": 13055
+      "Vue": 12448
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
