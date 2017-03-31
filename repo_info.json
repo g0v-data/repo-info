@@ -892,7 +892,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-03-30T15:19:34Z",
+    "updated_at": "2017-03-31T11:57:23Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98419,
-      "HTML": 160826,
+      "HTML": 166633,
       "JavaScript": 124590,
-      "Python": 464867,
+      "Python": 472952,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2224,7 +2224,7 @@
     },
     "name": "hack.g0v.tw",
     "readme_filename": "g0v`hack.g0v.tw`README.md",
-    "updated_at": "2017-03-09T17:35:34Z",
+    "updated_at": "2017-03-31T01:58:37Z",
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
   },
   "g0v/hackeditr": {
@@ -4578,7 +4578,7 @@
       "HTML": 196,
       "JavaScript": 22686,
       "Makefile": 223,
-      "Vue": 12448
+      "Vue": 13307
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
