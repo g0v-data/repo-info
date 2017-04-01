@@ -1224,8 +1224,8 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 98419,
-      "HTML": 166633,
+      "CSS": 98213,
+      "HTML": 166002,
       "JavaScript": 124590,
       "Python": 472952,
       "Shell": 3874
@@ -2455,7 +2455,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-03-25T04:52:52Z",
+    "updated_at": "2017-04-01T18:47:30Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3542,7 +3542,7 @@
     "languages": {
       "ApacheConf": 504,
       "HTML": 2971,
-      "PHP": 210710
+      "PHP": 211065
     },
     "name": "poli-radar-api",
     "readme_filename": "g0v`poli-radar-api`README.md",
@@ -4576,9 +4576,9 @@
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
       "HTML": 196,
-      "JavaScript": 22686,
+      "JavaScript": 22541,
       "Makefile": 223,
-      "Vue": 13307
+      "Vue": 13877
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
