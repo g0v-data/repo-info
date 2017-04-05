@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98213,
-      "HTML": 167955,
+      "HTML": 167690,
       "JavaScript": 124590,
-      "Python": 473534,
+      "Python": 473514,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2449,7 +2449,7 @@
     "languages": {
       "CSS": 3557,
       "HTML": 2117,
-      "JavaScript": 511332,
+      "JavaScript": 512660,
       "Python": 20591,
       "Vim script": 47
     },
@@ -3049,7 +3049,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2017-03-09T17:21:03Z",
+    "updated_at": "2017-04-05T02:27:04Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3233,7 +3233,7 @@
       "HTML": 4539383,
       "JavaScript": 10419,
       "LiveScript": 1241,
-      "PHP": 1477679,
+      "PHP": 1486276,
       "Perl": 3794,
       "Python": 16292,
       "Shell": 4781
@@ -4578,7 +4578,7 @@
       "HTML": 196,
       "JavaScript": 22541,
       "Makefile": 223,
-      "Vue": 13877
+      "Vue": 12796
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
