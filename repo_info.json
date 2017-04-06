@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98213,
-      "HTML": 167690,
+      "HTML": 175268,
       "JavaScript": 124590,
-      "Python": 473514,
+      "Python": 474279,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -4576,9 +4576,9 @@
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
       "HTML": 196,
-      "JavaScript": 22541,
+      "JavaScript": 22686,
       "Makefile": 223,
-      "Vue": 12796
+      "Vue": 12837
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
