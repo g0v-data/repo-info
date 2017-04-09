@@ -1227,7 +1227,7 @@
       "CSS": 98213,
       "HTML": 175268,
       "JavaScript": 124590,
-      "Python": 485060,
+      "Python": 490697,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -3253,7 +3253,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2017-03-17T15:33:30Z",
+    "updated_at": "2017-04-09T15:56:56Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
@@ -4881,7 +4881,7 @@
     },
     "name": "amis-safolu",
     "readme_filename": "miaoski`amis-safolu`README.md",
-    "updated_at": "2016-12-23T15:34:33Z",
+    "updated_at": "2017-04-09T08:48:20Z",
     "url": "https://api.github.com/repos/miaoski/amis-safolu"
   },
   "mlwmlw/pcc": {
