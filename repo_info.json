@@ -1227,7 +1227,7 @@
       "CSS": 98213,
       "HTML": 175268,
       "JavaScript": 124590,
-      "Python": 490697,
+      "Python": 492984,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -3253,7 +3253,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2017-04-09T15:56:56Z",
+    "updated_at": "2017-04-10T00:44:46Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
@@ -3605,7 +3605,7 @@
     },
     "name": "ppt",
     "readme_filename": "g0v`ppt`README.md",
-    "updated_at": "2017-01-03T12:31:53Z",
+    "updated_at": "2017-04-10T15:00:48Z",
     "url": "https://api.github.com/repos/g0v/ppt"
   },
   "g0v/ppt-commitment-parser": {
@@ -4576,11 +4576,11 @@
       "HTML": 196,
       "JavaScript": 22817,
       "Makefile": 223,
-      "Vue": 16431
+      "Vue": 17414
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
-    "updated_at": "2017-03-26T09:55:06Z",
+    "updated_at": "2017-04-10T17:59:31Z",
     "url": "https://api.github.com/repos/g0v/wiselike"
   },
   "g0v/wiselike.tw": {
