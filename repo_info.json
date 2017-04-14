@@ -358,7 +358,7 @@
     },
     "name": "CWN-editr",
     "readme_filename": "g0v`CWN-editr`README.md",
-    "updated_at": "2015-01-18T05:32:04Z",
+    "updated_at": "2017-04-14T13:34:48Z",
     "url": "https://api.github.com/repos/g0v/CWN-editr"
   },
   "g0v/CommuniqueAPI": {
@@ -1225,7 +1225,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98254,
-      "HTML": 182250,
+      "HTML": 182402,
       "JavaScript": 124590,
       "Python": 512624,
       "Shell": 3874
@@ -3248,7 +3248,7 @@
     "languages": {
       "CSS": 1328,
       "HTML": 3535,
-      "JavaScript": 30065,
+      "JavaScript": 30134,
       "PHP": 7774
     },
     "name": "newshelper-extension",
@@ -4574,9 +4574,9 @@
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
       "HTML": 196,
-      "JavaScript": 24833,
+      "JavaScript": 24870,
       "Makefile": 223,
-      "Vue": 19543
+      "Vue": 24059
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -5058,7 +5058,7 @@
       "CSS": 16113,
       "HTML": 4547596,
       "JavaScript": 81598,
-      "PHP": 3008660
+      "PHP": 3008664
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
@@ -5089,7 +5089,7 @@
     },
     "name": "taiwan-address-lookup",
     "readme_filename": "ronnywang`taiwan-address-lookup`README.md",
-    "updated_at": "2017-04-03T07:29:30Z",
+    "updated_at": "2017-04-13T23:00:14Z",
     "url": "https://api.github.com/repos/ronnywang/taiwan-address-lookup"
   },
   "ronnywang/taiwan-cabinet": {
