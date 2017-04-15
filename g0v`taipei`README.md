@@ -33,7 +33,7 @@ This information applies for short-stay visitors only.
 
 [Passports eligible for Visa on arrival](http://www.boca.gov.tw/ct.asp?xItem=1446&ctNode=779&mp=2)
 
-### Passports of India, Indonesia, Vietnam, the Philippines and Thailand
+### Passports of India, Indonesia, Myanmar, the Philippines, Vietnam, Cambodia and Laos
 
 If you have valid visa for any of the following countries: US, Canada, Japan, UK, Schengen countries, Australia, New Zealand, use the [fast track visa application](http://www.boca.gov.tw/ct.asp?xItem=6464&ctNode=868&mp=2)
 
