@@ -1227,7 +1227,7 @@
       "CSS": 98254,
       "HTML": 182402,
       "JavaScript": 124590,
-      "Python": 512624,
+      "Python": 512622,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -4549,7 +4549,7 @@
       "HTML": 5212,
       "JavaScript": 21646,
       "Shell": 1956,
-      "Vue": 92255
+      "Vue": 92375
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4574,9 +4574,9 @@
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
       "HTML": 196,
-      "JavaScript": 24870,
+      "JavaScript": 24867,
       "Makefile": 223,
-      "Vue": 24059
+      "Vue": 23703
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
