@@ -1225,7 +1225,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98254,
-      "HTML": 182490,
+      "HTML": 182629,
       "JavaScript": 124590,
       "Python": 515104,
       "Shell": 3874
@@ -1847,17 +1847,6 @@
     "readme_filename": "g0v`g0v-grant-landing`README.md",
     "updated_at": "2016-12-12T07:52:45Z",
     "url": "https://api.github.com/repos/g0v/g0v-grant-landing"
-  },
-  "g0v/g0v-news-gd": {
-    "description": "g0v news graphic design.",
-    "html_url": "https://github.com/g0v/g0v-news-gd",
-    "languages": {
-      "CSS": 2549
-    },
-    "name": "g0v-news-gd",
-    "readme_filename": "g0v`g0v-news-gd`README.md",
-    "updated_at": "2016-11-27T06:14:10Z",
-    "url": "https://api.github.com/repos/g0v/g0v-news-gd"
   },
   "g0v/g0v-paradise": {
     "description": "vagrant settings for g0v box",
@@ -2628,7 +2617,7 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "JavaScript": 20037
+      "JavaScript": 21283
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
@@ -4584,15 +4573,15 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 39,
+      "CSS": 98,
       "HTML": 196,
-      "JavaScript": 24867,
+      "JavaScript": 26016,
       "Makefile": 223,
-      "Vue": 25782
+      "Vue": 27577
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
-    "updated_at": "2017-04-18T10:38:57Z",
+    "updated_at": "2017-04-19T05:30:11Z",
     "url": "https://api.github.com/repos/g0v/wiselike"
   },
   "g0v/wiselike.tw": {
