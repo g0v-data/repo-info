@@ -1227,7 +1227,7 @@
       "CSS": 98254,
       "HTML": 182658,
       "JavaScript": 124590,
-      "Python": 518230,
+      "Python": 518657,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -4584,9 +4584,9 @@
     "languages": {
       "CSS": 148,
       "HTML": 196,
-      "JavaScript": 26922,
+      "JavaScript": 26920,
       "Makefile": 223,
-      "Vue": 31985
+      "Vue": 32383
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
