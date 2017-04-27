@@ -140,7 +140,7 @@
     },
     "name": "campaign-finance.g0v.ctiml.tw",
     "readme_filename": "ctiml`campaign-finance.g0v.ctiml.tw`README.md",
-    "updated_at": "2017-04-03T07:31:41Z",
+    "updated_at": "2017-04-27T03:45:08Z",
     "url": "https://api.github.com/repos/ctiml/campaign-finance.g0v.ctiml.tw"
   },
   "ctiml/vote2014": {
@@ -1225,7 +1225,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98254,
-      "HTML": 183136,
+      "HTML": 183657,
       "JavaScript": 124590,
       "Python": 518678,
       "Shell": 3874
@@ -2617,11 +2617,12 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "JavaScript": 21196
+      "Gherkin": 13577,
+      "JavaScript": 7010
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2017-04-25T08:26:49Z",
+    "updated_at": "2017-04-27T15:20:33Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -4584,9 +4585,9 @@
     "languages": {
       "CSS": 148,
       "HTML": 196,
-      "JavaScript": 30106,
+      "JavaScript": 30773,
       "Makefile": 223,
-      "Vue": 34022
+      "Vue": 34414
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -5135,7 +5136,7 @@
       "ApacheConf": 85,
       "CSS": 14908,
       "HTML": 4553537,
-      "PHP": 2936782
+      "PHP": 2937489
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
