@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98254,
-      "HTML": 183657,
+      "HTML": 183811,
       "JavaScript": 124590,
-      "Python": 518678,
+      "Python": 518866,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2617,7 +2617,7 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "Gherkin": 13577,
+      "Gherkin": 15006,
       "JavaScript": 7010
     },
     "name": "labor-standards-tw",
@@ -4559,7 +4559,7 @@
       "HTML": 5212,
       "JavaScript": 21646,
       "Shell": 1956,
-      "Vue": 92375
+      "Vue": 92564
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4585,9 +4585,9 @@
     "languages": {
       "CSS": 148,
       "HTML": 196,
-      "JavaScript": 30773,
+      "JavaScript": 31886,
       "Makefile": 223,
-      "Vue": 34414
+      "Vue": 37736
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -4618,7 +4618,7 @@
     },
     "name": "workweek",
     "readme_filename": "g0v`workweek`README.md",
-    "updated_at": "2016-12-28T23:51:17Z",
+    "updated_at": "2017-04-28T18:42:58Z",
     "url": "https://api.github.com/repos/g0v/workweek"
   },
   "g0v/worldwonder": {
@@ -5136,7 +5136,7 @@
       "ApacheConf": 85,
       "CSS": 14908,
       "HTML": 4553537,
-      "PHP": 2937489
+      "PHP": 2937973
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
