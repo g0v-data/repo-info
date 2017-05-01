@@ -2617,7 +2617,7 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "Gherkin": 15006,
+      "Gherkin": 15549,
       "JavaScript": 7010
     },
     "name": "labor-standards-tw",
@@ -3732,10 +3732,18 @@
   "g0v/react-native-scanbot": {
     "description": "https://scanbot.io/en/sdk.html for react native",
     "html_url": "https://github.com/g0v/react-native-scanbot",
-    "languages": {},
+    "languages": {
+      "C": 3236,
+      "C#": 3585,
+      "Java": 1434,
+      "JavaScript": 650,
+      "Objective-C": 146503,
+      "Ruby": 609,
+      "Shell": 2708
+    },
     "name": "react-native-scanbot",
     "readme_filename": "g0v`react-native-scanbot`README.md",
-    "updated_at": "2017-04-20T15:39:55Z",
+    "updated_at": "2017-05-01T16:38:43Z",
     "url": "https://api.github.com/repos/g0v/react-native-scanbot"
   },
   "g0v/react-zh-stroker": {
@@ -4583,11 +4591,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 148,
+      "CSS": 425,
       "HTML": 196,
       "JavaScript": 31886,
       "Makefile": 223,
-      "Vue": 37736
+      "Vue": 39025
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
