@@ -1227,7 +1227,7 @@
       "CSS": 98254,
       "HTML": 183811,
       "JavaScript": 124590,
-      "Python": 518866,
+      "Python": 518864,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2211,7 +2211,7 @@
     },
     "name": "hack.g0v.tw",
     "readme_filename": "g0v`hack.g0v.tw`README.md",
-    "updated_at": "2017-03-31T01:58:37Z",
+    "updated_at": "2017-05-02T06:49:05Z",
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
   },
   "g0v/hackeditr": {
@@ -3743,7 +3743,7 @@
     },
     "name": "react-native-scanbot",
     "readme_filename": "g0v`react-native-scanbot`README.md",
-    "updated_at": "2017-05-01T16:38:43Z",
+    "updated_at": "2017-05-02T01:36:04Z",
     "url": "https://api.github.com/repos/g0v/react-native-scanbot"
   },
   "g0v/react-zh-stroker": {
@@ -4591,11 +4591,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 425,
+      "CSS": 589,
       "HTML": 196,
       "JavaScript": 31886,
       "Makefile": 223,
-      "Vue": 39025
+      "Vue": 40232
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -5148,7 +5148,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2017-04-03T07:27:13Z",
+    "updated_at": "2017-05-02T06:59:23Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
