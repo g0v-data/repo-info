@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98254,
-      "HTML": 183811,
+      "HTML": 189310,
       "JavaScript": 124590,
-      "Python": 518864,
+      "Python": 519811,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -4591,11 +4591,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 589,
+      "CSS": 755,
       "HTML": 196,
-      "JavaScript": 32759,
+      "JavaScript": 33253,
       "Makefile": 223,
-      "Vue": 40828
+      "Vue": 41596
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
