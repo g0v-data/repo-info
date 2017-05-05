@@ -474,12 +474,12 @@
       "HTML": 8526,
       "JavaScript": 19223,
       "LiveScript": 2300,
-      "Ruby": 10539,
+      "Ruby": 10561,
       "Shell": 738
     },
     "name": "Logbot",
     "readme_filename": "g0v`Logbot`README.md",
-    "updated_at": "2017-01-19T20:37:27Z",
+    "updated_at": "2017-05-05T15:42:43Z",
     "url": "https://api.github.com/repos/g0v/Logbot"
   },
   "g0v/NoUseBuildingTool": {
@@ -2187,7 +2187,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 84581,
-      "HTML": 92981,
+      "HTML": 94277,
       "JavaScript": 714365
     },
     "name": "grantdash",
@@ -2442,7 +2442,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-04-01T18:47:30Z",
+    "updated_at": "2017-05-05T19:52:10Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4487,9 +4487,9 @@
     "html_url": "https://github.com/g0v/urbancode-commission3w",
     "languages": {
       "ApacheConf": 553,
-      "HTML": 2748,
+      "HTML": 2929,
       "JavaScript": 1132,
-      "PHP": 72492,
+      "PHP": 77827,
       "Vue": 563
     },
     "name": "urbancode-commission3w",
@@ -5259,7 +5259,7 @@
     },
     "name": "newshelper-safari",
     "readme_filename": "yllan`newshelper-safari`README.md",
-    "updated_at": "2016-12-22T12:24:17Z",
+    "updated_at": "2017-05-05T01:49:05Z",
     "url": "https://api.github.com/repos/yllan/newshelper-safari"
   },
   "zbryikt/g0vphotos": {
