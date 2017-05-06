@@ -2442,7 +2442,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-05-05T19:52:10Z",
+    "updated_at": "2017-05-06T03:33:15Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -2617,12 +2617,12 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "Gherkin": 15549,
-      "JavaScript": 7010
+      "Gherkin": 20043,
+      "JavaScript": 8418
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2017-04-27T15:20:33Z",
+    "updated_at": "2017-05-06T01:58:49Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -3957,7 +3957,7 @@
     },
     "name": "shelter",
     "readme_filename": "g0v`shelter`README.md",
-    "updated_at": "2017-04-25T15:51:01Z",
+    "updated_at": "2017-05-06T05:51:04Z",
     "url": "https://api.github.com/repos/g0v/shelter"
   },
   "g0v/slack-bot": {
@@ -4370,7 +4370,7 @@
       "CSS": 27585,
       "HTML": 178897,
       "JavaScript": 23644,
-      "Python": 92017,
+      "Python": 92364,
       "Shell": 130
     },
     "name": "twly-voter-guide",
