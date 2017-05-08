@@ -4594,9 +4594,9 @@
     "languages": {
       "CSS": 755,
       "HTML": 196,
-      "JavaScript": 33253,
+      "JavaScript": 32875,
       "Makefile": 223,
-      "Vue": 41596
+      "Vue": 41852
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -4627,7 +4627,7 @@
     },
     "name": "workweek",
     "readme_filename": "g0v`workweek`README.md",
-    "updated_at": "2017-04-28T18:42:58Z",
+    "updated_at": "2017-05-08T03:55:01Z",
     "url": "https://api.github.com/repos/g0v/workweek"
   },
   "g0v/worldwonder": {
