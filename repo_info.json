@@ -4592,11 +4592,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 755,
+      "CSS": 873,
       "HTML": 196,
-      "JavaScript": 32875,
+      "JavaScript": 32973,
       "Makefile": 223,
-      "Vue": 41852
+      "Vue": 43521
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
