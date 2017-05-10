@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98254,
-      "HTML": 189310,
+      "HTML": 202978,
       "JavaScript": 124590,
-      "Python": 519811,
+      "Python": 516579,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2187,7 +2187,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 84581,
-      "HTML": 94277,
+      "HTML": 94300,
       "JavaScript": 714365
     },
     "name": "grantdash",
@@ -4566,9 +4566,9 @@
     "languages": {
       "CSS": 1464,
       "HTML": 5212,
-      "JavaScript": 21646,
+      "JavaScript": 21452,
       "Shell": 1956,
-      "Vue": 92614
+      "Vue": 92952
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4594,9 +4594,9 @@
     "languages": {
       "CSS": 873,
       "HTML": 196,
-      "JavaScript": 32973,
+      "JavaScript": 34025,
       "Makefile": 223,
-      "Vue": 43521
+      "Vue": 45596
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
