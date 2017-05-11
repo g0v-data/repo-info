@@ -1227,7 +1227,7 @@
       "CSS": 98254,
       "HTML": 202978,
       "JavaScript": 124590,
-      "Python": 516579,
+      "Python": 516485,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -1402,18 +1402,6 @@
     "updated_at": "2014-10-13T20:07:34Z",
     "url": "https://api.github.com/repos/g0v/decent.tw"
   },
-  "g0v/design-guide": {
-    "description": "design guide and bootstrap v3 css for g0v websites",
-    "html_url": "https://github.com/g0v/design-guide",
-    "languages": {
-      "CSS": 1924,
-      "HTML": 7195
-    },
-    "name": "design-guide",
-    "readme_filename": "g0v`design-guide`README.md",
-    "updated_at": "2016-11-26T12:17:41Z",
-    "url": "https://api.github.com/repos/g0v/design-guide"
-  },
   "g0v/dev": {
     "description": "dev.g0v.tw",
     "g0vjson_filename": "g0v`dev`g0v.json",
@@ -1424,7 +1412,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-04-20T13:59:51Z",
+    "updated_at": "2017-05-11T06:39:09Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -4565,10 +4553,10 @@
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1464,
-      "HTML": 5212,
-      "JavaScript": 21452,
+      "HTML": 6006,
+      "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 92952
+      "Vue": 92446
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4594,9 +4582,9 @@
     "languages": {
       "CSS": 873,
       "HTML": 196,
-      "JavaScript": 34025,
+      "JavaScript": 34067,
       "Makefile": 223,
-      "Vue": 45596
+      "Vue": 47555
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
