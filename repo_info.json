@@ -2175,7 +2175,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 84581,
-      "HTML": 94300,
+      "HTML": 94403,
       "JavaScript": 714365
     },
     "name": "grantdash",
@@ -4115,7 +4115,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2017-04-30T02:10:25Z",
+    "updated_at": "2017-05-12T07:43:26Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
@@ -4582,9 +4582,9 @@
     "languages": {
       "CSS": 873,
       "HTML": 196,
-      "JavaScript": 34067,
+      "JavaScript": 35554,
       "Makefile": 223,
-      "Vue": 47555
+      "Vue": 55834
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
