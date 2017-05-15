@@ -11,6 +11,7 @@ This is a handbook for people coming to the [g0v Summit](http://summit.g0v.tw/) 
 - [Tipping](#tipping)
 - [Communication](#communication)
 - [What to buy to bring back home](#what-to-buy-to-bring-back-home)
+- [Airport transportation](#aitport-transportaion)
 - [Getting Around](#getting-around)
 - [Sight Seeing](#sight-seeing)
 - [Food](#food)
@@ -90,6 +91,12 @@ No need to tip.
 Chinese & English, most of people will help you anyway.
 
 English news can be found on [Taiwan News](http://www.taiwannews.com.tw/)
+
+## Airport transportation
+
+[Taoyuan Airport](http://www.taoyuan-airport.com/english/transportation)
+
+[Taipei Songshan Airport](http://www.tsa.gov.tw/tsa/en/page.aspx?id=1059)
 
 ## Getting Around
 

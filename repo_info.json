@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98254,
-      "HTML": 202978,
+      "HTML": 206603,
       "JavaScript": 124590,
-      "Python": 516485,
+      "Python": 523213,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2951,7 +2951,7 @@
     },
     "name": "magic-mirror",
     "readme_filename": "g0v`magic-mirror`README.md",
-    "updated_at": "2016-12-20T13:50:05Z",
+    "updated_at": "2017-05-15T06:50:48Z",
     "url": "https://api.github.com/repos/g0v/magic-mirror"
   },
   "g0v/mapView": {
@@ -3158,7 +3158,7 @@
     },
     "name": "moedict.tw",
     "readme_filename": "g0v`moedict.tw`README.md",
-    "updated_at": "2017-04-07T11:32:40Z",
+    "updated_at": "2017-05-15T02:14:55Z",
     "url": "https://api.github.com/repos/g0v/moedict.tw"
   },
   "g0v/moer.g0v.tw": {
@@ -4584,7 +4584,7 @@
       "HTML": 196,
       "JavaScript": 35554,
       "Makefile": 223,
-      "Vue": 55834
+      "Vue": 56311
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
