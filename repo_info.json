@@ -2424,7 +2424,7 @@
     "languages": {
       "CSS": 3557,
       "HTML": 2117,
-      "JavaScript": 512660,
+      "JavaScript": 513812,
       "Python": 20591,
       "Vim script": 47
     },
@@ -4582,9 +4582,9 @@
     "languages": {
       "CSS": 873,
       "HTML": 196,
-      "JavaScript": 35868,
+      "JavaScript": 37349,
       "Makefile": 223,
-      "Vue": 56533
+      "Vue": 57778
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
