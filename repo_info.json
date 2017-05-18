@@ -3142,7 +3142,7 @@
     "html_url": "https://github.com/g0v/moedict-process",
     "languages": {
       "Makefile": 482,
-      "Python": 16842
+      "Python": 17098
     },
     "name": "moedict-process",
     "readme_filename": "g0v`moedict-process`README.md",
@@ -4580,11 +4580,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 873,
+      "CSS": 1248,
       "HTML": 196,
-      "JavaScript": 37349,
+      "JavaScript": 37331,
       "Makefile": 223,
-      "Vue": 57778
+      "Vue": 59634
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
