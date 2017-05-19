@@ -1412,7 +1412,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-05-11T06:39:09Z",
+    "updated_at": "2017-05-19T02:48:05Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -4580,11 +4580,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 1248,
+      "CSS": 1312,
       "HTML": 196,
       "JavaScript": 37331,
       "Makefile": 223,
-      "Vue": 59634
+      "Vue": 57423
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
