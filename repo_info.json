@@ -1315,7 +1315,7 @@
     },
     "name": "data-design",
     "readme_filename": "g0v`data-design`README.md",
-    "updated_at": "2016-11-15T09:54:07Z",
+    "updated_at": "2017-05-20T02:35:19Z",
     "url": "https://api.github.com/repos/g0v/data-design"
   },
   "g0v/data-levy-act1-gitbook": {
@@ -2424,7 +2424,7 @@
     "languages": {
       "CSS": 3557,
       "HTML": 2117,
-      "JavaScript": 513812,
+      "JavaScript": 513834,
       "Python": 20591,
       "Vim script": 47
     },
