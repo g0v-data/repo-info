@@ -4553,10 +4553,10 @@
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1464,
-      "HTML": 6006,
+      "HTML": 6009,
       "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 92446
+      "Vue": 92558
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4580,11 +4580,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 1312,
+      "CSS": 1617,
       "HTML": 642,
       "JavaScript": 36776,
       "Makefile": 223,
-      "Vue": 59058
+      "Vue": 59118
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
