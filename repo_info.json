@@ -1232,7 +1232,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-03-26T09:55:17Z",
+    "updated_at": "2017-05-25T01:05:10Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -2605,7 +2605,7 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "Gherkin": 20043,
+      "Gherkin": 20023,
       "JavaScript": 8418
     },
     "name": "labor-standards-tw",
@@ -4582,9 +4582,9 @@
     "languages": {
       "CSS": 1617,
       "HTML": 642,
-      "JavaScript": 36776,
+      "JavaScript": 37538,
       "Makefile": 223,
-      "Vue": 59118
+      "Vue": 63777
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
