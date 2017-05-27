@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 213875,
+      "HTML": 217800,
       "JavaScript": 124590,
-      "Python": 525699,
+      "Python": 528703,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2946,8 +2946,8 @@
     "g0vjson_filename": "g0v`magic-mirror`g0v.json",
     "html_url": "https://github.com/g0v/magic-mirror",
     "languages": {
-      "Perl": 15061,
-      "Shell": 477
+      "Perl": 15143,
+      "Shell": 555
     },
     "name": "magic-mirror",
     "readme_filename": "g0v`magic-mirror`README.md",
@@ -4348,7 +4348,7 @@
     },
     "name": "twlaw",
     "readme_filename": "g0v`twlaw`README.md",
-    "updated_at": "2017-04-16T15:36:47Z",
+    "updated_at": "2017-05-27T02:42:59Z",
     "url": "https://api.github.com/repos/g0v/twlaw"
   },
   "g0v/twly-voter-guide": {
