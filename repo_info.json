@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 217800,
+      "HTML": 223186,
       "JavaScript": 124590,
-      "Python": 528703,
+      "Python": 528832,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2430,7 +2430,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-05-06T03:33:15Z",
+    "updated_at": "2017-05-28T09:45:07Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
