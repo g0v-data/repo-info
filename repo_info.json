@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 223814,
+      "HTML": 227927,
       "JavaScript": 124590,
-      "Python": 528832,
+      "Python": 529555,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -4553,10 +4553,10 @@
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1464,
-      "HTML": 6009,
+      "HTML": 6365,
       "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 92558
+      "Vue": 92724
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4584,7 +4584,7 @@
       "HTML": 642,
       "JavaScript": 37538,
       "Makefile": 223,
-      "Vue": 64251
+      "Vue": 67149
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
