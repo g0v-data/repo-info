@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 227927,
+      "HTML": 230079,
       "JavaScript": 124590,
-      "Python": 529555,
+      "Python": 535146,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2199,7 +2199,7 @@
     },
     "name": "hack.g0v.tw",
     "readme_filename": "g0v`hack.g0v.tw`README.md",
-    "updated_at": "2017-05-02T06:49:05Z",
+    "updated_at": "2017-06-01T20:17:54Z",
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
   },
   "g0v/hackeditr": {
@@ -3939,8 +3939,10 @@
     "description": null,
     "html_url": "https://github.com/g0v/shelter",
     "languages": {
+      "CSS": 62,
+      "HTML": 398,
       "Java": 1835,
-      "JavaScript": 108535,
+      "JavaScript": 110271,
       "Objective-C": 4517,
       "Python": 1637
     },
@@ -4580,11 +4582,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 1617,
+      "CSS": 1614,
       "HTML": 642,
-      "JavaScript": 37538,
+      "JavaScript": 37556,
       "Makefile": 223,
-      "Vue": 67149
+      "Vue": 68852
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
