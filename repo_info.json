@@ -4582,11 +4582,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 42449,
+      "CSS": 42512,
       "HTML": 642,
-      "JavaScript": 37784,
+      "JavaScript": 37829,
       "Makefile": 223,
-      "Vue": 69688
+      "Vue": 69050
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -4712,7 +4712,7 @@
     },
     "name": "Real-time-Air-Quality-Map",
     "readme_filename": "immortalmice`Real-time-Air-Quality-Map`README.md",
-    "updated_at": "2017-04-04T17:48:25Z",
+    "updated_at": "2017-06-03T08:33:20Z",
     "url": "https://api.github.com/repos/immortalmice/Real-time-Air-Quality-Map"
   },
   "jcsky/Solveissues": {
