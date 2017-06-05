@@ -2424,7 +2424,7 @@
     "languages": {
       "CSS": 3557,
       "HTML": 2117,
-      "JavaScript": 514762,
+      "JavaScript": 514808,
       "Python": 20591,
       "Vim script": 47
     },
@@ -3942,7 +3942,7 @@
       "CSS": 62,
       "HTML": 398,
       "Java": 1835,
-      "JavaScript": 110271,
+      "JavaScript": 111537,
       "Objective-C": 4517,
       "Python": 1637
     },
@@ -4297,7 +4297,7 @@
     },
     "name": "twbudget",
     "readme_filename": "g0v`twbudget`README.md",
-    "updated_at": "2017-04-08T12:10:30Z",
+    "updated_at": "2017-06-05T12:46:10Z",
     "url": "https://api.github.com/repos/g0v/twbudget"
   },
   "g0v/tweet-html-diff": {
@@ -4582,11 +4582,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 42512,
+      "CSS": 42914,
       "HTML": 642,
-      "JavaScript": 37829,
+      "JavaScript": 37873,
       "Makefile": 223,
-      "Vue": 69076
+      "Vue": 72207
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -5055,7 +5055,7 @@
     },
     "name": "lagnews",
     "readme_filename": "ronnywang`lagnews`README",
-    "updated_at": "2017-06-04T04:17:15Z",
+    "updated_at": "2017-06-05T06:40:32Z",
     "url": "https://api.github.com/repos/ronnywang/lagnews"
   },
   "ronnywang/newsdiff": {
