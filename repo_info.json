@@ -1225,9 +1225,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 230079,
+      "HTML": 227360,
       "JavaScript": 124590,
-      "Python": 535146,
+      "Python": 537188,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2508,7 +2508,7 @@
     },
     "name": "koktai",
     "readme_filename": "g0v`koktai`README.md",
-    "updated_at": "2017-02-07T20:32:12Z",
+    "updated_at": "2017-06-07T07:14:32Z",
     "url": "https://api.github.com/repos/g0v/koktai"
   },
   "g0v/kuansim": {
@@ -2605,8 +2605,8 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "Gherkin": 20023,
-      "JavaScript": 8418
+      "Gherkin": 20317,
+      "TypeScript": 15586
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
@@ -3020,7 +3020,7 @@
       "HTML": 23569,
       "Java": 121692,
       "JavaScript": 86000,
-      "LiveScript": 81031,
+      "LiveScript": 81799,
       "Makefile": 2172,
       "Shell": 117
     },
@@ -4322,7 +4322,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2017-02-25T07:38:27Z",
+    "updated_at": "2017-06-07T11:04:12Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
@@ -4582,11 +4582,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 42914,
+      "CSS": 42948,
       "HTML": 792,
       "JavaScript": 38459,
       "Makefile": 223,
-      "Vue": 70753
+      "Vue": 78290
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
