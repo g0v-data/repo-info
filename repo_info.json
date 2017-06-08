@@ -33,7 +33,7 @@
     },
     "name": "open_crops",
     "readme_filename": "a0726h77`open_crops`README.md",
-    "updated_at": "2016-01-30T14:37:56Z",
+    "updated_at": "2017-06-08T13:36:04Z",
     "url": "https://api.github.com/repos/a0726h77/open_crops"
   },
   "audreyt/moe": {
@@ -2430,7 +2430,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-05-28T09:45:07Z",
+    "updated_at": "2017-06-08T12:15:33Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4584,9 +4584,9 @@
     "languages": {
       "CSS": 42948,
       "HTML": 792,
-      "JavaScript": 38459,
+      "JavaScript": 38777,
       "Makefile": 223,
-      "Vue": 78290
+      "Vue": 79360
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
