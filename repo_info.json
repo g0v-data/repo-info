@@ -25,17 +25,6 @@
     "updated_at": "2016-04-07T09:08:53Z",
     "url": "https://api.github.com/repos/a0000778/g8v"
   },
-  "a0726h77/open_crops": {
-    "description": "農作物查詢",
-    "html_url": "https://github.com/a0726h77/open_crops",
-    "languages": {
-      "HTML": 10547
-    },
-    "name": "open_crops",
-    "readme_filename": "a0726h77`open_crops`README.md",
-    "updated_at": "2017-06-08T13:36:04Z",
-    "url": "https://api.github.com/repos/a0726h77/open_crops"
-  },
   "audreyt/moe": {
     "description": "萌典字宙反應爐 — Hanzi Fusion Reactor",
     "html_url": "https://github.com/audreyt/moe",
@@ -4582,7 +4571,7 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 42948,
+      "CSS": 42992,
       "HTML": 792,
       "JavaScript": 38138,
       "Makefile": 223,
