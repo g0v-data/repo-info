@@ -105,6 +105,18 @@
     "updated_at": "2015-10-06T02:26:58Z",
     "url": "https://api.github.com/repos/chungheng/g0v"
   },
+  "councilor2014/councilor2014.github.io": {
+    "description": null,
+    "html_url": "https://github.com/councilor2014/councilor2014.github.io",
+    "languages": {
+      "CSS": 1035483,
+      "JavaScript": 1119568
+    },
+    "name": "councilor2014.github.io",
+    "readme_filename": "councilor2014`councilor2014.github.io`README.md",
+    "updated_at": "2014-10-20T15:01:10Z",
+    "url": "https://api.github.com/repos/councilor2014/councilor2014.github.io"
+  },
   "ctiml/campaign-finance.g0v.ctiml.tw": {
     "description": "政治獻金數位化．人工 OCR",
     "html_url": "https://github.com/ctiml/campaign-finance.g0v.ctiml.tw",
@@ -2584,11 +2596,11 @@
     "languages": {
       "Gherkin": 20317,
       "JavaScript": 6051,
-      "TypeScript": 18598
+      "TypeScript": 21112
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2017-05-06T01:58:49Z",
+    "updated_at": "2017-06-12T15:19:49Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -3214,9 +3226,8 @@
     "html_url": "https://github.com/g0v/newshelper-extension",
     "languages": {
       "CSS": 1328,
-      "HTML": 3535,
-      "JavaScript": 30134,
-      "PHP": 7774
+      "HTML": 1222,
+      "JavaScript": 20179
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
@@ -4562,9 +4573,9 @@
     "languages": {
       "CSS": 42992,
       "HTML": 792,
-      "JavaScript": 38138,
+      "JavaScript": 39858,
       "Makefile": 223,
-      "Vue": 80029
+      "Vue": 81631
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
