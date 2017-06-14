@@ -37,7 +37,7 @@
     },
     "name": "moe",
     "readme_filename": "audreyt`moe`README.md",
-    "updated_at": "2017-01-12T15:37:02Z",
+    "updated_at": "2017-06-14T05:58:36Z",
     "url": "https://api.github.com/repos/audreyt/moe"
   },
   "bestian/goban": {
@@ -2163,8 +2163,8 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 84581,
-      "HTML": 94403,
+      "CSS": 84775,
+      "HTML": 95176,
       "JavaScript": 714365
     },
     "name": "grantdash",
@@ -2594,9 +2594,9 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "Gherkin": 20317,
+      "Gherkin": 20265,
       "JavaScript": 6051,
-      "TypeScript": 21112
+      "TypeScript": 23997
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
@@ -4547,7 +4547,7 @@
       "HTML": 6365,
       "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 92724
+      "Vue": 92987
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4573,9 +4573,9 @@
     "languages": {
       "CSS": 42992,
       "HTML": 792,
-      "JavaScript": 40392,
+      "JavaScript": 43094,
       "Makefile": 223,
-      "Vue": 83480
+      "Vue": 80752
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
