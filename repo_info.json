@@ -2594,9 +2594,9 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "Gherkin": 20265,
+      "Gherkin": 20291,
       "JavaScript": 6051,
-      "TypeScript": 23997
+      "TypeScript": 31812
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
@@ -3703,7 +3703,7 @@
       "Shell": 28493
     },
     "name": "react-native-sample",
-    "updated_at": "2017-03-20T09:15:30Z",
+    "updated_at": "2017-06-15T16:21:11Z",
     "url": "https://api.github.com/repos/g0v/react-native-sample"
   },
   "g0v/react-native-scanbot": {
@@ -4547,7 +4547,7 @@
       "HTML": 6365,
       "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 92987
+      "Vue": 93144
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4572,10 +4572,10 @@
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
       "CSS": 42992,
-      "HTML": 792,
+      "HTML": 820,
       "JavaScript": 43094,
       "Makefile": 223,
-      "Vue": 80752
+      "Vue": 85063
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
