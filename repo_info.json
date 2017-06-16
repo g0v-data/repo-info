@@ -1216,7 +1216,7 @@
       "CSS": 98586,
       "HTML": 227360,
       "JavaScript": 124590,
-      "Python": 537188,
+      "Python": 531705,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -1401,7 +1401,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-05-19T02:48:05Z",
+    "updated_at": "2017-06-16T05:54:57Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -2163,9 +2163,9 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 84775,
-      "HTML": 95176,
-      "JavaScript": 714365
+      "CSS": 85336,
+      "HTML": 103571,
+      "JavaScript": 719090
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2594,9 +2594,9 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "Gherkin": 20291,
+      "Gherkin": 20383,
       "JavaScript": 6051,
-      "TypeScript": 31812
+      "TypeScript": 34498
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
@@ -4547,7 +4547,7 @@
       "HTML": 6365,
       "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 93144
+      "Vue": 90796
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4573,9 +4573,9 @@
     "languages": {
       "CSS": 42992,
       "HTML": 820,
-      "JavaScript": 43094,
+      "JavaScript": 45473,
       "Makefile": 223,
-      "Vue": 85063
+      "Vue": 83622
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
