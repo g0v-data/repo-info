@@ -1214,9 +1214,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 227360,
+      "HTML": 227385,
       "JavaScript": 124590,
-      "Python": 531705,
+      "Python": 539923,
       "Shell": 3874
     },
     "name": "councilor-voter-guide",
@@ -2163,7 +2163,7 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 85336,
+      "CSS": 85254,
       "HTML": 103571,
       "JavaScript": 719090
     },
@@ -2595,7 +2595,7 @@
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
       "Gherkin": 20383,
-      "JavaScript": 6051,
+      "JavaScript": 6378,
       "TypeScript": 34498
     },
     "name": "labor-standards-tw",
@@ -5128,7 +5128,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2017-05-16T04:38:31Z",
+    "updated_at": "2017-06-17T01:10:03Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
