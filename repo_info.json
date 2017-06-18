@@ -3026,7 +3026,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2017-04-30T01:59:35Z",
+    "updated_at": "2017-06-18T05:35:30Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3038,7 +3038,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2017-01-25T03:50:20Z",
+    "updated_at": "2017-06-18T05:30:00Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -4573,9 +4573,9 @@
     "languages": {
       "CSS": 42992,
       "HTML": 820,
-      "JavaScript": 45473,
+      "JavaScript": 47911,
       "Makefile": 223,
-      "Vue": 83622
+      "Vue": 83714
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
