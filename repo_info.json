@@ -1216,8 +1216,8 @@
       "CSS": 98586,
       "HTML": 227385,
       "JavaScript": 124590,
-      "Python": 539923,
-      "Shell": 3874
+      "Python": 536488,
+      "Shell": 3730
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
@@ -2164,7 +2164,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 85254,
-      "HTML": 103571,
+      "HTML": 103565,
       "JavaScript": 719090
     },
     "name": "grantdash",
@@ -2596,7 +2596,7 @@
     "languages": {
       "Gherkin": 20383,
       "JavaScript": 6378,
-      "TypeScript": 34498
+      "TypeScript": 34511
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
@@ -4573,9 +4573,9 @@
     "languages": {
       "CSS": 42992,
       "HTML": 820,
-      "JavaScript": 47911,
+      "JavaScript": 47162,
       "Makefile": 223,
-      "Vue": 83714
+      "Vue": 83112
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
