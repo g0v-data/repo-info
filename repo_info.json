@@ -1216,7 +1216,7 @@
       "CSS": 98586,
       "HTML": 227385,
       "JavaScript": 124590,
-      "Python": 536488,
+      "Python": 541093,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2164,7 +2164,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 85254,
-      "HTML": 103565,
+      "HTML": 103501,
       "JavaScript": 719090
     },
     "name": "grantdash",
@@ -4573,9 +4573,9 @@
     "languages": {
       "CSS": 42992,
       "HTML": 820,
-      "JavaScript": 47162,
+      "JavaScript": 46480,
       "Makefile": 223,
-      "Vue": 83112
+      "Vue": 85284
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
