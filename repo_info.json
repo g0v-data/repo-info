@@ -1216,7 +1216,7 @@
       "CSS": 98586,
       "HTML": 227385,
       "JavaScript": 124590,
-      "Python": 541093,
+      "Python": 541377,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2596,7 +2596,7 @@
     "languages": {
       "Gherkin": 20383,
       "JavaScript": 6378,
-      "TypeScript": 34511
+      "TypeScript": 34512
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
@@ -4547,11 +4547,11 @@
       "HTML": 6365,
       "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 90796
+      "Vue": 91337
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-03-06T19:48:11Z",
+    "updated_at": "2017-06-21T13:06:06Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -4573,9 +4573,9 @@
     "languages": {
       "CSS": 42992,
       "HTML": 820,
-      "JavaScript": 46480,
+      "JavaScript": 46285,
       "Makefile": 223,
-      "Vue": 85284
+      "Vue": 85522
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -5056,7 +5056,7 @@
       "CSS": 16113,
       "HTML": 4547596,
       "JavaScript": 81598,
-      "PHP": 3008664
+      "PHP": 3009123
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
