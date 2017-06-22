@@ -1221,7 +1221,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-05-25T01:05:10Z",
+    "updated_at": "2017-06-22T07:38:07Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -2596,7 +2596,7 @@
     "languages": {
       "Gherkin": 20383,
       "JavaScript": 6378,
-      "TypeScript": 34512
+      "TypeScript": 34588
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
