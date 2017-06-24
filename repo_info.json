@@ -2596,7 +2596,7 @@
     "languages": {
       "Gherkin": 20383,
       "JavaScript": 6378,
-      "TypeScript": 34588
+      "TypeScript": 34935
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
@@ -5014,7 +5014,7 @@
     },
     "name": "jobhelper",
     "readme_filename": "ronnywang`jobhelper`README.md",
-    "updated_at": "2017-06-06T06:37:25Z",
+    "updated_at": "2017-06-24T08:46:21Z",
     "url": "https://api.github.com/repos/ronnywang/jobhelper"
   },
   "ronnywang/judicial-easyer": {
