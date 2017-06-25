@@ -2596,7 +2596,7 @@
     "languages": {
       "Gherkin": 20383,
       "JavaScript": 6378,
-      "TypeScript": 34935
+      "TypeScript": 34968
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
@@ -3038,7 +3038,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2017-06-18T05:30:00Z",
+    "updated_at": "2017-06-25T16:36:33Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -3712,10 +3712,10 @@
     "languages": {
       "C": 3236,
       "C#": 3585,
-      "Java": 2823,
-      "JavaScript": 2292,
-      "Objective-C": 150908,
-      "Python": 1722,
+      "Java": 1434,
+      "JavaScript": 3711,
+      "Objective-C": 153351,
+      "Python": 1724,
       "Ruby": 609,
       "Shell": 2858
     },
