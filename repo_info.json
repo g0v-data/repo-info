@@ -2594,9 +2594,9 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "Gherkin": 20383,
-      "JavaScript": 6378,
-      "TypeScript": 34968
+      "Gherkin": 20461,
+      "JavaScript": 3976,
+      "TypeScript": 35518
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
@@ -3959,7 +3959,7 @@
     },
     "name": "slack-irc-plugin",
     "readme_filename": "g0v`slack-irc-plugin`README.md",
-    "updated_at": "2017-01-24T15:57:45Z",
+    "updated_at": "2017-06-26T15:22:28Z",
     "url": "https://api.github.com/repos/g0v/slack-irc-plugin"
   },
   "g0v/slap": {
@@ -4575,7 +4575,7 @@
       "HTML": 820,
       "JavaScript": 46285,
       "Makefile": 223,
-      "Vue": 86032
+      "Vue": 86795
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
