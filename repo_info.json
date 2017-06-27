@@ -1214,7 +1214,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 227385,
+      "HTML": 227436,
       "JavaScript": 124590,
       "Python": 529713,
       "Shell": 3730
@@ -4547,7 +4547,7 @@
       "HTML": 6365,
       "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 91337
+      "Vue": 91759
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -5044,7 +5044,7 @@
     },
     "name": "lagnews",
     "readme_filename": "ronnywang`lagnews`README",
-    "updated_at": "2017-06-05T06:40:32Z",
+    "updated_at": "2017-06-27T00:17:29Z",
     "url": "https://api.github.com/repos/ronnywang/lagnews"
   },
   "ronnywang/newsdiff": {
