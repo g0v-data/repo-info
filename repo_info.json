@@ -422,7 +422,7 @@
     "languages": {
       "CSS": 6228,
       "HTML": 6919,
-      "JavaScript": 16606
+      "JavaScript": 17335
     },
     "name": "HackStory",
     "readme_filename": "g0v`HackStory`README.md",
@@ -2164,7 +2164,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 85434,
-      "HTML": 105753,
+      "HTML": 105881,
       "JavaScript": 720576
     },
     "name": "grantdash",
@@ -4874,7 +4874,7 @@
     "languages": {
       "Perl": 646,
       "Python": 18904,
-      "Ruby": 3873,
+      "Ruby": 3917,
       "Shell": 1646
     },
     "name": "amis-safolu",
