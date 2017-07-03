@@ -881,7 +881,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-04-13T16:33:00Z",
+    "updated_at": "2017-07-03T11:39:56Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -2163,9 +2163,9 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 85434,
-      "HTML": 105931,
-      "JavaScript": 720576
+      "CSS": 85500,
+      "HTML": 105973,
+      "JavaScript": 724496
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2293,7 +2293,7 @@
     "languages": {},
     "name": "hyob",
     "readme_filename": "g0v`hyob`README.md",
-    "updated_at": "2017-07-02T12:37:56Z",
+    "updated_at": "2017-07-03T09:47:13Z",
     "url": "https://api.github.com/repos/g0v/hyob"
   },
   "g0v/i64885": {
@@ -4560,7 +4560,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-06-21T13:06:06Z",
+    "updated_at": "2017-07-03T07:05:49Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
