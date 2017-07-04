@@ -2164,12 +2164,12 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 85500,
-      "HTML": 105973,
+      "HTML": 106450,
       "JavaScript": 724496
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2017-07-02T09:30:32Z",
+    "updated_at": "2017-07-04T10:36:58Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/hack.g0v.tw": {
@@ -4556,7 +4556,7 @@
       "HTML": 6365,
       "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 91759
+      "Vue": 91845
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4584,7 +4584,7 @@
       "HTML": 820,
       "JavaScript": 46285,
       "Makefile": 223,
-      "Vue": 86795
+      "Vue": 87169
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
