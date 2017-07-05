@@ -1216,7 +1216,7 @@
       "CSS": 98586,
       "HTML": 231968,
       "JavaScript": 124590,
-      "Python": 532392,
+      "Python": 534969,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2165,7 +2165,7 @@
     "languages": {
       "CSS": 85500,
       "HTML": 106450,
-      "JavaScript": 724496
+      "JavaScript": 724454
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -4556,7 +4556,7 @@
       "HTML": 6365,
       "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 91845
+      "Vue": 91865
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
