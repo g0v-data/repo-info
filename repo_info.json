@@ -881,7 +881,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-07-03T11:39:56Z",
+    "updated_at": "2017-07-06T06:02:15Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1221,7 +1221,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-06-22T07:38:07Z",
+    "updated_at": "2017-07-06T11:40:53Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -2165,7 +2165,7 @@
     "languages": {
       "CSS": 85500,
       "HTML": 106450,
-      "JavaScript": 724454
+      "JavaScript": 724464
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2908,7 +2908,7 @@
     },
     "name": "ly-tel",
     "readme_filename": "g0v`ly-tel`README.md",
-    "updated_at": "2016-11-28T10:04:57Z",
+    "updated_at": "2017-07-06T12:05:11Z",
     "url": "https://api.github.com/repos/g0v/ly-tel"
   },
   "g0v/ly-vote": {
@@ -3226,7 +3226,7 @@
     },
     "name": "newshelper-backend",
     "readme_filename": "g0v`newshelper-backend`README.md",
-    "updated_at": "2017-03-05T15:47:19Z",
+    "updated_at": "2017-07-06T12:00:35Z",
     "url": "https://api.github.com/repos/g0v/newshelper-backend"
   },
   "g0v/newshelper-extension": {
@@ -3240,7 +3240,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2017-07-02T10:03:02Z",
+    "updated_at": "2017-07-06T11:52:47Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
@@ -4378,7 +4378,7 @@
     },
     "name": "twly_crawler",
     "readme_filename": "g0v`twly_crawler`README.md",
-    "updated_at": "2016-11-24T10:06:29Z",
+    "updated_at": "2017-07-06T12:03:25Z",
     "url": "https://api.github.com/repos/g0v/twly_crawler"
   },
   "g0v/twlyparser": {
@@ -4553,7 +4553,7 @@
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1464,
-      "HTML": 6365,
+      "HTML": 6345,
       "JavaScript": 21260,
       "Shell": 1956,
       "Vue": 91865
@@ -4584,7 +4584,7 @@
       "HTML": 820,
       "JavaScript": 46285,
       "Makefile": 223,
-      "Vue": 87169
+      "Vue": 87182
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
