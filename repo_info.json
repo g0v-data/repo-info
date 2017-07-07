@@ -881,7 +881,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-07-06T06:02:15Z",
+    "updated_at": "2017-07-07T16:24:55Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1216,7 +1216,7 @@
       "CSS": 98586,
       "HTML": 231968,
       "JavaScript": 124590,
-      "Python": 534969,
+      "Python": 547377,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2163,9 +2163,9 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 85500,
-      "HTML": 106450,
-      "JavaScript": 724464
+      "CSS": 85672,
+      "HTML": 106710,
+      "JavaScript": 724452
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -4320,7 +4320,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2017-06-07T11:04:12Z",
+    "updated_at": "2017-07-07T02:55:13Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
