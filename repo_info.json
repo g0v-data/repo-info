@@ -59,7 +59,7 @@
     "html_url": "https://github.com/billy3321/billy3321.github.io",
     "languages": {
       "CSS": 34126,
-      "HTML": 435676,
+      "HTML": 475838,
       "JavaScript": 1038,
       "Ruby": 607
     },
@@ -3226,7 +3226,7 @@
     },
     "name": "newshelper-backend",
     "readme_filename": "g0v`newshelper-backend`README.md",
-    "updated_at": "2017-07-06T12:00:35Z",
+    "updated_at": "2017-07-10T19:29:04Z",
     "url": "https://api.github.com/repos/g0v/newshelper-backend"
   },
   "g0v/newshelper-extension": {
@@ -4582,9 +4582,9 @@
     "languages": {
       "CSS": 42992,
       "HTML": 820,
-      "JavaScript": 46285,
+      "JavaScript": 46304,
       "Makefile": 223,
-      "Vue": 87182
+      "Vue": 87339
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
