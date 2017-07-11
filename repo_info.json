@@ -698,7 +698,7 @@
     },
     "name": "addressbook-frontend",
     "readme_filename": "g0v`addressbook-frontend`README.md",
-    "updated_at": "2015-01-24T09:19:57Z",
+    "updated_at": "2017-07-11T03:02:50Z",
     "url": "https://api.github.com/repos/g0v/addressbook-frontend"
   },
   "g0v/addressbook-grano": {
@@ -1216,7 +1216,7 @@
       "CSS": 98586,
       "HTML": 231968,
       "JavaScript": 124590,
-      "Python": 549388,
+      "Python": 552081,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -4580,11 +4580,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 42992,
-      "HTML": 820,
+      "CSS": 43945,
+      "HTML": 1440,
       "JavaScript": 46304,
       "Makefile": 223,
-      "Vue": 87339
+      "Vue": 87361
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
