@@ -59,7 +59,7 @@
     "html_url": "https://github.com/billy3321/billy3321.github.io",
     "languages": {
       "CSS": 34126,
-      "HTML": 475838,
+      "HTML": 475872,
       "JavaScript": 1038,
       "Ruby": 607
     },
@@ -1216,7 +1216,7 @@
       "CSS": 98586,
       "HTML": 231968,
       "JavaScript": 124590,
-      "Python": 552081,
+      "Python": 552250,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -1763,7 +1763,7 @@
       "Ruby": 2995
     },
     "name": "farmers",
-    "updated_at": "2014-01-21T17:49:05Z",
+    "updated_at": "2017-07-12T17:43:08Z",
     "url": "https://api.github.com/repos/g0v/farmers"
   },
   "g0v/foundationtw": {
@@ -3226,7 +3226,7 @@
     },
     "name": "newshelper-backend",
     "readme_filename": "g0v`newshelper-backend`README.md",
-    "updated_at": "2017-07-10T19:29:04Z",
+    "updated_at": "2017-07-12T05:21:33Z",
     "url": "https://api.github.com/repos/g0v/newshelper-backend"
   },
   "g0v/newshelper-extension": {
@@ -4584,7 +4584,7 @@
       "HTML": 1440,
       "JavaScript": 46304,
       "Makefile": 223,
-      "Vue": 87361
+      "Vue": 87400
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
