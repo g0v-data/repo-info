@@ -1216,7 +1216,7 @@
       "CSS": 98586,
       "HTML": 231968,
       "JavaScript": 124590,
-      "Python": 552250,
+      "Python": 551268,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -1937,7 +1937,6 @@
     "html_url": "https://github.com/g0v/g0v.tw",
     "languages": {
       "CSS": 14059,
-      "GCC Machine Description": 186,
       "HTML": 105039,
       "JavaScript": 13,
       "LiveScript": 22234,
@@ -5185,7 +5184,7 @@
     },
     "name": "drinking_water",
     "readme_filename": "teia-tw`drinking_water`README.md",
-    "updated_at": "2016-05-28T06:49:12Z",
+    "updated_at": "2017-07-13T04:22:33Z",
     "url": "https://api.github.com/repos/teia-tw/drinking_water"
   },
   "tka/ideapool": {
