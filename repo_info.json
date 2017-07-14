@@ -1214,9 +1214,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 231968,
+      "HTML": 233801,
       "JavaScript": 124590,
-      "Python": 551268,
+      "Python": 554471,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2163,7 +2163,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 85672,
-      "HTML": 106710,
+      "HTML": 106825,
       "JavaScript": 724452
     },
     "name": "grantdash",
@@ -2427,7 +2427,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-07-02T10:29:45Z",
+    "updated_at": "2017-07-14T20:22:48Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
