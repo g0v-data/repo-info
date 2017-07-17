@@ -764,6 +764,15 @@
     "updated_at": "2016-12-17T02:28:36Z",
     "url": "https://api.github.com/repos/g0v/agriculture"
   },
+  "g0v/ambassador": {
+    "description": "Yet another g0v project hub.",
+    "html_url": "https://github.com/g0v/ambassador",
+    "languages": {},
+    "name": "ambassador",
+    "readme_filename": "g0v`ambassador`README.md",
+    "updated_at": "2017-07-16T23:59:20Z",
+    "url": "https://api.github.com/repos/g0v/ambassador"
+  },
   "g0v/angular-laweasyread": {
     "description": "angular directive of laweasyread",
     "html_url": "https://github.com/g0v/angular-laweasyread",
@@ -1214,9 +1223,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 233801,
+      "HTML": 233800,
       "JavaScript": 124590,
-      "Python": 554471,
+      "Python": 562354,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2164,7 +2173,7 @@
     "languages": {
       "CSS": 85672,
       "HTML": 107106,
-      "JavaScript": 724452
+      "JavaScript": 724565
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -3095,7 +3104,7 @@
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2017-06-28T15:49:30Z",
+    "updated_at": "2017-07-17T02:36:18Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
