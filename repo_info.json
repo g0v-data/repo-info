@@ -770,7 +770,7 @@
     "languages": {},
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
-    "updated_at": "2017-07-16T23:59:20Z",
+    "updated_at": "2017-07-18T10:32:50Z",
     "url": "https://api.github.com/repos/g0v/ambassador"
   },
   "g0v/angular-laweasyread": {
@@ -1223,9 +1223,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 233800,
+      "HTML": 235508,
       "JavaScript": 124590,
-      "Python": 562354,
+      "Python": 563336,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2171,7 +2171,7 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 85672,
+      "CSS": 85643,
       "HTML": 107106,
       "JavaScript": 724565
     },
@@ -2617,7 +2617,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2017-06-30T02:26:40Z",
+    "updated_at": "2017-07-18T17:11:18Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -3570,7 +3570,7 @@
     "html_url": "https://github.com/g0v/potluckmap",
     "languages": {
       "CSS": 19992,
-      "HTML": 36775,
+      "HTML": 37003,
       "JavaScript": 67269,
       "PHP": 1463
     },
