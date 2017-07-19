@@ -1230,7 +1230,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-07-06T11:40:53Z",
+    "updated_at": "2017-07-19T07:00:34Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -3234,7 +3234,7 @@
     },
     "name": "newshelper-backend",
     "readme_filename": "g0v`newshelper-backend`README.md",
-    "updated_at": "2017-07-12T05:21:33Z",
+    "updated_at": "2017-07-19T03:08:42Z",
     "url": "https://api.github.com/repos/g0v/newshelper-backend"
   },
   "g0v/newshelper-extension": {
@@ -5215,12 +5215,12 @@
     "description": null,
     "html_url": "https://github.com/tommy87166/tommy87166.github.io",
     "languages": {
-      "HTML": 37814,
+      "HTML": 46255,
       "JavaScript": 65135,
       "Python": 3347
     },
     "name": "tommy87166.github.io",
-    "updated_at": "2016-01-27T09:07:02Z",
+    "updated_at": "2017-07-19T08:34:27Z",
     "url": "https://api.github.com/repos/tommy87166/tommy87166.github.io"
   },
   "weitsai/iHelp-android": {
