@@ -1225,7 +1225,7 @@
       "CSS": 98586,
       "HTML": 235508,
       "JavaScript": 124590,
-      "Python": 557616,
+      "Python": 558508,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2436,7 +2436,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-07-14T20:22:48Z",
+    "updated_at": "2017-07-23T23:50:21Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
