@@ -3738,7 +3738,7 @@
     },
     "name": "react-native-scanbot",
     "readme_filename": "g0v`react-native-scanbot`README.md",
-    "updated_at": "2017-05-02T01:36:04Z",
+    "updated_at": "2017-07-25T07:34:53Z",
     "url": "https://api.github.com/repos/g0v/react-native-scanbot"
   },
   "g0v/react-zh-stroker": {
@@ -4590,9 +4590,9 @@
     "languages": {
       "CSS": 43945,
       "HTML": 1440,
-      "JavaScript": 46304,
+      "JavaScript": 46969,
       "Makefile": 223,
-      "Vue": 87400
+      "Vue": 89084
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
