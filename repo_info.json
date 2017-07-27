@@ -1410,7 +1410,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-07-20T04:54:43Z",
+    "updated_at": "2017-07-27T16:25:10Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -5061,7 +5061,7 @@
     },
     "name": "lagnews",
     "readme_filename": "ronnywang`lagnews`README",
-    "updated_at": "2017-06-27T00:17:29Z",
+    "updated_at": "2017-07-27T12:56:35Z",
     "url": "https://api.github.com/repos/ronnywang/lagnews"
   },
   "ronnywang/newsdiff": {
