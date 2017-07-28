@@ -1224,8 +1224,8 @@
     "languages": {
       "CSS": 98586,
       "HTML": 235508,
-      "JavaScript": 124590,
-      "Python": 558508,
+      "JavaScript": 113536,
+      "Python": 557792,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -3741,6 +3741,15 @@
     "updated_at": "2017-07-25T07:34:53Z",
     "url": "https://api.github.com/repos/g0v/react-native-scanbot"
   },
+  "g0v/react-native-studio": {
+    "description": null,
+    "html_url": "https://github.com/g0v/react-native-studio",
+    "languages": {},
+    "name": "react-native-studio",
+    "readme_filename": "g0v`react-native-studio`README.md",
+    "updated_at": "2017-07-28T18:39:37Z",
+    "url": "https://api.github.com/repos/g0v/react-native-studio"
+  },
   "g0v/react-zh-stroker": {
     "description": "A stroke drawing React component for zh-stroke-data.",
     "html_url": "https://github.com/g0v/react-zh-stroker",
@@ -4561,10 +4570,10 @@
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1464,
-      "HTML": 6345,
+      "HTML": 6319,
       "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 91865
+      "Vue": 91509
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
