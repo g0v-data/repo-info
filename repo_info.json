@@ -451,7 +451,7 @@
     },
     "name": "LittleBeeGeo",
     "readme_filename": "g0v`LittleBeeGeo`README.md",
-    "updated_at": "2014-06-18T19:19:20Z",
+    "updated_at": "2017-07-29T07:12:02Z",
     "url": "https://api.github.com/repos/g0v/LittleBeeGeo"
   },
   "g0v/Logbot": {
@@ -1225,7 +1225,7 @@
       "CSS": 98586,
       "HTML": 235508,
       "JavaScript": 113536,
-      "Python": 557792,
+      "Python": 496422,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -1882,7 +1882,7 @@
     "html_url": "https://github.com/g0v/g0v.asia",
     "languages": {
       "CSS": 426415,
-      "HTML": 492885,
+      "HTML": 515987,
       "JavaScript": 209340
     },
     "name": "g0v.asia",
@@ -3738,7 +3738,7 @@
     },
     "name": "react-native-scanbot",
     "readme_filename": "g0v`react-native-scanbot`README.md",
-    "updated_at": "2017-07-25T07:34:53Z",
+    "updated_at": "2017-07-28T23:41:25Z",
     "url": "https://api.github.com/repos/g0v/react-native-scanbot"
   },
   "g0v/react-native-studio": {
