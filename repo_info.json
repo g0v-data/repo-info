@@ -451,7 +451,7 @@
     },
     "name": "LittleBeeGeo",
     "readme_filename": "g0v`LittleBeeGeo`README.md",
-    "updated_at": "2017-07-29T07:12:02Z",
+    "updated_at": "2017-08-01T07:39:40Z",
     "url": "https://api.github.com/repos/g0v/LittleBeeGeo"
   },
   "g0v/Logbot": {
@@ -489,8 +489,8 @@
     "languages": {
       "CSS": 822,
       "HTML": 883,
-      "JavaScript": 38336,
-      "Scala": 4332
+      "JavaScript": 38552,
+      "Scala": 4323
     },
     "name": "OneButton",
     "readme_filename": "g0v`OneButton`README.md",
@@ -957,7 +957,7 @@
     "description": null,
     "html_url": "https://github.com/g0v/blood",
     "languages": {
-      "JavaScript": 1749
+      "JavaScript": 1244
     },
     "name": "blood",
     "readme_filename": "g0v`blood`README.md",
@@ -1225,7 +1225,7 @@
       "CSS": 98586,
       "HTML": 235508,
       "JavaScript": 113536,
-      "Python": 496422,
+      "Python": 502194,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2436,7 +2436,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-07-23T23:50:21Z",
+    "updated_at": "2017-08-01T05:47:51Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4677,6 +4677,7 @@
       "CSS": 855,
       "CoffeeScript": 18403,
       "Go": 2340,
+      "HTML": 7817,
       "JavaScript": 62902,
       "Perl": 499,
       "Shell": 261
@@ -4870,7 +4871,7 @@
     "html_url": "https://github.com/kiang/tncc",
     "languages": {
       "HTML": 8295724,
-      "PHP": 64401,
+      "PHP": 64393,
       "Scala": 2153
     },
     "name": "tncc",
