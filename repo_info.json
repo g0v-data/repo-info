@@ -890,7 +890,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-07-31T12:50:35Z",
+    "updated_at": "2017-08-02T14:12:14Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -2611,9 +2611,9 @@
     "description": "台灣勞動基準法函式庫",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
-      "Gherkin": 20461,
+      "Gherkin": 20484,
       "JavaScript": 3976,
-      "TypeScript": 46257
+      "TypeScript": 46279
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
