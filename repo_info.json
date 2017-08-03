@@ -1225,7 +1225,7 @@
       "CSS": 98586,
       "HTML": 235508,
       "JavaScript": 113536,
-      "Python": 502194,
+      "Python": 527899,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2436,7 +2436,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-08-01T05:47:51Z",
+    "updated_at": "2017-08-03T14:11:47Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4215,7 +4215,7 @@
     },
     "name": "timemap",
     "readme_filename": "g0v`timemap`README.md",
-    "updated_at": "2016-07-27T13:37:05Z",
+    "updated_at": "2017-08-03T07:55:40Z",
     "url": "https://api.github.com/repos/g0v/timemap"
   },
   "g0v/timemapper": {
@@ -4493,9 +4493,9 @@
     "html_url": "https://github.com/g0v/urbancode-commission3w",
     "languages": {
       "ApacheConf": 553,
-      "HTML": 12228,
+      "HTML": 12857,
       "JavaScript": 1132,
-      "PHP": 82542,
+      "PHP": 84902,
       "Vue": 563
     },
     "name": "urbancode-commission3w",
