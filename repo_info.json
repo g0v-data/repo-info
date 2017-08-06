@@ -538,6 +538,7 @@
   "g0v/TW-ERROR-451-PAGE": {
     "description": "台灣HTTP 451 ERROR 抗議財智局頁面",
     "html_url": "https://github.com/g0v/TW-ERROR-451-PAGE",
+    "languages": {},
     "name": "TW-ERROR-451-PAGE",
     "readme_filename": "g0v`TW-ERROR-451-PAGE`README.md",
     "updated_at": "2016-09-22T09:01:16Z",
@@ -1229,7 +1230,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-07-19T07:00:34Z",
+    "updated_at": "2017-08-06T07:17:04Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -2300,7 +2301,7 @@
     "languages": {},
     "name": "hyob",
     "readme_filename": "g0v`hyob`README.md",
-    "updated_at": "2017-08-05T16:24:53Z",
+    "updated_at": "2017-08-06T08:48:57Z",
     "url": "https://api.github.com/repos/g0v/hyob"
   },
   "g0v/i64885": {
@@ -3247,7 +3248,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2017-07-21T21:03:40Z",
+    "updated_at": "2017-08-06T06:55:47Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
@@ -4336,7 +4337,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2017-07-07T02:55:13Z",
+    "updated_at": "2017-08-06T03:57:45Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
@@ -4697,7 +4698,7 @@
     },
     "name": "ncc-complain-data",
     "readme_filename": "godgunman`ncc-complain-data`README.md",
-    "updated_at": "2017-02-09T08:40:15Z",
+    "updated_at": "2017-08-06T07:02:01Z",
     "url": "https://api.github.com/repos/godgunman/ncc-complain-data"
   },
   "hackfoldr/hackfoldr-2.0": {
