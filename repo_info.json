@@ -503,7 +503,7 @@
     "languages": {
       "CSS": 23,
       "HTML": 1366,
-      "JavaScript": 12785,
+      "JavaScript": 13535,
       "SuperCollider": 642
     },
     "name": "OneButton-server-js",
@@ -1223,9 +1223,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 242394,
+      "HTML": 242091,
       "JavaScript": 113536,
-      "Python": 534607,
+      "Python": 534698,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2172,7 +2172,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 85643,
-      "HTML": 107106,
+      "HTML": 107081,
       "JavaScript": 724565
     },
     "name": "grantdash",
@@ -4374,7 +4374,7 @@
     "html_url": "https://github.com/g0v/twly-voter-guide",
     "languages": {
       "CSS": 27585,
-      "HTML": 178897,
+      "HTML": 178885,
       "JavaScript": 23644,
       "Python": 92364,
       "Shell": 130
@@ -4601,7 +4601,7 @@
       "HTML": 1440,
       "JavaScript": 46969,
       "Makefile": 223,
-      "Vue": 89084
+      "Vue": 89072
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -5155,7 +5155,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2017-08-07T03:31:38Z",
+    "updated_at": "2017-08-08T08:56:00Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
