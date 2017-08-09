@@ -899,7 +899,7 @@
     "languages": {},
     "name": "awesome-tw-openagri",
     "readme_filename": "g0v`awesome-tw-openagri`README.md",
-    "updated_at": "2016-05-09T15:14:07Z",
+    "updated_at": "2017-08-09T05:49:44Z",
     "url": "https://api.github.com/repos/g0v/awesome-tw-openagri"
   },
   "g0v/b0t-hubot": {
@@ -1223,9 +1223,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98586,
-      "HTML": 242091,
+      "HTML": 239966,
       "JavaScript": 113536,
-      "Python": 534698,
+      "Python": 533614,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -1410,7 +1410,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-07-27T16:25:10Z",
+    "updated_at": "2017-08-09T04:39:36Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -2436,7 +2436,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-08-03T14:11:47Z",
+    "updated_at": "2017-08-09T02:56:59Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4906,7 +4906,7 @@
     },
     "name": "amis-safolu",
     "readme_filename": "miaoski`amis-safolu`README.md",
-    "updated_at": "2017-04-09T08:48:20Z",
+    "updated_at": "2017-08-09T02:57:00Z",
     "url": "https://api.github.com/repos/miaoski/amis-safolu"
   },
   "mlwmlw/pcc": {
