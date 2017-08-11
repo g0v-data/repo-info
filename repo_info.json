@@ -489,7 +489,7 @@
     "languages": {
       "CSS": 822,
       "HTML": 883,
-      "JavaScript": 38552,
+      "JavaScript": 38755,
       "Scala": 4323
     },
     "name": "OneButton",
@@ -501,9 +501,9 @@
     "description": null,
     "html_url": "https://github.com/g0v/OneButton-server-js",
     "languages": {
-      "CSS": 38,
+      "CSS": 68,
       "HTML": 1366,
-      "JavaScript": 14364,
+      "JavaScript": 20059,
       "SuperCollider": 642
     },
     "name": "OneButton-server-js",
@@ -890,7 +890,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-08-02T14:12:14Z",
+    "updated_at": "2017-08-11T05:13:17Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -4597,11 +4597,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 43945,
+      "CSS": 44087,
       "HTML": 1440,
       "JavaScript": 46969,
       "Makefile": 223,
-      "Vue": 89072
+      "Vue": 89638
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
