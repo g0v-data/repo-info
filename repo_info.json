@@ -501,9 +501,9 @@
     "description": null,
     "html_url": "https://github.com/g0v/OneButton-server-js",
     "languages": {
-      "CSS": 68,
+      "CSS": 173,
       "HTML": 1366,
-      "JavaScript": 20059,
+      "JavaScript": 26500,
       "SuperCollider": 642
     },
     "name": "OneButton-server-js",
@@ -2172,7 +2172,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 85643,
-      "HTML": 107081,
+      "HTML": 113235,
       "JavaScript": 724565
     },
     "name": "grantdash",
@@ -3566,7 +3566,7 @@
     "url": "https://api.github.com/repos/g0v/posland"
   },
   "g0v/potluckmap": {
-    "description": "create an osm map that can be collaboratively built by collecting url's of remote geojson/gpx/csv pages, each of which can be independently edited.",
+    "description": "create a collaborative osm map that can have multiple sources such as url's of remote geojson/gpx/csv(spreadsheet) pages, each of which can be independently edited/updated.",
     "html_url": "https://github.com/g0v/potluckmap",
     "languages": {
       "CSS": 19992,
@@ -3576,7 +3576,7 @@
     },
     "name": "potluckmap",
     "readme_filename": "g0v`potluckmap`README.md",
-    "updated_at": "2016-11-12T02:45:41Z",
+    "updated_at": "2017-08-12T08:03:44Z",
     "url": "https://api.github.com/repos/g0v/potluckmap"
   },
   "g0v/powergrid": {
