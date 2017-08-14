@@ -1230,7 +1230,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-08-06T07:17:04Z",
+    "updated_at": "2017-08-14T10:31:09Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -3104,7 +3104,7 @@
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2017-07-17T02:36:18Z",
+    "updated_at": "2017-08-14T00:02:05Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -4573,7 +4573,7 @@
       "HTML": 6319,
       "JavaScript": 21260,
       "Shell": 1956,
-      "Vue": 91509
+      "Vue": 93181
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4597,11 +4597,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 44087,
+      "CSS": 44567,
       "HTML": 1440,
       "JavaScript": 46969,
       "Makefile": 223,
-      "Vue": 89638
+      "Vue": 91072
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
