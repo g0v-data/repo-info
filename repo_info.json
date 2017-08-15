@@ -1222,10 +1222,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 98586,
-      "HTML": 239964,
+      "CSS": 98512,
+      "HTML": 239079,
       "JavaScript": 113536,
-      "Python": 535097,
+      "Python": 533568,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -1410,7 +1410,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-08-09T04:39:36Z",
+    "updated_at": "2017-08-14T23:23:52Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -2608,7 +2608,7 @@
     "url": "https://api.github.com/repos/g0v/kuansim_chrome"
   },
   "g0v/labor-standards-tw": {
-    "description": "台灣勞動基準法函式庫",
+    "description": "台灣勞動基準法函式庫, Taiwan Labor Standards Act Library",
     "html_url": "https://github.com/g0v/labor-standards-tw",
     "languages": {
       "Gherkin": 20484,
@@ -2617,7 +2617,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2017-07-31T13:39:22Z",
+    "updated_at": "2017-08-15T13:47:58Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -4571,9 +4571,9 @@
     "languages": {
       "CSS": 1464,
       "HTML": 6319,
-      "JavaScript": 21260,
+      "JavaScript": 21329,
       "Shell": 1956,
-      "Vue": 93181
+      "Vue": 93230
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
