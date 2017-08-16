@@ -501,9 +501,9 @@
     "description": null,
     "html_url": "https://github.com/g0v/OneButton-server-js",
     "languages": {
-      "CSS": 173,
+      "CSS": 752,
       "HTML": 1366,
-      "JavaScript": 26500,
+      "JavaScript": 27583,
       "SuperCollider": 642
     },
     "name": "OneButton-server-js",
@@ -1223,9 +1223,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98512,
-      "HTML": 239079,
+      "HTML": 239018,
       "JavaScript": 113536,
-      "Python": 533568,
+      "Python": 533494,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2172,7 +2172,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 85643,
-      "HTML": 113235,
+      "HTML": 113237,
       "JavaScript": 724565
     },
     "name": "grantdash",
@@ -2436,7 +2436,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-08-09T02:56:59Z",
+    "updated_at": "2017-08-16T18:50:38Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4571,9 +4571,9 @@
     "languages": {
       "CSS": 1464,
       "HTML": 6319,
-      "JavaScript": 21329,
+      "JavaScript": 21426,
       "Shell": 1956,
-      "Vue": 93230
+      "Vue": 93647
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
