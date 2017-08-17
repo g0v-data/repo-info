@@ -890,7 +890,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-08-11T05:13:17Z",
+    "updated_at": "2017-08-17T00:52:59Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1223,7 +1223,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 98512,
-      "HTML": 239018,
+      "HTML": 238940,
       "JavaScript": 113536,
       "Python": 533494,
       "Shell": 3730
@@ -4597,11 +4597,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 44567,
+      "CSS": 43607,
       "HTML": 1440,
       "JavaScript": 46969,
       "Makefile": 223,
-      "Vue": 91072
+      "Vue": 92530
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -5127,7 +5127,7 @@
     },
     "name": "taiwan-cabinet",
     "readme_filename": "ronnywang`taiwan-cabinet`README.md",
-    "updated_at": "2017-04-03T07:40:36Z",
+    "updated_at": "2017-08-17T07:06:59Z",
     "url": "https://api.github.com/repos/ronnywang/taiwan-cabinet"
   },
   "ronnywang/tw-campaign-finance": {
