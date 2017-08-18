@@ -1225,7 +1225,7 @@
       "CSS": 98512,
       "HTML": 238940,
       "JavaScript": 113536,
-      "Python": 533494,
+      "Python": 536473,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -4381,7 +4381,7 @@
     },
     "name": "twly-voter-guide",
     "readme_filename": "g0v`twly-voter-guide`README.md",
-    "updated_at": "2017-03-21T06:26:14Z",
+    "updated_at": "2017-08-18T13:47:08Z",
     "url": "https://api.github.com/repos/g0v/twly-voter-guide"
   },
   "g0v/twly_crawler": {
@@ -4597,11 +4597,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 43607,
+      "CSS": 43755,
       "HTML": 1440,
       "JavaScript": 46969,
       "Makefile": 223,
-      "Vue": 92530
+      "Vue": 92640
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
