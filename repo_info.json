@@ -1222,10 +1222,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 86880,
-      "HTML": 237869,
+      "CSS": 86592,
+      "HTML": 236024,
       "JavaScript": 113536,
-      "Python": 536473,
+      "Python": 536261,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -5083,7 +5083,7 @@
       "CSS": 16113,
       "HTML": 4547596,
       "JavaScript": 81598,
-      "PHP": 3008057
+      "PHP": 3005705
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
