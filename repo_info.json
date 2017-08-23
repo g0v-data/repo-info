@@ -2052,7 +2052,7 @@
     },
     "name": "g0vis",
     "readme_filename": "g0v`g0vis`README.md",
-    "updated_at": "2014-09-22T14:58:43Z",
+    "updated_at": "2017-08-23T13:03:11Z",
     "url": "https://api.github.com/repos/g0v/g0vis"
   },
   "g0v/g0vkeyword": {
@@ -4601,7 +4601,7 @@
       "HTML": 1440,
       "JavaScript": 46969,
       "Makefile": 223,
-      "Vue": 93121
+      "Vue": 93205
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
