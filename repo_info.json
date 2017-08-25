@@ -1223,7 +1223,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 86592,
-      "HTML": 236024,
+      "HTML": 237380,
       "JavaScript": 113536,
       "Python": 536261,
       "Shell": 3730
@@ -3244,7 +3244,7 @@
     "languages": {
       "CSS": 1328,
       "HTML": 1222,
-      "JavaScript": 20179
+      "JavaScript": 20180
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
@@ -4601,7 +4601,7 @@
       "HTML": 1440,
       "JavaScript": 46969,
       "Makefile": 223,
-      "Vue": 93275
+      "Vue": 93361
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
@@ -5066,8 +5066,8 @@
     "languages": {
       "ApacheConf": 82,
       "CSS": 14908,
-      "HTML": 4516250,
-      "PHP": 491391
+      "HTML": 4516263,
+      "PHP": 489995
     },
     "name": "lagnews",
     "readme_filename": "ronnywang`lagnews`README",
@@ -5083,7 +5083,7 @@
       "CSS": 16113,
       "HTML": 4547596,
       "JavaScript": 81598,
-      "PHP": 3005705
+      "PHP": 3006025
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
@@ -5155,7 +5155,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2017-08-08T08:56:00Z",
+    "updated_at": "2017-08-25T03:47:58Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
