@@ -1410,7 +1410,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-08-14T23:23:52Z",
+    "updated_at": "2017-08-28T03:23:32Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -2514,7 +2514,7 @@
     },
     "name": "koktai",
     "readme_filename": "g0v`koktai`README.md",
-    "updated_at": "2017-08-05T08:34:14Z",
+    "updated_at": "2017-08-28T21:53:54Z",
     "url": "https://api.github.com/repos/g0v/koktai"
   },
   "g0v/kuansim": {
@@ -4571,7 +4571,7 @@
     "languages": {
       "CSS": 1464,
       "HTML": 6319,
-      "JavaScript": 21426,
+      "JavaScript": 21573,
       "Shell": 1956,
       "Vue": 93647
     },
@@ -4597,11 +4597,11 @@
     "description": "自己的 wiselike 自己救",
     "html_url": "https://github.com/g0v/wiselike",
     "languages": {
-      "CSS": 43725,
+      "CSS": 43689,
       "HTML": 1440,
       "JavaScript": 46969,
       "Makefile": 223,
-      "Vue": 93361
+      "Vue": 93438
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
