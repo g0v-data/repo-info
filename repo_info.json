@@ -1222,10 +1222,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 86592,
-      "HTML": 237380,
+      "CSS": 80892,
+      "HTML": 239449,
       "JavaScript": 113536,
-      "Python": 536261,
+      "Python": 537038,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -1410,7 +1410,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-08-28T03:23:32Z",
+    "updated_at": "2017-08-29T14:40:25Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -2617,7 +2617,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2017-08-26T09:32:36Z",
+    "updated_at": "2017-08-29T14:40:58Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
