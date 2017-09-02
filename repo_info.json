@@ -1225,7 +1225,7 @@
       "CSS": 80892,
       "HTML": 239449,
       "JavaScript": 113536,
-      "Python": 537038,
+      "Python": 539875,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -4132,7 +4132,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2017-08-31T01:40:59Z",
+    "updated_at": "2017-09-02T16:06:24Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
