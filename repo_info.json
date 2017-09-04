@@ -37,7 +37,7 @@
     },
     "name": "moe",
     "readme_filename": "audreyt`moe`README.md",
-    "updated_at": "2017-06-14T05:58:36Z",
+    "updated_at": "2017-09-03T23:10:57Z",
     "url": "https://api.github.com/repos/audreyt/moe"
   },
   "bestian/goban": {
@@ -1223,9 +1223,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80892,
-      "HTML": 239449,
+      "HTML": 240597,
       "JavaScript": 113536,
-      "Python": 539875,
+      "Python": 540347,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2301,7 +2301,7 @@
     "languages": {},
     "name": "hyob",
     "readme_filename": "g0v`hyob`README.md",
-    "updated_at": "2017-08-06T08:48:57Z",
+    "updated_at": "2017-09-04T13:03:36Z",
     "url": "https://api.github.com/repos/g0v/hyob"
   },
   "g0v/i64885": {
@@ -3033,7 +3033,7 @@
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2017-04-23T07:07:36Z",
+    "updated_at": "2017-09-03T23:10:56Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
@@ -3126,7 +3126,7 @@
     },
     "name": "moedict-dodo",
     "readme_filename": "g0v`moedict-dodo`README.md",
-    "updated_at": "2017-01-25T03:50:18Z",
+    "updated_at": "2017-09-03T23:10:57Z",
     "url": "https://api.github.com/repos/g0v/moedict-dodo"
   },
   "g0v/moedict-epub": {
@@ -4132,7 +4132,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2017-09-03T02:12:58Z",
+    "updated_at": "2017-09-04T21:02:01Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
