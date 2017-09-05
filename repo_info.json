@@ -1223,9 +1223,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80892,
-      "HTML": 240597,
+      "HTML": 233783,
       "JavaScript": 113536,
-      "Python": 540347,
+      "Python": 533001,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -3248,7 +3248,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2017-08-26T09:33:29Z",
+    "updated_at": "2017-09-05T05:42:12Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
