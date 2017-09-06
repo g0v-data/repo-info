@@ -1223,9 +1223,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80892,
-      "HTML": 233783,
+      "HTML": 233940,
       "JavaScript": 113536,
-      "Python": 533001,
+      "Python": 533457,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2420,7 +2420,7 @@
     },
     "name": "issue_aggregator",
     "readme_filename": "g0v`issue_aggregator`README.md",
-    "updated_at": "2016-10-09T00:46:56Z",
+    "updated_at": "2017-09-06T01:22:50Z",
     "url": "https://api.github.com/repos/g0v/issue_aggregator"
   },
   "g0v/itaigi": {
