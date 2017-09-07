@@ -1222,10 +1222,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 80892,
-      "HTML": 233940,
+      "CSS": 80989,
+      "HTML": 240429,
       "JavaScript": 113536,
-      "Python": 533457,
+      "Python": 534791,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -4577,7 +4577,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-08-26T09:33:40Z",
+    "updated_at": "2017-09-07T06:08:58Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
