@@ -767,10 +767,14 @@
   "g0v/ambassador": {
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
-    "languages": {},
+    "languages": {
+      "CSS": 447,
+      "HTML": 1694,
+      "JavaScript": 55624
+    },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
-    "updated_at": "2017-07-18T10:32:50Z",
+    "updated_at": "2017-09-14T20:01:43Z",
     "url": "https://api.github.com/repos/g0v/ambassador"
   },
   "g0v/angular-laweasyread": {
@@ -1230,7 +1234,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-08-14T10:31:09Z",
+    "updated_at": "2017-09-14T15:13:59Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -4599,9 +4603,9 @@
     "languages": {
       "CSS": 43689,
       "HTML": 1505,
-      "JavaScript": 46969,
+      "JavaScript": 46862,
       "Makefile": 223,
-      "Vue": 93420
+      "Vue": 92405
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
