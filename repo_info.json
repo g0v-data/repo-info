@@ -768,9 +768,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 447,
+      "CSS": 709,
       "HTML": 1694,
-      "JavaScript": 55624
+      "JavaScript": 65268
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -894,7 +894,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-08-17T00:52:59Z",
+    "updated_at": "2017-09-15T08:33:31Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1227,7 +1227,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80989,
-      "HTML": 242625,
+      "HTML": 243424,
       "JavaScript": 113536,
       "Python": 536971,
       "Shell": 3730
@@ -2189,10 +2189,10 @@
     "g0vjson_filename": "g0v`hack.g0v.tw`g0v.json",
     "html_url": "https://github.com/g0v/hack.g0v.tw",
     "languages": {
-      "CSS": 16133,
-      "HTML": 82749,
+      "CSS": 17240,
+      "HTML": 84156,
       "JavaScript": 11619,
-      "LiveScript": 57675,
+      "LiveScript": 57709,
       "Makefile": 1635,
       "Perl": 5303,
       "Roff": 7908,
@@ -4136,7 +4136,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2017-09-04T21:02:01Z",
+    "updated_at": "2017-09-15T02:24:25Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
@@ -4577,7 +4577,7 @@
       "HTML": 5973,
       "JavaScript": 21573,
       "Shell": 1956,
-      "Vue": 93747
+      "Vue": 92973
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
