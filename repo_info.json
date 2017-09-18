@@ -769,8 +769,8 @@
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
       "CSS": 776,
-      "HTML": 1694,
-      "JavaScript": 65312
+      "HTML": 1745,
+      "JavaScript": 65300
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -2962,7 +2962,7 @@
     },
     "name": "magic-mirror",
     "readme_filename": "g0v`magic-mirror`README.md",
-    "updated_at": "2017-05-15T06:50:48Z",
+    "updated_at": "2017-09-18T08:04:42Z",
     "url": "https://api.github.com/repos/g0v/magic-mirror"
   },
   "g0v/mapView": {
@@ -4693,7 +4693,7 @@
     },
     "name": "z0y",
     "readme_filename": "g0v`z0y`README.md",
-    "updated_at": "2017-02-18T13:24:36Z",
+    "updated_at": "2017-09-18T16:20:39Z",
     "url": "https://api.github.com/repos/g0v/z0y"
   },
   "g0v/zh-stroke-data": {
