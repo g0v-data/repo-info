@@ -768,9 +768,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 786,
+      "CSS": 978,
       "HTML": 2440,
-      "JavaScript": 67982
+      "JavaScript": 72671
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1227,7 +1227,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80989,
-      "HTML": 243870,
+      "HTML": 244244,
       "JavaScript": 113536,
       "Python": 536971,
       "Shell": 3730
@@ -3180,7 +3180,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2017-09-16T18:44:57Z",
+    "updated_at": "2017-09-21T01:33:58Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4598,9 +4598,9 @@
     "languages": {
       "CSS": 1464,
       "HTML": 5973,
-      "JavaScript": 21573,
+      "JavaScript": 20803,
       "Shell": 1956,
-      "Vue": 92973
+      "Vue": 93109
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4927,7 +4927,7 @@
     "html_url": "https://github.com/miaoski/amis-safolu",
     "languages": {
       "Perl": 646,
-      "Python": 18904,
+      "Python": 18911,
       "Ruby": 3917,
       "Shell": 1646
     },
