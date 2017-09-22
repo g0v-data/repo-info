@@ -1227,9 +1227,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80989,
-      "HTML": 244244,
+      "HTML": 256015,
       "JavaScript": 113536,
-      "Python": 536971,
+      "Python": 544305,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2962,7 +2962,7 @@
     },
     "name": "magic-mirror",
     "readme_filename": "g0v`magic-mirror`README.md",
-    "updated_at": "2017-09-18T08:04:42Z",
+    "updated_at": "2017-09-22T07:38:59Z",
     "url": "https://api.github.com/repos/g0v/magic-mirror"
   },
   "g0v/mapView": {
@@ -4546,12 +4546,13 @@
     "description": "Normalize URL",
     "html_url": "https://github.com/g0v/url-normalizer.js",
     "languages": {
+      "HTML": 2313,
       "JavaScript": 10419,
       "PHP": 8034
     },
     "name": "url-normalizer.js",
     "readme_filename": "g0v`url-normalizer.js`README.md",
-    "updated_at": "2016-03-22T01:50:35Z",
+    "updated_at": "2017-09-22T14:42:51Z",
     "url": "https://api.github.com/repos/g0v/url-normalizer.js"
   },
   "g0v/urlshot": {
@@ -4598,9 +4599,9 @@
     "languages": {
       "CSS": 1464,
       "HTML": 5973,
-      "JavaScript": 20803,
+      "JavaScript": 20802,
       "Shell": 1956,
-      "Vue": 93109
+      "Vue": 91201
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -5110,7 +5111,7 @@
       "CSS": 16113,
       "HTML": 4547596,
       "JavaScript": 81598,
-      "PHP": 3006025
+      "PHP": 3007291
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
