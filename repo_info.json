@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 1226,
       "HTML": 2440,
-      "JavaScript": 84710
+      "JavaScript": 89001
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1229,7 +1229,7 @@
       "CSS": 80989,
       "HTML": 256015,
       "JavaScript": 113536,
-      "Python": 544305,
+      "Python": 544367,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -1957,7 +1957,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2017-09-07T22:25:32Z",
+    "updated_at": "2017-09-26T01:44:25Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
