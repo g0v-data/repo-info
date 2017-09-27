@@ -768,9 +768,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 1226,
+      "CSS": 1377,
       "HTML": 2440,
-      "JavaScript": 89001
+      "JavaScript": 93839
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1101,7 +1101,7 @@
     },
     "name": "closelyheld-ref1-gitbook",
     "readme_filename": "g0v`closelyheld-ref1-gitbook`README.md",
-    "updated_at": "2016-12-03T07:57:14Z",
+    "updated_at": "2017-09-27T14:14:31Z",
     "url": "https://api.github.com/repos/g0v/closelyheld-ref1-gitbook"
   },
   "g0v/closelyheld-ref1.vtaiwan.tw": {
@@ -1229,7 +1229,7 @@
       "CSS": 80989,
       "HTML": 256015,
       "JavaScript": 113536,
-      "Python": 544367,
+      "Python": 549456,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
