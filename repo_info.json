@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 1377,
       "HTML": 2440,
-      "JavaScript": 93839
+      "JavaScript": 93814
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1229,7 +1229,7 @@
       "CSS": 80989,
       "HTML": 256015,
       "JavaScript": 113536,
-      "Python": 549456,
+      "Python": 553760,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -3877,7 +3877,7 @@
     },
     "name": "reporter",
     "readme_filename": "g0v`reporter`README.md",
-    "updated_at": "2016-12-11T00:30:43Z",
+    "updated_at": "2017-09-28T08:30:37Z",
     "url": "https://api.github.com/repos/g0v/reporter"
   },
   "g0v/research_time": {
@@ -4364,7 +4364,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2017-09-12T15:10:57Z",
+    "updated_at": "2017-09-28T09:20:58Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
