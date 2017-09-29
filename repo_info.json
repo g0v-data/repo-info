@@ -461,7 +461,7 @@
     "languages": {
       "CSS": 14420,
       "HTML": 8526,
-      "JavaScript": 19223,
+      "JavaScript": 19786,
       "LiveScript": 2300,
       "Ruby": 10561,
       "Shell": 738
@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 1377,
       "HTML": 2440,
-      "JavaScript": 93814
+      "JavaScript": 94608
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -4007,7 +4007,7 @@
     "description": "Slack plugin to sync IRC with your slack.com account",
     "html_url": "https://github.com/g0v/slack-irc-plugin",
     "languages": {
-      "JavaScript": 10506,
+      "JavaScript": 10508,
       "Makefile": 282
     },
     "name": "slack-irc-plugin",
@@ -4598,10 +4598,10 @@
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1464,
-      "HTML": 5973,
+      "HTML": 6072,
       "JavaScript": 20802,
       "Shell": 1956,
-      "Vue": 91201
+      "Vue": 88919
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
@@ -4863,7 +4863,7 @@
       "Batchfile": 2785,
       "CSS": 38146,
       "JavaScript": 19159,
-      "PHP": 9112674,
+      "PHP": 9115708,
       "Python": 278,
       "Shell": 4170
     },
