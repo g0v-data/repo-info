@@ -1227,14 +1227,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80989,
-      "HTML": 256015,
+      "HTML": 5923070,
       "JavaScript": 113536,
-      "Python": 553760,
+      "Python": 558239,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-09-14T15:13:59Z",
+    "updated_at": "2017-09-30T15:58:23Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -3047,7 +3047,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2017-09-08T06:55:26Z",
+    "updated_at": "2017-09-30T14:31:57Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3059,7 +3059,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2017-06-25T16:36:33Z",
+    "updated_at": "2017-09-30T14:44:31Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -3144,7 +3144,7 @@
       "Python": 13618
     },
     "name": "moedict-epub",
-    "updated_at": "2017-01-25T03:49:39Z",
+    "updated_at": "2017-09-30T14:31:49Z",
     "url": "https://api.github.com/repos/g0v/moedict-epub"
   },
   "g0v/moedict-process": {
@@ -3192,7 +3192,7 @@
     },
     "name": "moedict.tw",
     "readme_filename": "g0v`moedict.tw`README.md",
-    "updated_at": "2017-05-15T02:14:55Z",
+    "updated_at": "2017-09-30T14:32:05Z",
     "url": "https://api.github.com/repos/g0v/moedict.tw"
   },
   "g0v/moer.g0v.tw": {
@@ -4422,7 +4422,7 @@
     },
     "name": "twly_crawler",
     "readme_filename": "g0v`twly_crawler`README.md",
-    "updated_at": "2017-07-06T12:03:25Z",
+    "updated_at": "2017-09-30T14:44:51Z",
     "url": "https://api.github.com/repos/g0v/twly_crawler"
   },
   "g0v/twlyparser": {
@@ -4598,8 +4598,8 @@
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1464,
-      "HTML": 6072,
-      "JavaScript": 20802,
+      "HTML": 6065,
+      "JavaScript": 20929,
       "Shell": 1956,
       "Vue": 88919
     },
