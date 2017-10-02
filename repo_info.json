@@ -768,9 +768,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 1377,
+      "CSS": 1397,
       "HTML": 2440,
-      "JavaScript": 94608
+      "JavaScript": 105024
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1227,9 +1227,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80989,
-      "HTML": 5923070,
+      "HTML": 5910596,
       "JavaScript": 113536,
-      "Python": 558239,
+      "Python": 557170,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2531,7 +2531,7 @@
     },
     "name": "kuansim",
     "readme_filename": "g0v`kuansim`README.md",
-    "updated_at": "2017-03-20T23:26:10Z",
+    "updated_at": "2017-10-02T10:24:02Z",
     "url": "https://api.github.com/repos/g0v/kuansim"
   },
   "g0v/kuansim-backend": {
@@ -3180,7 +3180,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2017-09-21T01:33:58Z",
+    "updated_at": "2017-10-02T02:40:39Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3787,7 +3787,7 @@
     },
     "name": "react-zh-stroker",
     "readme_filename": "g0v`react-zh-stroker`README.md",
-    "updated_at": "2016-11-26T12:18:05Z",
+    "updated_at": "2017-10-02T14:02:10Z",
     "url": "https://api.github.com/repos/g0v/react-zh-stroker"
   },
   "g0v/react.addressbook": {
@@ -4364,7 +4364,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2017-09-28T09:20:58Z",
+    "updated_at": "2017-10-02T07:48:56Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
@@ -4605,7 +4605,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-09-07T06:08:58Z",
+    "updated_at": "2017-10-02T17:42:44Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
