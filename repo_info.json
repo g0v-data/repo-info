@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 1397,
       "HTML": 2440,
-      "JavaScript": 105024
+      "JavaScript": 111484
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1226,7 +1226,7 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 80989,
+      "CSS": 80986,
       "HTML": 5910596,
       "JavaScript": 113536,
       "Python": 557170,
@@ -2949,7 +2949,7 @@
     },
     "name": "ly.g0v.tw",
     "readme_filename": "g0v`ly.g0v.tw`README.md",
-    "updated_at": "2017-03-20T23:26:12Z",
+    "updated_at": "2017-10-03T12:43:17Z",
     "url": "https://api.github.com/repos/g0v/ly.g0v.tw"
   },
   "g0v/magic-mirror": {
@@ -3108,7 +3108,7 @@
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2017-08-14T00:02:05Z",
+    "updated_at": "2017-10-03T14:10:44Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -4007,7 +4007,7 @@
     "description": "Slack plugin to sync IRC with your slack.com account",
     "html_url": "https://github.com/g0v/slack-irc-plugin",
     "languages": {
-      "JavaScript": 10508,
+      "JavaScript": 10604,
       "Makefile": 282
     },
     "name": "slack-irc-plugin",
