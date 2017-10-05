@@ -704,6 +704,9 @@
   "g0v/addressbook-grano": {
     "description": null,
     "html_url": "https://github.com/g0v/addressbook-grano",
+    "languages": {
+      "Ruby": 4800
+    },
     "name": "addressbook-grano",
     "readme_filename": "g0v`addressbook-grano`README.md",
     "updated_at": "2014-06-18T16:31:55Z",
