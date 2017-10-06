@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 1397,
       "HTML": 2440,
-      "JavaScript": 110729
+      "JavaScript": 120799
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -3180,7 +3180,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2017-10-02T02:40:39Z",
+    "updated_at": "2017-10-06T06:31:07Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
