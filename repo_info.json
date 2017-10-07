@@ -768,9 +768,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 1397,
+      "CSS": 1596,
       "HTML": 2440,
-      "JavaScript": 120799
+      "JavaScript": 125255
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -2305,7 +2305,7 @@
     "languages": {},
     "name": "hyob",
     "readme_filename": "g0v`hyob`README.md",
-    "updated_at": "2017-09-04T13:03:36Z",
+    "updated_at": "2017-10-07T14:56:21Z",
     "url": "https://api.github.com/repos/g0v/hyob"
   },
   "g0v/i64885": {
