@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 1596,
       "HTML": 2440,
-      "JavaScript": 125560
+      "JavaScript": 126772
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1990,7 +1990,7 @@
     "languages": {
       "HTML": 315,
       "Perl": 13271,
-      "Perl6": 1355
+      "Perl 6": 1355
     },
     "name": "g0vcaptcha",
     "readme_filename": "g0v`g0vcaptcha`README.md",
@@ -2513,7 +2513,7 @@
       "HTML": 27656579,
       "Makefile": 2113,
       "Perl": 24956,
-      "Perl6": 6620,
+      "Perl 6": 6620,
       "Python": 58340
     },
     "name": "koktai",
@@ -3454,7 +3454,7 @@
     "html_url": "https://github.com/g0v/pdf-text-cutter",
     "languages": {
       "Perl": 29031,
-      "Perl6": 11175,
+      "Perl 6": 11175,
       "Shell": 932
     },
     "name": "pdf-text-cutter",
@@ -4605,7 +4605,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-10-02T17:42:44Z",
+    "updated_at": "2017-10-13T13:11:01Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
