@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 1596,
       "HTML": 2440,
-      "JavaScript": 126772
+      "JavaScript": 128801
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -2440,7 +2440,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-08-16T18:50:38Z",
+    "updated_at": "2017-10-14T14:30:21Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
