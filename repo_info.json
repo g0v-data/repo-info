@@ -2109,6 +2109,15 @@
     "updated_at": "2014-02-13T07:54:53Z",
     "url": "https://api.github.com/repos/g0v/generator-g0v-webapp"
   },
+  "g0v/ggv": {
+    "description": "Repo for GGV",
+    "html_url": "https://github.com/g0v/ggv",
+    "languages": {},
+    "name": "ggv",
+    "readme_filename": "g0v`ggv`README.md",
+    "updated_at": "2017-10-17T09:02:00Z",
+    "url": "https://api.github.com/repos/g0v/ggv"
+  },
   "g0v/gitbook-plugin-discourse": {
     "description": null,
     "html_url": "https://github.com/g0v/gitbook-plugin-discourse",
@@ -2200,7 +2209,7 @@
     },
     "name": "hack.g0v.tw",
     "readme_filename": "g0v`hack.g0v.tw`README.md",
-    "updated_at": "2017-06-01T20:17:54Z",
+    "updated_at": "2017-10-17T17:05:59Z",
     "url": "https://api.github.com/repos/g0v/hack.g0v.tw"
   },
   "g0v/hackeditr": {
@@ -5183,7 +5192,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2017-08-25T03:47:58Z",
+    "updated_at": "2017-10-17T03:15:38Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
