@@ -769,8 +769,8 @@
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
       "CSS": 1596,
-      "HTML": 2440,
-      "JavaScript": 128801
+      "HTML": 4050,
+      "JavaScript": 130332
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -2115,7 +2115,7 @@
     "languages": {},
     "name": "ggv",
     "readme_filename": "g0v`ggv`README.md",
-    "updated_at": "2017-10-18T17:12:17Z",
+    "updated_at": "2017-10-19T02:17:22Z",
     "url": "https://api.github.com/repos/g0v/ggv"
   },
   "g0v/gitbook-plugin-discourse": {
@@ -3284,7 +3284,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2017-09-25T04:34:07Z",
+    "updated_at": "2017-10-19T12:56:46Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
