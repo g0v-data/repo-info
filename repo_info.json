@@ -770,11 +770,11 @@
     "languages": {
       "CSS": 1596,
       "HTML": 4050,
-      "JavaScript": 130332
+      "JavaScript": 130677
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
-    "updated_at": "2017-09-16T07:59:45Z",
+    "updated_at": "2017-10-21T06:33:23Z",
     "url": "https://api.github.com/repos/g0v/ambassador"
   },
   "g0v/angular-laweasyread": {
@@ -2001,7 +2001,7 @@
     "description": "g0v 專案與技能媒合工具",
     "html_url": "https://github.com/g0v/g0ver-box",
     "languages": {
-      "JavaScript": 27020
+      "JavaScript": 39331
     },
     "name": "g0ver-box",
     "readme_filename": "g0v`g0ver-box`README.md",
@@ -2185,7 +2185,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86040,
-      "HTML": 125912,
+      "HTML": 125674,
       "JavaScript": 724660
     },
     "name": "grantdash",
@@ -4613,7 +4613,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-10-13T13:11:01Z",
+    "updated_at": "2017-10-21T13:54:36Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
