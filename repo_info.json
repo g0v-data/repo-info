@@ -770,11 +770,11 @@
     "languages": {
       "CSS": 1596,
       "HTML": 4050,
-      "JavaScript": 130677
+      "JavaScript": 129596
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
-    "updated_at": "2017-10-21T06:33:23Z",
+    "updated_at": "2017-10-22T03:51:08Z",
     "url": "https://api.github.com/repos/g0v/ambassador"
   },
   "g0v/angular-laweasyread": {
@@ -1949,15 +1949,15 @@
     "g0vjson_filename": "g0v`g0v.tw`g0v.json",
     "html_url": "https://github.com/g0v/g0v.tw",
     "languages": {
-      "CSS": 14059,
-      "HTML": 105041,
+      "CSS": 14056,
+      "HTML": 105250,
       "JavaScript": 13,
-      "LiveScript": 22234,
+      "LiveScript": 22487,
       "Shell": 1890
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2017-09-26T01:44:25Z",
+    "updated_at": "2017-10-22T20:17:03Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -2001,11 +2001,11 @@
     "description": "g0v 專案與技能媒合工具",
     "html_url": "https://github.com/g0v/g0ver-box",
     "languages": {
-      "JavaScript": 39331
+      "JavaScript": 41201
     },
     "name": "g0ver-box",
     "readme_filename": "g0v`g0ver-box`README.md",
-    "updated_at": "2017-02-16T12:56:14Z",
+    "updated_at": "2017-10-22T20:03:06Z",
     "url": "https://api.github.com/repos/g0v/g0ver-box"
   },
   "g0v/g0villa": {
