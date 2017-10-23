@@ -1950,14 +1950,14 @@
     "html_url": "https://github.com/g0v/g0v.tw",
     "languages": {
       "CSS": 14056,
-      "HTML": 105250,
+      "HTML": 105964,
       "JavaScript": 13,
       "LiveScript": 22487,
       "Shell": 1890
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2017-10-22T20:17:03Z",
+    "updated_at": "2017-10-23T03:57:00Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -2115,7 +2115,7 @@
     "languages": {},
     "name": "ggv",
     "readme_filename": "g0v`ggv`README.md",
-    "updated_at": "2017-10-20T15:02:43Z",
+    "updated_at": "2017-10-23T17:19:00Z",
     "url": "https://api.github.com/repos/g0v/ggv"
   },
   "g0v/gitbook-plugin-discourse": {
@@ -5184,10 +5184,9 @@
     "description": "台灣統一編號資料",
     "html_url": "https://github.com/ronnywang/twcompany",
     "languages": {
-      "ApacheConf": 85,
       "CSS": 14908,
       "HTML": 4553537,
-      "PHP": 2938841
+      "PHP": 2938859
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
