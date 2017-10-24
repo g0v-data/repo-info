@@ -1227,9 +1227,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80986,
-      "HTML": 5910596,
+      "HTML": 5911901,
       "JavaScript": 113536,
-      "Python": 557170,
+      "Python": 559760,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -3068,7 +3068,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2017-10-09T07:27:50Z",
+    "updated_at": "2017-10-24T07:43:16Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
