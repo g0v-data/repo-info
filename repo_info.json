@@ -3117,7 +3117,7 @@
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2017-10-03T14:10:44Z",
+    "updated_at": "2017-10-27T03:38:35Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -4609,7 +4609,7 @@
       "HTML": 6065,
       "JavaScript": 20929,
       "Shell": 1956,
-      "Vue": 88914
+      "Vue": 88913
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
