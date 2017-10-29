@@ -2115,7 +2115,7 @@
     "languages": {},
     "name": "ggv",
     "readme_filename": "g0v`ggv`README.md",
-    "updated_at": "2017-10-26T16:46:23Z",
+    "updated_at": "2017-10-29T17:31:49Z",
     "url": "https://api.github.com/repos/g0v/ggv"
   },
   "g0v/gitbook-plugin-discourse": {
@@ -2966,7 +2966,7 @@
     "g0vjson_filename": "g0v`magic-mirror`g0v.json",
     "html_url": "https://github.com/g0v/magic-mirror",
     "languages": {
-      "Perl": 15143,
+      "Perl": 15949,
       "Shell": 555
     },
     "name": "magic-mirror",
@@ -3046,7 +3046,7 @@
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2017-09-03T23:10:56Z",
+    "updated_at": "2017-10-29T08:12:37Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
