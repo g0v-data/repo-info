@@ -2443,7 +2443,7 @@
     "languages": {
       "CSS": 3557,
       "HTML": 2117,
-      "JavaScript": 514808,
+      "JavaScript": 514649,
       "Python": 20591,
       "Vim script": 47
     },
@@ -3597,7 +3597,7 @@
     },
     "name": "posland",
     "readme_filename": "g0v`posland`README.md",
-    "updated_at": "2017-09-08T09:43:27Z",
+    "updated_at": "2017-10-30T02:40:45Z",
     "url": "https://api.github.com/repos/g0v/posland"
   },
   "g0v/potluckmap": {
