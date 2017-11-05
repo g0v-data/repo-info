@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 1596,
       "HTML": 4050,
-      "JavaScript": 129596
+      "JavaScript": 130145
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -2001,7 +2001,7 @@
     "description": "g0v 專案與技能媒合工具",
     "html_url": "https://github.com/g0v/g0ver-box",
     "languages": {
-      "JavaScript": 41201
+      "JavaScript": 97961
     },
     "name": "g0ver-box",
     "readme_filename": "g0v`g0ver-box`README.md",
@@ -3604,9 +3604,9 @@
     "description": "create a collaborative osm map that can have multiple sources such as url's of remote geojson/gpx/csv(spreadsheet) pages, each of which can be independently edited/updated.",
     "html_url": "https://github.com/g0v/potluckmap",
     "languages": {
-      "CSS": 19992,
-      "HTML": 37003,
-      "JavaScript": 67269,
+      "CSS": 20554,
+      "HTML": 41713,
+      "JavaScript": 67389,
       "PHP": 1463
     },
     "name": "potluckmap",
@@ -5190,7 +5190,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2017-10-17T03:15:38Z",
+    "updated_at": "2017-11-05T14:14:42Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
