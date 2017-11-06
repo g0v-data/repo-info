@@ -1234,7 +1234,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-11-04T08:39:20Z",
+    "updated_at": "2017-11-06T12:14:18Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -2001,11 +2001,11 @@
     "description": "g0v 專案與技能媒合工具",
     "html_url": "https://github.com/g0v/g0ver-box",
     "languages": {
-      "JavaScript": 97961
+      "JavaScript": 97984
     },
     "name": "g0ver-box",
     "readme_filename": "g0v`g0ver-box`README.md",
-    "updated_at": "2017-10-22T20:03:06Z",
+    "updated_at": "2017-11-06T04:30:03Z",
     "url": "https://api.github.com/repos/g0v/g0ver-box"
   },
   "g0v/g0villa": {
@@ -2644,7 +2644,7 @@
     },
     "name": "laweasyread",
     "readme_filename": "g0v`laweasyread`README.md",
-    "updated_at": "2016-12-17T06:24:29Z",
+    "updated_at": "2017-11-06T19:19:57Z",
     "url": "https://api.github.com/repos/g0v/laweasyread"
   },
   "g0v/laweasyread-data": {
@@ -2666,9 +2666,9 @@
     "g0vjson_filename": "g0v`laweasyread-front`g0v.json",
     "html_url": "https://github.com/g0v/laweasyread-front",
     "languages": {
-      "CSS": 5187,
-      "HTML": 6095,
-      "JavaScript": 889057
+      "CSS": 5283,
+      "HTML": 6230,
+      "JavaScript": 889081
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
@@ -3605,7 +3605,7 @@
     "html_url": "https://github.com/g0v/potluckmap",
     "languages": {
       "CSS": 20554,
-      "HTML": 41713,
+      "HTML": 41725,
       "JavaScript": 67389,
       "PHP": 1463
     },
@@ -4372,7 +4372,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2017-10-02T07:48:56Z",
+    "updated_at": "2017-11-06T06:55:59Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
@@ -4613,7 +4613,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-11-04T08:30:12Z",
+    "updated_at": "2017-11-06T12:19:42Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
