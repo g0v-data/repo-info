@@ -1389,7 +1389,7 @@
     },
     "name": "dc.vtaiwan.tw",
     "readme_filename": "g0v`dc.vtaiwan.tw`README.md",
-    "updated_at": "2016-06-04T14:08:19Z",
+    "updated_at": "2017-11-13T14:05:50Z",
     "url": "https://api.github.com/repos/g0v/dc.vtaiwan.tw"
   },
   "g0v/decent.tw": {
@@ -1962,7 +1962,7 @@
     "html_url": "https://github.com/g0v/g0v.tw",
     "languages": {
       "CSS": 14056,
-      "HTML": 105964,
+      "HTML": 106417,
       "JavaScript": 13,
       "LiveScript": 22487,
       "Shell": 1890
@@ -2365,7 +2365,7 @@
     },
     "name": "idskage",
     "readme_filename": "g0v`idskage`README.md",
-    "updated_at": "2015-03-29T01:26:27Z",
+    "updated_at": "2017-11-13T09:07:05Z",
     "url": "https://api.github.com/repos/g0v/idskage"
   },
   "g0v/inLiveTwTextChrome": {
@@ -2539,7 +2539,7 @@
     },
     "name": "koktai",
     "readme_filename": "g0v`koktai`README.md",
-    "updated_at": "2017-08-28T21:53:54Z",
+    "updated_at": "2017-11-13T08:04:48Z",
     "url": "https://api.github.com/repos/g0v/koktai"
   },
   "g0v/kuansim": {
@@ -3080,7 +3080,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2017-11-03T08:53:00Z",
+    "updated_at": "2017-11-13T07:45:58Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -3836,7 +3836,7 @@
     },
     "name": "react.vtaiwan.tw",
     "readme_filename": "g0v`react.vtaiwan.tw`README.md",
-    "updated_at": "2017-03-10T08:14:37Z",
+    "updated_at": "2017-11-13T14:05:09Z",
     "url": "https://api.github.com/repos/g0v/react.vtaiwan.tw"
   },
   "g0v/readme": {
@@ -4654,7 +4654,7 @@
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
-    "updated_at": "2017-04-25T06:20:21Z",
+    "updated_at": "2017-11-13T13:29:26Z",
     "url": "https://api.github.com/repos/g0v/wiselike"
   },
   "g0v/wiselike.tw": {
