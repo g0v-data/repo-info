@@ -426,7 +426,7 @@
     },
     "name": "HackStory",
     "readme_filename": "g0v`HackStory`README.md",
-    "updated_at": "2017-10-10T05:25:13Z",
+    "updated_at": "2017-11-19T15:56:47Z",
     "url": "https://api.github.com/repos/g0v/HackStory"
   },
   "g0v/LetsFuMouAPI": {
@@ -777,6 +777,27 @@
     "updated_at": "2017-10-22T03:51:08Z",
     "url": "https://api.github.com/repos/g0v/ambassador"
   },
+  "g0v/amis-moedict": {
+    "description": "阿美語萌典網站",
+    "g0vjson_filename": "g0v`amis-moedict`g0v.json",
+    "html_url": "https://github.com/g0v/amis-moedict",
+    "languages": {
+      "CSS": 512098,
+      "HTML": 80141,
+      "Java": 2793,
+      "JavaScript": 382963,
+      "Makefile": 2273,
+      "Objective-C": 617152,
+      "Perl": 8416,
+      "Python": 5350,
+      "Ruby": 707,
+      "Shell": 8030
+    },
+    "name": "amis-moedict",
+    "readme_filename": "g0v`amis-moedict`README.md",
+    "updated_at": "2017-11-19T20:34:57Z",
+    "url": "https://api.github.com/repos/g0v/amis-moedict"
+  },
   "g0v/angular-laweasyread": {
     "description": "angular directive of laweasyread",
     "html_url": "https://github.com/g0v/angular-laweasyread",
@@ -894,7 +915,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-09-16T02:13:18Z",
+    "updated_at": "2017-11-19T16:22:17Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1234,7 +1255,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-11-06T12:14:18Z",
+    "updated_at": "2017-11-19T15:55:57Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -3201,7 +3222,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2017-11-11T12:32:51Z",
+    "updated_at": "2017-11-19T20:34:44Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4429,7 +4450,7 @@
     },
     "name": "twly-voter-guide",
     "readme_filename": "g0v`twly-voter-guide`README.md",
-    "updated_at": "2017-08-18T13:47:08Z",
+    "updated_at": "2017-11-19T15:57:28Z",
     "url": "https://api.github.com/repos/g0v/twly-voter-guide"
   },
   "g0v/twly_crawler": {
