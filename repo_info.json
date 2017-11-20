@@ -1990,7 +1990,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2017-11-16T15:35:18Z",
+    "updated_at": "2017-11-20T17:41:11Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -2476,7 +2476,7 @@
     "languages": {
       "CSS": 3557,
       "HTML": 2117,
-      "JavaScript": 514649,
+      "JavaScript": 514686,
       "Python": 20591,
       "Vim script": 47
     },
@@ -3222,7 +3222,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2017-11-19T20:34:44Z",
+    "updated_at": "2017-11-20T04:22:07Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3317,7 +3317,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2017-11-09T08:09:23Z",
+    "updated_at": "2017-11-20T10:22:37Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
@@ -5220,7 +5220,7 @@
     "languages": {
       "CSS": 14908,
       "HTML": 4553537,
-      "PHP": 2945737
+      "PHP": 2946207
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
