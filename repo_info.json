@@ -2474,7 +2474,7 @@
     "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 3557,
+      "CSS": 3640,
       "HTML": 2117,
       "JavaScript": 514686,
       "Python": 20591,
@@ -4589,7 +4589,7 @@
     "html_url": "https://github.com/g0v/url-normalizer.js",
     "languages": {
       "HTML": 2313,
-      "JavaScript": 10419,
+      "JavaScript": 10463,
       "PHP": 8034
     },
     "name": "url-normalizer.js",
@@ -4905,7 +4905,7 @@
       "Batchfile": 2785,
       "CSS": 38146,
       "JavaScript": 19159,
-      "PHP": 9115708,
+      "PHP": 9116314,
       "Python": 278,
       "Shell": 4170
     },
