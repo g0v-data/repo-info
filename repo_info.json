@@ -768,9 +768,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 1646,
+      "CSS": 1734,
       "HTML": 4050,
-      "JavaScript": 144703
+      "JavaScript": 149645
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
