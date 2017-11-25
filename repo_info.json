@@ -768,9 +768,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 1744,
+      "CSS": 1855,
       "HTML": 4050,
-      "JavaScript": 153131
+      "JavaScript": 155229
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -858,6 +858,19 @@
     "readme_filename": "g0v`api.ly`README.md",
     "updated_at": "2017-03-14T01:06:28Z",
     "url": "https://api.github.com/repos/g0v/api.ly"
+  },
+  "g0v/api.ly-php": {
+    "description": "用 PHP 重寫的 api.ly",
+    "html_url": "https://github.com/g0v/api.ly-php",
+    "languages": {
+      "CSS": 14908,
+      "HTML": 4512934,
+      "PHP": 383904
+    },
+    "name": "api.ly-php",
+    "readme_filename": "g0v`api.ly-php`README.md",
+    "updated_at": "2017-11-25T07:30:51Z",
+    "url": "https://api.github.com/repos/g0v/api.ly-php"
   },
   "g0v/aqx-graphite": {
     "description": "A processor that sends AQX measures to graphite",
@@ -1250,12 +1263,12 @@
       "CSS": 80986,
       "HTML": 5911901,
       "JavaScript": 113536,
-      "Python": 559760,
+      "Python": 559758,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-11-19T15:55:57Z",
+    "updated_at": "2017-11-25T07:30:54Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1892,6 +1905,19 @@
     "updated_at": "2017-01-21T04:42:26Z",
     "url": "https://api.github.com/repos/g0v/g0v-search-api"
   },
+  "g0v/g0v-shadow": {
+    "description": "shadow website for all gov.tw website",
+    "html_url": "https://github.com/g0v/g0v-shadow",
+    "languages": {
+      "CSS": 426415,
+      "HTML": 478561,
+      "JavaScript": 209340
+    },
+    "name": "g0v-shadow",
+    "readme_filename": "g0v`g0v-shadow`README.md",
+    "updated_at": "2017-11-25T05:01:39Z",
+    "url": "https://api.github.com/repos/g0v/g0v-shadow"
+  },
   "g0v/g0v-tender-builder": {
     "description": null,
     "html_url": "https://github.com/g0v/g0v-tender-builder",
@@ -1983,7 +2009,7 @@
     "html_url": "https://github.com/g0v/g0v.tw",
     "languages": {
       "CSS": 14056,
-      "HTML": 106417,
+      "HTML": 106413,
       "JavaScript": 13,
       "LiveScript": 22487,
       "Shell": 1890
@@ -2034,7 +2060,7 @@
     "description": "g0v 專案與技能媒合工具",
     "html_url": "https://github.com/g0v/g0ver-box",
     "languages": {
-      "JavaScript": 97990
+      "JavaScript": 98675
     },
     "name": "g0ver-box",
     "readme_filename": "g0v`g0ver-box`README.md",
@@ -2674,7 +2700,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2017-08-29T14:40:58Z",
+    "updated_at": "2017-11-25T06:25:36Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -3041,6 +3067,29 @@
     "readme_filename": "g0v`mapbox-gl-styles`README.md",
     "updated_at": "2016-07-20T01:08:29Z",
     "url": "https://api.github.com/repos/g0v/mapbox-gl-styles"
+  },
+  "g0v/mediawiki": {
+    "description": "The collaborative editing software that runs Wikipedia. This is a mirror from gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.",
+    "html_url": "https://github.com/g0v/mediawiki",
+    "languages": {
+      "Batchfile": 45,
+      "CSS": 505999,
+      "HTML": 6017,
+      "JavaScript": 3623947,
+      "Makefile": 3737,
+      "PHP": 20391359,
+      "PLSQL": 61061,
+      "PLpgSQL": 49292,
+      "Perl": 27998,
+      "Python": 14426,
+      "Ruby": 2345,
+      "SQLPL": 13440,
+      "Shell": 13236
+    },
+    "name": "mediawiki",
+    "readme_filename": "g0v`mediawiki`README.mediawiki",
+    "updated_at": "2017-11-25T05:12:45Z",
+    "url": "https://api.github.com/repos/g0v/mediawiki"
   },
   "g0v/meta.g0v.tw": {
     "description": "g0v相關專案的meta data匯集",
@@ -4541,7 +4590,7 @@
     },
     "name": "typo-resolver",
     "readme_filename": "g0v`typo-resolver`README.md",
-    "updated_at": "2015-06-30T05:17:46Z",
+    "updated_at": "2017-11-25T06:54:57Z",
     "url": "https://api.github.com/repos/g0v/typo-resolver"
   },
   "g0v/ui": {
@@ -5122,7 +5171,7 @@
     },
     "name": "jobhelper",
     "readme_filename": "ronnywang`jobhelper`README.md",
-    "updated_at": "2017-06-24T08:46:21Z",
+    "updated_at": "2017-11-25T05:47:21Z",
     "url": "https://api.github.com/repos/ronnywang/jobhelper"
   },
   "ronnywang/judicial-easyer": {
