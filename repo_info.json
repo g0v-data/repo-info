@@ -4621,15 +4621,14 @@
     "description": null,
     "html_url": "https://github.com/g0v/urbancode-commission3w",
     "languages": {
-      "ApacheConf": 553,
-      "HTML": 12857,
-      "JavaScript": 1132,
-      "PHP": 84902,
+      "HTML": 15425,
+      "JavaScript": 194041,
+      "PHP": 84978,
       "Vue": 563
     },
     "name": "urbancode-commission3w",
     "readme_filename": "g0v`urbancode-commission3w`readme.md",
-    "updated_at": "2017-03-29T15:59:04Z",
+    "updated_at": "2017-11-26T21:50:09Z",
     "url": "https://api.github.com/repos/g0v/urbancode-commission3w"
   },
   "g0v/urbancodeg0vtw": {
