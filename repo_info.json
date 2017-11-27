@@ -2550,6 +2550,20 @@
     "updated_at": "2016-06-12T06:19:25Z",
     "url": "https://api.github.com/repos/g0v/ivod.ly.g0v.tw"
   },
+  "g0v/jothon-net": {
+    "description": "揪松網",
+    "html_url": "https://github.com/g0v/jothon-net",
+    "languages": {
+      "CSS": 191353,
+      "HTML": 25257,
+      "JavaScript": 274798,
+      "LiveScript": 10935
+    },
+    "name": "jothon-net",
+    "readme_filename": "g0v`jothon-net`README.md",
+    "updated_at": "2017-11-27T14:42:23Z",
+    "url": "https://api.github.com/repos/g0v/jothon-net"
+  },
   "g0v/kage.json": {
     "description": "parse KAGE format to JSON for future use",
     "html_url": "https://github.com/g0v/kage.json",
@@ -4610,7 +4624,7 @@
     "g0vjson_filename": "g0v`urbancode-commission`g0v.json",
     "html_url": "https://github.com/g0v/urbancode-commission",
     "languages": {
-      "PHP": 105856
+      "PHP": 103427
     },
     "name": "urbancode-commission",
     "readme_filename": "g0v`urbancode-commission`README.md",
