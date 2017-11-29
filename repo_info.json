@@ -1260,15 +1260,15 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 80986,
+      "CSS": 81012,
       "HTML": 5911901,
       "JavaScript": 113536,
-      "Python": 559758,
+      "Python": 561120,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-11-25T07:30:54Z",
+    "updated_at": "2017-11-29T05:56:58Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
