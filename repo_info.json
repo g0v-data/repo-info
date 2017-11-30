@@ -1261,9 +1261,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81012,
-      "HTML": 5911901,
+      "HTML": 5911560,
       "JavaScript": 113536,
-      "Python": 561120,
+      "Python": 561317,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2244,7 +2244,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86040,
-      "HTML": 125821,
+      "HTML": 125773,
       "JavaScript": 724660
     },
     "name": "grantdash",
@@ -3714,7 +3714,7 @@
     "languages": {
       "CSS": 20273,
       "HTML": 37976,
-      "JavaScript": 67514,
+      "JavaScript": 67740,
       "PHP": 1463
     },
     "name": "potluckmap",
