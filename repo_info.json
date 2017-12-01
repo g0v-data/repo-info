@@ -768,9 +768,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 1855,
+      "CSS": 1865,
       "HTML": 4050,
-      "JavaScript": 155229
+      "JavaScript": 156414
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -2243,8 +2243,8 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 86040,
-      "HTML": 125773,
+      "CSS": 86021,
+      "HTML": 123199,
       "JavaScript": 724660
     },
     "name": "grantdash",
