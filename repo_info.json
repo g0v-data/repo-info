@@ -461,7 +461,7 @@
     "languages": {
       "CSS": 14420,
       "HTML": 8526,
-      "JavaScript": 19786,
+      "JavaScript": 19790,
       "LiveScript": 2300,
       "Ruby": 10561,
       "Shell": 738
@@ -768,9 +768,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 1865,
+      "CSS": 1875,
       "HTML": 4050,
-      "JavaScript": 156414
+      "JavaScript": 158113
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1263,7 +1263,7 @@
       "CSS": 81012,
       "HTML": 5911560,
       "JavaScript": 113536,
-      "Python": 561317,
+      "Python": 561455,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -1448,7 +1448,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-12-02T09:26:08Z",
+    "updated_at": "2017-12-03T13:52:06Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -1945,7 +1945,7 @@
     "html_url": "https://github.com/g0v/g0v-wiki",
     "languages": {
       "CSS": 34,
-      "HTML": 57947,
+      "HTML": 61676,
       "JavaScript": 156215
     },
     "name": "g0v-wiki",
@@ -3317,7 +3317,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2017-11-20T04:22:07Z",
+    "updated_at": "2017-12-03T13:48:08Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
