@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 1875,
       "HTML": 4050,
-      "JavaScript": 158113
+      "JavaScript": 162785
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1260,10 +1260,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 81012,
-      "HTML": 5911560,
+      "CSS": 81159,
+      "HTML": 5913218,
       "JavaScript": 113536,
-      "Python": 561455,
+      "Python": 563837,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2264,8 +2264,8 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 86021,
-      "HTML": 123199,
+      "CSS": 86139,
+      "HTML": 124526,
       "JavaScript": 724660
     },
     "name": "grantdash",
