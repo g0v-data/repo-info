@@ -1261,9 +1261,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81159,
-      "HTML": 5913218,
+      "HTML": 5919612,
       "JavaScript": 113536,
-      "Python": 563837,
+      "Python": 564388,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2264,8 +2264,8 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 86139,
-      "HTML": 124526,
+      "CSS": 86468,
+      "HTML": 126060,
       "JavaScript": 724660
     },
     "name": "grantdash",
@@ -2405,7 +2405,7 @@
     "languages": {},
     "name": "hyob",
     "readme_filename": "g0v`hyob`README.md",
-    "updated_at": "2017-10-07T14:56:21Z",
+    "updated_at": "2017-12-05T06:37:00Z",
     "url": "https://api.github.com/repos/g0v/hyob"
   },
   "g0v/i64885": {
