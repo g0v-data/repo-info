@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 1875,
       "HTML": 4050,
-      "JavaScript": 162785
+      "JavaScript": 170071
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1261,7 +1261,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81159,
-      "HTML": 5919612,
+      "HTML": 5919500,
       "JavaScript": 113536,
       "Python": 564388,
       "Shell": 3730
@@ -3071,7 +3071,7 @@
     "g0vjson_filename": "g0v`magic-mirror`g0v.json",
     "html_url": "https://github.com/g0v/magic-mirror",
     "languages": {
-      "Perl": 15949,
+      "Perl": 16017,
       "Shell": 555
     },
     "name": "magic-mirror",
@@ -4538,9 +4538,9 @@
     "html_url": "https://github.com/g0v/twly-voter-guide",
     "languages": {
       "CSS": 27585,
-      "HTML": 178885,
+      "HTML": 179456,
       "JavaScript": 23644,
-      "Python": 92364,
+      "Python": 95362,
       "Shell": 130
     },
     "name": "twly-voter-guide",
