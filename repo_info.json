@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 1875,
       "HTML": 4050,
-      "JavaScript": 170071
+      "JavaScript": 172350
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1261,9 +1261,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81159,
-      "HTML": 5919500,
+      "HTML": 5921188,
       "JavaScript": 113536,
-      "Python": 564388,
+      "Python": 568186,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
