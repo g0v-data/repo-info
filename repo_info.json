@@ -2264,8 +2264,8 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 86468,
-      "HTML": 126060,
+      "CSS": 86498,
+      "HTML": 126062,
       "JavaScript": 724648
     },
     "name": "grantdash",
