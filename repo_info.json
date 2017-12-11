@@ -2575,10 +2575,10 @@
     "description": "揪松網",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 191353,
-      "HTML": 25257,
+      "CSS": 207289,
+      "HTML": 144613,
       "JavaScript": 274798,
-      "LiveScript": 10935
+      "LiveScript": 13725
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
@@ -2735,7 +2735,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2017-11-25T06:25:36Z",
+    "updated_at": "2017-12-11T08:56:51Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
