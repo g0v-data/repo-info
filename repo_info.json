@@ -1260,10 +1260,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 81159,
-      "HTML": 5922234,
+      "CSS": 81163,
+      "HTML": 5920824,
       "JavaScript": 113536,
-      "Python": 568186,
+      "Python": 568751,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -1896,7 +1896,7 @@
     "description": null,
     "html_url": "https://github.com/g0v/g0v-search-api",
     "languages": {
-      "HTML": 4705,
+      "HTML": 4569,
       "PHP": 12847,
       "Shell": 798
     },
@@ -2572,17 +2572,18 @@
     "url": "https://api.github.com/repos/g0v/ivod.ly.g0v.tw"
   },
   "g0v/jothon-net": {
-    "description": "揪松網",
+    "description": "揪松網 - 零時政府黑客松入口網站",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 207289,
-      "HTML": 144613,
-      "JavaScript": 274798,
-      "LiveScript": 13725
+      "CSS": 565086,
+      "HTML": 314655,
+      "JavaScript": 853516,
+      "LiveScript": 62050,
+      "Shell": 74
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
-    "updated_at": "2017-11-27T14:42:23Z",
+    "updated_at": "2017-12-12T16:06:22Z",
     "url": "https://api.github.com/repos/g0v/jothon-net"
   },
   "g0v/kage.json": {
