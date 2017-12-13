@@ -1261,9 +1261,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81163,
-      "HTML": 5920824,
+      "HTML": 5933385,
       "JavaScript": 113536,
-      "Python": 568751,
+      "Python": 571567,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2265,7 +2265,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86498,
-      "HTML": 126062,
+      "HTML": 126068,
       "JavaScript": 724648
     },
     "name": "grantdash",
@@ -2540,7 +2540,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-11-16T15:07:30Z",
+    "updated_at": "2017-12-13T10:14:38Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3318,7 +3318,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2017-12-03T13:48:08Z",
+    "updated_at": "2017-12-13T10:31:01Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4738,7 +4738,7 @@
       "HTML": 6065,
       "JavaScript": 20929,
       "Shell": 1956,
-      "Vue": 88913
+      "Vue": 89113
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
