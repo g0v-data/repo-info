@@ -768,9 +768,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 1875,
+      "CSS": 2094,
       "HTML": 4050,
-      "JavaScript": 176748
+      "JavaScript": 185809
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1263,7 +1263,7 @@
       "CSS": 81163,
       "HTML": 5933385,
       "JavaScript": 113536,
-      "Python": 571567,
+      "Python": 572112,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
