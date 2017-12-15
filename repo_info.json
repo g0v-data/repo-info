@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 2094,
       "HTML": 4050,
-      "JavaScript": 185809
+      "JavaScript": 186209
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -2029,10 +2029,10 @@
     "g0vjson_filename": "g0v`g0v.tw`g0v.json",
     "html_url": "https://github.com/g0v/g0v.tw",
     "languages": {
-      "CSS": 14056,
-      "HTML": 106413,
+      "CSS": 16034,
+      "HTML": 108077,
       "JavaScript": 13,
-      "LiveScript": 22487,
+      "LiveScript": 24267,
       "Shell": 1890
     },
     "name": "g0v.tw",
@@ -2265,7 +2265,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86498,
-      "HTML": 126068,
+      "HTML": 127755,
       "JavaScript": 724648
     },
     "name": "grantdash",
