@@ -1261,9 +1261,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81163,
-      "HTML": 5933385,
+      "HTML": 5946102,
       "JavaScript": 113536,
-      "Python": 572112,
+      "Python": 572033,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -3072,7 +3072,7 @@
     "g0vjson_filename": "g0v`magic-mirror`g0v.json",
     "html_url": "https://github.com/g0v/magic-mirror",
     "languages": {
-      "Perl": 16017,
+      "Perl": 16081,
       "Shell": 555
     },
     "name": "magic-mirror",
