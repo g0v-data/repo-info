@@ -770,7 +770,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 203594
+      "JavaScript": 204613
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1261,7 +1261,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81163,
-      "HTML": 5951431,
+      "HTML": 5951781,
       "JavaScript": 113536,
       "Python": 579958,
       "Shell": 3730
@@ -2265,8 +2265,8 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86498,
-      "HTML": 127752,
-      "JavaScript": 724648
+      "HTML": 131110,
+      "JavaScript": 724745
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -3330,7 +3330,7 @@
     },
     "name": "moedict.tw",
     "readme_filename": "g0v`moedict.tw`README.md",
-    "updated_at": "2017-11-02T04:23:09Z",
+    "updated_at": "2017-12-22T03:27:10Z",
     "url": "https://api.github.com/repos/g0v/moedict.tw"
   },
   "g0v/moer.g0v.tw": {
@@ -4893,7 +4893,7 @@
     },
     "name": "Real-time-Air-Quality-Map",
     "readme_filename": "immortalmice`Real-time-Air-Quality-Map`README.md",
-    "updated_at": "2017-07-02T10:43:50Z",
+    "updated_at": "2017-12-22T09:32:33Z",
     "url": "https://api.github.com/repos/immortalmice/Real-time-Air-Quality-Map"
   },
   "jcsky/Solveissues": {
