@@ -121,11 +121,10 @@
     "description": "政治獻金數位化．人工 OCR",
     "html_url": "https://github.com/ctiml/campaign-finance.g0v.ctiml.tw",
     "languages": {
-      "ApacheConf": 82,
-      "CSS": 15527,
-      "HTML": 4522146,
-      "JavaScript": 6509,
-      "PHP": 452752
+      "CSS": 17961,
+      "HTML": 4530506,
+      "JavaScript": 6560,
+      "PHP": 453226
     },
     "name": "campaign-finance.g0v.ctiml.tw",
     "readme_filename": "ctiml`campaign-finance.g0v.ctiml.tw`README.md",
@@ -999,7 +998,7 @@
     },
     "name": "blood",
     "readme_filename": "g0v`blood`README.md",
-    "updated_at": "2017-05-22T14:39:06Z",
+    "updated_at": "2017-12-25T04:21:43Z",
     "url": "https://api.github.com/repos/g0v/blood"
   },
   "g0v/bopomofo-standard-gitbook": {
@@ -2540,7 +2539,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2017-12-13T10:14:38Z",
+    "updated_at": "2017-12-25T04:31:25Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
