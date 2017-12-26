@@ -121,10 +121,10 @@
     "description": "政治獻金數位化．人工 OCR",
     "html_url": "https://github.com/ctiml/campaign-finance.g0v.ctiml.tw",
     "languages": {
-      "CSS": 17961,
-      "HTML": 4530506,
-      "JavaScript": 6560,
-      "PHP": 453226
+      "CSS": 18820,
+      "HTML": 4527474,
+      "JavaScript": 6636,
+      "PHP": 460188
     },
     "name": "campaign-finance.g0v.ctiml.tw",
     "readme_filename": "ctiml`campaign-finance.g0v.ctiml.tw`README.md",
@@ -773,7 +773,7 @@
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
-    "updated_at": "2017-10-22T03:51:08Z",
+    "updated_at": "2017-12-26T05:14:27Z",
     "url": "https://api.github.com/repos/g0v/ambassador"
   },
   "g0v/amis-moedict": {
@@ -2531,7 +2531,7 @@
     "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 3640,
+      "CSS": 3851,
       "HTML": 2117,
       "JavaScript": 514686,
       "Python": 20591,
@@ -3071,7 +3071,7 @@
     "g0vjson_filename": "g0v`magic-mirror`g0v.json",
     "html_url": "https://github.com/g0v/magic-mirror",
     "languages": {
-      "Perl": 16081,
+      "Perl": 16411,
       "Shell": 555
     },
     "name": "magic-mirror",
@@ -5139,10 +5139,11 @@
     "html_url": "https://github.com/ronnywang/campaign-finance.g0v.ronny.tw",
     "languages": {
       "CSS": 14908,
-      "PHP": 362051
+      "HTML": 4517113,
+      "PHP": 362022
     },
     "name": "campaign-finance.g0v.ronny.tw",
-    "updated_at": "2014-07-06T07:36:25Z",
+    "updated_at": "2017-12-26T16:04:01Z",
     "url": "https://api.github.com/repos/ronnywang/campaign-finance.g0v.ronny.tw"
   },
   "ronnywang/company-graph": {
