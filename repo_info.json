@@ -121,8 +121,8 @@
     "description": "政治獻金數位化．人工 OCR",
     "html_url": "https://github.com/ctiml/campaign-finance.g0v.ctiml.tw",
     "languages": {
-      "CSS": 18820,
-      "HTML": 4527474,
+      "CSS": 20549,
+      "HTML": 4527700,
       "JavaScript": 6636,
       "PHP": 460188
     },
@@ -333,7 +333,7 @@
     "languages": {},
     "name": "CMDXMoldTesting",
     "readme_filename": "g0v`CMDXMoldTesting`README.md",
-    "updated_at": "2014-03-05T10:05:20Z",
+    "updated_at": "2017-12-27T07:10:16Z",
     "url": "https://api.github.com/repos/g0v/CMDXMoldTesting"
   },
   "g0v/CWN-editr": {
@@ -3071,7 +3071,7 @@
     "g0vjson_filename": "g0v`magic-mirror`g0v.json",
     "html_url": "https://github.com/g0v/magic-mirror",
     "languages": {
-      "Perl": 16411,
+      "Perl": 16418,
       "Shell": 555
     },
     "name": "magic-mirror",
