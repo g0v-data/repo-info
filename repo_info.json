@@ -121,9 +121,9 @@
     "description": "政治獻金數位化．人工 OCR",
     "html_url": "https://github.com/ctiml/campaign-finance.g0v.ctiml.tw",
     "languages": {
-      "CSS": 20549,
-      "HTML": 4527700,
-      "JavaScript": 6636,
+      "CSS": 20677,
+      "HTML": 4527686,
+      "JavaScript": 6547,
       "PHP": 460507
     },
     "name": "campaign-finance.g0v.ctiml.tw",
@@ -1091,7 +1091,7 @@
     "languages": {},
     "name": "citation_transition",
     "readme_filename": "g0v`citation_transition`README.md",
-    "updated_at": "2015-07-11T05:51:05Z",
+    "updated_at": "2017-12-29T10:11:47Z",
     "url": "https://api.github.com/repos/g0v/citation_transition"
   },
   "g0v/ckan": {
@@ -2264,8 +2264,8 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86498,
-      "HTML": 131110,
-      "JavaScript": 724745
+      "HTML": 131125,
+      "JavaScript": 726605
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2577,8 +2577,8 @@
       "CSS": 565086,
       "HTML": 314655,
       "JavaScript": 853516,
-      "LiveScript": 62050,
-      "Shell": 74
+      "LiveScript": 62988,
+      "Shell": 94
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
@@ -3071,7 +3071,7 @@
     "g0vjson_filename": "g0v`magic-mirror`g0v.json",
     "html_url": "https://github.com/g0v/magic-mirror",
     "languages": {
-      "Perl": 16418,
+      "Perl": 16494,
       "Shell": 555
     },
     "name": "magic-mirror",
@@ -3196,7 +3196,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2017-11-13T07:45:58Z",
+    "updated_at": "2017-12-29T10:13:27Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -3317,7 +3317,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2017-12-21T18:26:46Z",
+    "updated_at": "2017-12-29T10:15:25Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4938,7 +4938,7 @@
     },
     "name": "petneed.me",
     "readme_filename": "jsleetw`petneed.me`README.md",
-    "updated_at": "2017-12-19T04:12:38Z",
+    "updated_at": "2017-12-29T03:09:15Z",
     "url": "https://api.github.com/repos/jsleetw/petneed.me"
   },
   "junsuwhy/ly-tel": {
