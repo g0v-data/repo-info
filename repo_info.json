@@ -122,9 +122,9 @@
     "html_url": "https://github.com/ctiml/campaign-finance.g0v.ctiml.tw",
     "languages": {
       "CSS": 20677,
-      "HTML": 4527686,
-      "JavaScript": 6547,
-      "PHP": 460507
+      "HTML": 4528089,
+      "JavaScript": 6867,
+      "PHP": 460573
     },
     "name": "campaign-finance.g0v.ctiml.tw",
     "readme_filename": "ctiml`campaign-finance.g0v.ctiml.tw`README.md",
@@ -2264,8 +2264,8 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86498,
-      "HTML": 131125,
-      "JavaScript": 726605
+      "HTML": 133844,
+      "JavaScript": 729297
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2531,9 +2531,9 @@
     "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 3851,
+      "CSS": 3943,
       "HTML": 2117,
-      "JavaScript": 514686,
+      "JavaScript": 515763,
       "Python": 20591,
       "Vim script": 47
     },
