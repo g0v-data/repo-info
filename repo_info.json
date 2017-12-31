@@ -128,7 +128,7 @@
     },
     "name": "campaign-finance.g0v.ctiml.tw",
     "readme_filename": "ctiml`campaign-finance.g0v.ctiml.tw`README.md",
-    "updated_at": "2017-04-27T03:45:08Z",
+    "updated_at": "2017-12-30T23:00:50Z",
     "url": "https://api.github.com/repos/ctiml/campaign-finance.g0v.ctiml.tw"
   },
   "ctiml/vote2014": {
@@ -460,7 +460,7 @@
     "languages": {
       "CSS": 14420,
       "HTML": 8526,
-      "JavaScript": 19790,
+      "JavaScript": 27191,
       "LiveScript": 2300,
       "Ruby": 10561,
       "Shell": 738
@@ -1260,7 +1260,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81163,
-      "HTML": 5951781,
+      "HTML": 5952937,
       "JavaScript": 113536,
       "Python": 579958,
       "Shell": 3730
@@ -2264,8 +2264,8 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86498,
-      "HTML": 133844,
-      "JavaScript": 729297
+      "HTML": 134124,
+      "JavaScript": 729417
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -4501,7 +4501,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2017-11-06T06:55:59Z",
+    "updated_at": "2017-12-31T18:00:31Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
