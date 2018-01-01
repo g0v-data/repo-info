@@ -1259,10 +1259,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 81163,
-      "HTML": 5952937,
+      "CSS": 80584,
+      "HTML": 5952168,
       "JavaScript": 113536,
-      "Python": 579958,
+      "Python": 579520,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2264,8 +2264,8 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86498,
-      "HTML": 134124,
-      "JavaScript": 729417
+      "HTML": 134107,
+      "JavaScript": 729804
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2533,8 +2533,9 @@
     "languages": {
       "CSS": 3943,
       "HTML": 2117,
-      "JavaScript": 515763,
-      "Python": 20591,
+      "JavaScript": 515636,
+      "Python": 20992,
+      "Shell": 408,
       "Vim script": 47
     },
     "name": "itaigi",
@@ -4538,7 +4539,7 @@
     "html_url": "https://github.com/g0v/twly-voter-guide",
     "languages": {
       "CSS": 27585,
-      "HTML": 179456,
+      "HTML": 179428,
       "JavaScript": 23644,
       "Python": 95362,
       "Shell": 130
