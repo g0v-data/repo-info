@@ -2263,8 +2263,8 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 86498,
-      "HTML": 134107,
+      "CSS": 86503,
+      "HTML": 133880,
       "JavaScript": 729804
     },
     "name": "grantdash",
@@ -2575,10 +2575,10 @@
     "description": "揪松網 - 零時政府黑客松入口網站",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 565086,
-      "HTML": 314655,
-      "JavaScript": 853516,
-      "LiveScript": 62988,
+      "CSS": 565733,
+      "HTML": 319921,
+      "JavaScript": 895615,
+      "LiveScript": 63029,
       "Shell": 94
     },
     "name": "jothon-net",
