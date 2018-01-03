@@ -124,7 +124,7 @@
       "CSS": 20677,
       "HTML": 4528089,
       "JavaScript": 6867,
-      "PHP": 460573
+      "PHP": 460684
     },
     "name": "campaign-finance.g0v.ctiml.tw",
     "readme_filename": "ctiml`campaign-finance.g0v.ctiml.tw`README.md",
@@ -1260,9 +1260,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80584,
-      "HTML": 5952168,
+      "HTML": 5953699,
       "JavaScript": 113536,
-      "Python": 579520,
+      "Python": 580639,
       "Shell": 3730
     },
     "name": "councilor-voter-guide",
@@ -2533,7 +2533,7 @@
     "languages": {
       "CSS": 3943,
       "HTML": 2117,
-      "JavaScript": 515636,
+      "JavaScript": 515814,
       "Python": 20992,
       "Shell": 408,
       "Vim script": 47
@@ -2575,10 +2575,10 @@
     "description": "揪松網 - 零時政府黑客松入口網站",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 565733,
-      "HTML": 319921,
+      "CSS": 668121,
+      "HTML": 324519,
       "JavaScript": 895615,
-      "LiveScript": 63029,
+      "LiveScript": 63063,
       "Shell": 94
     },
     "name": "jothon-net",
@@ -3072,7 +3072,7 @@
     "g0vjson_filename": "g0v`magic-mirror`g0v.json",
     "html_url": "https://github.com/g0v/magic-mirror",
     "languages": {
-      "Perl": 16494,
+      "Perl": 16521,
       "Shell": 555
     },
     "name": "magic-mirror",
@@ -3291,7 +3291,7 @@
     "html_url": "https://github.com/g0v/moedict-process",
     "languages": {
       "Makefile": 482,
-      "Python": 17098
+      "Python": 17238
     },
     "name": "moedict-process",
     "readme_filename": "g0v`moedict-process`README.md",
