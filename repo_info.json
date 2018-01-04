@@ -2821,7 +2821,7 @@
     },
     "name": "liquid_feedback_core",
     "readme_filename": "g0v`liquid_feedback_core`README",
-    "updated_at": "2014-01-05T22:07:34Z",
+    "updated_at": "2018-01-04T12:16:44Z",
     "url": "https://api.github.com/repos/g0v/liquid_feedback_core"
   },
   "g0v/liquid_feedback_frontend": {
@@ -3303,15 +3303,14 @@
     "g0vjson_filename": "g0v`moedict-webkit`g0v.json",
     "html_url": "https://github.com/g0v/moedict-webkit",
     "languages": {
-      "C": 1025,
       "CSS": 510023,
       "HTML": 75916,
       "Java": 2793,
       "JavaScript": 149123,
       "LiveScript": 119343,
       "Makefile": 4003,
-      "Objective-C": 616127,
-      "Perl": 8638,
+      "Objective-C": 617152,
+      "Perl": 8704,
       "Python": 5350,
       "Ruby": 707,
       "Shell": 8030
@@ -5316,7 +5315,7 @@
     "languages": {
       "CSS": 14908,
       "HTML": 4553537,
-      "PHP": 2946207
+      "PHP": 2946795
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
