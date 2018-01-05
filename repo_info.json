@@ -2263,8 +2263,8 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 86503,
-      "HTML": 133880,
+      "CSS": 86729,
+      "HTML": 133342,
       "JavaScript": 729804
     },
     "name": "grantdash",
@@ -3175,7 +3175,7 @@
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2017-10-29T08:12:37Z",
+    "updated_at": "2018-01-05T02:21:54Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
