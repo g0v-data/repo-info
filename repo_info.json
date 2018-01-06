@@ -769,7 +769,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 204613
+      "JavaScript": 206293
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1260,7 +1260,7 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80584,
-      "HTML": 5953699,
+      "HTML": 5953739,
       "JavaScript": 113536,
       "Python": 580639,
       "Shell": 3730
@@ -2575,10 +2575,10 @@
     "description": "揪松網 - 零時政府黑客松入口網站",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 668121,
-      "HTML": 324519,
-      "JavaScript": 895615,
-      "LiveScript": 63063,
+      "CSS": 668531,
+      "HTML": 288230,
+      "JavaScript": 895618,
+      "LiveScript": 63939,
       "Shell": 94
     },
     "name": "jothon-net",
@@ -4296,7 +4296,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2017-09-15T02:24:25Z",
+    "updated_at": "2018-01-06T19:45:15Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
