@@ -2575,10 +2575,10 @@
     "description": "揪松網 - 零時政府黑客松入口網站",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 668531,
-      "HTML": 288230,
+      "CSS": 669508,
+      "HTML": 289195,
       "JavaScript": 895618,
-      "LiveScript": 63939,
+      "LiveScript": 64518,
       "Shell": 94
     },
     "name": "jothon-net",
@@ -4741,7 +4741,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2017-12-21T18:30:51Z",
+    "updated_at": "2018-01-07T14:00:09Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
