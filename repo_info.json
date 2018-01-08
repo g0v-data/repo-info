@@ -769,7 +769,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 206293
+      "JavaScript": 215014
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1262,8 +1262,8 @@
       "CSS": 80584,
       "HTML": 5953739,
       "JavaScript": 113536,
-      "Python": 580639,
-      "Shell": 3730
+      "Python": 575012,
+      "Shell": 4103
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
@@ -2264,7 +2264,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86729,
-      "HTML": 133342,
+      "HTML": 133351,
       "JavaScript": 729804
     },
     "name": "grantdash",
@@ -2575,10 +2575,10 @@
     "description": "揪松網 - 零時政府黑客松入口網站",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 669508,
-      "HTML": 289195,
-      "JavaScript": 895618,
-      "LiveScript": 64518,
+      "CSS": 672974,
+      "HTML": 303460,
+      "JavaScript": 901370,
+      "LiveScript": 70512,
       "Shell": 94
     },
     "name": "jothon-net",
@@ -3072,7 +3072,7 @@
     "g0vjson_filename": "g0v`magic-mirror`g0v.json",
     "html_url": "https://github.com/g0v/magic-mirror",
     "languages": {
-      "Perl": 16521,
+      "Perl": 16542,
       "Shell": 555
     },
     "name": "magic-mirror",
@@ -4274,8 +4274,8 @@
     "g0vjson_filename": "g0v`sunshine.cy`g0v.json",
     "html_url": "https://github.com/g0v/sunshine.cy",
     "languages": {
-      "HTML": 102319823,
-      "Python": 84717
+      "HTML": 140500724,
+      "Python": 88049
     },
     "name": "sunshine.cy",
     "readme_filename": "g0v`sunshine.cy`README.md",
