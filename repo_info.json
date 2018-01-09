@@ -769,7 +769,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 215014
+      "JavaScript": 221703
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -782,10 +782,10 @@
     "html_url": "https://github.com/g0v/amis-moedict",
     "languages": {
       "CSS": 512098,
-      "HTML": 80141,
+      "HTML": 67051,
       "Java": 2793,
-      "JavaScript": 382963,
-      "Makefile": 2273,
+      "JavaScript": 382091,
+      "Makefile": 2376,
       "Objective-C": 617152,
       "Perl": 8416,
       "Python": 5350,
@@ -927,7 +927,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2017-11-19T16:22:17Z",
+    "updated_at": "2018-01-09T13:08:24Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1260,9 +1260,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80584,
-      "HTML": 5953739,
+      "HTML": 5957014,
       "JavaScript": 113536,
-      "Python": 575012,
+      "Python": 575067,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
@@ -2264,7 +2264,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86729,
-      "HTML": 133351,
+      "HTML": 133442,
       "JavaScript": 729804
     },
     "name": "grantdash",
@@ -2576,9 +2576,9 @@
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
       "CSS": 672974,
-      "HTML": 303460,
-      "JavaScript": 901370,
-      "LiveScript": 70512,
+      "HTML": 341648,
+      "JavaScript": 901579,
+      "LiveScript": 88928,
       "Shell": 94
     },
     "name": "jothon-net",
