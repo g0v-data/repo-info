@@ -769,7 +769,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 221703
+      "JavaScript": 224726
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -2575,8 +2575,8 @@
     "description": "揪松網 - 零時政府黑客松入口網站",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 672974,
-      "HTML": 341648,
+      "CSS": 673096,
+      "HTML": 447546,
       "JavaScript": 901579,
       "LiveScript": 88928,
       "Shell": 94
@@ -2736,7 +2736,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2017-12-11T08:56:51Z",
+    "updated_at": "2018-01-10T16:13:50Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -5005,7 +5005,7 @@
     },
     "name": "elections",
     "readme_filename": "kiang`elections`README.md",
-    "updated_at": "2017-11-15T03:53:21Z",
+    "updated_at": "2018-01-10T16:32:46Z",
     "url": "https://api.github.com/repos/kiang/elections"
   },
   "kiang/lead_pipes": {
@@ -5206,7 +5206,7 @@
     },
     "name": "jobhelper",
     "readme_filename": "ronnywang`jobhelper`README.md",
-    "updated_at": "2017-11-25T05:47:21Z",
+    "updated_at": "2018-01-10T15:09:42Z",
     "url": "https://api.github.com/repos/ronnywang/jobhelper"
   },
   "ronnywang/judicial-easyer": {
