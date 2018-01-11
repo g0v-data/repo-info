@@ -1262,7 +1262,7 @@
       "CSS": 80584,
       "HTML": 5957014,
       "JavaScript": 113536,
-      "Python": 575067,
+      "Python": 575271,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
@@ -2264,7 +2264,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86729,
-      "HTML": 133442,
+      "HTML": 133444,
       "JavaScript": 729804
     },
     "name": "grantdash",
@@ -2575,10 +2575,10 @@
     "description": "揪松網 - 零時政府黑客松入口網站",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 673096,
-      "HTML": 447546,
+      "CSS": 674115,
+      "HTML": 469319,
       "JavaScript": 901579,
-      "LiveScript": 88928,
+      "LiveScript": 88931,
       "Shell": 94
     },
     "name": "jothon-net",
@@ -2736,7 +2736,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2018-01-10T16:13:50Z",
+    "updated_at": "2018-01-11T06:34:05Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
