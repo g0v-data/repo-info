@@ -2736,7 +2736,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2018-01-11T06:34:05Z",
+    "updated_at": "2018-01-12T20:19:46Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -4537,8 +4537,8 @@
     "g0vjson_filename": "g0v`twly-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/twly-voter-guide",
     "languages": {
-      "CSS": 27585,
-      "HTML": 179428,
+      "CSS": 27747,
+      "HTML": 179194,
       "JavaScript": 23644,
       "Python": 95362,
       "Shell": 130
@@ -5315,7 +5315,7 @@
     "languages": {
       "CSS": 14908,
       "HTML": 4553537,
-      "PHP": 2946795
+      "PHP": 2947213
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
