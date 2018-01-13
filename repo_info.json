@@ -428,6 +428,19 @@
     "updated_at": "2017-11-19T15:56:47Z",
     "url": "https://api.github.com/repos/g0v/HackStory"
   },
+  "g0v/HackingMap": {
+    "description": null,
+    "html_url": "https://github.com/g0v/HackingMap",
+    "languages": {
+      "HTML": 548,
+      "JavaScript": 6661,
+      "Vue": 23290
+    },
+    "name": "HackingMap",
+    "readme_filename": "g0v`HackingMap`README.md",
+    "updated_at": "2018-01-13T09:16:02Z",
+    "url": "https://api.github.com/repos/g0v/HackingMap"
+  },
   "g0v/LetsFuMouAPI": {
     "description": "The FuMou Public Hearing's Data API",
     "html_url": "https://github.com/g0v/LetsFuMouAPI",
@@ -769,7 +782,8 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 224726
+      "JavaScript": 227369,
+      "Shell": 584
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -781,10 +795,10 @@
     "g0vjson_filename": "g0v`amis-moedict`g0v.json",
     "html_url": "https://github.com/g0v/amis-moedict",
     "languages": {
-      "CSS": 512098,
-      "HTML": 67051,
+      "CSS": 512186,
+      "HTML": 67190,
       "Java": 2793,
-      "JavaScript": 382091,
+      "JavaScript": 382255,
       "Makefile": 2376,
       "Objective-C": 617152,
       "Perl": 8416,
@@ -2575,10 +2589,10 @@
     "description": "揪松網 - 零時政府黑客松入口網站",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 674115,
-      "HTML": 469319,
-      "JavaScript": 901579,
-      "LiveScript": 88931,
+      "CSS": 674898,
+      "HTML": 472290,
+      "JavaScript": 905709,
+      "LiveScript": 94693,
       "Shell": 94
     },
     "name": "jothon-net",
@@ -2736,7 +2750,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2018-01-12T20:19:46Z",
+    "updated_at": "2018-01-13T12:23:57Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -3126,6 +3140,17 @@
     "readme_filename": "g0v`mediawiki`README.mediawiki",
     "updated_at": "2017-11-25T05:12:45Z",
     "url": "https://api.github.com/repos/g0v/mediawiki"
+  },
+  "g0v/merityuan": {
+    "description": "靜態網站，用來記錄 2018/01/10 立法院三讀通過《勞基法》修正草案",
+    "html_url": "https://github.com/g0v/merityuan",
+    "languages": {
+      "JavaScript": 6297
+    },
+    "name": "merityuan",
+    "readme_filename": "g0v`merityuan`README.md",
+    "updated_at": "2018-01-13T09:27:35Z",
+    "url": "https://api.github.com/repos/g0v/merityuan"
   },
   "g0v/meta.g0v.tw": {
     "description": "g0v相關專案的meta data匯集",
@@ -4538,9 +4563,9 @@
     "html_url": "https://github.com/g0v/twly-voter-guide",
     "languages": {
       "CSS": 27747,
-      "HTML": 179194,
+      "HTML": 179070,
       "JavaScript": 23644,
-      "Python": 95362,
+      "Python": 95342,
       "Shell": 130
     },
     "name": "twly-voter-guide",
@@ -4737,7 +4762,7 @@
       "HTML": 6065,
       "JavaScript": 20929,
       "Shell": 1956,
-      "Vue": 89113
+      "Vue": 89164
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",

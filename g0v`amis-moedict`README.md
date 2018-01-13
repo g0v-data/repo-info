@@ -11,8 +11,9 @@
 ## 安裝開發環境
 
 ```sh
-git clone -b amis-react git@github.com:g0v/moedict-webkit.git
-npm i
+git clone git@github.com:g0v/amis-moedict.git
+npm install
+npm install gulp-cli --global
 make amis
 ```
 
