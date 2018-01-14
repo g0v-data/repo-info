@@ -429,7 +429,7 @@
     "url": "https://api.github.com/repos/g0v/HackStory"
   },
   "g0v/HackingMap": {
-    "description": null,
+    "description": "HackingMap 是個即時共編的黑客松專案地圖，讓 g0v 大松現場的坑主、新參者在 g0v 大松徵人、跳坑更容易！",
     "html_url": "https://github.com/g0v/HackingMap",
     "languages": {
       "HTML": 548,
@@ -438,7 +438,7 @@
     },
     "name": "HackingMap",
     "readme_filename": "g0v`HackingMap`README.md",
-    "updated_at": "2018-01-13T09:16:02Z",
+    "updated_at": "2018-01-14T15:34:41Z",
     "url": "https://api.github.com/repos/g0v/HackingMap"
   },
   "g0v/LetsFuMouAPI": {
@@ -782,7 +782,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 227369,
+      "JavaScript": 238669,
       "Shell": 584
     },
     "name": "ambassador",
@@ -941,7 +941,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2018-01-09T13:08:24Z",
+    "updated_at": "2018-01-14T15:16:13Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1137,7 +1137,7 @@
     },
     "name": "closelyheld-gitbook",
     "readme_filename": "g0v`closelyheld-gitbook`README.md",
-    "updated_at": "2015-02-11T08:42:06Z",
+    "updated_at": "2018-01-14T01:49:19Z",
     "url": "https://api.github.com/repos/g0v/closelyheld-gitbook"
   },
   "g0v/closelyheld-ref1-gitbook": {
@@ -1293,7 +1293,7 @@
     },
     "name": "crowdfunding-gitbook",
     "readme_filename": "g0v`crowdfunding-gitbook`README.md",
-    "updated_at": "2015-02-11T08:41:53Z",
+    "updated_at": "2018-01-14T01:49:41Z",
     "url": "https://api.github.com/repos/g0v/crowdfunding-gitbook"
   },
   "g0v/crowdfunding-ref1-gitbook": {
@@ -1958,8 +1958,8 @@
     "html_url": "https://github.com/g0v/g0v-wiki",
     "languages": {
       "CSS": 34,
-      "HTML": 61676,
-      "JavaScript": 156215
+      "HTML": 61944,
+      "JavaScript": 157413
     },
     "name": "g0v-wiki",
     "updated_at": "2017-12-02T13:54:10Z",
@@ -2278,8 +2278,8 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86729,
-      "HTML": 133444,
-      "JavaScript": 729804
+      "HTML": 134374,
+      "JavaScript": 730486
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
@@ -2590,9 +2590,9 @@
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
       "CSS": 674898,
-      "HTML": 472290,
-      "JavaScript": 905709,
-      "LiveScript": 94693,
+      "HTML": 530510,
+      "JavaScript": 906477,
+      "LiveScript": 97291,
       "Shell": 94
     },
     "name": "jothon-net",
@@ -2750,7 +2750,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2018-01-13T12:23:57Z",
+    "updated_at": "2018-01-14T16:55:07Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -4457,6 +4457,18 @@
     "readme_filename": "g0v`tv4mobile`README.md",
     "updated_at": "2014-03-23T22:28:31Z",
     "url": "https://api.github.com/repos/g0v/tv4mobile"
+  },
+  "g0v/tw-shift-schedule": {
+    "description": "班表小幫手",
+    "html_url": "https://github.com/g0v/tw-shift-schedule",
+    "languages": {
+      "JavaScript": 6695,
+      "Nearley": 279
+    },
+    "name": "tw-shift-schedule",
+    "readme_filename": "g0v`tw-shift-schedule`README.md",
+    "updated_at": "2018-01-14T09:50:32Z",
+    "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/twangry": {
     "description": "政誌 - Angry event made in Taiwan.",
