@@ -808,7 +808,7 @@
     },
     "name": "amis-moedict",
     "readme_filename": "g0v`amis-moedict`README.md",
-    "updated_at": "2017-11-19T20:34:57Z",
+    "updated_at": "2018-01-15T11:37:57Z",
     "url": "https://api.github.com/repos/g0v/amis-moedict"
   },
   "g0v/angular-laweasyread": {
@@ -2750,7 +2750,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2018-01-14T16:55:07Z",
+    "updated_at": "2018-01-15T09:08:33Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -4462,7 +4462,7 @@
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
     "languages": {
-      "JavaScript": 6695,
+      "JavaScript": 7969,
       "Nearley": 279
     },
     "name": "tw-shift-schedule",
@@ -4482,7 +4482,7 @@
     },
     "name": "twangry",
     "readme_filename": "g0v`twangry`README.md",
-    "updated_at": "2016-10-15T16:32:17Z",
+    "updated_at": "2018-01-15T12:35:55Z",
     "url": "https://api.github.com/repos/g0v/twangry"
   },
   "g0v/twbot-data": {
@@ -4806,7 +4806,7 @@
     },
     "name": "wiselike",
     "readme_filename": "g0v`wiselike`README.md",
-    "updated_at": "2017-11-13T13:29:26Z",
+    "updated_at": "2018-01-15T12:33:49Z",
     "url": "https://api.github.com/repos/g0v/wiselike"
   },
   "g0v/wiselike.tw": {
