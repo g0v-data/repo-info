@@ -1085,6 +1085,18 @@
     "updated_at": "2014-10-05T05:21:39Z",
     "url": "https://api.github.com/repos/g0v/cec"
   },
+  "g0v/cec-stats": {
+    "description": null,
+    "html_url": "https://github.com/g0v/cec-stats",
+    "languages": {
+      "HTML": 1377712,
+      "Perl": 4237
+    },
+    "name": "cec-stats",
+    "readme_filename": "g0v`cec-stats`README.md",
+    "updated_at": "2018-01-15T23:37:34Z",
+    "url": "https://api.github.com/repos/g0v/cec-stats"
+  },
   "g0v/chikage": {
     "description": "KAGE data API server and a HTML5 glyph editor",
     "html_url": "https://github.com/g0v/chikage",
@@ -1273,10 +1285,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 80584,
-      "HTML": 5957014,
+      "CSS": 80888,
+      "HTML": 5960076,
       "JavaScript": 113536,
-      "Python": 575271,
+      "Python": 575336,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
@@ -2278,7 +2290,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86729,
-      "HTML": 134374,
+      "HTML": 134394,
       "JavaScript": 730486
     },
     "name": "grantdash",
@@ -4462,8 +4474,7 @@
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
     "languages": {
-      "JavaScript": 7969,
-      "Nearley": 279
+      "JavaScript": 16597
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",

@@ -10,7 +10,7 @@
 const shift = require('tw-shift-schedule')
 
 // 台鐵站長張銘元班表 from https://www.twreporter.org/a/death-of-taiwan-rail-train-conductor
-let schedule = new shift.Schedule([
+let schedule = shift.Schedule.fromTime([
   ['2017-12-01 09:36:00', '2017-12-01 19:44:00'],
   ['2017-12-02 05:30:00', '2017-12-02 10:14:00'],
   ['2017-12-04 16:16:00', '2017-12-04 21:04:00'],
@@ -43,9 +43,9 @@ console.log(tokens) // 切出的 上班/下班區段，若有不合法會回傳 
 const shift = require('shift')
 ```
 
-#### `let schedule = new shift.Schedule(times, [opts])`
+#### `let schedule = shift.Schedule.fromTime(times, [opts])`
 
- 從給定的時間 `times` 建立一個班表資料。細節請參考 **Design** 段落
+ 從給定的時間 `times` 建立一個班表資料。
 
  ```
  * times: 二維陣列，每個子元素為「上班時間」與「下班時間」的 pair。如：`[['2018-01-01 08:00:00', '2018-01-01 18:00:00']]`
@@ -55,12 +55,41 @@ const shift = require('shift')
    * after: 隱藏工時-後。ex. '30 minutes'
  ```
 
-#### `let tokens = shift.tokenizer(schedule)`
+#### `let schedule = shift.Schedule.fromData(data)`
+
+ 從字串資料建立 schedule 物件
+
+#### `let data = schedule.toString()`
+
+將 schedule 物件轉為字串
+
+#### `let tokens = shift.tokenizer(schedule, continueWhenError)`
 
 解析班表，試著切出合法的工作/休息時段。如果嘗試失敗，會回傳 'invalid' 並且指出錯誤的位置。
 
 ```
 * schedule: shift.schedule 建立的班表資料。
+* continueWhenError: 遇到違法時，跳過該區段繼續往下解析
+```
+
+#### `let causes = shift.overwork.check(schedule)`
+
+檢查班表是否符合過勞因素，回傳符合的因素，若是沒有符合的則回傳空陣列。
+
+
+#### `shift.overwork.Causes`
+
+過勞因素：
+```javascript
+const Causes = {
+  irregular: '不規律的工作',
+  longHours: '長時間工作',
+  nightShift: '夜班',
+  previousDayOverwork: '前一天長時間工作',
+  previousWeekOverwork: '前一週長時間工作',
+  previousMonthOvertime: '前一個月加班時數 > 100',
+  previousSixMonthsOvertime: '前六個月加班時數平均 > 45'
+}
 ```
 
 ## Design
