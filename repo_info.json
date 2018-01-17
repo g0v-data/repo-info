@@ -1094,7 +1094,7 @@
     },
     "name": "cec-stats",
     "readme_filename": "g0v`cec-stats`README.md",
-    "updated_at": "2018-01-15T23:37:34Z",
+    "updated_at": "2018-01-17T18:49:25Z",
     "url": "https://api.github.com/repos/g0v/cec-stats"
   },
   "g0v/chikage": {
@@ -1286,9 +1286,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80888,
-      "HTML": 5960076,
+      "HTML": 5966116,
       "JavaScript": 113536,
-      "Python": 575336,
+      "Python": 580290,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
@@ -2609,7 +2609,7 @@
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
-    "updated_at": "2017-12-12T16:06:22Z",
+    "updated_at": "2018-01-17T03:47:06Z",
     "url": "https://api.github.com/repos/g0v/jothon-net"
   },
   "g0v/kage.json": {
@@ -4474,12 +4474,25 @@
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
     "languages": {
-      "JavaScript": 16597
+      "JavaScript": 16907
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
     "updated_at": "2018-01-14T09:50:32Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
+  },
+  "g0v/tw-shift-schedule-ui": {
+    "description": "班表小幫手-UI",
+    "html_url": "https://github.com/g0v/tw-shift-schedule-ui",
+    "languages": {
+      "CSS": 440,
+      "HTML": 1590,
+      "JavaScript": 8451
+    },
+    "name": "tw-shift-schedule-ui",
+    "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
+    "updated_at": "2018-01-17T02:42:03Z",
+    "url": "https://api.github.com/repos/g0v/tw-shift-schedule-ui"
   },
   "g0v/twangry": {
     "description": "政誌 - Angry event made in Taiwan.",
@@ -4789,7 +4802,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-01-07T14:00:09Z",
+    "updated_at": "2018-01-17T08:47:05Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -5300,7 +5313,7 @@
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
-    "updated_at": "2016-11-30T09:19:12Z",
+    "updated_at": "2018-01-17T09:41:14Z",
     "url": "https://api.github.com/repos/ronnywang/newsdiff"
   },
   "ronnywang/newstrend.g0v.ronny.tw": {
