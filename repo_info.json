@@ -782,7 +782,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 238669,
+      "JavaScript": 241462,
       "Shell": 584
     },
     "name": "ambassador",
@@ -1286,14 +1286,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80888,
-      "HTML": 5966116,
+      "HTML": 5968827,
       "JavaScript": 113536,
-      "Python": 580290,
+      "Python": 582547,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2017-12-21T15:28:58Z",
+    "updated_at": "2018-01-18T06:43:19Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -2659,7 +2659,7 @@
     },
     "name": "koktai",
     "readme_filename": "g0v`koktai`README.md",
-    "updated_at": "2017-11-13T08:04:48Z",
+    "updated_at": "2018-01-18T06:39:25Z",
     "url": "https://api.github.com/repos/g0v/koktai"
   },
   "g0v/kuansim": {
@@ -3770,8 +3770,8 @@
     "description": "create a collaborative osm map that can have multiple sources such as url's of remote geojson/gpx/csv(spreadsheet) pages, each of which can be independently edited/updated.",
     "html_url": "https://github.com/g0v/potluckmap",
     "languages": {
-      "CSS": 20273,
-      "HTML": 37976,
+      "CSS": 19992,
+      "HTML": 33367,
       "JavaScript": 67740,
       "PHP": 1463
     },
@@ -4486,8 +4486,8 @@
     "html_url": "https://github.com/g0v/tw-shift-schedule-ui",
     "languages": {
       "CSS": 440,
-      "HTML": 1590,
-      "JavaScript": 8451
+      "HTML": 3615,
+      "JavaScript": 16754
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
@@ -4802,7 +4802,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-01-17T08:47:05Z",
+    "updated_at": "2018-01-18T11:12:35Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
