@@ -782,7 +782,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 241462,
+      "JavaScript": 241384,
       "Shell": 584
     },
     "name": "ambassador",
@@ -1286,9 +1286,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 80888,
-      "HTML": 5968827,
+      "HTML": 5971575,
       "JavaScript": 113536,
-      "Python": 582547,
+      "Python": 587071,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
@@ -2291,12 +2291,26 @@
     "languages": {
       "CSS": 86729,
       "HTML": 134394,
-      "JavaScript": 730486
+      "JavaScript": 730589
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
     "updated_at": "2017-11-15T04:58:14Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
+  },
+  "g0v/grants-landing-template": {
+    "description": "landing page template for g0v grants awardee projects ",
+    "html_url": "https://github.com/g0v/grants-landing-template",
+    "languages": {
+      "CSS": 5116,
+      "HTML": 22308,
+      "JavaScript": 9,
+      "LiveScript": 11312
+    },
+    "name": "grants-landing-template",
+    "readme_filename": "g0v`grants-landing-template`README.md",
+    "updated_at": "2018-01-19T09:32:12Z",
+    "url": "https://api.github.com/repos/g0v/grants-landing-template"
   },
   "g0v/hack.g0v.tw": {
     "description": "organize gdoc and hackpad for hackathons",
@@ -4474,7 +4488,7 @@
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
     "languages": {
-      "JavaScript": 16907
+      "JavaScript": 16895
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
@@ -4487,7 +4501,7 @@
     "languages": {
       "CSS": 440,
       "HTML": 3615,
-      "JavaScript": 16754
+      "JavaScript": 41615
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
@@ -4601,7 +4615,7 @@
       "CSS": 27747,
       "HTML": 179070,
       "JavaScript": 23644,
-      "Python": 95342,
+      "Python": 95501,
       "Shell": 130
     },
     "name": "twly-voter-guide",
