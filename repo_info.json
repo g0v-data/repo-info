@@ -782,7 +782,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 243984,
+      "JavaScript": 247986,
       "Shell": 584
     },
     "name": "ambassador",
@@ -941,7 +941,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2018-01-14T15:16:13Z",
+    "updated_at": "2018-01-21T05:50:37Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1285,10 +1285,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 80888,
-      "HTML": 5971575,
+      "CSS": 80890,
+      "HTML": 5973466,
       "JavaScript": 113536,
-      "Python": 587071,
+      "Python": 587122,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
@@ -4500,7 +4500,7 @@
     "html_url": "https://github.com/g0v/tw-shift-schedule-ui",
     "languages": {
       "CSS": 440,
-      "HTML": 3615,
+      "HTML": 3616,
       "JavaScript": 41615
     },
     "name": "tw-shift-schedule-ui",
