@@ -1285,10 +1285,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 80890,
-      "HTML": 5973467,
+      "CSS": 80936,
+      "HTML": 5975525,
       "JavaScript": 113536,
-      "Python": 587122,
+      "Python": 587100,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
@@ -2290,7 +2290,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86870,
-      "HTML": 135418,
+      "HTML": 136483,
       "JavaScript": 730589
     },
     "name": "grantdash",
@@ -3368,7 +3368,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-01-20T04:23:06Z",
+    "updated_at": "2018-01-23T08:57:52Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3463,7 +3463,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2017-11-20T10:22:37Z",
+    "updated_at": "2018-01-23T02:41:49Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
@@ -4501,7 +4501,7 @@
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
     "languages": {
-      "JavaScript": 16899
+      "JavaScript": 17215
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
@@ -4514,7 +4514,7 @@
     "languages": {
       "CSS": 440,
       "HTML": 4078,
-      "JavaScript": 41615
+      "JavaScript": 41478
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
@@ -4733,7 +4733,7 @@
     "g0vjson_filename": "g0v`urbancode-commission`g0v.json",
     "html_url": "https://github.com/g0v/urbancode-commission",
     "languages": {
-      "PHP": 106272
+      "PHP": 124932
     },
     "name": "urbancode-commission",
     "readme_filename": "g0v`urbancode-commission`README.md",
