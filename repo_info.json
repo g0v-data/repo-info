@@ -1285,10 +1285,10 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 80936,
-      "HTML": 5975525,
+      "CSS": 81110,
+      "HTML": 5978972,
       "JavaScript": 113536,
-      "Python": 587100,
+      "Python": 588851,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
@@ -4512,9 +4512,8 @@
     "description": "班表小幫手-UI",
     "html_url": "https://github.com/g0v/tw-shift-schedule-ui",
     "languages": {
-      "CSS": 440,
       "HTML": 4078,
-      "JavaScript": 41478
+      "JavaScript": 39419
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
