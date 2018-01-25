@@ -782,8 +782,8 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 249240,
-      "Shell": 734
+      "JavaScript": 250581,
+      "Shell": 749
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1286,9 +1286,9 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81110,
-      "HTML": 5978972,
+      "HTML": 5983401,
       "JavaScript": 113536,
-      "Python": 588851,
+      "Python": 590623,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
@@ -2290,7 +2290,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86870,
-      "HTML": 136483,
+      "HTML": 136472,
       "JavaScript": 730589
     },
     "name": "grantdash",
