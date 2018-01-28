@@ -3368,7 +3368,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-01-23T08:57:52Z",
+    "updated_at": "2018-01-28T10:25:01Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4251,7 +4251,7 @@
     },
     "name": "style-guide",
     "readme_filename": "g0v`style-guide`README.md",
-    "updated_at": "2016-10-25T06:07:38Z",
+    "updated_at": "2018-01-28T02:23:57Z",
     "url": "https://api.github.com/repos/g0v/style-guide"
   },
   "g0v/submit": {
@@ -4497,6 +4497,14 @@
     "updated_at": "2014-03-23T22:28:31Z",
     "url": "https://api.github.com/repos/g0v/tv4mobile"
   },
+  "g0v/tw-oid-history": {
+    "description": "整理台灣 OID 組織改組歷史變化相關資料",
+    "html_url": "https://github.com/g0v/tw-oid-history",
+    "languages": {},
+    "name": "tw-oid-history",
+    "updated_at": "2018-01-28T14:59:10Z",
+    "url": "https://api.github.com/repos/g0v/tw-oid-history"
+  },
   "g0v/tw-shift-schedule": {
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
@@ -4556,7 +4564,7 @@
       "CoffeeScript": 1350,
       "HTML": 12393,
       "JavaScript": 6109,
-      "LiveScript": 53903,
+      "LiveScript": 54073,
       "Makefile": 363,
       "Python": 25277,
       "Shell": 743
