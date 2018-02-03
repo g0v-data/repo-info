@@ -4307,13 +4307,14 @@
     "description": "🚧 🚧 🚧  Under construction 🚧 🚧 🚧",
     "html_url": "https://github.com/g0v/summit2018",
     "languages": {
+      "CSS": 25013,
       "HTML": 5454,
-      "JavaScript": 23023,
-      "Vue": 4534
+      "JavaScript": 23621,
+      "Vue": 5215
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-01-26T11:34:06Z",
+    "updated_at": "2018-02-03T19:42:36Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/sunflower": {
