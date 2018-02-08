@@ -782,7 +782,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 250703,
+      "JavaScript": 250715,
       "Shell": 749
     },
     "name": "ambassador",
@@ -2580,7 +2580,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-02-05T09:33:39Z",
+    "updated_at": "2018-02-08T07:43:41Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3248,7 +3248,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2017-12-29T10:13:27Z",
+    "updated_at": "2018-02-08T08:59:18Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
