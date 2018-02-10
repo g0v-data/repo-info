@@ -4307,10 +4307,10 @@
     "description": "🚧 🚧 🚧  Under construction 🚧 🚧 🚧",
     "html_url": "https://github.com/g0v/summit2018",
     "languages": {
-      "CSS": 25013,
+      "CSS": 25044,
       "HTML": 5454,
-      "JavaScript": 23776,
-      "Vue": 64000
+      "JavaScript": 29916,
+      "Vue": 75024
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
@@ -5251,7 +5251,7 @@
       "PHP": 373627
     },
     "name": "company-graph",
-    "updated_at": "2017-06-06T02:14:42Z",
+    "updated_at": "2018-02-10T14:48:05Z",
     "url": "https://api.github.com/repos/ronnywang/company-graph"
   },
   "ronnywang/data.g0v.ronny.tw": {
