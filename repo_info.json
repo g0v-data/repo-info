@@ -782,7 +782,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 250715,
+      "JavaScript": 250789,
       "Shell": 749
     },
     "name": "ambassador",
@@ -2303,7 +2303,7 @@
     "html_url": "https://github.com/g0v/grants-landing-template",
     "languages": {
       "CSS": 5116,
-      "HTML": 22308,
+      "HTML": 23022,
       "JavaScript": 9,
       "LiveScript": 11312
     },
@@ -3368,7 +3368,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-02-03T23:44:53Z",
+    "updated_at": "2018-02-11T18:23:41Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4308,13 +4308,13 @@
     "html_url": "https://github.com/g0v/summit2018",
     "languages": {
       "CSS": 25044,
-      "HTML": 5454,
-      "JavaScript": 29916,
-      "Vue": 75024
+      "HTML": 7496,
+      "JavaScript": 30060,
+      "Vue": 76167
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-02-06T13:19:00Z",
+    "updated_at": "2018-02-11T11:01:22Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/sunflower": {
