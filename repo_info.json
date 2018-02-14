@@ -896,7 +896,7 @@
     "url": "https://api.github.com/repos/g0v/aqx-graphite"
   },
   "g0v/archive-summit-2014": {
-    "description": null,
+    "description": "g0v summit 2014 website archive",
     "html_url": "https://github.com/g0v/archive-summit-2014",
     "languages": {
       "CSS": 161809,
@@ -904,11 +904,11 @@
       "JavaScript": 3605
     },
     "name": "archive-summit-2014",
-    "updated_at": "2018-02-13T17:20:54Z",
+    "updated_at": "2018-02-14T01:35:04Z",
     "url": "https://api.github.com/repos/g0v/archive-summit-2014"
   },
   "g0v/archive-summit.g0v.tw": {
-    "description": "g0v summit website",
+    "description": "g0v summit 2016 website archive",
     "html_url": "https://github.com/g0v/archive-summit.g0v.tw",
     "languages": {
       "CSS": 31473,
@@ -918,7 +918,7 @@
     },
     "name": "archive-summit.g0v.tw",
     "readme_filename": "g0v`archive-summit.g0v.tw`README.md",
-    "updated_at": "2018-02-13T17:04:09Z",
+    "updated_at": "2018-02-14T01:34:46Z",
     "url": "https://api.github.com/repos/g0v/archive-summit.g0v.tw"
   },
   "g0v/ask-sorting-statements": {
@@ -3318,7 +3318,7 @@
     "languages": {
       "LiveScript": 4812,
       "Makefile": 2496,
-      "Perl": 2123,
+      "Perl": 2362,
       "Python": 3418
     },
     "name": "moedict-data-twblg",
@@ -4331,7 +4331,7 @@
     "languages": {
       "CSS": 25082,
       "HTML": 7496,
-      "JavaScript": 30309,
+      "JavaScript": 30300,
       "Vue": 81537
     },
     "name": "summit2018",
