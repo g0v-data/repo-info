@@ -782,7 +782,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 249829,
+      "JavaScript": 253108,
       "Shell": 749
     },
     "name": "ambassador",
@@ -1488,6 +1488,21 @@
     "readme_filename": "g0v`decent.tw`README.md",
     "updated_at": "2014-10-13T20:07:34Z",
     "url": "https://api.github.com/repos/g0v/decent.tw"
+  },
+  "g0v/democracy_common": {
+    "description": null,
+    "html_url": "https://github.com/g0v/democracy_common",
+    "languages": {
+      "Batchfile": 5199,
+      "C": 174778,
+      "C++": 5852,
+      "HTML": 1365,
+      "Makefile": 5597,
+      "Python": 4770216
+    },
+    "name": "democracy_common",
+    "updated_at": "2018-02-17T12:24:35Z",
+    "url": "https://api.github.com/repos/g0v/democracy_common"
   },
   "g0v/dev": {
     "description": "dev.g0v.tw",
@@ -2606,7 +2621,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-02-08T07:43:41Z",
+    "updated_at": "2018-02-17T10:40:42Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3323,7 +3338,7 @@
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2017-10-27T03:38:35Z",
+    "updated_at": "2018-02-17T15:04:14Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -3394,7 +3409,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-02-11T18:23:41Z",
+    "updated_at": "2018-02-17T11:20:31Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4332,7 +4347,7 @@
       "CSS": 25157,
       "HTML": 10716,
       "JavaScript": 37356,
-      "Vue": 88712
+      "Vue": 89218
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
