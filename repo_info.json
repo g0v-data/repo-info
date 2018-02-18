@@ -782,8 +782,8 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 253108,
-      "Shell": 749
+      "JavaScript": 254229,
+      "Shell": 755
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
@@ -1314,7 +1314,7 @@
       "CSS": 81110,
       "HTML": 5983851,
       "JavaScript": 113536,
-      "Python": 591025,
+      "Python": 591026,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
@@ -1498,9 +1498,10 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4770216
+      "Python": 4771591
     },
     "name": "democracy_common",
+    "readme_filename": "g0v`democracy_common`README.md",
     "updated_at": "2018-02-17T12:24:35Z",
     "url": "https://api.github.com/repos/g0v/democracy_common"
   },
@@ -4347,7 +4348,7 @@
       "CSS": 25157,
       "HTML": 10716,
       "JavaScript": 37356,
-      "Vue": 89218
+      "Vue": 89204
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
