@@ -10,4 +10,5 @@ Follow [procedure](https://www.wikidata.org/wiki/Wikidata:Bots) to register an b
 ```
 $ cd core
 core$ python3 -m taiwan.current_legislators
+core$ python3 -m taiwan.setup_councils_and_position
 ```
