@@ -782,7 +782,7 @@
     "languages": {
       "CSS": 2222,
       "HTML": 4050,
-      "JavaScript": 252371,
+      "JavaScript": 252473,
       "Shell": 755
     },
     "name": "ambassador",
@@ -1498,7 +1498,7 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4786945
+      "Python": 4786419
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
@@ -2658,9 +2658,9 @@
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
       "CSS": 674898,
-      "HTML": 530510,
+      "HTML": 532866,
       "JavaScript": 906477,
-      "LiveScript": 97291,
+      "LiveScript": 97630,
       "Shell": 94
     },
     "name": "jothon-net",
@@ -5161,7 +5161,7 @@
       "PHP": 2293
     },
     "name": "salary",
-    "updated_at": "2016-07-14T04:00:54Z",
+    "updated_at": "2018-02-21T04:31:53Z",
     "url": "https://api.github.com/repos/kiang/salary"
   },
   "kiang/tncc": {
