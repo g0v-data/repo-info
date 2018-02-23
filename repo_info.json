@@ -780,9 +780,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 2242,
+      "CSS": 2492,
       "HTML": 4050,
-      "JavaScript": 258312,
+      "JavaScript": 262287,
       "Shell": 755
     },
     "name": "ambassador",
@@ -1498,7 +1498,7 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4786419
+      "Python": 4788891
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
@@ -2657,10 +2657,10 @@
     "description": "揪松網 - 零時政府黑客松入口網站",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 674898,
-      "HTML": 532866,
+      "CSS": 676928,
+      "HTML": 554383,
       "JavaScript": 906477,
-      "LiveScript": 97630,
+      "LiveScript": 99353,
       "Shell": 94
     },
     "name": "jothon-net",
@@ -4848,7 +4848,7 @@
     },
     "name": "vtaiwan.tw",
     "readme_filename": "g0v`vtaiwan.tw`README.md",
-    "updated_at": "2016-03-19T12:35:08Z",
+    "updated_at": "2018-02-23T08:57:05Z",
     "url": "https://api.github.com/repos/g0v/vtaiwan.tw"
   },
   "g0v/vtw.link": {
@@ -4864,7 +4864,7 @@
     "url": "https://api.github.com/repos/g0v/vtw.link"
   },
   "g0v/vue.vtaiwan.tw": {
-    "description": "數位經濟法規線上諮詢系統 界面 3.0 - http://vue.vtaiwan.tw",
+    "description": "數位經濟法規線上諮詢系統 界面 3.0 - https://vtw.link/",
     "html_url": "https://github.com/g0v/vue.vtaiwan.tw",
     "languages": {
       "CSS": 1464,
@@ -4875,7 +4875,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-02-20T10:02:47Z",
+    "updated_at": "2018-02-23T08:56:57Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -5026,7 +5026,7 @@
     },
     "name": "Real-time-Air-Quality-Map",
     "readme_filename": "immortalmice`Real-time-Air-Quality-Map`README.md",
-    "updated_at": "2017-12-22T09:32:33Z",
+    "updated_at": "2018-02-23T06:10:22Z",
     "url": "https://api.github.com/repos/immortalmice/Real-time-Air-Quality-Map"
   },
   "jcsky/Solveissues": {
@@ -5133,7 +5133,7 @@
       "Batchfile": 2785,
       "CSS": 38146,
       "JavaScript": 19159,
-      "PHP": 9116806,
+      "PHP": 9116959,
       "Python": 278,
       "Shell": 4170
     },
