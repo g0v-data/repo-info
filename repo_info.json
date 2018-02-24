@@ -780,9 +780,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 2492,
+      "CSS": 2512,
       "HTML": 4050,
-      "JavaScript": 262287,
+      "JavaScript": 264640,
       "Shell": 755
     },
     "name": "ambassador",
@@ -967,7 +967,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2018-01-22T04:35:50Z",
+    "updated_at": "2018-02-24T18:42:21Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
