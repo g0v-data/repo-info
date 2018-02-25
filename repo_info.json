@@ -1498,7 +1498,7 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4788891
+      "Python": 4801848
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
@@ -3332,14 +3332,14 @@
     "description": "臺灣閩南語常用詞辭典 資料檔",
     "html_url": "https://github.com/g0v/moedict-data-twblg",
     "languages": {
-      "LiveScript": 4812,
-      "Makefile": 2496,
-      "Perl": 2461,
+      "LiveScript": 5398,
+      "Makefile": 713,
+      "Perl": 1363209,
       "Python": 3418
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2018-02-17T15:04:14Z",
+    "updated_at": "2018-02-25T17:00:27Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
