@@ -1498,7 +1498,7 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4801848
+      "Python": 4802948
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
@@ -2332,7 +2332,7 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86870,
-      "HTML": 137457,
+      "HTML": 138365,
       "JavaScript": 730589
     },
     "name": "grantdash",
@@ -2657,8 +2657,8 @@
     "description": "揪松網 - 零時政府黑客松入口網站",
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
-      "CSS": 676928,
-      "HTML": 554383,
+      "CSS": 678074,
+      "HTML": 554436,
       "JavaScript": 906477,
       "LiveScript": 99353,
       "Shell": 94
@@ -5133,7 +5133,7 @@
       "Batchfile": 2785,
       "CSS": 38146,
       "JavaScript": 19159,
-      "PHP": 9116959,
+      "PHP": 9119493,
       "Python": 278,
       "Shell": 4170
     },
