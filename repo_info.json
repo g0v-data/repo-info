@@ -780,9 +780,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 2512,
+      "CSS": 2522,
       "HTML": 4050,
-      "JavaScript": 264640,
+      "JavaScript": 266190,
       "Shell": 755
     },
     "name": "ambassador",
@@ -4869,7 +4869,7 @@
     "languages": {
       "CSS": 1464,
       "HTML": 6065,
-      "JavaScript": 20929,
+      "JavaScript": 23083,
       "Shell": 1956,
       "Vue": 89164
     },
