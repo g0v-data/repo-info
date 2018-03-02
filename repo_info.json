@@ -1314,7 +1314,7 @@
       "CSS": 81110,
       "HTML": 5983851,
       "JavaScript": 113536,
-      "Python": 592118,
+      "Python": 598287,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
@@ -1498,7 +1498,7 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4802948
+      "Python": 4806783
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
@@ -2104,7 +2104,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2018-02-15T07:57:47Z",
+    "updated_at": "2018-03-02T09:05:04Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
