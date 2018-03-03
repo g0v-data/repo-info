@@ -79,21 +79,6 @@
     "updated_at": "2014-02-06T21:31:19Z",
     "url": "https://api.github.com/repos/cades/taipei-building-has-reward"
   },
-  "chilijung/ly-tel": {
-    "description": "find ly for help!",
-    "html_url": "https://github.com/chilijung/ly-tel",
-    "languages": {
-      "CSS": 20408,
-      "HTML": 23022,
-      "Handlebars": 9862,
-      "JavaScript": 8501,
-      "Ruby": 649
-    },
-    "name": "ly-tel",
-    "readme_filename": "chilijung`ly-tel`README.md",
-    "updated_at": "2015-05-20T18:04:50Z",
-    "url": "https://api.github.com/repos/chilijung/ly-tel"
-  },
   "chungheng/g0v": {
     "description": "Visualization of political income data",
     "html_url": "https://github.com/chungheng/g0v",
@@ -782,7 +767,7 @@
     "languages": {
       "CSS": 3669,
       "HTML": 4050,
-      "JavaScript": 279194,
+      "JavaScript": 280689,
       "Shell": 755
     },
     "name": "ambassador",
@@ -796,10 +781,10 @@
     "html_url": "https://github.com/g0v/amis-moedict",
     "languages": {
       "CSS": 512186,
-      "HTML": 67190,
+      "HTML": 67242,
       "Java": 2793,
       "JavaScript": 382255,
-      "Makefile": 2376,
+      "Makefile": 2383,
       "Objective-C": 617152,
       "Perl": 8416,
       "Python": 5350,
@@ -1948,7 +1933,7 @@
     },
     "name": "g0v-grant-landing",
     "readme_filename": "g0v`g0v-grant-landing`README.md",
-    "updated_at": "2016-12-12T07:52:45Z",
+    "updated_at": "2018-03-03T09:13:53Z",
     "url": "https://api.github.com/repos/g0v/g0v-grant-landing"
   },
   "g0v/g0v-paradise": {
@@ -2073,7 +2058,7 @@
     },
     "name": "g0v.json",
     "readme_filename": "g0v`g0v.json`README.md",
-    "updated_at": "2016-10-16T00:41:00Z",
+    "updated_at": "2018-03-03T05:52:33Z",
     "url": "https://api.github.com/repos/g0v/g0v.json"
   },
   "g0v/g0v.today": {
@@ -2658,7 +2643,7 @@
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
       "CSS": 678074,
-      "HTML": 554436,
+      "HTML": 554433,
       "JavaScript": 906477,
       "LiveScript": 99353,
       "Shell": 94
@@ -3410,7 +3395,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-02-17T11:20:31Z",
+    "updated_at": "2018-03-03T03:37:44Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3624,11 +3609,11 @@
     "description": null,
     "html_url": "https://github.com/g0v/padnews",
     "languages": {
-      "LiveScript": 2525
+      "LiveScript": 2524
     },
     "name": "padnews",
     "readme_filename": "g0v`padnews`README.md",
-    "updated_at": "2014-03-31T12:04:18Z",
+    "updated_at": "2018-03-03T05:16:11Z",
     "url": "https://api.github.com/repos/g0v/padnews"
   },
   "g0v/padnews-cli": {
@@ -3647,12 +3632,13 @@
     "html_url": "https://github.com/g0v/padnews-web",
     "languages": {
       "CSS": 69698,
-      "JavaScript": 3680,
-      "LiveScript": 3529
+      "HTML": 1144,
+      "JavaScript": 3516,
+      "LiveScript": 3378
     },
     "name": "padnews-web",
     "readme_filename": "g0v`padnews-web`README.md",
-    "updated_at": "2014-07-27T11:10:27Z",
+    "updated_at": "2018-03-03T05:14:06Z",
     "url": "https://api.github.com/repos/g0v/padnews-web"
   },
   "g0v/pads2foldrs": {
@@ -5087,7 +5073,7 @@
     },
     "name": "ly-tel",
     "readme_filename": "junsuwhy`ly-tel`README.md",
-    "updated_at": "2015-05-17T04:00:52Z",
+    "updated_at": "2018-03-03T14:07:38Z",
     "url": "https://api.github.com/repos/junsuwhy/ly-tel"
   },
   "kevinphys/BatDrone": {
