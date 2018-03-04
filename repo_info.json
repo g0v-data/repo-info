@@ -767,7 +767,7 @@
     "languages": {
       "CSS": 3669,
       "HTML": 4050,
-      "JavaScript": 280689,
+      "JavaScript": 280055,
       "Shell": 755
     },
     "name": "ambassador",
@@ -1299,7 +1299,7 @@
       "CSS": 81110,
       "HTML": 5983851,
       "JavaScript": 113536,
-      "Python": 598287,
+      "Python": 598519,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
