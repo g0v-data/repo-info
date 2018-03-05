@@ -418,7 +418,7 @@
     "html_url": "https://github.com/g0v/HackingMap",
     "languages": {
       "HTML": 548,
-      "JavaScript": 6661,
+      "JavaScript": 6660,
       "Vue": 23290
     },
     "name": "HackingMap",
@@ -767,7 +767,7 @@
     "languages": {
       "CSS": 3669,
       "HTML": 4050,
-      "JavaScript": 280055,
+      "JavaScript": 281369,
       "Shell": 755
     },
     "name": "ambassador",
@@ -2522,6 +2522,20 @@
     "readme_filename": "g0v`inLiveTwTextChrome`README.md",
     "updated_at": "2014-06-21T06:49:29Z",
     "url": "https://api.github.com/repos/g0v/inLiveTwTextChrome"
+  },
+  "g0v/info.vtaiwan.tw": {
+    "description": null,
+    "html_url": "https://github.com/g0v/info.vtaiwan.tw",
+    "languages": {
+      "CSS": 104663,
+      "HTML": 26442,
+      "JavaScript": 15263,
+      "Vue": 297
+    },
+    "name": "info.vtaiwan.tw",
+    "readme_filename": "g0v`info.vtaiwan.tw`README.txt",
+    "updated_at": "2018-03-05T14:43:16Z",
+    "url": "https://api.github.com/repos/g0v/info.vtaiwan.tw"
   },
   "g0v/infosecurity-gitbook": {
     "description": "vTaiwan — 資安管理",
