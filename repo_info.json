@@ -765,9 +765,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 3669,
+      "CSS": 3679,
       "HTML": 4050,
-      "JavaScript": 281369,
+      "JavaScript": 283575,
       "Shell": 755
     },
     "name": "ambassador",
@@ -1483,7 +1483,7 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4809063
+      "Python": 4814200
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
@@ -3409,7 +3409,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-03-03T03:37:44Z",
+    "updated_at": "2018-03-08T08:21:56Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
