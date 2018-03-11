@@ -765,9 +765,9 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 3666,
+      "CSS": 4290,
       "HTML": 4050,
-      "JavaScript": 285064,
+      "JavaScript": 288883,
       "Shell": 755
     },
     "name": "ambassador",
@@ -3289,7 +3289,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2018-03-06T03:40:55Z",
+    "updated_at": "2018-03-11T02:02:58Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -3409,7 +3409,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-03-08T08:21:56Z",
+    "updated_at": "2018-03-11T02:43:36Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4994,7 +4994,7 @@
     },
     "name": "zh-stroke-data",
     "readme_filename": "g0v`zh-stroke-data`README.md",
-    "updated_at": "2017-03-16T14:14:15Z",
+    "updated_at": "2018-03-11T02:30:31Z",
     "url": "https://api.github.com/repos/g0v/zh-stroke-data"
   },
   "godgunman/ncc-complain-data": {
