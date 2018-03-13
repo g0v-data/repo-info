@@ -772,7 +772,7 @@
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
-    "updated_at": "2017-12-26T05:14:27Z",
+    "updated_at": "2018-03-13T21:27:54Z",
     "url": "https://api.github.com/repos/g0v/ambassador"
   },
   "g0v/amis-moedict": {
@@ -1297,14 +1297,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81110,
-      "HTML": 5983851,
+      "HTML": 5987359,
       "JavaScript": 113536,
-      "Python": 603429,
+      "Python": 604473,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-01-18T06:43:19Z",
+    "updated_at": "2018-03-13T16:13:03Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1483,7 +1483,7 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4814200
+      "Python": 4818590
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
@@ -1500,7 +1500,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2017-12-03T13:52:06Z",
+    "updated_at": "2018-03-13T15:14:14Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -1883,7 +1883,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2017-04-08T18:01:06Z",
+    "updated_at": "2018-03-13T18:02:04Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
