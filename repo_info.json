@@ -423,7 +423,7 @@
     },
     "name": "HackingMap",
     "readme_filename": "g0v`HackingMap`README.md",
-    "updated_at": "2018-02-12T22:37:33Z",
+    "updated_at": "2018-03-16T03:23:40Z",
     "url": "https://api.github.com/repos/g0v/HackingMap"
   },
   "g0v/LetsFuMouAPI": {
@@ -765,14 +765,14 @@
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
     "languages": {
-      "CSS": 4290,
+      "CSS": 4680,
       "HTML": 4050,
-      "JavaScript": 289322,
+      "JavaScript": 289557,
       "Shell": 887
     },
     "name": "ambassador",
     "readme_filename": "g0v`ambassador`README.md",
-    "updated_at": "2018-03-14T17:59:05Z",
+    "updated_at": "2018-03-16T15:47:33Z",
     "url": "https://api.github.com/repos/g0v/ambassador"
   },
   "g0v/amis-moedict": {
@@ -1297,14 +1297,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81110,
-      "HTML": 5987359,
+      "HTML": 5987679,
       "JavaScript": 113536,
-      "Python": 604473,
+      "Python": 604701,
       "Shell": 4103
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-03-13T16:13:03Z",
+    "updated_at": "2018-03-16T05:52:20Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1483,11 +1483,11 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4841646
+      "Python": 4849925
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
-    "updated_at": "2018-03-15T18:57:42Z",
+    "updated_at": "2018-03-16T15:16:58Z",
     "url": "https://api.github.com/repos/g0v/democracy_common"
   },
   "g0v/dev": {
@@ -1883,7 +1883,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-03-15T18:02:30Z",
+    "updated_at": "2018-03-16T18:02:16Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -4338,7 +4338,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-03-15T17:54:53Z",
+    "updated_at": "2018-03-16T17:57:22Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4346,14 +4346,14 @@
     "html_url": "https://github.com/g0v/summit2018",
     "languages": {
       "CSS": 25325,
-      "HTML": 10716,
-      "JavaScript": 37929,
+      "HTML": 10719,
+      "JavaScript": 38653,
       "Shell": 1256,
-      "Vue": 98427
+      "Vue": 99428
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-03-15T17:47:07Z",
+    "updated_at": "2018-03-16T17:45:58Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/sunflower": {
