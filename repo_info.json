@@ -1483,11 +1483,11 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4850641
+      "Python": 4859592
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
-    "updated_at": "2018-03-18T11:42:24Z",
+    "updated_at": "2018-03-19T10:55:38Z",
     "url": "https://api.github.com/repos/g0v/democracy_common"
   },
   "g0v/dev": {
@@ -2082,14 +2082,14 @@
     "html_url": "https://github.com/g0v/g0v.tw",
     "languages": {
       "CSS": 16095,
-      "HTML": 108077,
+      "HTML": 108078,
       "JavaScript": 13,
-      "LiveScript": 24267,
+      "LiveScript": 24268,
       "Shell": 1890
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2018-03-02T09:05:04Z",
+    "updated_at": "2018-03-19T05:26:55Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -5301,7 +5301,7 @@
       "PHP": 373627
     },
     "name": "company-graph",
-    "updated_at": "2018-02-10T14:48:05Z",
+    "updated_at": "2018-03-19T02:23:35Z",
     "url": "https://api.github.com/repos/ronnywang/company-graph"
   },
   "ronnywang/data.g0v.ronny.tw": {
