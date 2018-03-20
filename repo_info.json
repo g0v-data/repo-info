@@ -1483,11 +1483,11 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4859592
+      "Python": 4870926
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
-    "updated_at": "2018-03-19T10:55:38Z",
+    "updated_at": "2018-03-20T14:30:50Z",
     "url": "https://api.github.com/repos/g0v/democracy_common"
   },
   "g0v/dev": {
@@ -1883,7 +1883,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-03-16T18:02:16Z",
+    "updated_at": "2018-03-20T18:02:43Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2089,7 +2089,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2018-03-19T05:26:55Z",
+    "updated_at": "2018-03-20T03:15:22Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -2322,7 +2322,7 @@
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2017-11-15T04:58:14Z",
+    "updated_at": "2018-03-20T21:12:38Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -3504,7 +3504,7 @@
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2018-03-18T04:02:27Z",
+    "updated_at": "2018-03-20T03:15:32Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
