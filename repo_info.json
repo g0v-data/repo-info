@@ -2089,7 +2089,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2018-03-20T03:15:22Z",
+    "updated_at": "2018-04-04T01:19:50Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -3261,13 +3261,13 @@
       "HTML": 23569,
       "Java": 121692,
       "JavaScript": 86000,
-      "LiveScript": 81799,
+      "LiveScript": 81806,
       "Makefile": 2172,
       "Shell": 117
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2018-01-05T02:21:54Z",
+    "updated_at": "2018-04-04T09:02:09Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
@@ -3399,7 +3399,7 @@
       "HTML": 75916,
       "Java": 2793,
       "JavaScript": 149123,
-      "LiveScript": 119343,
+      "LiveScript": 119350,
       "Makefile": 4003,
       "Objective-C": 617152,
       "Perl": 8704,
@@ -3409,7 +3409,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-04-01T03:12:27Z",
+    "updated_at": "2018-04-04T17:53:45Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4338,7 +4338,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-04-03T20:42:00Z",
+    "updated_at": "2018-04-04T20:41:33Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4887,7 +4887,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-04-03T03:29:39Z",
+    "updated_at": "2018-04-04T01:02:03Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
