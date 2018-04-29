@@ -4347,7 +4347,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-04-28T20:55:41Z",
+    "updated_at": "2018-04-29T20:58:00Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4569,11 +4569,11 @@
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
     "languages": {
-      "JavaScript": 24234
+      "JavaScript": 53604
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
-    "updated_at": "2018-04-28T13:35:30Z",
+    "updated_at": "2018-04-29T15:37:46Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/tw-shift-schedule-ui": {
@@ -4693,14 +4693,14 @@
     "html_url": "https://github.com/g0v/twly-voter-guide",
     "languages": {
       "CSS": 27747,
-      "HTML": 179070,
+      "HTML": 179138,
       "JavaScript": 23644,
       "Python": 96586,
       "Shell": 130
     },
     "name": "twly-voter-guide",
     "readme_filename": "g0v`twly-voter-guide`README.md",
-    "updated_at": "2018-03-14T15:09:51Z",
+    "updated_at": "2018-04-29T08:46:56Z",
     "url": "https://api.github.com/repos/g0v/twly-voter-guide"
   },
   "g0v/twly_crawler": {
