@@ -784,7 +784,7 @@
       "HTML": 67242,
       "Java": 2793,
       "JavaScript": 382255,
-      "Makefile": 2383,
+      "Makefile": 2512,
       "Objective-C": 617152,
       "Perl": 8416,
       "Python": 5350,
@@ -793,7 +793,7 @@
     },
     "name": "amis-moedict",
     "readme_filename": "g0v`amis-moedict`README.md",
-    "updated_at": "2018-01-15T11:37:57Z",
+    "updated_at": "2018-05-05T05:23:47Z",
     "url": "https://api.github.com/repos/g0v/amis-moedict"
   },
   "g0v/angular-laweasyread": {
@@ -1023,7 +1023,7 @@
     },
     "name": "blood",
     "readme_filename": "g0v`blood`README.md",
-    "updated_at": "2017-12-28T02:19:57Z",
+    "updated_at": "2018-05-05T13:48:18Z",
     "url": "https://api.github.com/repos/g0v/blood"
   },
   "g0v/bopomofo-standard-gitbook": {
@@ -2089,7 +2089,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2018-04-30T02:11:19Z",
+    "updated_at": "2018-05-05T05:09:13Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -4347,7 +4347,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-05-04T20:59:04Z",
+    "updated_at": "2018-05-05T21:00:17Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4695,12 +4695,12 @@
       "CSS": 27747,
       "HTML": 179138,
       "JavaScript": 23644,
-      "Python": 96586,
+      "Python": 96400,
       "Shell": 130
     },
     "name": "twly-voter-guide",
     "readme_filename": "g0v`twly-voter-guide`README.md",
-    "updated_at": "2018-05-01T04:54:08Z",
+    "updated_at": "2018-05-05T06:02:18Z",
     "url": "https://api.github.com/repos/g0v/twly-voter-guide"
   },
   "g0v/twly_crawler": {
