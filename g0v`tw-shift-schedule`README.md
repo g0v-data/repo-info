@@ -1,5 +1,8 @@
 # 班表小幫手
 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Build Status](https://travis-ci.org/g0v/tw-shift-schedule.svg?branch=master)](https://travis-ci.org/g0v/tw-shift-schedule)
+
 驗證班表是否合法或過勞
 
 `npm i tw-shift-schedule`
@@ -111,7 +114,7 @@ const Causes = {
 xxxxxxxxxx xxxxxxxxx .....xxxxx .....
 ```
 
-* `x` 代表一分鐘的上班時間
+* `x` 代表一分鐘的工作時間
 * `.` 代表一分鐘的休息時間
 
 於是便可用 `lexer` 驗證基本的班表正確性，可參考 `lexer.js`。
