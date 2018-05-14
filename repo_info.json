@@ -1297,14 +1297,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81116,
-      "HTML": 5997436,
+      "HTML": 5997634,
       "JavaScript": 113536,
-      "Python": 620375,
+      "Python": 629646,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-05-09T06:21:58Z",
+    "updated_at": "2018-05-14T14:37:02Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1883,7 +1883,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-05-13T18:01:53Z",
+    "updated_at": "2018-05-14T18:02:22Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2657,14 +2657,14 @@
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
       "CSS": 678074,
-      "HTML": 554463,
+      "HTML": 554457,
       "JavaScript": 906477,
       "LiveScript": 99353,
       "Shell": 94
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
-    "updated_at": "2018-05-10T08:39:33Z",
+    "updated_at": "2018-05-14T08:31:07Z",
     "url": "https://api.github.com/repos/g0v/jothon-net"
   },
   "g0v/kage.json": {
@@ -3845,6 +3845,19 @@
     "updated_at": "2018-04-19T16:37:01Z",
     "url": "https://api.github.com/repos/g0v/potluckmap"
   },
+  "g0v/power": {
+    "description": "Report of g0v Civic Tech Prototype Grant",
+    "html_url": "https://github.com/g0v/power",
+    "languages": {
+      "CSS": 15170,
+      "HTML": 3413,
+      "JavaScript": 65486
+    },
+    "name": "power",
+    "readme_filename": "g0v`power`README.md",
+    "updated_at": "2018-05-14T05:21:57Z",
+    "url": "https://api.github.com/repos/g0v/power"
+  },
   "g0v/powergrid": {
     "description": "An Android app for finding corresponding WGS coordinates for Taiwan power grid coordinates",
     "html_url": "https://github.com/g0v/powergrid",
@@ -4347,7 +4360,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-05-13T21:03:18Z",
+    "updated_at": "2018-05-14T21:04:10Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4564,6 +4577,19 @@
     "name": "tw-oid-history",
     "updated_at": "2018-01-28T14:59:10Z",
     "url": "https://api.github.com/repos/g0v/tw-oid-history"
+  },
+  "g0v/tw-rental-house-data": {
+    "description": "Collection of Taiwan Rental House Data from Public Website",
+    "g0vjson_filename": "g0v`tw-rental-house-data`g0v.json",
+    "html_url": "https://github.com/g0v/tw-rental-house-data",
+    "languages": {
+      "Python": 87128,
+      "Shell": 412
+    },
+    "name": "tw-rental-house-data",
+    "readme_filename": "g0v`tw-rental-house-data`README.md",
+    "updated_at": "2018-05-14T15:16:33Z",
+    "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
     "description": "班表小幫手",
