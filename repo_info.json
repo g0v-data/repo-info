@@ -1304,7 +1304,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-05-15T11:58:40Z",
+    "updated_at": "2018-05-17T16:22:55Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1483,11 +1483,11 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4878705
+      "Python": 4883154
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
-    "updated_at": "2018-03-23T16:22:40Z",
+    "updated_at": "2018-05-17T08:57:44Z",
     "url": "https://api.github.com/repos/g0v/democracy_common"
   },
   "g0v/dev": {
@@ -4360,7 +4360,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-05-16T21:04:30Z",
+    "updated_at": "2018-05-17T21:04:56Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4595,11 +4595,11 @@
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
     "languages": {
-      "JavaScript": 52912
+      "JavaScript": 69226
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
-    "updated_at": "2018-05-09T12:52:53Z",
+    "updated_at": "2018-05-17T19:03:12Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/tw-shift-schedule-ui": {
@@ -4682,7 +4682,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2018-05-16T07:39:55Z",
+    "updated_at": "2018-05-17T10:10:41Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
@@ -5410,14 +5410,13 @@
     "g0vjson_filename": "ronnywang`lagnews`g0v.json",
     "html_url": "https://github.com/ronnywang/lagnews",
     "languages": {
-      "ApacheConf": 82,
       "CSS": 14908,
       "HTML": 4516263,
-      "PHP": 489995
+      "PHP": 489670
     },
     "name": "lagnews",
     "readme_filename": "ronnywang`lagnews`README",
-    "updated_at": "2017-07-27T12:56:35Z",
+    "updated_at": "2018-05-17T14:11:33Z",
     "url": "https://api.github.com/repos/ronnywang/lagnews"
   },
   "ronnywang/newsdiff": {
