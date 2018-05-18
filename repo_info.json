@@ -1297,14 +1297,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81116,
-      "HTML": 5999971,
+      "HTML": 6005940,
       "JavaScript": 113536,
-      "Python": 634816,
+      "Python": 636676,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-05-17T16:22:55Z",
+    "updated_at": "2018-05-18T09:02:09Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -2317,12 +2317,12 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86911,
-      "HTML": 142616,
-      "JavaScript": 730589
+      "HTML": 142790,
+      "JavaScript": 730590
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2018-05-11T06:32:48Z",
+    "updated_at": "2018-05-18T08:31:38Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -3418,7 +3418,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-04-26T14:05:24Z",
+    "updated_at": "2018-05-18T10:43:10Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4191,7 +4191,7 @@
     },
     "name": "search-g0v",
     "readme_filename": "g0v`search-g0v`README.md",
-    "updated_at": "2017-11-02T19:53:28Z",
+    "updated_at": "2018-05-17T22:34:04Z",
     "url": "https://api.github.com/repos/g0v/search-g0v"
   },
   "g0v/securitization-gitbook": {
@@ -4360,7 +4360,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-05-17T21:04:56Z",
+    "updated_at": "2018-05-18T21:06:27Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4599,7 +4599,7 @@
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
-    "updated_at": "2018-05-17T19:03:12Z",
+    "updated_at": "2018-05-18T00:11:51Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/tw-shift-schedule-ui": {
