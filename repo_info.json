@@ -2723,7 +2723,7 @@
     "languages": {},
     "name": "kong2_tai5gi2_tng1_tioh8si5",
     "readme_filename": "g0v`kong2_tai5gi2_tng1_tioh8si5`README.md",
-    "updated_at": "2018-04-22T13:23:51Z",
+    "updated_at": "2018-05-19T05:47:11Z",
     "url": "https://api.github.com/repos/g0v/kong2_tai5gi2_tng1_tioh8si5"
   },
   "g0v/kuansim": {
@@ -4360,7 +4360,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-05-18T21:06:27Z",
+    "updated_at": "2018-05-19T21:07:21Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4584,22 +4584,22 @@
     "html_url": "https://github.com/g0v/tw-rental-house-data",
     "languages": {
       "Python": 88278,
-      "Shell": 429
+      "Shell": 503
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-05-15T14:13:45Z",
+    "updated_at": "2018-05-19T11:27:47Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
     "languages": {
-      "JavaScript": 69226
+      "JavaScript": 69837
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
-    "updated_at": "2018-05-18T00:11:51Z",
+    "updated_at": "2018-05-19T15:19:24Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/tw-shift-schedule-ui": {
