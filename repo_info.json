@@ -1883,7 +1883,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-05-25T18:02:50Z",
+    "updated_at": "2018-05-26T18:02:32Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -4360,7 +4360,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-05-25T21:10:34Z",
+    "updated_at": "2018-05-26T21:11:27Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4599,19 +4599,20 @@
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
-    "updated_at": "2018-05-23T20:56:47Z",
+    "updated_at": "2018-05-26T02:12:13Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/tw-shift-schedule-ui": {
     "description": "班表小幫手-UI",
     "html_url": "https://github.com/g0v/tw-shift-schedule-ui",
     "languages": {
-      "HTML": 4078,
-      "JavaScript": 39419
+      "CSS": 294182,
+      "HTML": 4125,
+      "JavaScript": 52996
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
-    "updated_at": "2018-03-27T12:56:29Z",
+    "updated_at": "2018-05-26T04:36:06Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule-ui"
   },
   "g0v/twangry": {
