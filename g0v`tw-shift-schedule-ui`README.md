@@ -8,7 +8,7 @@
 
 ## Deploy
 
-`yarn build && npm run deploy`
+`yarn build && yarn deploy`
 
 需要 `firebase-cli`
 
