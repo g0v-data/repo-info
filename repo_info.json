@@ -1483,11 +1483,11 @@
       "C++": 5852,
       "HTML": 1365,
       "Makefile": 5597,
-      "Python": 4903387
+      "Python": 4912447
     },
     "name": "democracy_common",
     "readme_filename": "g0v`democracy_common`README.md",
-    "updated_at": "2018-05-25T12:30:26Z",
+    "updated_at": "2018-05-29T11:02:45Z",
     "url": "https://api.github.com/repos/g0v/democracy_common"
   },
   "g0v/dev": {
@@ -1883,7 +1883,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-05-28T18:02:55Z",
+    "updated_at": "2018-05-29T18:03:06Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -4360,7 +4360,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-05-28T21:10:37Z",
+    "updated_at": "2018-05-29T21:11:30Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4583,12 +4583,12 @@
     "g0vjson_filename": "g0v`tw-rental-house-data`g0v.json",
     "html_url": "https://github.com/g0v/tw-rental-house-data",
     "languages": {
-      "Python": 89900,
+      "Python": 91580,
       "Shell": 503
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-05-23T08:46:46Z",
+    "updated_at": "2018-05-29T09:20:23Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -5476,20 +5476,6 @@
     "updated_at": "2017-08-17T07:06:59Z",
     "url": "https://api.github.com/repos/ronnywang/taiwan-cabinet"
   },
-  "ronnywang/tw-campaign-finance": {
-    "description": "台灣政治獻金資料",
-    "html_url": "https://github.com/ronnywang/tw-campaign-finance",
-    "languages": {
-      "C++": 1421,
-      "HTML": 119069,
-      "PHP": 92844,
-      "Shell": 132
-    },
-    "name": "tw-campaign-finance",
-    "readme_filename": "ronnywang`tw-campaign-finance`README.md",
-    "updated_at": "2017-04-03T07:41:34Z",
-    "url": "https://api.github.com/repos/ronnywang/tw-campaign-finance"
-  },
   "ronnywang/twcompany": {
     "description": "台灣統一編號資料",
     "html_url": "https://github.com/ronnywang/twcompany",
@@ -5613,18 +5599,6 @@
     "readme_filename": "yllan`newshelper-safari`README.md",
     "updated_at": "2017-05-05T01:49:05Z",
     "url": "https://api.github.com/repos/yllan/newshelper-safari"
-  },
-  "zbryikt/g0vphotos": {
-    "description": null,
-    "html_url": "https://github.com/zbryikt/g0vphotos",
-    "languages": {
-      "CSS": 6930,
-      "LiveScript": 10734
-    },
-    "name": "g0vphotos",
-    "readme_filename": "zbryikt`g0vphotos`README.md",
-    "updated_at": "2014-06-23T08:49:58Z",
-    "url": "https://api.github.com/repos/zbryikt/g0vphotos"
   },
   "zbryikt/ppllink": {
     "description": "public person relationship visualization",
