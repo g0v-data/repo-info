@@ -961,7 +961,7 @@
     "languages": {},
     "name": "awesome-tw-openagri",
     "readme_filename": "g0v`awesome-tw-openagri`README.md",
-    "updated_at": "2017-08-09T05:49:44Z",
+    "updated_at": "2018-06-04T15:20:56Z",
     "url": "https://api.github.com/repos/g0v/awesome-tw-openagri"
   },
   "g0v/b0t-hubot": {
@@ -1297,14 +1297,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 81116,
-      "HTML": 6009764,
+      "HTML": 6012929,
       "JavaScript": 113536,
-      "Python": 638652,
+      "Python": 643508,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-05-31T13:46:12Z",
+    "updated_at": "2018-06-04T14:37:03Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1883,7 +1883,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-06-03T18:02:16Z",
+    "updated_at": "2018-06-04T18:03:26Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2621,7 +2621,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-06-02T07:42:20Z",
+    "updated_at": "2018-06-04T17:47:21Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3855,7 +3855,7 @@
     },
     "name": "power",
     "readme_filename": "g0v`power`README.md",
-    "updated_at": "2018-05-14T22:01:45Z",
+    "updated_at": "2018-06-04T09:57:01Z",
     "url": "https://api.github.com/repos/g0v/power"
   },
   "g0v/powergrid": {
@@ -4360,7 +4360,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-06-03T21:15:16Z",
+    "updated_at": "2018-06-04T21:15:15Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4584,14 +4584,14 @@
     "html_url": "https://github.com/g0v/tw-rental-house-data",
     "languages": {
       "CSS": 129,
-      "JavaScript": 1973,
+      "JavaScript": 2098,
       "Python": 92077,
       "Shell": 503,
-      "Vue": 19842
+      "Vue": 21106
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-06-03T09:58:48Z",
+    "updated_at": "2018-06-04T14:58:32Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
