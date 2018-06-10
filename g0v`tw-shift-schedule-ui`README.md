@@ -1,6 +1,6 @@
 # 班表小幫手
 
-班表小幫手的前端介面
+班表小幫手的前端介面，[範例網頁](https://tw-shift-schedule.firebaseapp.com/-L39efRgitXjWblce-aJ)。
 
 ## Development
 

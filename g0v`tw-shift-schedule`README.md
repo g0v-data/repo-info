@@ -106,7 +106,7 @@ const Causes = {
 }
 ```
 
-## Design
+## Internal Data Structure
 
 此套件將班表編碼成如下格式：
 

@@ -1883,7 +1883,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-06-09T18:02:16Z",
+    "updated_at": "2018-06-10T18:02:19Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -4361,7 +4361,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-06-09T21:17:51Z",
+    "updated_at": "2018-06-10T21:18:27Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4592,7 +4592,7 @@
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-06-09T03:37:33Z",
+    "updated_at": "2018-06-10T12:41:52Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -4603,7 +4603,7 @@
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
-    "updated_at": "2018-05-27T14:26:48Z",
+    "updated_at": "2018-06-10T13:16:03Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/tw-shift-schedule-ui": {
@@ -4612,11 +4612,11 @@
     "languages": {
       "CSS": 294182,
       "HTML": 4125,
-      "JavaScript": 49974
+      "JavaScript": 51603
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
-    "updated_at": "2018-05-27T14:29:41Z",
+    "updated_at": "2018-06-10T14:51:13Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule-ui"
   },
   "g0v/twangry": {
