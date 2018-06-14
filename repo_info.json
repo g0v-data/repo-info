@@ -1883,7 +1883,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-06-13T18:02:50Z",
+    "updated_at": "2018-06-14T18:02:44Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -4361,7 +4361,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-06-13T21:19:04Z",
+    "updated_at": "2018-06-14T21:24:55Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4599,11 +4599,11 @@
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
     "languages": {
-      "JavaScript": 70009
+      "JavaScript": 70112
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
-    "updated_at": "2018-06-10T13:16:03Z",
+    "updated_at": "2018-06-14T16:44:08Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/tw-shift-schedule-ui": {
@@ -4687,7 +4687,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2018-06-12T00:17:32Z",
+    "updated_at": "2018-06-14T08:00:01Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
@@ -5213,7 +5213,7 @@
       "PHP": 2293
     },
     "name": "salary",
-    "updated_at": "2018-02-21T04:31:53Z",
+    "updated_at": "2018-06-14T11:04:55Z",
     "url": "https://api.github.com/repos/kiang/salary"
   },
   "kiang/tncc": {
