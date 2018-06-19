@@ -400,6 +400,15 @@
     "updated_at": "2016-03-15T23:02:12Z",
     "url": "https://api.github.com/repos/g0v/DC-wireless-gitbook"
   },
+  "g0v/DSPPUX-Checklist": {
+    "description": "This checklist provides suggestions to promote digital security and privacy for people who are designing and developing tools for targeted communities.",
+    "html_url": "https://github.com/g0v/DSPPUX-Checklist",
+    "languages": {},
+    "name": "DSPPUX-Checklist",
+    "readme_filename": "g0v`DSPPUX-Checklist`README.md",
+    "updated_at": "2018-06-19T13:13:47Z",
+    "url": "https://api.github.com/repos/g0v/DSPPUX-Checklist"
+  },
   "g0v/HackStory": {
     "description": "HackTimeline共筆時間軸 (prototype)",
     "html_url": "https://github.com/g0v/HackStory",
@@ -1883,7 +1892,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-06-18T18:02:12Z",
+    "updated_at": "2018-06-19T18:02:48Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2322,7 +2331,7 @@
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2018-06-08T08:44:28Z",
+    "updated_at": "2018-06-19T03:33:16Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -4361,7 +4370,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-06-18T21:22:03Z",
+    "updated_at": "2018-06-19T21:21:03Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4592,7 +4601,7 @@
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-06-17T15:17:11Z",
+    "updated_at": "2018-06-19T14:49:44Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
