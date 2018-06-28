@@ -1315,14 +1315,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 143171,
-      "HTML": 6045358,
+      "HTML": 6045632,
       "JavaScript": 2372682,
       "Python": 651732,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-06-26T12:41:44Z",
+    "updated_at": "2018-06-28T10:28:32Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1901,7 +1901,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-06-27T18:02:51Z",
+    "updated_at": "2018-06-28T18:02:57Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -4379,7 +4379,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-06-27T21:24:14Z",
+    "updated_at": "2018-06-28T21:25:46Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4419,12 +4419,14 @@
     "g0vjson_filename": "g0v`sunshine.cy`g0v.json",
     "html_url": "https://github.com/g0v/sunshine.cy",
     "languages": {
-      "HTML": 140500724,
-      "Python": 88049
+      "CSS": 31171,
+      "HTML": 140477428,
+      "JavaScript": 15956,
+      "Python": 88886
     },
     "name": "sunshine.cy",
     "readme_filename": "g0v`sunshine.cy`README.md",
-    "updated_at": "2018-04-24T07:49:22Z",
+    "updated_at": "2018-06-28T08:22:28Z",
     "url": "https://api.github.com/repos/g0v/sunshine.cy"
   },
   "g0v/surety-spider": {
