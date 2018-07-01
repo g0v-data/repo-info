@@ -4379,7 +4379,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-06-30T21:27:04Z",
+    "updated_at": "2018-07-01T21:29:56Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4632,11 +4632,11 @@
     "languages": {
       "CSS": 294182,
       "HTML": 4124,
-      "JavaScript": 55094
+      "JavaScript": 57298
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
-    "updated_at": "2018-06-29T21:02:41Z",
+    "updated_at": "2018-07-01T11:28:21Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule-ui"
   },
   "g0v/twangry": {
