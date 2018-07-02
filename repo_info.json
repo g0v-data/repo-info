@@ -1315,14 +1315,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 143171,
-      "HTML": 6045625,
+      "HTML": 6047835,
       "JavaScript": 2372682,
-      "Python": 651866,
+      "Python": 650814,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-06-29T09:11:57Z",
+    "updated_at": "2018-07-02T11:45:59Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -4379,7 +4379,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-07-01T21:29:56Z",
+    "updated_at": "2018-07-02T21:27:41Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4632,11 +4632,11 @@
     "languages": {
       "CSS": 294182,
       "HTML": 4124,
-      "JavaScript": 57298
+      "JavaScript": 57223
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
-    "updated_at": "2018-07-01T11:28:21Z",
+    "updated_at": "2018-07-02T03:26:11Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule-ui"
   },
   "g0v/twangry": {
@@ -4707,7 +4707,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2018-06-26T13:47:12Z",
+    "updated_at": "2018-07-02T10:05:39Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
