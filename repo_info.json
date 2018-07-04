@@ -1315,14 +1315,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 143171,
-      "HTML": 6046682,
+      "HTML": 6052858,
       "JavaScript": 2372682,
-      "Python": 651403,
+      "Python": 652079,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-07-03T09:09:48Z",
+    "updated_at": "2018-07-04T12:48:36Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1901,7 +1901,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-07-03T18:02:48Z",
+    "updated_at": "2018-07-04T18:02:38Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2677,12 +2677,12 @@
       "CSS": 678074,
       "HTML": 558435,
       "JavaScript": 906477,
-      "LiveScript": 99353,
+      "LiveScript": 99438,
       "Shell": 94
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
-    "updated_at": "2018-06-22T13:55:17Z",
+    "updated_at": "2018-07-04T14:11:49Z",
     "url": "https://api.github.com/repos/g0v/jothon-net"
   },
   "g0v/kage.json": {
@@ -4379,7 +4379,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-07-03T21:27:49Z",
+    "updated_at": "2018-07-04T21:27:35Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4612,7 +4612,7 @@
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-06-23T11:04:41Z",
+    "updated_at": "2018-07-04T11:59:55Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
