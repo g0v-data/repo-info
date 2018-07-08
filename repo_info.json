@@ -1901,7 +1901,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-07-07T18:02:15Z",
+    "updated_at": "2018-07-08T18:02:12Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2639,7 +2639,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-06-26T06:13:05Z",
+    "updated_at": "2018-07-08T15:23:14Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4379,7 +4379,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-07-07T21:31:25Z",
+    "updated_at": "2018-07-08T21:30:32Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4454,7 +4454,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2018-01-20T12:53:35Z",
+    "updated_at": "2018-07-08T18:38:50Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
@@ -5271,12 +5271,12 @@
     "languages": {
       "Perl": 646,
       "Python": 18911,
-      "Ruby": 3931,
+      "Ruby": 11503,
       "Shell": 1646
     },
     "name": "amis-safolu",
     "readme_filename": "miaoski`amis-safolu`README.md",
-    "updated_at": "2018-07-07T07:58:16Z",
+    "updated_at": "2018-07-08T03:55:58Z",
     "url": "https://api.github.com/repos/miaoski/amis-safolu"
   },
   "mlwmlw/pcc": {
