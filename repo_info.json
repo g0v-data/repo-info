@@ -1315,14 +1315,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 143171,
-      "HTML": 6052858,
+      "HTML": 6057004,
       "JavaScript": 2372682,
-      "Python": 652079,
+      "Python": 658037,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-07-07T00:40:23Z",
+    "updated_at": "2018-07-09T10:00:35Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1901,7 +1901,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-07-08T18:02:12Z",
+    "updated_at": "2018-07-09T18:02:33Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -4379,7 +4379,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-07-08T21:30:32Z",
+    "updated_at": "2018-07-09T21:32:25Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
