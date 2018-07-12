@@ -1315,14 +1315,14 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 143171,
-      "HTML": 6134448,
+      "HTML": 6138862,
       "JavaScript": 2576731,
-      "Python": 667280,
+      "Python": 668113,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-07-11T18:04:23Z",
+    "updated_at": "2018-07-12T17:50:18Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1901,7 +1901,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-07-11T18:02:30Z",
+    "updated_at": "2018-07-12T18:02:45Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2639,7 +2639,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-07-08T15:23:14Z",
+    "updated_at": "2018-07-12T13:53:40Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -2844,7 +2844,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2018-04-13T11:47:07Z",
+    "updated_at": "2018-07-12T07:02:09Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -4390,7 +4390,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-07-11T21:30:42Z",
+    "updated_at": "2018-07-12T21:32:33Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -5242,12 +5242,12 @@
     "html_url": "https://github.com/kiang/salary",
     "languages": {
       "CSS": 6163,
-      "HTML": 1960354567,
-      "JavaScript": 34816,
-      "PHP": 43516
+      "HTML": 1960372139,
+      "JavaScript": 53640,
+      "PHP": 45977
     },
     "name": "salary",
-    "updated_at": "2018-07-11T21:17:09Z",
+    "updated_at": "2018-07-12T16:36:57Z",
     "url": "https://api.github.com/repos/kiang/salary"
   },
   "kiang/tncc": {
