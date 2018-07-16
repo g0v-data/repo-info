@@ -1314,15 +1314,15 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 143171,
-      "HTML": 6135686,
+      "CSS": 143294,
+      "HTML": 6143769,
       "JavaScript": 2576731,
-      "Python": 670916,
+      "Python": 676661,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-07-15T15:52:35Z",
+    "updated_at": "2018-07-16T16:33:27Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -3180,12 +3180,12 @@
     "g0vjson_filename": "g0v`magic-mirror`g0v.json",
     "html_url": "https://github.com/g0v/magic-mirror",
     "languages": {
-      "Perl": 16542,
+      "Perl": 20193,
       "Shell": 555
     },
     "name": "magic-mirror",
     "readme_filename": "g0v`magic-mirror`README.md",
-    "updated_at": "2018-04-04T23:43:22Z",
+    "updated_at": "2018-07-16T15:24:29Z",
     "url": "https://api.github.com/repos/g0v/magic-mirror"
   },
   "g0v/mapView": {
@@ -3365,7 +3365,7 @@
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2018-07-13T14:19:52Z",
+    "updated_at": "2018-07-16T05:34:41Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -3990,11 +3990,11 @@
     "description": null,
     "html_url": "https://github.com/g0v/projects",
     "languages": {
-      "HTML": 492
+      "JavaScript": 4202
     },
     "name": "projects",
     "readme_filename": "g0v`projects`README.md",
-    "updated_at": "2018-07-10T16:58:01Z",
+    "updated_at": "2018-07-16T09:51:22Z",
     "url": "https://api.github.com/repos/g0v/projects"
   },
   "g0v/punctuation-standard-gitbook": {
@@ -4390,7 +4390,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-07-15T21:34:06Z",
+    "updated_at": "2018-07-16T21:34:34Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4399,13 +4399,13 @@
     "languages": {
       "CSS": 25456,
       "HTML": 10719,
-      "JavaScript": 39228,
+      "JavaScript": 39230,
       "Shell": 1920,
-      "Vue": 115292
+      "Vue": 116021
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-07-10T12:59:30Z",
+    "updated_at": "2018-07-16T17:13:23Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/sunflower": {
@@ -4643,11 +4643,11 @@
     "languages": {
       "CSS": 294182,
       "HTML": 4124,
-      "JavaScript": 63854
+      "JavaScript": 63942
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
-    "updated_at": "2018-07-15T02:28:02Z",
+    "updated_at": "2018-07-16T05:42:14Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule-ui"
   },
   "g0v/twangry": {
