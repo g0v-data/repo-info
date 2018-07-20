@@ -1315,14 +1315,15 @@
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
       "CSS": 143294,
-      "HTML": 6153847,
+      "Dockerfile": 504,
+      "HTML": 6153852,
       "JavaScript": 2576731,
       "Python": 681891,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-07-19T16:28:15Z",
+    "updated_at": "2018-07-20T06:43:12Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1966,13 +1967,13 @@
     "description": null,
     "html_url": "https://github.com/g0v/g0v-search-api",
     "languages": {
-      "HTML": 4569,
-      "PHP": 15084,
+      "HTML": 4583,
+      "PHP": 15116,
       "Shell": 828
     },
     "name": "g0v-search-api",
     "readme_filename": "g0v`g0v-search-api`README.md",
-    "updated_at": "2018-06-29T17:32:27Z",
+    "updated_at": "2018-07-20T15:50:22Z",
     "url": "https://api.github.com/repos/g0v/g0v-search-api"
   },
   "g0v/g0v-shadow": {
@@ -2100,14 +2101,14 @@
     "html_url": "https://github.com/g0v/g0v.tw",
     "languages": {
       "CSS": 16095,
-      "HTML": 108078,
+      "HTML": 108056,
       "JavaScript": 13,
-      "LiveScript": 24268,
+      "LiveScript": 24310,
       "Shell": 1890
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2018-07-03T15:52:42Z",
+    "updated_at": "2018-07-20T15:46:04Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -2189,11 +2190,12 @@
     "html_url": "https://github.com/g0v/g0village-8bit",
     "languages": {
       "CSS": 4340,
+      "HTML": 13453,
       "JavaScript": 408041
     },
     "name": "g0village-8bit",
     "readme_filename": "g0v`g0village-8bit`README.md",
-    "updated_at": "2018-04-02T05:57:56Z",
+    "updated_at": "2018-07-20T07:21:26Z",
     "url": "https://api.github.com/repos/g0v/g0village-8bit"
   },
   "g0v/g0vis": {
@@ -2335,12 +2337,13 @@
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
       "CSS": 86911,
-      "HTML": 139457,
+      "Dockerfile": 111,
+      "HTML": 139567,
       "JavaScript": 730590
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2018-07-13T09:51:13Z",
+    "updated_at": "2018-07-20T09:40:57Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -4390,7 +4393,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-07-19T21:36:21Z",
+    "updated_at": "2018-07-20T21:38:24Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4617,13 +4620,13 @@
     "languages": {
       "CSS": 129,
       "JavaScript": 2467,
-      "Python": 92077,
+      "Python": 147004,
       "Shell": 503,
       "Vue": 21130
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-07-07T18:05:11Z",
+    "updated_at": "2018-07-20T08:29:55Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -4643,11 +4646,11 @@
     "languages": {
       "CSS": 294182,
       "HTML": 4124,
-      "JavaScript": 63942
+      "JavaScript": 64024
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
-    "updated_at": "2018-07-16T05:42:14Z",
+    "updated_at": "2018-07-20T08:18:35Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule-ui"
   },
   "g0v/twangry": {
@@ -5215,15 +5218,15 @@
     "html_url": "https://github.com/kiang/elections",
     "languages": {
       "Batchfile": 2785,
-      "CSS": 38146,
+      "CSS": 38977,
       "JavaScript": 19159,
-      "PHP": 9123114,
+      "PHP": 9125070,
       "Python": 278,
       "Shell": 4170
     },
     "name": "elections",
     "readme_filename": "kiang`elections`README.md",
-    "updated_at": "2018-05-08T11:23:57Z",
+    "updated_at": "2018-07-20T16:37:52Z",
     "url": "https://api.github.com/repos/kiang/elections"
   },
   "kiang/lead_pipes": {
