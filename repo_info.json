@@ -1316,14 +1316,14 @@
     "languages": {
       "CSS": 143294,
       "Dockerfile": 504,
-      "HTML": 6171119,
+      "HTML": 6170182,
       "JavaScript": 2576731,
-      "Python": 742087,
+      "Python": 743523,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-07-30T06:09:14Z",
+    "updated_at": "2018-07-31T11:22:55Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1973,7 +1973,7 @@
     },
     "name": "g0v-search-api",
     "readme_filename": "g0v`g0v-search-api`README.md",
-    "updated_at": "2018-07-20T15:50:22Z",
+    "updated_at": "2018-07-31T06:50:55Z",
     "url": "https://api.github.com/repos/g0v/g0v-search-api"
   },
   "g0v/g0v-shadow": {
@@ -2847,7 +2847,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2018-07-12T07:02:09Z",
+    "updated_at": "2018-07-31T09:09:30Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/laweasyread": {
@@ -4393,7 +4393,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-07-30T21:43:01Z",
+    "updated_at": "2018-07-31T21:43:49Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4620,13 +4620,13 @@
     "languages": {
       "CSS": 129,
       "JavaScript": 2467,
-      "Python": 172062,
+      "Python": 172072,
       "Shell": 503,
-      "Vue": 21094
+      "Vue": 39303
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-07-30T07:32:36Z",
+    "updated_at": "2018-07-31T10:42:21Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
