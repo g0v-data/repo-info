@@ -1310,20 +1310,20 @@
     "url": "https://api.github.com/repos/g0v/consumer-protection-ref1-gitbook"
   },
   "g0v/councilor-voter-guide": {
-    "description": "議員投票指南",
+    "description": "縣市長 / 議員 投票指南",
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 143294,
+      "CSS": 143319,
       "Dockerfile": 504,
-      "HTML": 6172518,
+      "HTML": 6172695,
       "JavaScript": 2576731,
-      "Python": 745201,
+      "Python": 744913,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-08-01T20:32:40Z",
+    "updated_at": "2018-08-02T15:28:57Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -3307,7 +3307,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2018-07-11T20:56:11Z",
+    "updated_at": "2018-08-02T13:21:01Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -4394,7 +4394,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-08-01T21:44:16Z",
+    "updated_at": "2018-08-02T21:45:38Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4621,13 +4621,13 @@
     "languages": {
       "CSS": 129,
       "JavaScript": 2467,
-      "Python": 172072,
+      "Python": 172073,
       "Shell": 503,
-      "Vue": 39303
+      "Vue": 39442
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-07-31T10:42:21Z",
+    "updated_at": "2018-08-02T10:07:52Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -5249,10 +5249,10 @@
       "CSS": 6163,
       "HTML": 1960364466,
       "JavaScript": 45113,
-      "PHP": 45977
+      "PHP": 51754
     },
     "name": "salary",
-    "updated_at": "2018-07-23T16:31:11Z",
+    "updated_at": "2018-08-02T21:28:47Z",
     "url": "https://api.github.com/repos/kiang/salary"
   },
   "kiang/tncc": {
