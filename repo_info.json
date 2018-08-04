@@ -1316,14 +1316,14 @@
     "languages": {
       "CSS": 754809,
       "Dockerfile": 504,
-      "HTML": 6346248,
+      "HTML": 6345856,
       "JavaScript": 5623957,
-      "Python": 745129,
+      "Python": 745090,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-08-03T17:56:45Z",
+    "updated_at": "2018-08-04T09:03:09Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1519,7 +1519,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2018-05-08T03:23:25Z",
+    "updated_at": "2018-08-04T14:23:09Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -4394,7 +4394,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-08-03T21:45:13Z",
+    "updated_at": "2018-08-04T21:46:25Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4627,7 +4627,7 @@
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-08-03T15:03:33Z",
+    "updated_at": "2018-08-04T03:49:02Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -4651,7 +4651,7 @@
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
-    "updated_at": "2018-07-20T08:18:35Z",
+    "updated_at": "2018-08-04T01:43:32Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule-ui"
   },
   "g0v/twangry": {
