@@ -1316,14 +1316,14 @@
     "languages": {
       "CSS": 754809,
       "Dockerfile": 504,
-      "HTML": 6345856,
+      "HTML": 6346988,
       "JavaScript": 5623957,
       "Python": 745090,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-08-04T09:03:09Z",
+    "updated_at": "2018-08-05T14:50:33Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -4394,7 +4394,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-08-04T21:46:25Z",
+    "updated_at": "2018-08-05T21:46:52Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4963,7 +4963,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-07-21T20:02:59Z",
+    "updated_at": "2018-08-05T15:25:22Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
