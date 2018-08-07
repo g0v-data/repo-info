@@ -1316,14 +1316,14 @@
     "languages": {
       "CSS": 754809,
       "Dockerfile": 504,
-      "HTML": 6350280,
+      "HTML": 6382717,
       "JavaScript": 5623957,
-      "Python": 748045,
+      "Python": 757050,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-08-06T18:51:46Z",
+    "updated_at": "2018-08-07T16:24:21Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1902,7 +1902,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-08-06T18:03:44Z",
+    "updated_at": "2018-08-07T18:02:08Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -4394,7 +4394,7 @@
       "HTML": 2037
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-08-06T21:47:29Z",
+    "updated_at": "2018-08-07T21:48:13Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4405,11 +4405,11 @@
       "HTML": 10719,
       "JavaScript": 43089,
       "Shell": 1920,
-      "Vue": 134861
+      "Vue": 134855
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-08-03T09:21:55Z",
+    "updated_at": "2018-08-07T12:24:53Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/sunflower": {
@@ -4443,17 +4443,6 @@
     "readme_filename": "g0v`sunshine.cy`README.md",
     "updated_at": "2018-06-29T07:57:29Z",
     "url": "https://api.github.com/repos/g0v/sunshine.cy"
-  },
-  "g0v/surety-spider": {
-    "description": "蒐集嫌疑人交保資料的爬蟲",
-    "html_url": "https://github.com/g0v/surety-spider",
-    "languages": {
-      "Python": 1186
-    },
-    "name": "surety-spider",
-    "readme_filename": "g0v`surety-spider`README.md",
-    "updated_at": "2018-03-09T09:50:18Z",
-    "url": "https://api.github.com/repos/g0v/surety-spider"
   },
   "g0v/tainan-map": {
     "description": "OpenStreetMap with Tainan old maps.",
