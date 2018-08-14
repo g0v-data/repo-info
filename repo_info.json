@@ -1316,14 +1316,14 @@
     "languages": {
       "CSS": 754809,
       "Dockerfile": 504,
-      "HTML": 6388223,
+      "HTML": 6391917,
       "JavaScript": 5623957,
-      "Python": 781994,
+      "Python": 783055,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-08-13T16:49:01Z",
+    "updated_at": "2018-08-14T13:55:17Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1902,7 +1902,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-08-09T18:02:28Z",
+    "updated_at": "2018-08-14T18:03:01Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -4394,7 +4394,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-08-13T21:51:40Z",
+    "updated_at": "2018-08-14T21:51:29Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4403,13 +4403,13 @@
     "languages": {
       "CSS": 25569,
       "HTML": 10719,
-      "JavaScript": 43179,
+      "JavaScript": 43213,
       "Shell": 1920,
       "Vue": 135508
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-08-13T16:08:34Z",
+    "updated_at": "2018-08-14T11:46:38Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/sunflower": {
@@ -4616,7 +4616,7 @@
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-08-12T14:20:07Z",
+    "updated_at": "2018-08-14T03:03:28Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -4856,25 +4856,25 @@
     "g0vjson_filename": "g0v`urbancode-commission`g0v.json",
     "html_url": "https://github.com/g0v/urbancode-commission",
     "languages": {
-      "PHP": 124663
+      "PHP": 124416
     },
     "name": "urbancode-commission",
     "readme_filename": "g0v`urbancode-commission`README.md",
-    "updated_at": "2018-08-13T19:55:23Z",
+    "updated_at": "2018-08-14T20:10:11Z",
     "url": "https://api.github.com/repos/g0v/urbancode-commission"
   },
   "g0v/urbancode-commission3w": {
     "description": null,
     "html_url": "https://github.com/g0v/urbancode-commission3w",
     "languages": {
-      "HTML": 15425,
+      "HTML": 15901,
       "JavaScript": 194041,
-      "PHP": 84978,
+      "PHP": 85013,
       "Vue": 563
     },
     "name": "urbancode-commission3w",
     "readme_filename": "g0v`urbancode-commission3w`readme.md",
-    "updated_at": "2017-11-26T21:50:09Z",
+    "updated_at": "2018-08-14T20:35:51Z",
     "url": "https://api.github.com/repos/g0v/urbancode-commission3w"
   },
   "g0v/urbancodeg0vtw": {
