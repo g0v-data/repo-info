@@ -1316,14 +1316,14 @@
     "languages": {
       "CSS": 754809,
       "Dockerfile": 504,
-      "HTML": 6391917,
+      "HTML": 6397957,
       "JavaScript": 5623957,
-      "Python": 783055,
+      "Python": 783479,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-08-14T13:55:17Z",
+    "updated_at": "2018-08-15T18:04:47Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -4394,7 +4394,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-08-14T21:51:29Z",
+    "updated_at": "2018-08-15T21:52:18Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -5249,11 +5249,11 @@
     "html_url": "https://github.com/kiang/tncc",
     "languages": {
       "HTML": 8295724,
-      "PHP": 64393,
+      "PHP": 64587,
       "Scala": 2153
     },
     "name": "tncc",
-    "updated_at": "2016-03-30T22:14:16Z",
+    "updated_at": "2018-08-15T12:34:17Z",
     "url": "https://api.github.com/repos/kiang/tncc"
   },
   "miaoski/amis-francais": {
