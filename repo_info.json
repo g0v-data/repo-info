@@ -1318,12 +1318,12 @@
       "Dockerfile": 504,
       "HTML": 6400624,
       "JavaScript": 5623957,
-      "Python": 784815,
+      "Python": 784790,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-08-17T14:09:38Z",
+    "updated_at": "2018-08-18T16:11:44Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -4394,7 +4394,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-08-17T21:53:54Z",
+    "updated_at": "2018-08-18T21:54:25Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4616,7 +4616,7 @@
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-08-14T03:03:28Z",
+    "updated_at": "2018-08-18T10:11:06Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -5369,7 +5369,7 @@
       "PHP": 373627
     },
     "name": "company-graph",
-    "updated_at": "2018-05-01T10:29:11Z",
+    "updated_at": "2018-08-18T15:23:46Z",
     "url": "https://api.github.com/repos/ronnywang/company-graph"
   },
   "ronnywang/data.g0v.ronny.tw": {
