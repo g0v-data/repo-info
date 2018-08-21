@@ -1316,14 +1316,14 @@
     "languages": {
       "CSS": 754809,
       "Dockerfile": 504,
-      "HTML": 6401140,
+      "HTML": 6401168,
       "JavaScript": 5623957,
       "Python": 784790,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-08-20T07:29:19Z",
+    "updated_at": "2018-08-21T15:51:36Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1902,7 +1902,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-08-17T18:02:24Z",
+    "updated_at": "2018-08-21T18:02:48Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2642,7 +2642,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-07-13T07:51:11Z",
+    "updated_at": "2018-08-21T05:42:28Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4394,22 +4394,22 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-08-20T21:54:15Z",
+    "updated_at": "2018-08-21T21:55:02Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
     "description": "g0v summit 2018 | 零時政府高峰會",
     "html_url": "https://github.com/g0v/summit2018",
     "languages": {
-      "CSS": 25569,
+      "CSS": 25751,
       "HTML": 10719,
-      "JavaScript": 43549,
+      "JavaScript": 44331,
       "Shell": 1920,
-      "Vue": 135421
+      "Vue": 142069
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-08-20T14:53:24Z",
+    "updated_at": "2018-08-21T19:40:08Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/sunflower": {
@@ -4616,7 +4616,7 @@
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-08-20T12:09:11Z",
+    "updated_at": "2018-08-21T01:18:13Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -4749,14 +4749,14 @@
     "html_url": "https://github.com/g0v/twly-voter-guide",
     "languages": {
       "CSS": 27747,
-      "HTML": 179140,
+      "HTML": 179205,
       "JavaScript": 23644,
       "Python": 96959,
       "Shell": 130
     },
     "name": "twly-voter-guide",
     "readme_filename": "g0v`twly-voter-guide`README.md",
-    "updated_at": "2018-07-21T14:30:49Z",
+    "updated_at": "2018-08-21T15:39:03Z",
     "url": "https://api.github.com/repos/g0v/twly-voter-guide"
   },
   "g0v/twly_crawler": {
