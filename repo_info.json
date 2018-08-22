@@ -1316,14 +1316,14 @@
     "languages": {
       "CSS": 754809,
       "Dockerfile": 504,
-      "HTML": 6401168,
+      "HTML": 6401306,
       "JavaScript": 5623957,
       "Python": 784790,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-08-21T15:51:36Z",
+    "updated_at": "2018-08-22T13:55:13Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1902,7 +1902,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-08-21T18:02:48Z",
+    "updated_at": "2018-08-22T18:04:40Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3307,7 +3307,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2018-08-02T13:21:01Z",
+    "updated_at": "2018-08-22T08:57:23Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3440,7 +3440,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-08-03T04:56:44Z",
+    "updated_at": "2018-08-22T13:06:59Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4394,7 +4394,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-08-21T21:55:02Z",
+    "updated_at": "2018-08-22T21:56:03Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4616,7 +4616,7 @@
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-08-21T01:18:13Z",
+    "updated_at": "2018-08-22T15:06:14Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -4952,7 +4952,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-08-05T15:25:22Z",
+    "updated_at": "2018-08-22T02:49:32Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
