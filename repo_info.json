@@ -1903,7 +1903,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-08-29T18:02:43Z",
+    "updated_at": "2018-08-30T18:02:47Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2643,7 +2643,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-08-24T22:59:38Z",
+    "updated_at": "2018-08-30T19:22:37Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -2679,14 +2679,14 @@
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
       "CSS": 678074,
-      "HTML": 572637,
+      "HTML": 573759,
       "JavaScript": 907038,
       "LiveScript": 101238,
       "Shell": 94
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
-    "updated_at": "2018-07-05T13:29:28Z",
+    "updated_at": "2018-08-30T09:57:58Z",
     "url": "https://api.github.com/repos/g0v/jothon-net"
   },
   "g0v/kage.json": {
@@ -4396,7 +4396,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-08-29T21:58:45Z",
+    "updated_at": "2018-08-30T21:59:20Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
