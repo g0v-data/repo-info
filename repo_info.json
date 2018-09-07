@@ -1315,16 +1315,16 @@
     "g0vjson_filename": "g0v`councilor-voter-guide`g0v.json",
     "html_url": "https://github.com/g0v/councilor-voter-guide",
     "languages": {
-      "CSS": 754809,
+      "CSS": 753892,
       "Dockerfile": 504,
-      "HTML": 6414783,
+      "HTML": 19172934,
       "JavaScript": 5623957,
-      "Python": 796526,
+      "Python": 799056,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-09-06T09:18:05Z",
+    "updated_at": "2018-09-07T15:44:43Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -2109,7 +2109,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2018-07-20T15:46:04Z",
+    "updated_at": "2018-09-07T01:14:15Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -4396,7 +4396,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-09-06T15:18:32Z",
+    "updated_at": "2018-09-07T16:17:33Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4411,7 +4411,7 @@
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-09-06T15:15:05Z",
+    "updated_at": "2018-09-07T14:26:41Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/summit2018-ccip-config": {
@@ -4621,13 +4621,13 @@
     "languages": {
       "CSS": 129,
       "JavaScript": 2467,
-      "Python": 227964,
+      "Python": 230497,
       "Shell": 756,
       "Vue": 56371
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-09-04T06:38:37Z",
+    "updated_at": "2018-09-07T17:08:58Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
