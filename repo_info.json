@@ -1324,7 +1324,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-09-07T15:44:43Z",
+    "updated_at": "2018-09-08T07:50:33Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -4396,7 +4396,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-09-07T16:17:33Z",
+    "updated_at": "2018-09-08T20:42:21Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4405,13 +4405,13 @@
     "languages": {
       "CSS": 26129,
       "HTML": 10719,
-      "JavaScript": 56798,
+      "JavaScript": 59166,
       "Shell": 677,
       "Vue": 155015
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-09-07T14:26:41Z",
+    "updated_at": "2018-09-08T20:39:48Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/summit2018-ccip-config": {
@@ -4621,24 +4621,24 @@
     "languages": {
       "CSS": 129,
       "JavaScript": 2467,
-      "Python": 230497,
+      "Python": 230660,
       "Shell": 756,
       "Vue": 56371
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-09-07T17:08:58Z",
+    "updated_at": "2018-09-08T03:12:50Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
     "languages": {
-      "JavaScript": 70112
+      "JavaScript": 73267
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
-    "updated_at": "2018-08-23T19:22:53Z",
+    "updated_at": "2018-09-08T10:18:21Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/tw-shift-schedule-ui": {
