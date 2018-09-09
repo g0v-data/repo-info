@@ -904,11 +904,11 @@
     "html_url": "https://github.com/g0v/archive-summit-2014",
     "languages": {
       "CSS": 161809,
-      "HTML": 619918,
+      "HTML": 619858,
       "JavaScript": 3605
     },
     "name": "archive-summit-2014",
-    "updated_at": "2018-02-14T01:35:04Z",
+    "updated_at": "2018-09-09T08:01:34Z",
     "url": "https://api.github.com/repos/g0v/archive-summit-2014"
   },
   "g0v/archive-summit.g0v.tw": {
@@ -1317,14 +1317,14 @@
     "languages": {
       "CSS": 753892,
       "Dockerfile": 504,
-      "HTML": 19172934,
+      "HTML": 19172343,
       "JavaScript": 5623957,
-      "Python": 799056,
+      "Python": 799100,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-09-08T07:50:33Z",
+    "updated_at": "2018-09-09T14:11:27Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1903,7 +1903,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-09-04T18:02:25Z",
+    "updated_at": "2018-09-09T18:02:50Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2109,7 +2109,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2018-09-07T01:14:15Z",
+    "updated_at": "2018-09-09T15:50:44Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -4396,7 +4396,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-09-08T20:42:21Z",
+    "updated_at": "2018-09-09T08:19:32Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4405,13 +4405,13 @@
     "languages": {
       "CSS": 26129,
       "HTML": 10719,
-      "JavaScript": 59166,
+      "JavaScript": 68962,
       "Shell": 677,
       "Vue": 155015
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-09-08T20:39:48Z",
+    "updated_at": "2018-09-09T06:45:12Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/summit2018-ccip-config": {
