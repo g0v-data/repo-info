@@ -1317,14 +1317,14 @@
     "languages": {
       "CSS": 753939,
       "Dockerfile": 504,
-      "HTML": 19172337,
+      "HTML": 19173246,
       "JavaScript": 5623957,
-      "Python": 799100,
+      "Python": 801999,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-09-10T08:42:23Z",
+    "updated_at": "2018-09-11T08:11:28Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1903,7 +1903,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-09-10T18:02:20Z",
+    "updated_at": "2018-09-11T18:02:36Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3289,7 +3289,7 @@
     "description": "Stand-alone MoeDict app snapshot",
     "html_url": "https://github.com/g0v/moedict-app",
     "languages": {
-      "HTML": 23569,
+      "HTML": 23528,
       "Java": 121692,
       "JavaScript": 86000,
       "LiveScript": 81806,
@@ -3298,7 +3298,7 @@
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2018-08-23T15:02:46Z",
+    "updated_at": "2018-09-11T05:01:21Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
@@ -3429,9 +3429,9 @@
     "languages": {
       "CSS": 510023,
       "Dockerfile": 1985,
-      "HTML": 75916,
+      "HTML": 75847,
       "Java": 2793,
-      "JavaScript": 149132,
+      "JavaScript": 149119,
       "LiveScript": 119350,
       "Makefile": 4003,
       "Objective-C": 617152,
@@ -3442,7 +3442,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-09-04T06:18:36Z",
+    "updated_at": "2018-09-11T15:46:51Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4396,7 +4396,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-09-09T22:04:34Z",
+    "updated_at": "2018-09-11T14:19:32Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4405,13 +4405,13 @@
     "languages": {
       "CSS": 26129,
       "HTML": 10719,
-      "JavaScript": 68962,
+      "JavaScript": 69048,
       "Shell": 677,
-      "Vue": 155015
+      "Vue": 155118
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-09-09T06:45:12Z",
+    "updated_at": "2018-09-11T14:16:56Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/summit2018-ccip-config": {
@@ -4634,24 +4634,24 @@
     "description": "班表小幫手",
     "html_url": "https://github.com/g0v/tw-shift-schedule",
     "languages": {
-      "JavaScript": 73267
+      "JavaScript": 73277
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
-    "updated_at": "2018-09-10T16:25:55Z",
+    "updated_at": "2018-09-11T14:46:35Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/tw-shift-schedule-ui": {
     "description": "班表小幫手-UI",
     "html_url": "https://github.com/g0v/tw-shift-schedule-ui",
     "languages": {
-      "CSS": 311118,
-      "HTML": 28122,
-      "JavaScript": 66894
+      "CSS": 315011,
+      "HTML": 28189,
+      "JavaScript": 78570
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
-    "updated_at": "2018-09-05T16:46:19Z",
+    "updated_at": "2018-09-11T07:17:28Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule-ui"
   },
   "g0v/twangry": {
