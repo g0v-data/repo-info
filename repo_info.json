@@ -1319,12 +1319,12 @@
       "Dockerfile": 504,
       "HTML": 19173246,
       "JavaScript": 5623957,
-      "Python": 801999,
+      "Python": 802435,
       "Shell": 4428
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-09-11T08:11:28Z",
+    "updated_at": "2018-09-12T07:51:01Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1903,7 +1903,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-09-11T18:02:36Z",
+    "updated_at": "2018-09-12T18:02:17Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3363,14 +3363,14 @@
     "html_url": "https://github.com/g0v/moedict-data-twblg",
     "languages": {
       "Dockerfile": 304,
-      "LiveScript": 5398,
-      "Makefile": 713,
+      "LiveScript": 6268,
+      "Makefile": 611,
       "Perl": 1363209,
       "Python": 3418
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2018-08-27T08:08:31Z",
+    "updated_at": "2018-09-12T09:35:34Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -4396,7 +4396,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-09-11T14:19:32Z",
+    "updated_at": "2018-09-12T16:08:53Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4405,13 +4405,13 @@
     "languages": {
       "CSS": 26129,
       "HTML": 10719,
-      "JavaScript": 69048,
+      "JavaScript": 69198,
       "Shell": 677,
-      "Vue": 155118
+      "Vue": 158056
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-09-11T14:16:56Z",
+    "updated_at": "2018-09-12T16:05:07Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/summit2018-ccip-config": {
@@ -4638,7 +4638,7 @@
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
-    "updated_at": "2018-09-11T14:46:35Z",
+    "updated_at": "2018-09-12T00:38:08Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/tw-shift-schedule-ui": {
@@ -4704,11 +4704,11 @@
     "description": "For tweeting live updates from http://congress-text-live.herokuapp.com/",
     "html_url": "https://github.com/g0v/tweet-html-diff",
     "languages": {
-      "Perl": 16955,
+      "Perl": 17477,
       "Perl 6": 260
     },
     "name": "tweet-html-diff",
-    "updated_at": "2018-07-18T14:18:30Z",
+    "updated_at": "2018-09-12T14:55:34Z",
     "url": "https://api.github.com/repos/g0v/tweet-html-diff"
   },
   "g0v/twgeojson": {
