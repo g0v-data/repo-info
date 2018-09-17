@@ -4396,7 +4396,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-09-16T15:44:32Z",
+    "updated_at": "2018-09-17T15:16:04Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4407,11 +4407,11 @@
       "HTML": 10719,
       "JavaScript": 70994,
       "Shell": 677,
-      "Vue": 169215
+      "Vue": 169629
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-09-16T15:40:35Z",
+    "updated_at": "2018-09-17T15:27:56Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/summit2018-ccip-config": {
@@ -4647,11 +4647,11 @@
     "languages": {
       "CSS": 315011,
       "HTML": 28189,
-      "JavaScript": 78585
+      "JavaScript": 78628
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
-    "updated_at": "2018-09-16T06:34:09Z",
+    "updated_at": "2018-09-17T05:30:26Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule-ui"
   },
   "g0v/twangry": {
@@ -5456,11 +5456,11 @@
     "languages": {
       "CSS": 14908,
       "HTML": 4516263,
-      "PHP": 489674
+      "PHP": 489713
     },
     "name": "lagnews",
     "readme_filename": "ronnywang`lagnews`README",
-    "updated_at": "2018-05-31T00:36:45Z",
+    "updated_at": "2018-09-17T02:14:01Z",
     "url": "https://api.github.com/repos/ronnywang/lagnews"
   },
   "ronnywang/newsdiff": {
