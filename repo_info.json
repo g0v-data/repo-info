@@ -1324,7 +1324,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-09-18T09:21:17Z",
+    "updated_at": "2018-09-23T05:03:58Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -4396,7 +4396,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-09-21T22:09:23Z",
+    "updated_at": "2018-09-23T11:13:24Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4411,7 +4411,7 @@
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-09-21T06:21:54Z",
+    "updated_at": "2018-09-23T07:51:05Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/summit2018-ccip-config": {
@@ -4420,7 +4420,7 @@
     "languages": {},
     "name": "summit2018-ccip-config",
     "readme_filename": "g0v`summit2018-ccip-config`README.md",
-    "updated_at": "2018-09-15T08:35:56Z",
+    "updated_at": "2018-09-23T17:05:43Z",
     "url": "https://api.github.com/repos/g0v/summit2018-ccip-config"
   },
   "g0v/sunflower": {
@@ -4645,13 +4645,13 @@
     "description": "班表小幫手-UI",
     "html_url": "https://github.com/g0v/tw-shift-schedule-ui",
     "languages": {
-      "CSS": 315011,
+      "CSS": 375970,
       "HTML": 28189,
-      "JavaScript": 78628
+      "JavaScript": 78660
     },
     "name": "tw-shift-schedule-ui",
     "readme_filename": "g0v`tw-shift-schedule-ui`README.md",
-    "updated_at": "2018-09-17T05:30:26Z",
+    "updated_at": "2018-09-23T05:49:57Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule-ui"
   },
   "g0v/twangry": {
