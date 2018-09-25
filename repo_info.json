@@ -1324,7 +1324,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-09-23T05:03:58Z",
+    "updated_at": "2018-09-25T06:32:15Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1605,7 +1605,7 @@
     "languages": {},
     "name": "domain",
     "readme_filename": "g0v`domain`README.md",
-    "updated_at": "2018-09-18T00:55:21Z",
+    "updated_at": "2018-09-25T16:32:41Z",
     "url": "https://api.github.com/repos/g0v/domain"
   },
   "g0v/don-constitute": {
@@ -2037,13 +2037,13 @@
     "description": "g0v.asia landing page",
     "html_url": "https://github.com/g0v/g0v.asia",
     "languages": {
-      "CSS": 426415,
-      "HTML": 516041,
+      "CSS": 426573,
+      "HTML": 522401,
       "JavaScript": 209340
     },
     "name": "g0v.asia",
     "readme_filename": "g0v`g0v.asia`README.md",
-    "updated_at": "2018-08-23T03:19:32Z",
+    "updated_at": "2018-09-25T11:59:05Z",
     "url": "https://api.github.com/repos/g0v/g0v.asia"
   },
   "g0v/g0v.github.io": {
@@ -2109,7 +2109,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2018-09-09T15:50:44Z",
+    "updated_at": "2018-09-25T08:25:54Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -4396,7 +4396,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-09-24T06:01:08Z",
+    "updated_at": "2018-09-24T22:11:38Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4469,7 +4469,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2018-09-19T02:39:35Z",
+    "updated_at": "2018-09-25T10:08:11Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
