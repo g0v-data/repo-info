@@ -812,7 +812,7 @@
     },
     "name": "amis-moedict",
     "readme_filename": "g0v`amis-moedict`README.md",
-    "updated_at": "2018-08-23T15:35:30Z",
+    "updated_at": "2018-09-27T06:41:13Z",
     "url": "https://api.github.com/repos/g0v/amis-moedict"
   },
   "g0v/angular-laweasyread": {
@@ -1983,12 +1983,12 @@
     "languages": {
       "CSS": 63,
       "Dockerfile": 814,
-      "HTML": 1689,
-      "JavaScript": 8552
+      "HTML": 1898,
+      "JavaScript": 20021
     },
     "name": "g0v-shadow",
     "readme_filename": "g0v`g0v-shadow`README.md",
-    "updated_at": "2018-09-26T15:43:54Z",
+    "updated_at": "2018-09-27T07:25:04Z",
     "url": "https://api.github.com/repos/g0v/g0v-shadow"
   },
   "g0v/g0v-tender-builder": {
@@ -3443,7 +3443,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-09-26T19:43:54Z",
+    "updated_at": "2018-09-27T06:19:16Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4397,7 +4397,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-09-26T14:54:19Z",
+    "updated_at": "2018-09-27T14:49:15Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4408,11 +4408,11 @@
       "HTML": 10719,
       "JavaScript": 71190,
       "Shell": 677,
-      "Vue": 173471
+      "Vue": 174233
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-09-26T14:51:00Z",
+    "updated_at": "2018-09-27T01:45:59Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/summit2018-ccip-config": {
@@ -4421,7 +4421,7 @@
     "languages": {},
     "name": "summit2018-ccip-config",
     "readme_filename": "g0v`summit2018-ccip-config`README.md",
-    "updated_at": "2018-09-24T17:34:02Z",
+    "updated_at": "2018-09-27T20:07:40Z",
     "url": "https://api.github.com/repos/g0v/summit2018-ccip-config"
   },
   "g0v/sunflower": {
