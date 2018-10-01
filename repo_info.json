@@ -107,13 +107,13 @@
     "html_url": "https://github.com/ctiml/campaign-finance.g0v.ctiml.tw",
     "languages": {
       "CSS": 20677,
-      "HTML": 4528089,
+      "HTML": 4528142,
       "JavaScript": 6867,
       "PHP": 461086
     },
     "name": "campaign-finance.g0v.ctiml.tw",
     "readme_filename": "ctiml`campaign-finance.g0v.ctiml.tw`README.md",
-    "updated_at": "2017-12-30T23:00:50Z",
+    "updated_at": "2018-10-01T15:08:19Z",
     "url": "https://api.github.com/repos/ctiml/campaign-finance.g0v.ctiml.tw"
   },
   "ctiml/vote2014": {
@@ -1984,11 +1984,11 @@
       "CSS": 63,
       "Dockerfile": 814,
       "HTML": 1898,
-      "JavaScript": 20021
+      "JavaScript": 20974
     },
     "name": "g0v-shadow",
     "readme_filename": "g0v`g0v-shadow`README.md",
-    "updated_at": "2018-09-27T07:25:04Z",
+    "updated_at": "2018-10-01T13:26:13Z",
     "url": "https://api.github.com/repos/g0v/g0v-shadow"
   },
   "g0v/g0v-tender-builder": {
@@ -4397,7 +4397,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-09-30T06:45:24Z",
+    "updated_at": "2018-10-01T12:49:24Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4408,11 +4408,11 @@
       "HTML": 10719,
       "JavaScript": 71413,
       "Shell": 677,
-      "Vue": 178214
+      "Vue": 179063
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-09-30T06:42:23Z",
+    "updated_at": "2018-10-01T12:46:22Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/summit2018-ccip-config": {
@@ -4421,7 +4421,7 @@
     "languages": {},
     "name": "summit2018-ccip-config",
     "readme_filename": "g0v`summit2018-ccip-config`README.md",
-    "updated_at": "2018-09-29T16:57:23Z",
+    "updated_at": "2018-10-01T08:06:44Z",
     "url": "https://api.github.com/repos/g0v/summit2018-ccip-config"
   },
   "g0v/sunflower": {
