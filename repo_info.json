@@ -1605,7 +1605,7 @@
     "languages": {},
     "name": "domain",
     "readme_filename": "g0v`domain`README.md",
-    "updated_at": "2018-09-25T16:32:41Z",
+    "updated_at": "2018-10-04T17:13:01Z",
     "url": "https://api.github.com/repos/g0v/domain"
   },
   "g0v/don-constitute": {
@@ -1903,7 +1903,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-10-03T18:02:02Z",
+    "updated_at": "2018-10-04T18:01:55Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2635,7 +2635,7 @@
     "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 3943,
+      "CSS": 3696,
       "HTML": 2117,
       "JavaScript": 515834,
       "Python": 21053,
@@ -2644,7 +2644,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-10-02T15:58:01Z",
+    "updated_at": "2018-10-04T12:48:38Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3737,6 +3737,16 @@
     "updated_at": "2015-05-23T16:43:24Z",
     "url": "https://api.github.com/repos/g0v/pdf-to-markdown"
   },
+  "g0v/people-in-news": {
+    "description": "公眾人物新聞的追蹤",
+    "html_url": "https://github.com/g0v/people-in-news",
+    "languages": {
+      "Perl": 4973
+    },
+    "name": "people-in-news",
+    "updated_at": "2018-10-04T16:03:02Z",
+    "url": "https://api.github.com/repos/g0v/people-in-news"
+  },
   "g0v/personal-data-protection-gitbook": {
     "description": " vTaiwan 數位公民環境：個人資料利用與去識別化",
     "html_url": "https://github.com/g0v/personal-data-protection-gitbook",
@@ -4397,7 +4407,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-02T22:21:06Z",
+    "updated_at": "2018-10-04T16:26:09Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4408,11 +4418,11 @@
       "HTML": 10719,
       "JavaScript": 71413,
       "Shell": 677,
-      "Vue": 179063
+      "Vue": 179335
     },
     "name": "summit2018",
     "readme_filename": "g0v`summit2018`README.md",
-    "updated_at": "2018-10-01T12:46:22Z",
+    "updated_at": "2018-10-04T16:22:46Z",
     "url": "https://api.github.com/repos/g0v/summit2018"
   },
   "g0v/summit2018-ccip-config": {
@@ -4964,7 +4974,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-08-23T00:24:02Z",
+    "updated_at": "2018-10-04T10:32:29Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
