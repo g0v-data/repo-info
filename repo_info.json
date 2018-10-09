@@ -1319,12 +1319,12 @@
       "Dockerfile": 504,
       "HTML": 19173279,
       "JavaScript": 5623957,
-      "Python": 807575,
+      "Python": 807705,
       "Shell": 4773
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-10-08T21:57:34Z",
+    "updated_at": "2018-10-09T01:04:07Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1903,7 +1903,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-10-08T18:02:10Z",
+    "updated_at": "2018-10-09T18:02:20Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3741,10 +3741,11 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 7141
+      "Perl": 7736,
+      "Shell": 457
     },
     "name": "people-in-news",
-    "updated_at": "2018-10-08T21:54:10Z",
+    "updated_at": "2018-10-09T15:21:30Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4407,7 +4408,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-07T22:18:08Z",
+    "updated_at": "2018-10-08T22:18:05Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -5631,6 +5632,18 @@
     "name": "tommy87166.github.io",
     "updated_at": "2017-07-19T08:34:27Z",
     "url": "https://api.github.com/repos/tommy87166/tommy87166.github.io"
+  },
+  "weitsai/iHelp-android": {
+    "description": "不必透過聲音就能夠報案的 App，主要對象為使用手機對話不方便者為主。",
+    "g0vjson_filename": "weitsai`iHelp-android`g0v.json",
+    "html_url": "https://github.com/weitsai/iHelp-android",
+    "languages": {
+      "Java": 111269
+    },
+    "name": "iHelp-android",
+    "readme_filename": "weitsai`iHelp-android`README.md",
+    "updated_at": "2017-11-15T13:43:24Z",
+    "url": "https://api.github.com/repos/weitsai/iHelp-android"
   },
   "yisheng-liu/jobhelper_ff": {
     "description": "求職小幫手的火狐版本",
