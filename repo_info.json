@@ -65,7 +65,7 @@
     },
     "name": "billy3321.github.io",
     "readme_filename": "billy3321`billy3321.github.io`README.md",
-    "updated_at": "2018-09-24T11:52:19Z",
+    "updated_at": "2018-10-10T12:38:53Z",
     "url": "https://api.github.com/repos/billy3321/billy3321.github.io"
   },
   "cades/taipei-building-has-reward": {
@@ -1324,7 +1324,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-10-09T01:04:07Z",
+    "updated_at": "2018-10-10T07:36:29Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -2637,14 +2637,14 @@
     "languages": {
       "CSS": 3867,
       "HTML": 2117,
-      "JavaScript": 515834,
+      "JavaScript": 515955,
       "Python": 21053,
       "Shell": 408,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-10-08T14:16:17Z",
+    "updated_at": "2018-10-10T05:08:30Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3741,11 +3741,11 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 7736,
-      "Shell": 457
+      "Perl": 13337,
+      "Shell": 471
     },
     "name": "people-in-news",
-    "updated_at": "2018-10-09T15:21:30Z",
+    "updated_at": "2018-10-10T16:26:15Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4408,7 +4408,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-08T22:18:05Z",
+    "updated_at": "2018-10-09T22:19:39Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
