@@ -1903,7 +1903,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-10-09T18:02:20Z",
+    "updated_at": "2018-10-11T18:02:18Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3741,11 +3741,11 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 13337,
-      "Shell": 471
+      "Perl": 17853,
+      "Shell": 413
     },
     "name": "people-in-news",
-    "updated_at": "2018-10-10T16:26:15Z",
+    "updated_at": "2018-10-11T15:55:59Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4408,7 +4408,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-09T22:19:39Z",
+    "updated_at": "2018-10-10T22:20:44Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -5030,7 +5030,7 @@
     },
     "name": "workweek",
     "readme_filename": "g0v`workweek`README.md",
-    "updated_at": "2017-05-08T03:55:01Z",
+    "updated_at": "2018-10-11T11:56:10Z",
     "url": "https://api.github.com/repos/g0v/workweek"
   },
   "g0v/worldwonder": {
@@ -5550,12 +5550,12 @@
     "html_url": "https://github.com/ronnywang/twcompany",
     "languages": {
       "CSS": 14908,
-      "HTML": 4554063,
-      "PHP": 2947558
+      "HTML": 4554254,
+      "PHP": 2953226
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2018-09-28T07:17:11Z",
+    "updated_at": "2018-10-11T07:28:24Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
