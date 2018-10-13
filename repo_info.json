@@ -3309,7 +3309,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2018-08-22T08:57:23Z",
+    "updated_at": "2018-10-13T18:24:09Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3443,7 +3443,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-09-27T06:19:16Z",
+    "updated_at": "2018-10-13T18:24:04Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3741,11 +3741,11 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 17853,
+      "Perl": 20345,
       "Shell": 413
     },
     "name": "people-in-news",
-    "updated_at": "2018-10-12T07:25:33Z",
+    "updated_at": "2018-10-13T01:20:14Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4313,7 +4313,7 @@
     },
     "name": "slack-irc-plugin",
     "readme_filename": "g0v`slack-irc-plugin`README.md",
-    "updated_at": "2018-10-12T21:25:39Z",
+    "updated_at": "2018-10-13T17:15:54Z",
     "url": "https://api.github.com/repos/g0v/slack-irc-plugin"
   },
   "g0v/slap": {
@@ -4409,7 +4409,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-11T22:19:40Z",
+    "updated_at": "2018-10-12T22:21:27Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -5389,12 +5389,12 @@
     "html_url": "https://github.com/ronnywang/company-graph",
     "languages": {
       "CSS": 15554,
-      "HTML": 4517831,
-      "JavaScript": 302638,
-      "PHP": 385991
+      "HTML": 4518948,
+      "JavaScript": 662941,
+      "PHP": 388466
     },
     "name": "company-graph",
-    "updated_at": "2018-10-12T07:41:09Z",
+    "updated_at": "2018-10-13T16:08:52Z",
     "url": "https://api.github.com/repos/ronnywang/company-graph"
   },
   "ronnywang/data.g0v.ronny.tw": {
@@ -5557,7 +5557,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2018-10-11T07:28:24Z",
+    "updated_at": "2018-10-13T16:25:11Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
