@@ -1903,7 +1903,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-10-16T18:02:23Z",
+    "updated_at": "2018-10-17T18:02:12Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3741,12 +3741,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 31087,
+      "Perl": 32511,
       "Perl 6": 586,
-      "Shell": 437
+      "Shell": 501
     },
     "name": "people-in-news",
-    "updated_at": "2018-10-16T14:25:25Z",
+    "readme_filename": "g0v`people-in-news`README.md",
+    "updated_at": "2018-10-17T18:01:27Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4410,7 +4411,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-15T22:23:39Z",
+    "updated_at": "2018-10-16T22:24:44Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4483,7 +4484,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2018-09-29T20:40:22Z",
+    "updated_at": "2018-10-17T04:40:18Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
@@ -4977,7 +4978,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-10-07T05:43:10Z",
+    "updated_at": "2018-10-17T05:49:09Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
