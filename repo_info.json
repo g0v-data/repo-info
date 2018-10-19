@@ -509,7 +509,7 @@
     },
     "name": "OneButton",
     "readme_filename": "g0v`OneButton`README.md",
-    "updated_at": "2018-07-03T09:51:12Z",
+    "updated_at": "2018-10-19T09:54:38Z",
     "url": "https://api.github.com/repos/g0v/OneButton"
   },
   "g0v/OneButton-server-js": {
@@ -1324,7 +1324,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-10-17T22:10:43Z",
+    "updated_at": "2018-10-19T11:31:14Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1903,7 +1903,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-10-18T18:02:18Z",
+    "updated_at": "2018-10-19T18:02:33Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2345,7 +2345,7 @@
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2018-10-16T11:27:29Z",
+    "updated_at": "2018-10-19T09:11:28Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -3741,13 +3741,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 32687,
-      "Perl 6": 586,
-      "Shell": 483
+      "Perl": 33569,
+      "Perl 6": 1209,
+      "Shell": 445
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-10-18T15:35:39Z",
+    "updated_at": "2018-10-19T16:40:30Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -3887,14 +3887,14 @@
     "description": "Report of g0v Civic Tech Prototype Grant",
     "html_url": "https://github.com/g0v/power",
     "languages": {
-      "CSS": 15170,
+      "CSS": 15563,
       "HTML": 3413,
-      "JavaScript": 65836,
+      "JavaScript": 74590,
       "Shell": 495
     },
     "name": "power",
     "readme_filename": "g0v`power`README.md",
-    "updated_at": "2018-07-06T09:11:55Z",
+    "updated_at": "2018-10-19T09:05:49Z",
     "url": "https://api.github.com/repos/g0v/power"
   },
   "g0v/powergrid": {
@@ -4411,7 +4411,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-17T22:24:44Z",
+    "updated_at": "2018-10-18T22:26:20Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4467,7 +4467,7 @@
     },
     "name": "sunshine.cy",
     "readme_filename": "g0v`sunshine.cy`README.md",
-    "updated_at": "2018-09-19T05:39:47Z",
+    "updated_at": "2018-10-19T11:22:23Z",
     "url": "https://api.github.com/repos/g0v/sunshine.cy"
   },
   "g0v/tainan-map": {
