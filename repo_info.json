@@ -509,7 +509,7 @@
     },
     "name": "OneButton",
     "readme_filename": "g0v`OneButton`README.md",
-    "updated_at": "2018-10-19T09:54:38Z",
+    "updated_at": "2018-10-20T14:57:50Z",
     "url": "https://api.github.com/repos/g0v/OneButton"
   },
   "g0v/OneButton-server-js": {
@@ -3741,13 +3741,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 33569,
+      "Perl": 34995,
       "Perl 6": 1209,
       "Shell": 445
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-10-19T16:40:30Z",
+    "updated_at": "2018-10-20T16:27:30Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4411,7 +4411,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-18T22:26:20Z",
+    "updated_at": "2018-10-19T22:27:59Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
