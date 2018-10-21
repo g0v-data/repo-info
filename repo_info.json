@@ -189,6 +189,20 @@
     "updated_at": "2014-06-25T01:54:09Z",
     "url": "https://api.github.com/repos/g0v/0media"
   },
+  "g0v/1021puyuma": {
+    "description": null,
+    "html_url": "https://github.com/g0v/1021puyuma",
+    "languages": {
+      "CSS": 1988,
+      "Go": 1702,
+      "HTML": 43566,
+      "JavaScript": 1584
+    },
+    "name": "1021puyuma",
+    "readme_filename": "g0v`1021puyuma`README.md",
+    "updated_at": "2018-10-21T17:31:05Z",
+    "url": "https://api.github.com/repos/g0v/1021puyuma"
+  },
   "g0v/2016drills": {
     "description": "2016-03-25 北北基桃聯合防災演習",
     "html_url": "https://github.com/g0v/2016drills",
@@ -3455,7 +3469,7 @@
     },
     "name": "moedict.tw",
     "readme_filename": "g0v`moedict.tw`README.md",
-    "updated_at": "2018-06-13T09:43:45Z",
+    "updated_at": "2018-10-21T13:45:30Z",
     "url": "https://api.github.com/repos/g0v/moedict.tw"
   },
   "g0v/moer.g0v.tw": {
@@ -3741,13 +3755,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 34995,
+      "Perl": 36183,
       "Perl 6": 1209,
       "Shell": 445
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-10-20T16:27:30Z",
+    "updated_at": "2018-10-21T13:32:25Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4411,7 +4425,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-19T22:27:59Z",
+    "updated_at": "2018-10-20T22:27:17Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -5320,13 +5334,13 @@
       "CSS": 60980,
       "CoffeeScript": 2988,
       "HTML": 3982226,
-      "JavaScript": 1485893,
+      "JavaScript": 1487845,
       "LiveScript": 31670,
       "PHP": 5076
     },
     "name": "pcc",
     "readme_filename": "mlwmlw`pcc`README.md",
-    "updated_at": "2018-10-14T15:38:15Z",
+    "updated_at": "2018-10-21T17:09:19Z",
     "url": "https://api.github.com/repos/mlwmlw/pcc"
   },
   "nansenat16/jobhelper-ie": {
