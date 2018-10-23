@@ -194,13 +194,13 @@
     "html_url": "https://github.com/g0v/1021puyuma",
     "languages": {
       "CSS": 1988,
-      "Go": 1743,
+      "Go": 1893,
       "HTML": 43566,
       "JavaScript": 1584
     },
     "name": "1021puyuma",
     "readme_filename": "g0v`1021puyuma`README.md",
-    "updated_at": "2018-10-22T17:56:13Z",
+    "updated_at": "2018-10-23T13:30:04Z",
     "url": "https://api.github.com/repos/g0v/1021puyuma"
   },
   "g0v/2016drills": {
@@ -1338,7 +1338,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-10-19T11:31:14Z",
+    "updated_at": "2018-10-23T15:34:23Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1917,7 +1917,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-10-22T18:02:14Z",
+    "updated_at": "2018-10-23T18:02:27Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2651,14 +2651,14 @@
     "languages": {
       "CSS": 3867,
       "HTML": 2117,
-      "JavaScript": 516204,
+      "JavaScript": 516306,
       "Python": 21053,
       "Shell": 408,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-10-16T04:10:07Z",
+    "updated_at": "2018-10-23T00:11:29Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -3755,13 +3755,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 38988,
+      "Perl": 40091,
       "Perl 6": 1209,
       "Shell": 445
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-10-22T01:16:42Z",
+    "updated_at": "2018-10-23T16:07:16Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4425,7 +4425,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-21T22:27:26Z",
+    "updated_at": "2018-10-22T22:28:29Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
