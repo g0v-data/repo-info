@@ -1333,12 +1333,12 @@
       "Dockerfile": 504,
       "HTML": 19173279,
       "JavaScript": 5623957,
-      "Python": 808877,
+      "Python": 809447,
       "Shell": 4773
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-10-24T03:58:16Z",
+    "updated_at": "2018-10-26T07:54:43Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1534,7 +1534,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2018-10-25T16:43:21Z",
+    "updated_at": "2018-10-26T01:56:26Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -1917,7 +1917,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-10-25T18:02:18Z",
+    "updated_at": "2018-10-26T18:02:35Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3755,13 +3755,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 40603,
+      "Perl": 41474,
       "Perl 6": 1209,
       "Shell": 445
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-10-25T15:05:01Z",
+    "updated_at": "2018-10-26T16:14:26Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4425,7 +4425,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-24T22:30:14Z",
+    "updated_at": "2018-10-25T22:30:44Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
