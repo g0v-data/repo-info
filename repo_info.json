@@ -65,7 +65,7 @@
     },
     "name": "billy3321.github.io",
     "readme_filename": "billy3321`billy3321.github.io`README.md",
-    "updated_at": "2018-10-15T13:00:02Z",
+    "updated_at": "2018-10-28T04:31:59Z",
     "url": "https://api.github.com/repos/billy3321/billy3321.github.io"
   },
   "cades/taipei-building-has-reward": {
@@ -3755,13 +3755,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 41594,
+      "Perl": 44544,
       "Perl 6": 1209,
       "Shell": 445
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-10-27T02:39:25Z",
+    "updated_at": "2018-10-28T13:16:14Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4425,7 +4425,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-26T22:29:43Z",
+    "updated_at": "2018-10-27T22:30:23Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4650,13 +4650,13 @@
     "languages": {
       "CSS": 129,
       "JavaScript": 2567,
-      "Python": 239534,
+      "Python": 239543,
       "Shell": 756,
       "Vue": 56612
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-10-14T08:52:38Z",
+    "updated_at": "2018-10-28T15:03:49Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -5461,7 +5461,7 @@
     },
     "name": "jobhelper",
     "readme_filename": "ronnywang`jobhelper`README.md",
-    "updated_at": "2018-10-27T16:17:48Z",
+    "updated_at": "2018-10-28T04:39:24Z",
     "url": "https://api.github.com/repos/ronnywang/jobhelper"
   },
   "ronnywang/judicial-easyer": {
