@@ -605,7 +605,6 @@
       "Ruby": 24091
     },
     "name": "TWDoorplates",
-    "readme_filename": "g0v`TWDoorplates`README.md",
     "updated_at": "2018-05-21T00:56:46Z",
     "url": "https://api.github.com/repos/g0v/TWDoorplates"
   },
@@ -616,7 +615,6 @@
       "PHP": 7676
     },
     "name": "TWLegislativeYuanData",
-    "readme_filename": "g0v`TWLegislativeYuanData`README.md",
     "updated_at": "2014-01-05T13:46:31Z",
     "url": "https://api.github.com/repos/g0v/TWLegislativeYuanData"
   },
@@ -1333,12 +1331,12 @@
       "Dockerfile": 504,
       "HTML": 19173279,
       "JavaScript": 5623957,
-      "Python": 809447,
+      "Python": 809460,
       "Shell": 4773
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-10-26T07:54:43Z",
+    "updated_at": "2018-10-30T17:10:18Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1917,7 +1915,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-10-29T18:02:19Z",
+    "updated_at": "2018-10-30T18:02:35Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2651,14 +2649,14 @@
     "languages": {
       "CSS": 3867,
       "HTML": 2117,
-      "JavaScript": 516306,
+      "JavaScript": 516303,
       "Python": 21053,
       "Shell": 408,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-10-23T00:11:29Z",
+    "updated_at": "2018-10-30T12:03:47Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/ivod-download-client": {
@@ -4425,7 +4423,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-28T22:30:42Z",
+    "updated_at": "2018-10-29T22:31:48Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -5726,7 +5724,6 @@
       "LiveScript": 6990
     },
     "name": "visualize",
-    "readme_filename": "zbryikt`visualize`README.md",
     "updated_at": "2016-06-25T08:44:17Z",
     "url": "https://api.github.com/repos/zbryikt/visualize"
   },
