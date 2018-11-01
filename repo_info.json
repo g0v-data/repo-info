@@ -1333,12 +1333,12 @@
       "Dockerfile": 504,
       "HTML": 19173279,
       "JavaScript": 5623957,
-      "Python": 809460,
+      "Python": 809536,
       "Shell": 4773
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-10-30T17:10:18Z",
+    "updated_at": "2018-11-01T12:09:43Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1917,7 +1917,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-10-31T18:02:05Z",
+    "updated_at": "2018-11-01T18:01:55Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3457,7 +3457,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-10-31T16:31:23Z",
+    "updated_at": "2018-11-01T20:33:02Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3755,13 +3755,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 44544,
+      "Perl": 44374,
       "Perl 6": 1209,
       "Shell": 445
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-10-31T00:53:33Z",
+    "updated_at": "2018-11-01T14:43:54Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4425,7 +4425,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-10-30T22:32:04Z",
+    "updated_at": "2018-10-31T22:34:20Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -5331,16 +5331,16 @@
     "description": "政府標案資料查詢、分析",
     "html_url": "https://github.com/mlwmlw/pcc",
     "languages": {
-      "CSS": 60980,
+      "CSS": 60990,
       "CoffeeScript": 2988,
       "HTML": 3982226,
-      "JavaScript": 1487845,
+      "JavaScript": 1504517,
       "LiveScript": 31670,
       "PHP": 5076
     },
     "name": "pcc",
     "readme_filename": "mlwmlw`pcc`README.md",
-    "updated_at": "2018-10-21T17:09:19Z",
+    "updated_at": "2018-11-01T16:03:33Z",
     "url": "https://api.github.com/repos/mlwmlw/pcc"
   },
   "nansenat16/jobhelper-ie": {
