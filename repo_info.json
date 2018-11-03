@@ -65,7 +65,7 @@
     },
     "name": "billy3321.github.io",
     "readme_filename": "billy3321`billy3321.github.io`README.md",
-    "updated_at": "2018-10-28T04:31:59Z",
+    "updated_at": "2018-11-03T12:31:33Z",
     "url": "https://api.github.com/repos/billy3321/billy3321.github.io"
   },
   "cades/taipei-building-has-reward": {
@@ -1331,14 +1331,14 @@
     "languages": {
       "CSS": 753977,
       "Dockerfile": 504,
-      "HTML": 19173279,
+      "HTML": 19173317,
       "JavaScript": 5623957,
       "Python": 809663,
       "Shell": 4773
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-11-02T09:52:06Z",
+    "updated_at": "2018-11-03T16:06:22Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -3755,13 +3755,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 44374,
+      "Perl": 44105,
       "Perl 6": 1209,
       "Shell": 445
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-11-01T14:43:54Z",
+    "updated_at": "2018-11-03T01:19:35Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4425,7 +4425,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-11-01T22:32:20Z",
+    "updated_at": "2018-11-02T22:34:17Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -4986,13 +4986,13 @@
     "languages": {
       "CSS": 1464,
       "HTML": 6065,
-      "JavaScript": 23083,
+      "JavaScript": 23144,
       "Shell": 1956,
-      "Vue": 90243
+      "Vue": 90816
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-10-24T08:13:37Z",
+    "updated_at": "2018-11-03T13:28:34Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
