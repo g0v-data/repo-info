@@ -36,7 +36,7 @@
 # Installation
 
 ## Browser Extension
-* Firefox 瀏覽器請至[Firefox 附加元件](https://addons.mozilla.org/zh-TW/firefox/addon/laweasyread/)安裝；如連結失效（參閱 [issue #4](https://github.com/g0v/laweasyread-front/issues/4)），請改安裝[XPI 檔案](http://g0v.github.io/laweasyread-front/dist/laweasyread.xpi)。
+* Firefox 附加元件已停止維護。
 * Google 瀏覽器請至[Chrome 線上應用程式商店](https://chrome.google.com/webstore/detail/iedodmlnmhobigohbkalkkjlbmdkjalj)安裝。
 
 可比對安裝前後[測試頁面](http://g0v.github.io/laweasyread-front/browser.html)的顯示差異。
