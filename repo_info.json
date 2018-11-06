@@ -518,12 +518,12 @@
     "languages": {
       "CSS": 822,
       "HTML": 883,
-      "JavaScript": 38767,
+      "JavaScript": 39445,
       "Scala": 3823
     },
     "name": "OneButton",
     "readme_filename": "g0v`OneButton`README.md",
-    "updated_at": "2018-10-20T14:57:50Z",
+    "updated_at": "2018-11-06T08:32:23Z",
     "url": "https://api.github.com/repos/g0v/OneButton"
   },
   "g0v/OneButton-server-js": {
@@ -1331,14 +1331,14 @@
     "languages": {
       "CSS": 753977,
       "Dockerfile": 504,
-      "HTML": 19174794,
+      "HTML": 19175781,
       "JavaScript": 5623957,
       "Python": 810784,
       "Shell": 4773
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-11-05T17:26:40Z",
+    "updated_at": "2018-11-06T09:48:28Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -3457,7 +3457,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-11-04T01:44:09Z",
+    "updated_at": "2018-11-06T04:23:24Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4425,7 +4425,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-11-04T22:36:21Z",
+    "updated_at": "2018-11-05T22:36:50Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -5331,16 +5331,16 @@
     "description": "政府標案資料查詢、分析",
     "html_url": "https://github.com/mlwmlw/pcc",
     "languages": {
-      "CSS": 60990,
+      "CSS": 61047,
       "CoffeeScript": 2988,
       "HTML": 3982226,
-      "JavaScript": 1504517,
+      "JavaScript": 1507557,
       "LiveScript": 31670,
       "PHP": 5076
     },
     "name": "pcc",
     "readme_filename": "mlwmlw`pcc`README.md",
-    "updated_at": "2018-11-01T16:03:33Z",
+    "updated_at": "2018-11-06T16:36:05Z",
     "url": "https://api.github.com/repos/mlwmlw/pcc"
   },
   "nansenat16/jobhelper-ie": {
@@ -5684,7 +5684,7 @@
     },
     "name": "newshelper-safari",
     "readme_filename": "yllan`newshelper-safari`README.md",
-    "updated_at": "2017-05-05T01:49:05Z",
+    "updated_at": "2018-11-06T15:31:08Z",
     "url": "https://api.github.com/repos/yllan/newshelper-safari"
   },
   "zbryikt/g0vphotos": {
