@@ -2866,6 +2866,21 @@
     "updated_at": "2018-07-31T09:09:30Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
+  "g0v/landing-page": {
+    "description": null,
+    "html_url": "https://github.com/g0v/landing-page",
+    "languages": {
+      "CSS": 481194,
+      "HTML": 141986,
+      "JavaScript": 371758,
+      "LiveScript": 5059,
+      "Shell": 283
+    },
+    "name": "landing-page",
+    "readme_filename": "g0v`landing-page`README.md",
+    "updated_at": "2018-11-07T16:00:52Z",
+    "url": "https://api.github.com/repos/g0v/landing-page"
+  },
   "g0v/laweasyread": {
     "description": "API for Taiwan Law",
     "g0vjson_filename": "g0v`laweasyread`g0v.json",
@@ -4425,7 +4440,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-11-05T22:36:50Z",
+    "updated_at": "2018-11-06T22:36:13Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -5334,13 +5349,13 @@
       "CSS": 61047,
       "CoffeeScript": 2988,
       "HTML": 3982226,
-      "JavaScript": 1507557,
+      "JavaScript": 1508319,
       "LiveScript": 31670,
       "PHP": 5076
     },
     "name": "pcc",
     "readme_filename": "mlwmlw`pcc`README.md",
-    "updated_at": "2018-11-06T16:36:05Z",
+    "updated_at": "2018-11-07T16:06:22Z",
     "url": "https://api.github.com/repos/mlwmlw/pcc"
   },
   "nansenat16/jobhelper-ie": {
