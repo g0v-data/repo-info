@@ -65,7 +65,7 @@
     },
     "name": "billy3321.github.io",
     "readme_filename": "billy3321`billy3321.github.io`README.md",
-    "updated_at": "2018-11-03T12:31:33Z",
+    "updated_at": "2018-11-08T02:53:36Z",
     "url": "https://api.github.com/repos/billy3321/billy3321.github.io"
   },
   "cades/taipei-building-has-reward": {
@@ -2916,11 +2916,11 @@
     "languages": {
       "CSS": 5283,
       "HTML": 6230,
-      "JavaScript": 970364
+      "JavaScript": 970365
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2018-11-04T13:22:23Z",
+    "updated_at": "2018-11-08T18:22:51Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
@@ -4440,7 +4440,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-11-06T22:36:13Z",
+    "updated_at": "2018-11-07T22:36:20Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
@@ -5346,16 +5346,16 @@
     "description": "政府標案資料查詢、分析",
     "html_url": "https://github.com/mlwmlw/pcc",
     "languages": {
-      "CSS": 61047,
+      "CSS": 61121,
       "CoffeeScript": 2988,
       "HTML": 3982226,
-      "JavaScript": 1508319,
+      "JavaScript": 1508728,
       "LiveScript": 31670,
       "PHP": 5076
     },
     "name": "pcc",
     "readme_filename": "mlwmlw`pcc`README.md",
-    "updated_at": "2018-11-07T16:06:22Z",
+    "updated_at": "2018-11-08T15:59:16Z",
     "url": "https://api.github.com/repos/mlwmlw/pcc"
   },
   "nansenat16/jobhelper-ie": {
