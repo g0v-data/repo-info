@@ -1339,14 +1339,14 @@
     "languages": {
       "CSS": 753977,
       "Dockerfile": 504,
-      "HTML": 19177871,
+      "HTML": 19178641,
       "JavaScript": 5623957,
       "Python": 825716,
       "Shell": 4773
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-11-15T13:46:59Z",
+    "updated_at": "2018-11-16T08:12:13Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -2374,14 +2374,14 @@
     "description": "A quick & dirty fork a Hackdash for g0v Civic Tech Grant Submission and Public Review Process",
     "html_url": "https://github.com/g0v/grantdash",
     "languages": {
-      "CSS": 86980,
+      "CSS": 87259,
       "Dockerfile": 111,
-      "HTML": 140514,
+      "HTML": 141330,
       "JavaScript": 730590
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2018-11-15T18:32:34Z",
+    "updated_at": "2018-11-16T08:23:43Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -2723,7 +2723,7 @@
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
-    "updated_at": "2018-11-15T18:49:10Z",
+    "updated_at": "2018-11-16T07:52:47Z",
     "url": "https://api.github.com/repos/g0v/jothon-net"
   },
   "g0v/kage.json": {
@@ -3360,7 +3360,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2018-11-11T06:15:30Z",
+    "updated_at": "2018-11-16T05:48:36Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -4475,7 +4475,7 @@
       "HTML": 3322
     },
     "name": "summit.g0v.tw",
-    "updated_at": "2018-11-14T22:39:38Z",
+    "updated_at": "2018-11-15T22:40:37Z",
     "url": "https://api.github.com/repos/g0v/summit.g0v.tw"
   },
   "g0v/summit2018": {
