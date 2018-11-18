@@ -1029,9 +1029,12 @@
   "g0v/banner": {
     "description": "Code for a header that states that a website was made by the g0v team. ",
     "html_url": "https://github.com/g0v/banner",
-    "languages": {},
+    "languages": {
+      "TypeScript": 1015
+    },
     "name": "banner",
-    "updated_at": "2018-11-14T12:29:09Z",
+    "readme_filename": "g0v`banner`README.md",
+    "updated_at": "2018-11-18T16:10:38Z",
     "url": "https://api.github.com/repos/g0v/banner"
   },
   "g0v/beSafe": {
@@ -1339,14 +1342,14 @@
     "languages": {
       "CSS": 753977,
       "Dockerfile": 504,
-      "HTML": 19178641,
+      "HTML": 19178651,
       "JavaScript": 5623957,
       "Python": 825716,
       "Shell": 4773
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-11-16T08:12:13Z",
+    "updated_at": "2018-11-18T13:53:05Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1923,14 +1926,14 @@
     "description": null,
     "html_url": "https://github.com/g0v/for-marriage-equality",
     "languages": {
-      "CSS": 11131,
+      "CSS": 10656,
       "HTML": 2134,
       "JavaScript": 69031,
-      "TypeScript": 25148
+      "TypeScript": 25253
     },
     "name": "for-marriage-equality",
     "readme_filename": "g0v`for-marriage-equality`README.md",
-    "updated_at": "2018-11-17T02:18:31Z",
+    "updated_at": "2018-11-18T15:48:24Z",
     "url": "https://api.github.com/repos/g0v/for-marriage-equality"
   },
   "g0v/foundationtw": {
