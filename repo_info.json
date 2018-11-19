@@ -985,7 +985,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2018-10-08T16:16:19Z",
+    "updated_at": "2018-11-19T10:09:39Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1030,11 +1030,11 @@
     "description": "Code for a header that states that a website was made by the g0v team. ",
     "html_url": "https://github.com/g0v/banner",
     "languages": {
-      "TypeScript": 1015
+      "TypeScript": 1018
     },
     "name": "banner",
     "readme_filename": "g0v`banner`README.md",
-    "updated_at": "2018-11-18T16:10:38Z",
+    "updated_at": "2018-11-19T17:29:36Z",
     "url": "https://api.github.com/repos/g0v/banner"
   },
   "g0v/beSafe": {
@@ -1926,14 +1926,14 @@
     "description": null,
     "html_url": "https://github.com/g0v/for-marriage-equality",
     "languages": {
-      "CSS": 10656,
-      "HTML": 2134,
+      "CSS": 6238,
+      "HTML": 2223,
       "JavaScript": 69031,
-      "TypeScript": 25253
+      "TypeScript": 28904
     },
     "name": "for-marriage-equality",
     "readme_filename": "g0v`for-marriage-equality`README.md",
-    "updated_at": "2018-11-18T15:48:24Z",
+    "updated_at": "2018-11-19T17:50:31Z",
     "url": "https://api.github.com/repos/g0v/for-marriage-equality"
   },
   "g0v/foundationtw": {
@@ -2379,12 +2379,12 @@
     "languages": {
       "CSS": 87259,
       "Dockerfile": 111,
-      "HTML": 141330,
+      "HTML": 141501,
       "JavaScript": 730590
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2018-11-16T08:23:43Z",
+    "updated_at": "2018-11-19T08:20:54Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -2888,7 +2888,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2018-07-31T09:09:30Z",
+    "updated_at": "2018-11-19T12:49:59Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/landing-page": {
@@ -3363,7 +3363,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2018-11-16T05:48:36Z",
+    "updated_at": "2018-11-19T08:20:06Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
