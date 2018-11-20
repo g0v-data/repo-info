@@ -1342,14 +1342,14 @@
     "languages": {
       "CSS": 753977,
       "Dockerfile": 504,
-      "HTML": 19178651,
+      "HTML": 19182976,
       "JavaScript": 5623957,
       "Python": 825716,
       "Shell": 4773
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-11-18T13:53:05Z",
+    "updated_at": "2018-11-20T18:58:22Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1630,7 +1630,7 @@
     "languages": {},
     "name": "domain",
     "readme_filename": "g0v`domain`README.md",
-    "updated_at": "2018-11-14T09:33:54Z",
+    "updated_at": "2018-11-20T10:08:53Z",
     "url": "https://api.github.com/repos/g0v/domain"
   },
   "g0v/don-constitute": {
@@ -1926,14 +1926,14 @@
     "description": null,
     "html_url": "https://github.com/g0v/for-marriage-equality",
     "languages": {
-      "CSS": 6238,
+      "CSS": 6316,
       "HTML": 2223,
       "JavaScript": 69031,
-      "TypeScript": 28904
+      "TypeScript": 27925
     },
     "name": "for-marriage-equality",
     "readme_filename": "g0v`for-marriage-equality`README.md",
-    "updated_at": "2018-11-19T17:50:31Z",
+    "updated_at": "2018-11-20T04:48:05Z",
     "url": "https://api.github.com/repos/g0v/for-marriage-equality"
   },
   "g0v/foundationtw": {
@@ -2888,7 +2888,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2018-11-19T12:49:59Z",
+    "updated_at": "2018-11-20T02:27:10Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/landing-page": {
@@ -3795,13 +3795,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 44618,
+      "Perl": 45080,
       "Perl 6": 1209,
       "Shell": 445
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-11-10T14:56:31Z",
+    "updated_at": "2018-11-20T00:06:28Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
