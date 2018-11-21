@@ -65,7 +65,7 @@
     },
     "name": "billy3321.github.io",
     "readme_filename": "billy3321`billy3321.github.io`README.md",
-    "updated_at": "2018-11-08T02:53:36Z",
+    "updated_at": "2018-11-21T13:13:26Z",
     "url": "https://api.github.com/repos/billy3321/billy3321.github.io"
   },
   "cades/taipei-building-has-reward": {
@@ -1342,14 +1342,14 @@
     "languages": {
       "CSS": 753977,
       "Dockerfile": 504,
-      "HTML": 19182976,
+      "HTML": 19182956,
       "JavaScript": 5623957,
-      "Python": 825716,
+      "Python": 826183,
       "Shell": 4773
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-11-20T18:58:22Z",
+    "updated_at": "2018-11-21T16:09:40Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1928,12 +1928,12 @@
     "languages": {
       "CSS": 6316,
       "HTML": 2223,
-      "JavaScript": 69031,
-      "TypeScript": 27925
+      "JavaScript": 64083,
+      "TypeScript": 26123
     },
     "name": "for-marriage-equality",
     "readme_filename": "g0v`for-marriage-equality`README.md",
-    "updated_at": "2018-11-20T04:48:05Z",
+    "updated_at": "2018-11-21T12:00:31Z",
     "url": "https://api.github.com/repos/g0v/for-marriage-equality"
   },
   "g0v/foundationtw": {
@@ -2384,7 +2384,7 @@
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2018-11-19T08:20:54Z",
+    "updated_at": "2018-11-21T07:50:35Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -3941,14 +3941,14 @@
     "description": "Report of g0v Civic Tech Prototype Grant",
     "html_url": "https://github.com/g0v/power",
     "languages": {
-      "CSS": 15563,
+      "CSS": 15607,
       "HTML": 3413,
-      "JavaScript": 74590,
+      "JavaScript": 75478,
       "Shell": 495
     },
     "name": "power",
     "readme_filename": "g0v`power`README.md",
-    "updated_at": "2018-10-19T09:05:49Z",
+    "updated_at": "2018-11-21T12:28:57Z",
     "url": "https://api.github.com/repos/g0v/power"
   },
   "g0v/powergrid": {
@@ -4201,13 +4201,13 @@
     "description": null,
     "html_url": "https://github.com/g0v/referendum",
     "languages": {
-      "CSS": 2641,
+      "CSS": 3917,
       "HTML": 1595,
-      "JavaScript": 9566
+      "JavaScript": 13438
     },
     "name": "referendum",
     "readme_filename": "g0v`referendum`README.md",
-    "updated_at": "2018-11-15T16:57:32Z",
+    "updated_at": "2018-11-21T14:12:28Z",
     "url": "https://api.github.com/repos/g0v/referendum"
   },
   "g0v/repo-info": {
