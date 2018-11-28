@@ -1034,7 +1034,7 @@
     },
     "name": "banner",
     "readme_filename": "g0v`banner`README.md",
-    "updated_at": "2018-11-19T17:29:36Z",
+    "updated_at": "2018-11-28T13:21:21Z",
     "url": "https://api.github.com/repos/g0v/banner"
   },
   "g0v/beSafe": {
@@ -1342,14 +1342,14 @@
     "languages": {
       "CSS": 753977,
       "Dockerfile": 504,
-      "HTML": 19183711,
+      "HTML": 19183856,
       "JavaScript": 5623957,
       "Python": 829561,
       "Shell": 4773
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-11-26T02:05:58Z",
+    "updated_at": "2018-11-28T14:51:17Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1630,7 +1630,7 @@
     "languages": {},
     "name": "domain",
     "readme_filename": "g0v`domain`README.md",
-    "updated_at": "2018-11-26T07:58:19Z",
+    "updated_at": "2018-11-28T15:51:22Z",
     "url": "https://api.github.com/repos/g0v/domain"
   },
   "g0v/don-constitute": {
@@ -1942,7 +1942,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-11-27T18:02:15Z",
+    "updated_at": "2018-11-28T18:02:23Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2889,7 +2889,7 @@
     },
     "name": "labor-standards-tw",
     "readme_filename": "g0v`labor-standards-tw`README.md",
-    "updated_at": "2018-11-20T02:27:10Z",
+    "updated_at": "2018-11-28T14:53:58Z",
     "url": "https://api.github.com/repos/g0v/labor-standards-tw"
   },
   "g0v/landing-page": {
@@ -4221,7 +4221,7 @@
     },
     "name": "referendum_report",
     "readme_filename": "g0v`referendum_report`README.md",
-    "updated_at": "2018-11-26T21:51:36Z",
+    "updated_at": "2018-11-28T08:57:02Z",
     "url": "https://api.github.com/repos/g0v/referendum_report"
   },
   "g0v/repo-info": {
@@ -5166,7 +5166,7 @@
     },
     "name": "zh-stroke-data",
     "readme_filename": "g0v`zh-stroke-data`README.md",
-    "updated_at": "2018-06-11T14:11:17Z",
+    "updated_at": "2018-11-28T10:24:16Z",
     "url": "https://api.github.com/repos/g0v/zh-stroke-data"
   },
   "godgunman/ncc-complain-data": {
