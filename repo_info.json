@@ -1942,7 +1942,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-11-30T18:02:01Z",
+    "updated_at": "2018-12-01T18:01:55Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2940,13 +2940,13 @@
     "g0vjson_filename": "g0v`laweasyread-front`g0v.json",
     "html_url": "https://github.com/g0v/laweasyread-front",
     "languages": {
-      "CSS": 5283,
-      "HTML": 6230,
-      "JavaScript": 970365
+      "CSS": 3785,
+      "HTML": 10599,
+      "JavaScript": 39902
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2018-11-08T18:22:51Z",
+    "updated_at": "2018-12-01T19:50:37Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
@@ -4221,7 +4221,7 @@
     },
     "name": "referendum_report",
     "readme_filename": "g0v`referendum_report`README.md",
-    "updated_at": "2018-11-30T18:44:47Z",
+    "updated_at": "2018-12-01T07:54:47Z",
     "url": "https://api.github.com/repos/g0v/referendum_report"
   },
   "g0v/repo-info": {
