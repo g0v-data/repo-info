@@ -21,13 +21,23 @@
 
 ## 使用說明
 
-* 使用網頁程式輸入資料（如使用 Evernote ）時請關閉，或將之加入例外清單。
+* 目前針對「瀏覽器外掛」開發。如網站管理者欲在網站中「內嵌」此功能，請參閱[舊版說明](https://github.com/g0v/laweasyread-front/tree/v0.4#embed-javascript-in-websites-or-blogs)。
+* 使用網頁程式輸入資料（如使用 Evernote ）時請關閉「自動轉換」功能，或將之加入例外清單。
 * 僅針收錄於中華民國法務部的全國法規資料庫的法規。
 * 頁面較複雜或資料較多時，不會瞬間轉換完畢。
 * 本程式不保證資料安全與執行穩定，亦不保證提供之資料、連結之正確性。
+* 已知的難解問題：
+  * 在網頁提到「德國憲法」、「日本憲法」時，「憲法」仍會轉換到中華民國憲法。
+  * 在網頁提到「輔仁大學法律系」（或其他學校的法律系）時，當中的「大學法」仍會被比對到。
 
 
 # Development
+
+## 運作原理
+
+利用 [domCrawler](https://github.com/kong0107/domCrawler) 找到所有文字節點，對所有文字節點比對所有法條名稱，然後將單一文字節點依規則替換成新的節點們。
+法規名稱與法條內文取自其他專案 [mojLawSplitJSON](https://github.com/kong0107/mojLawSplitJSON) 與 [jyi](https://github.com/kong0107/jyi) 。
+
 
 ## Files
 
@@ -86,3 +96,17 @@
   * [全民健康保險藥物給付項目及支付標準第75條](https://law.moj.gov.tw/LawClass/LawSingleIf.aspx?Pcode=L0060035&FLNO=75)
 * 原始資料缺漏一些標點符號：
   * [中央研究院組織法 第7條](https://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=A0010016&FLNO=7)第2款
+
+# License
+
+[MIT License](http://en.wikipedia.org/wiki/MIT_License)再加上一條：
+被授權人於出版發行、散布、再授權及販售軟體及軟體的副本時，應於MIT授權條款上方或下方加上此規則，並：
+* 陳述被授權人對於一個以上之公共議題之立場；或
+* 附上與其立場類似之文章之永久連結。
+
+此軟體此版本設定之公共議題為「性別」，立場為「性解放」，支持十歲以上智識者均得自主與人發生性行為與性交易，「性忠貞」並不是「道德」的一部份。（參閱[反守貞地圖．哲學哲學雞蛋糕](http://phiphicake.blogspot.tw/2013/06/blog-post_4.html)。惟亦請留意諸多國家規定與未達法定年齡者合意性交、性交易仍需受刑事或行政處罰。於中華民國，與未滿十六歲者合意猥褻或性交、引誘未滿十八歲者為猥褻或性交，以及與任何人為有對價之性交或猥褻行為，均為法律所禁止。參閱[刑法第227條](http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=C0000001&FLNO=227)、[兒童及少年福利與權益保障法第2條、第49條第9款、第97條第1項](http://law.moj.gov.tw/LawClass/LawSearchNo.aspx?PC=D0050001&SNo=2,49,97)、[兒童及少年性剝削防制條例第2條、第31條](http://law.moj.gov.tw/LawClass/LawSearchNo.aspx?PC=D0050023&SNo=2,31)、[社會秩序維護法第80條](http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=D0080067&FLNO=80)。）
+
+## License Explanation
+
+* 於其軟體再版時，得變更議題與立場、連結。
+* 軟體之使用與修改者，無須同意原軟體授權條款中，基於本規則而對特定議題表態之立場。

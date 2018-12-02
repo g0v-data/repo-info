@@ -2049,7 +2049,7 @@
     },
     "name": "g0v-tour-guide",
     "readme_filename": "g0v`g0v-tour-guide`README.md",
-    "updated_at": "2014-09-03T04:46:49Z",
+    "updated_at": "2018-12-02T12:16:42Z",
     "url": "https://api.github.com/repos/g0v/g0v-tour-guide"
   },
   "g0v/g0v-wiki": {
@@ -2799,7 +2799,7 @@
     },
     "name": "kuansim",
     "readme_filename": "g0v`kuansim`README.md",
-    "updated_at": "2017-10-02T10:24:02Z",
+    "updated_at": "2018-12-02T12:16:39Z",
     "url": "https://api.github.com/repos/g0v/kuansim"
   },
   "g0v/kuansim-backend": {
@@ -2941,12 +2941,12 @@
     "html_url": "https://github.com/g0v/laweasyread-front",
     "languages": {
       "CSS": 3785,
-      "HTML": 10599,
-      "JavaScript": 39902
+      "HTML": 10669,
+      "JavaScript": 40148
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2018-12-01T19:50:37Z",
+    "updated_at": "2018-12-02T10:08:10Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
@@ -4221,7 +4221,7 @@
     },
     "name": "referendum_report",
     "readme_filename": "g0v`referendum_report`README.md",
-    "updated_at": "2018-12-01T07:54:47Z",
+    "updated_at": "2018-12-02T21:31:15Z",
     "url": "https://api.github.com/repos/g0v/referendum_report"
   },
   "g0v/repo-info": {
@@ -4723,7 +4723,7 @@
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-11-05T03:27:29Z",
+    "updated_at": "2018-12-02T06:56:59Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -5197,7 +5197,7 @@
     },
     "name": "hackfoldr-2.0",
     "readme_filename": "hackfoldr`hackfoldr-2.0`README.md",
-    "updated_at": "2018-08-17T15:44:15Z",
+    "updated_at": "2018-12-02T12:16:18Z",
     "url": "https://api.github.com/repos/hackfoldr/hackfoldr-2.0"
   },
   "immortalmice/Real-time-Air-Quality-Map": {
