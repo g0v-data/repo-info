@@ -43,13 +43,12 @@
 
 * `README.md`: 此說明文件
 * `changelog.md`: [更新紀錄](changelog.md)
+* `changelog-dev.md`: [開發紀錄](changelog-dev.md)
 * `g0v.json`: G0V 專案設定
 * `package.json`: Node.js 專案設定
 * `maniffest.json`: 瀏覽器擴充功能設定
 * `LER.js`: 本專案主程式
-* `parseData.js`: 將其他資料轉為本專案所需的資料並存為 `data.js`
-* `data.json`: 法規名稱資料，由 `parseData.js` 產生
-* `aliases.json`: 本專案法規簡稱資料，需手動維護
+* `parseData.js`: 將其他資料轉為本專案所需的資料並存為 `data/laws.js`
 
 
 ## Milestones
@@ -88,7 +87,7 @@
 ## 重點檢查條文
 
 * 不符合中央法規標準法所定的格式：
-  * [所得稅法第4條（第1項第22款第2段）、第14條（第1項第9類第1款第2段）、第17條（第1項第2款第3目之6.(2)）](https://law.moj.gov.tw/LawClass/LawSearchNoIf.aspx?PC=G0340003&DF=&SNo=4%2c14%2c17)
+  * [所得稅法第4條（第1項第16款第2段、第22款第3段）、第14條（第1項第9類第1款第2段）、第17條（第1項第2款第3目之6.(2)）](https://law.moj.gov.tw/LawClass/LawSearchNoIf.aspx?PC=G0340003&DF=&SNo=4%2c14%2c17)
   * [土地法第2條](https://law.moj.gov.tw/LawClass/LawSingleIf.aspx?Pcode=D0060001&FLNO=2)
 * 多個條文引用，且條文引用包含「前段」、「但書」等字樣：
   * [行政訴訟法第131條](https://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=A0030154&FLNO=131)

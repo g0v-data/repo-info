@@ -1942,7 +1942,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-03T18:02:12Z",
+    "updated_at": "2018-12-04T18:02:33Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2379,12 +2379,12 @@
     "languages": {
       "CSS": 87259,
       "Dockerfile": 111,
-      "HTML": 141872,
+      "HTML": 141873,
       "JavaScript": 730754
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2018-11-30T09:09:50Z",
+    "updated_at": "2018-12-04T14:29:12Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -2940,13 +2940,13 @@
     "g0vjson_filename": "g0v`laweasyread-front`g0v.json",
     "html_url": "https://github.com/g0v/laweasyread-front",
     "languages": {
-      "CSS": 4116,
-      "HTML": 10856,
-      "JavaScript": 42439
+      "CSS": 4112,
+      "HTML": 14114,
+      "JavaScript": 43988
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2018-12-03T21:31:50Z",
+    "updated_at": "2018-12-04T20:20:21Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
