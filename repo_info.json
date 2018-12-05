@@ -1942,7 +1942,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-04T18:02:33Z",
+    "updated_at": "2018-12-05T18:02:17Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2940,13 +2940,13 @@
     "g0vjson_filename": "g0v`laweasyread-front`g0v.json",
     "html_url": "https://github.com/g0v/laweasyread-front",
     "languages": {
-      "CSS": 4112,
-      "HTML": 14114,
-      "JavaScript": 43988
+      "CSS": 4735,
+      "HTML": 14324,
+      "JavaScript": 48016
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2018-12-04T20:20:21Z",
+    "updated_at": "2018-12-05T16:34:48Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
@@ -3498,7 +3498,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-11-06T04:23:24Z",
+    "updated_at": "2018-12-05T02:11:47Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3942,14 +3942,14 @@
     "description": "Report of g0v Civic Tech Prototype Grant",
     "html_url": "https://github.com/g0v/power",
     "languages": {
-      "CSS": 15607,
+      "CSS": 20122,
       "HTML": 3413,
-      "JavaScript": 75478,
+      "JavaScript": 77378,
       "Shell": 495
     },
     "name": "power",
     "readme_filename": "g0v`power`README.md",
-    "updated_at": "2018-11-21T12:28:57Z",
+    "updated_at": "2018-12-05T14:17:41Z",
     "url": "https://api.github.com/repos/g0v/power"
   },
   "g0v/powergrid": {
@@ -4221,7 +4221,7 @@
     },
     "name": "referendum_report",
     "readme_filename": "g0v`referendum_report`README.md",
-    "updated_at": "2018-12-03T02:43:40Z",
+    "updated_at": "2018-12-05T14:40:18Z",
     "url": "https://api.github.com/repos/g0v/referendum_report"
   },
   "g0v/repo-info": {
@@ -4734,7 +4734,7 @@
     },
     "name": "tw-shift-schedule",
     "readme_filename": "g0v`tw-shift-schedule`README.md",
-    "updated_at": "2018-09-14T12:15:07Z",
+    "updated_at": "2018-12-05T17:57:33Z",
     "url": "https://api.github.com/repos/g0v/tw-shift-schedule"
   },
   "g0v/tw-shift-schedule-ui": {
