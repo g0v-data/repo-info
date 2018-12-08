@@ -965,6 +965,16 @@
     "updated_at": "2016-10-25T12:04:40Z",
     "url": "https://api.github.com/repos/g0v/askkk"
   },
+  "g0v/assets": {
+    "description": null,
+    "html_url": "https://github.com/g0v/assets",
+    "languages": {
+      "HTML": 34
+    },
+    "name": "assets",
+    "updated_at": "2018-12-08T08:45:54Z",
+    "url": "https://api.github.com/repos/g0v/assets"
+  },
   "g0v/automate.tscs": {
     "description": "Semi-automate Taiwan Social Change Survey cross-year result",
     "html_url": "https://github.com/g0v/automate.tscs",
@@ -1034,7 +1044,7 @@
     },
     "name": "banner",
     "readme_filename": "g0v`banner`README.md",
-    "updated_at": "2018-11-28T13:21:21Z",
+    "updated_at": "2018-12-08T04:47:46Z",
     "url": "https://api.github.com/repos/g0v/banner"
   },
   "g0v/beSafe": {
@@ -1942,7 +1952,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-06T18:02:08Z",
+    "updated_at": "2018-12-08T18:02:01Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2149,7 +2159,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2018-10-25T08:34:23Z",
+    "updated_at": "2018-12-08T08:46:42Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -2674,18 +2684,30 @@
     "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 3867,
+      "CSS": 3930,
       "Dockerfile": 822,
       "HTML": 2117,
-      "JavaScript": 516303,
+      "JavaScript": 519135,
       "Python": 21057,
       "Shell": 408,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-11-26T07:52:45Z",
+    "updated_at": "2018-12-08T15:45:46Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
+  },
+  "g0v/itaigi-mia-senn": {
+    "description": "itaigi Miâ-sènn án-tsuánn kóng, 名姓按怎講（姓名怎麼說）",
+    "html_url": "https://github.com/g0v/itaigi-mia-senn",
+    "languages": {
+      "Dockerfile": 237,
+      "Python": 9447
+    },
+    "name": "itaigi-mia-senn",
+    "readme_filename": "g0v`itaigi-mia-senn`README.md",
+    "updated_at": "2018-12-08T08:59:24Z",
+    "url": "https://api.github.com/repos/g0v/itaigi-mia-senn"
   },
   "g0v/ivod-download-client": {
     "description": "ivod download client",
@@ -2946,7 +2968,7 @@
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2018-12-06T18:48:44Z",
+    "updated_at": "2018-12-07T22:55:34Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
@@ -4221,7 +4243,7 @@
     },
     "name": "referendum_report",
     "readme_filename": "g0v`referendum_report`README.md",
-    "updated_at": "2018-12-06T04:51:30Z",
+    "updated_at": "2018-12-08T09:11:54Z",
     "url": "https://api.github.com/repos/g0v/referendum_report"
   },
   "g0v/repo-info": {
