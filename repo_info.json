@@ -750,7 +750,7 @@
     },
     "name": "addressbook-iOS",
     "readme_filename": "g0v`addressbook-iOS`README.md",
-    "updated_at": "2017-11-08T10:01:08Z",
+    "updated_at": "2018-12-09T02:22:39Z",
     "url": "https://api.github.com/repos/g0v/addressbook-iOS"
   },
   "g0v/addressbook.parser": {
@@ -1395,6 +1395,17 @@
     "readme_filename": "g0v`crowdfunding-spec-gitbook`README.md",
     "updated_at": "2016-04-18T07:53:59Z",
     "url": "https://api.github.com/repos/g0v/crowdfunding-spec-gitbook"
+  },
+  "g0v/culture-org-graph": {
+    "description": "台灣文化機構、組織、個人關係圖",
+    "html_url": "https://github.com/g0v/culture-org-graph",
+    "languages": {
+      "JavaScript": 756
+    },
+    "name": "culture-org-graph",
+    "readme_filename": "g0v`culture-org-graph`README.md",
+    "updated_at": "2018-12-09T18:19:27Z",
+    "url": "https://api.github.com/repos/g0v/culture-org-graph"
   },
   "g0v/cuora": {
     "description": "救救食蛇龜",
@@ -2962,13 +2973,13 @@
     "g0vjson_filename": "g0v`laweasyread-front`g0v.json",
     "html_url": "https://github.com/g0v/laweasyread-front",
     "languages": {
-      "CSS": 4800,
-      "HTML": 14351,
-      "JavaScript": 48296
+      "CSS": 5748,
+      "HTML": 13582,
+      "JavaScript": 53827
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2018-12-07T22:55:34Z",
+    "updated_at": "2018-12-09T09:58:46Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
@@ -3386,7 +3397,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2018-11-19T08:20:06Z",
+    "updated_at": "2018-12-09T09:50:09Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3497,7 +3508,7 @@
     },
     "name": "moedict-process",
     "readme_filename": "g0v`moedict-process`README.md",
-    "updated_at": "2018-11-11T06:15:32Z",
+    "updated_at": "2018-12-09T09:50:35Z",
     "url": "https://api.github.com/repos/g0v/moedict-process"
   },
   "g0v/moedict-webkit": {
@@ -3520,7 +3531,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-12-06T15:34:35Z",
+    "updated_at": "2018-12-09T09:49:35Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4243,7 +4254,7 @@
     },
     "name": "referendum_report",
     "readme_filename": "g0v`referendum_report`README.md",
-    "updated_at": "2018-12-08T09:11:54Z",
+    "updated_at": "2018-12-09T06:28:54Z",
     "url": "https://api.github.com/repos/g0v/referendum_report"
   },
   "g0v/repo-info": {
@@ -4739,13 +4750,13 @@
     "languages": {
       "CSS": 129,
       "JavaScript": 2567,
-      "Python": 239543,
+      "Python": 239647,
       "Shell": 756,
       "Vue": 56612
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-12-06T09:25:23Z",
+    "updated_at": "2018-12-09T07:13:15Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -5081,7 +5092,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-11-22T15:23:43Z",
+    "updated_at": "2018-12-09T16:31:43Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {

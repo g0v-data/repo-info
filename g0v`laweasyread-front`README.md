@@ -1,7 +1,7 @@
 # 法規亦毒氣
 
 此瀏覽器外掛
-可將網頁中的法規、條文、大法官解釋加上連結，並可於滑鼠經過時瀏覽其內容；
+可將網頁中的法規、條文、大法官解釋加上連結，並可於同一頁面瀏覽其內容；
 並對全國法規資料庫與立法院法律系統的網頁進行排版調整。
 
 
@@ -13,13 +13,19 @@
 * [開發文件](README-dev.md)
 
 
-## 範例
+## 功能示範
 
 安裝後再瀏覽立法院法律系統：
 ![立法院法律系統使用成效](https://g0v.github.io/laweasyread-front/images/demo_lis.ly.png)
 
 安裝後再瀏覽全國法規資料庫：
 ![全國法規資料庫使用成效](https://g0v.github.io/laweasyread-front/images/demo_moj.png)
+
+
+### 「列出本頁所有法律資料」功能
+
+可在頁面右方列出當前頁面提到的法條與釋字，例如：
+![大法官解釋使用成效](https://g0v.github.io/laweasyread-front/images/demo_constitutionalcourt.png)
 
 
 ## 安裝
