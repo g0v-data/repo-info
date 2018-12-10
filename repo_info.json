@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-08T18:02:01Z",
+    "updated_at": "2018-12-10T18:01:58Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2401,11 +2401,11 @@
       "CSS": 87259,
       "Dockerfile": 111,
       "HTML": 142024,
-      "JavaScript": 730754
+      "JavaScript": 730869
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2018-12-07T10:14:32Z",
+    "updated_at": "2018-12-10T06:04:55Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -2717,7 +2717,7 @@
     },
     "name": "itaigi-mia-senn",
     "readme_filename": "g0v`itaigi-mia-senn`README.md",
-    "updated_at": "2018-12-08T08:59:24Z",
+    "updated_at": "2018-12-10T06:12:10Z",
     "url": "https://api.github.com/repos/g0v/itaigi-mia-senn"
   },
   "g0v/ivod-download-client": {
@@ -3397,7 +3397,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2018-12-09T09:50:09Z",
+    "updated_at": "2018-12-10T02:30:21Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3531,7 +3531,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-12-09T09:49:35Z",
+    "updated_at": "2018-12-10T12:44:29Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3835,7 +3835,7 @@
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-11-20T00:06:28Z",
+    "updated_at": "2018-12-10T16:03:54Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4852,7 +4852,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2018-12-07T00:41:28Z",
+    "updated_at": "2018-12-10T17:13:03Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
