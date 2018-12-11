@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-10T18:01:58Z",
+    "updated_at": "2018-12-11T18:01:58Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2712,12 +2712,12 @@
     "description": "itaigi Miâ-sènn án-tsuánn kóng, 名姓按怎講（姓名怎麼說）",
     "html_url": "https://github.com/g0v/itaigi-mia-senn",
     "languages": {
-      "Dockerfile": 237,
-      "Python": 9447
+      "Dockerfile": 216,
+      "Python": 10083
     },
     "name": "itaigi-mia-senn",
     "readme_filename": "g0v`itaigi-mia-senn`README.md",
-    "updated_at": "2018-12-10T06:12:10Z",
+    "updated_at": "2018-12-11T14:34:14Z",
     "url": "https://api.github.com/repos/g0v/itaigi-mia-senn"
   },
   "g0v/ivod-download-client": {
