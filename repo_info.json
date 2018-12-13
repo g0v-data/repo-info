@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-12T18:01:55Z",
+    "updated_at": "2018-12-13T18:02:01Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2698,14 +2698,14 @@
       "CSS": 3983,
       "Dockerfile": 822,
       "HTML": 2117,
-      "JavaScript": 519239,
+      "JavaScript": 519509,
       "Python": 21057,
       "Shell": 408,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-12-12T04:22:18Z",
+    "updated_at": "2018-12-13T14:11:39Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/itaigi-mia-senn": {
@@ -2713,11 +2713,11 @@
     "html_url": "https://github.com/g0v/itaigi-mia-senn",
     "languages": {
       "Dockerfile": 216,
-      "Python": 11509
+      "Python": 11638
     },
     "name": "itaigi-mia-senn",
     "readme_filename": "g0v`itaigi-mia-senn`README.md",
-    "updated_at": "2018-12-12T07:25:06Z",
+    "updated_at": "2018-12-13T13:42:44Z",
     "url": "https://api.github.com/repos/g0v/itaigi-mia-senn"
   },
   "g0v/ivod-download-client": {
