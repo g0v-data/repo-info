@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-13T18:02:01Z",
+    "updated_at": "2018-12-14T18:01:58Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2400,12 +2400,12 @@
     "languages": {
       "CSS": 87259,
       "Dockerfile": 111,
-      "HTML": 142040,
-      "JavaScript": 730869
+      "HTML": 142012,
+      "JavaScript": 731016
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2018-12-12T07:57:59Z",
+    "updated_at": "2018-12-14T10:05:28Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -2695,17 +2695,17 @@
     "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 3983,
+      "CSS": 4178,
       "Dockerfile": 822,
       "HTML": 2117,
-      "JavaScript": 519509,
+      "JavaScript": 521235,
       "Python": 21057,
       "Shell": 408,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-12-13T14:11:39Z",
+    "updated_at": "2018-12-14T08:53:32Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/itaigi-mia-senn": {
@@ -2753,14 +2753,14 @@
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
       "CSS": 678074,
-      "HTML": 573718,
+      "HTML": 573693,
       "JavaScript": 907038,
       "LiveScript": 101239,
       "Shell": 94
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
-    "updated_at": "2018-11-26T13:10:15Z",
+    "updated_at": "2018-12-14T09:11:37Z",
     "url": "https://api.github.com/repos/g0v/jothon-net"
   },
   "g0v/kage.json": {
@@ -5243,7 +5243,7 @@
     },
     "name": "Real-time-Air-Quality-Map",
     "readme_filename": "immortalmice`Real-time-Air-Quality-Map`README.md",
-    "updated_at": "2018-08-09T17:29:57Z",
+    "updated_at": "2018-12-14T17:14:41Z",
     "url": "https://api.github.com/repos/immortalmice/Real-time-Air-Quality-Map"
   },
   "jcsky/Solveissues": {
