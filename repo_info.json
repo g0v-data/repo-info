@@ -2695,17 +2695,17 @@
     "g0vjson_filename": "g0v`itaigi`g0v.json",
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
-      "CSS": 4178,
+      "CSS": 4449,
       "Dockerfile": 822,
       "HTML": 2117,
-      "JavaScript": 521235,
+      "JavaScript": 522153,
       "Python": 21057,
       "Shell": 408,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2018-12-14T08:53:32Z",
+    "updated_at": "2018-12-15T10:08:54Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/itaigi-mia-senn": {
@@ -2974,12 +2974,12 @@
     "html_url": "https://github.com/g0v/laweasyread-front",
     "languages": {
       "CSS": 5748,
-      "HTML": 13582,
-      "JavaScript": 53827
+      "HTML": 14305,
+      "JavaScript": 54650
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2018-12-09T09:58:46Z",
+    "updated_at": "2018-12-15T20:50:37Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
@@ -3829,13 +3829,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 45080,
+      "Perl": 45130,
       "Perl 6": 1209,
       "Shell": 445
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-12-12T13:57:22Z",
+    "updated_at": "2018-12-15T16:05:51Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
