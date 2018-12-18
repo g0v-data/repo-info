@@ -9,6 +9,9 @@
 
 * [Chrome 擴充功能](https://chrome.google.com/webstore/detail/iedodmlnmhobigohbkalkkjlbmdkjalj)
 * [Firefox 附加元件](https://addons.mozilla.org/zh-TW/firefox/addon/laweasyread/)
+* Opera 延伸套件：
+  1. 先安裝 Opera 官方套件 [Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)
+  2. 即可讓您的 Opera 安裝 [Chrome 擴充功能](https://chrome.google.com/webstore/detail/iedodmlnmhobigohbkalkkjlbmdkjalj)
 * [更新紀錄](changelog.md)
 * [開發文件](README-dev.md)
 
@@ -28,16 +31,9 @@
 ![大法官解釋使用成效](https://g0v.github.io/laweasyread-front/images/demo_constitutionalcourt.png)
 
 
-## 安裝
+## 手動安裝
 
-### 從各瀏覽器的官方網站
-
-* [Chrome 擴充功能](https://chrome.google.com/webstore/detail/iedodmlnmhobigohbkalkkjlbmdkjalj)
-* [Firefox 附加元件](https://addons.mozilla.org/zh-TW/firefox/addon/laweasyread/)
-* Opera 延伸套件 審核中
-
-
-### 手動安裝
+### 瀏覽器外掛
 
 1. 在[發布頁面](https://github.com/g0v/laweasyread-front/tree/gh-pages/dist)下載所需版本，並解壓縮之。
 2. 進入瀏覽器的「擴充功能」設定頁面。

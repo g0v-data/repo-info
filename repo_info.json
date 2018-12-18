@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-17T18:01:57Z",
+    "updated_at": "2018-12-18T18:02:00Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2973,13 +2973,13 @@
     "g0vjson_filename": "g0v`laweasyread-front`g0v.json",
     "html_url": "https://github.com/g0v/laweasyread-front",
     "languages": {
-      "CSS": 5652,
+      "CSS": 5644,
       "HTML": 14426,
-      "JavaScript": 54438
+      "JavaScript": 54563
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2018-12-17T19:32:46Z",
+    "updated_at": "2018-12-18T18:37:55Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
@@ -5673,7 +5673,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2018-12-06T17:44:05Z",
+    "updated_at": "2018-12-18T15:38:32Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
