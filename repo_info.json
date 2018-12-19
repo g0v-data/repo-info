@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-18T18:02:00Z",
+    "updated_at": "2018-12-19T18:02:06Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3829,13 +3829,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 49549,
+      "Perl": 49760,
       "Perl 6": 1209,
       "Shell": 445
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-12-16T04:46:29Z",
+    "updated_at": "2018-12-18T23:55:23Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -5088,11 +5088,11 @@
       "HTML": 6650,
       "JavaScript": 31881,
       "Shell": 1956,
-      "Vue": 90896
+      "Vue": 90999
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-12-09T16:31:43Z",
+    "updated_at": "2018-12-19T20:41:30Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
