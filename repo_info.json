@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-19T18:02:06Z",
+    "updated_at": "2018-12-20T18:01:55Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3397,7 +3397,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2018-12-10T02:30:21Z",
+    "updated_at": "2018-12-20T12:58:27Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -5088,11 +5088,11 @@
       "HTML": 6650,
       "JavaScript": 31881,
       "Shell": 1956,
-      "Vue": 90999
+      "Vue": 91000
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-12-19T20:41:30Z",
+    "updated_at": "2018-12-20T03:04:02Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -5289,7 +5289,7 @@
     },
     "name": "petneed.me",
     "readme_filename": "jsleetw`petneed.me`README.md",
-    "updated_at": "2018-12-16T19:41:31Z",
+    "updated_at": "2018-12-20T10:04:45Z",
     "url": "https://api.github.com/repos/jsleetw/petneed.me"
   },
   "junsuwhy/ly-tel": {
