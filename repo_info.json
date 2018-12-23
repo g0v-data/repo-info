@@ -3977,12 +3977,12 @@
     "languages": {
       "CSS": 20122,
       "HTML": 3413,
-      "JavaScript": 77361,
+      "JavaScript": 76926,
       "Shell": 495
     },
     "name": "power",
     "readme_filename": "g0v`power`README.md",
-    "updated_at": "2018-12-07T09:55:37Z",
+    "updated_at": "2018-12-23T12:19:44Z",
     "url": "https://api.github.com/repos/g0v/power"
   },
   "g0v/powergrid": {
