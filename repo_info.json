@@ -455,7 +455,7 @@
     },
     "name": "HackingMap",
     "readme_filename": "g0v`HackingMap`README.md",
-    "updated_at": "2018-03-16T03:23:40Z",
+    "updated_at": "2018-12-25T11:23:54Z",
     "url": "https://api.github.com/repos/g0v/HackingMap"
   },
   "g0v/LetsFuMouAPI": {
@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-24T18:01:56Z",
+    "updated_at": "2018-12-25T18:02:18Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2405,7 +2405,7 @@
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2018-12-21T09:11:49Z",
+    "updated_at": "2018-12-25T15:08:41Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
@@ -3431,7 +3431,7 @@
     },
     "name": "moedict-data-hakka",
     "readme_filename": "g0v`moedict-data-hakka`README.md",
-    "updated_at": "2018-08-26T01:54:41Z",
+    "updated_at": "2018-12-25T01:46:28Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-hakka"
   },
   "g0v/moedict-data-terms": {
@@ -3531,7 +3531,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-12-22T08:33:00Z",
+    "updated_at": "2018-12-25T09:32:09Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3831,11 +3831,11 @@
     "languages": {
       "Perl": 49760,
       "Perl 6": 1209,
-      "Shell": 445
+      "Shell": 416
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-12-18T23:55:23Z",
+    "updated_at": "2018-12-25T15:54:05Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4331,7 +4331,7 @@
     },
     "name": "roadpin",
     "readme_filename": "g0v`roadpin`README.md",
-    "updated_at": "2018-04-02T06:39:40Z",
+    "updated_at": "2018-12-25T11:14:22Z",
     "url": "https://api.github.com/repos/g0v/roadpin"
   },
   "g0v/sandbox-gitbook": {
@@ -4852,7 +4852,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2018-12-10T17:13:03Z",
+    "updated_at": "2018-12-25T20:38:08Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
@@ -5181,7 +5181,7 @@
     },
     "name": "z0y",
     "readme_filename": "g0v`z0y`README.md",
-    "updated_at": "2017-09-18T16:20:39Z",
+    "updated_at": "2018-12-25T11:02:39Z",
     "url": "https://api.github.com/repos/g0v/z0y"
   },
   "g0v/zh-stroke-data": {
