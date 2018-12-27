@@ -1651,7 +1651,7 @@
     "languages": {},
     "name": "domain",
     "readme_filename": "g0v`domain`README.md",
-    "updated_at": "2018-11-28T15:51:22Z",
+    "updated_at": "2018-12-27T14:25:04Z",
     "url": "https://api.github.com/repos/g0v/domain"
   },
   "g0v/don-constitute": {
@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2018-12-26T18:02:00Z",
+    "updated_at": "2018-12-27T18:02:07Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2717,7 +2717,7 @@
     },
     "name": "itaigi-mia-senn",
     "readme_filename": "g0v`itaigi-mia-senn`README.md",
-    "updated_at": "2018-12-13T13:42:44Z",
+    "updated_at": "2018-12-27T09:17:55Z",
     "url": "https://api.github.com/repos/g0v/itaigi-mia-senn"
   },
   "g0v/ivod-download-client": {
@@ -3829,13 +3829,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 49760,
+      "Perl": 49771,
       "Perl 6": 1209,
       "Shell": 416
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-12-25T15:54:05Z",
+    "updated_at": "2018-12-27T00:55:17Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -5092,7 +5092,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-12-20T03:04:02Z",
+    "updated_at": "2018-12-26T23:58:33Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -5784,7 +5784,7 @@
     },
     "name": "newshelper-safari",
     "readme_filename": "yllan`newshelper-safari`README.md",
-    "updated_at": "2018-11-06T15:31:08Z",
+    "updated_at": "2018-12-26T23:56:17Z",
     "url": "https://api.github.com/repos/yllan/newshelper-safari"
   },
   "zbryikt/g0vphotos": {
