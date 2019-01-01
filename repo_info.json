@@ -2170,7 +2170,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2018-12-28T13:40:36Z",
+    "updated_at": "2019-01-01T17:49:16Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -2973,13 +2973,13 @@
     "g0vjson_filename": "g0v`laweasyread-front`g0v.json",
     "html_url": "https://github.com/g0v/laweasyread-front",
     "languages": {
-      "CSS": 5644,
-      "HTML": 14426,
-      "JavaScript": 54563
+      "CSS": 5881,
+      "HTML": 14180,
+      "JavaScript": 54735
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2018-12-18T18:37:55Z",
+    "updated_at": "2019-01-01T14:02:26Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
@@ -3531,7 +3531,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2018-12-28T12:31:16Z",
+    "updated_at": "2019-01-01T17:49:04Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4752,11 +4752,11 @@
       "JavaScript": 2567,
       "Python": 239647,
       "Shell": 756,
-      "Vue": 56612
+      "Vue": 56717
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2018-12-09T07:13:15Z",
+    "updated_at": "2019-01-01T15:54:06Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -5433,14 +5433,14 @@
     "languages": {
       "CSS": 61121,
       "CoffeeScript": 2988,
-      "HTML": 3982226,
-      "JavaScript": 1508780,
-      "LiveScript": 31670,
+      "HTML": 3982225,
+      "JavaScript": 1518003,
+      "LiveScript": 33228,
       "PHP": 5076
     },
     "name": "pcc",
     "readme_filename": "mlwmlw`pcc`README.md",
-    "updated_at": "2018-11-12T14:28:19Z",
+    "updated_at": "2019-01-01T19:17:36Z",
     "url": "https://api.github.com/repos/mlwmlw/pcc"
   },
   "nansenat16/jobhelper-ie": {
