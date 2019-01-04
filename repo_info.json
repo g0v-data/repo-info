@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-01-03T18:01:56Z",
+    "updated_at": "2019-01-04T18:02:04Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3543,7 +3543,7 @@
     },
     "name": "moedict.tw",
     "readme_filename": "g0v`moedict.tw`README.md",
-    "updated_at": "2018-11-12T06:55:51Z",
+    "updated_at": "2019-01-04T02:38:15Z",
     "url": "https://api.github.com/repos/g0v/moedict.tw"
   },
   "g0v/moer.g0v.tw": {
@@ -3829,13 +3829,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 51583,
+      "Perl": 53022,
       "Perl 6": 1209,
       "Shell": 416
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2018-12-30T03:42:23Z",
+    "updated_at": "2019-01-04T15:24:16Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -5434,13 +5434,13 @@
       "CSS": 61121,
       "CoffeeScript": 2988,
       "HTML": 3982225,
-      "JavaScript": 1518067,
+      "JavaScript": 1518097,
       "LiveScript": 33228,
       "PHP": 5076
     },
     "name": "pcc",
     "readme_filename": "mlwmlw`pcc`README.md",
-    "updated_at": "2019-01-02T15:00:57Z",
+    "updated_at": "2019-01-04T15:25:41Z",
     "url": "https://api.github.com/repos/mlwmlw/pcc"
   },
   "nansenat16/jobhelper-ie": {
