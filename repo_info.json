@@ -37,7 +37,7 @@
     },
     "name": "moe",
     "readme_filename": "audreyt`moe`README.md",
-    "updated_at": "2018-03-14T08:31:42Z",
+    "updated_at": "2019-01-05T13:54:29Z",
     "url": "https://api.github.com/repos/audreyt/moe"
   },
   "bestian/goban": {
@@ -590,7 +590,7 @@
     },
     "name": "TWControlYuanData",
     "readme_filename": "g0v`TWControlYuanData`README.md",
-    "updated_at": "2018-06-17T18:25:05Z",
+    "updated_at": "2019-01-05T04:39:58Z",
     "url": "https://api.github.com/repos/g0v/TWControlYuanData"
   },
   "g0v/TWDoorplates": {
@@ -3409,7 +3409,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2018-10-14T00:37:06Z",
+    "updated_at": "2019-01-05T05:20:11Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -3829,13 +3829,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 53022,
+      "Perl": 53787,
       "Perl 6": 1209,
       "Shell": 416
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-01-04T15:24:16Z",
+    "updated_at": "2019-01-05T16:33:27Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4598,7 +4598,7 @@
     "languages": {},
     "name": "taipei",
     "readme_filename": "g0v`taipei`README.md",
-    "updated_at": "2018-10-17T04:40:18Z",
+    "updated_at": "2019-01-05T04:58:27Z",
     "url": "https://api.github.com/repos/g0v/taipei"
   },
   "g0v/tcbus": {
