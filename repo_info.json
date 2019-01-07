@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-01-04T18:02:04Z",
+    "updated_at": "2019-01-07T18:02:03Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3425,13 +3425,13 @@
     "description": "臺灣客家語常用詞辭典 資料檔",
     "html_url": "https://github.com/g0v/moedict-data-hakka",
     "languages": {
-      "LiveScript": 6651,
+      "LiveScript": 6616,
       "Makefile": 628,
       "Python": 3538
     },
     "name": "moedict-data-hakka",
     "readme_filename": "g0v`moedict-data-hakka`README.md",
-    "updated_at": "2018-12-25T01:46:28Z",
+    "updated_at": "2019-01-07T16:34:15Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-hakka"
   },
   "g0v/moedict-data-terms": {
@@ -3835,7 +3835,7 @@
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-01-06T16:02:36Z",
+    "updated_at": "2019-01-07T00:35:25Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4852,7 +4852,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2018-12-25T20:38:08Z",
+    "updated_at": "2019-01-07T09:45:35Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
@@ -5092,7 +5092,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2018-12-26T23:58:33Z",
+    "updated_at": "2019-01-07T01:26:03Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
@@ -5434,13 +5434,13 @@
       "CSS": 61121,
       "CoffeeScript": 2988,
       "HTML": 3982225,
-      "JavaScript": 1521147,
+      "JavaScript": 1521122,
       "LiveScript": 33228,
       "PHP": 5076
     },
     "name": "pcc",
     "readme_filename": "mlwmlw`pcc`README.md",
-    "updated_at": "2019-01-06T15:58:25Z",
+    "updated_at": "2019-01-07T15:42:48Z",
     "url": "https://api.github.com/repos/mlwmlw/pcc"
   },
   "nansenat16/jobhelper-ie": {
