@@ -826,7 +826,7 @@
     },
     "name": "amis-moedict",
     "readme_filename": "g0v`amis-moedict`README.md",
-    "updated_at": "2018-09-27T06:41:13Z",
+    "updated_at": "2019-01-10T15:12:55Z",
     "url": "https://api.github.com/repos/g0v/amis-moedict"
   },
   "g0v/angular-laweasyread": {
@@ -1359,7 +1359,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2018-12-03T11:37:17Z",
+    "updated_at": "2019-01-10T03:14:09Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-01-09T18:02:00Z",
+    "updated_at": "2019-01-10T18:02:06Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2170,7 +2170,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2019-01-01T17:49:16Z",
+    "updated_at": "2019-01-10T01:15:22Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -2400,12 +2400,12 @@
     "languages": {
       "CSS": 87259,
       "Dockerfile": 111,
-      "HTML": 141885,
+      "HTML": 140954,
       "JavaScript": 731016
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2019-01-03T05:12:30Z",
+    "updated_at": "2019-01-10T07:36:07Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
