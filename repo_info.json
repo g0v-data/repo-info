@@ -2705,7 +2705,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2019-01-03T06:23:21Z",
+    "updated_at": "2019-01-12T09:35:53Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/itaigi-mia-senn": {
@@ -3835,7 +3835,7 @@
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-01-07T00:35:25Z",
+    "updated_at": "2019-01-12T11:54:56Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -5434,13 +5434,13 @@
       "CSS": 61121,
       "CoffeeScript": 2988,
       "HTML": 3982225,
-      "JavaScript": 1521048,
+      "JavaScript": 1522352,
       "LiveScript": 33228,
       "PHP": 5076
     },
     "name": "pcc",
     "readme_filename": "mlwmlw`pcc`README.md",
-    "updated_at": "2019-01-09T15:52:26Z",
+    "updated_at": "2019-01-12T15:48:51Z",
     "url": "https://api.github.com/repos/mlwmlw/pcc"
   },
   "nansenat16/jobhelper-ie": {
