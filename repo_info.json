@@ -1566,7 +1566,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2018-12-06T09:50:56Z",
+    "updated_at": "2019-01-15T04:42:36Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-01-14T18:01:59Z",
+    "updated_at": "2019-01-15T18:02:20Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2170,7 +2170,7 @@
     },
     "name": "g0v.tw",
     "readme_filename": "g0v`g0v.tw`README.md",
-    "updated_at": "2019-01-10T01:15:22Z",
+    "updated_at": "2019-01-15T04:42:30Z",
     "url": "https://api.github.com/repos/g0v/g0v.tw"
   },
   "g0v/g0vHackpads2PadagraphIO": {
@@ -2705,7 +2705,7 @@
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2019-01-12T09:35:53Z",
+    "updated_at": "2019-01-15T19:10:52Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/itaigi-mia-senn": {
@@ -3829,13 +3829,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 53628,
+      "Perl": 55254,
       "Perl 6": 1209,
       "Shell": 416
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-01-12T11:54:56Z",
+    "updated_at": "2019-01-15T01:06:00Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -5092,7 +5092,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2019-01-07T01:26:03Z",
+    "updated_at": "2019-01-15T16:33:39Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
