@@ -1651,7 +1651,7 @@
     "languages": {},
     "name": "domain",
     "readme_filename": "g0v`domain`README.md",
-    "updated_at": "2018-12-27T14:25:04Z",
+    "updated_at": "2019-01-26T14:19:46Z",
     "url": "https://api.github.com/repos/g0v/domain"
   },
   "g0v/don-constitute": {
@@ -2696,16 +2696,16 @@
     "html_url": "https://github.com/g0v/itaigi",
     "languages": {
       "CSS": 4449,
-      "Dockerfile": 822,
+      "Dockerfile": 895,
       "HTML": 2117,
-      "JavaScript": 522153,
-      "Python": 21057,
+      "JavaScript": 522204,
+      "Python": 21226,
       "Shell": 408,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2019-01-15T19:10:52Z",
+    "updated_at": "2019-01-26T15:06:40Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/itaigi-mia-senn": {
@@ -3387,7 +3387,7 @@
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2018-09-24T00:19:16Z",
+    "updated_at": "2019-01-26T17:15:14Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
@@ -3397,7 +3397,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2018-12-20T12:58:27Z",
+    "updated_at": "2019-01-26T11:09:04Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3452,14 +3452,14 @@
     "html_url": "https://github.com/g0v/moedict-data-twblg",
     "languages": {
       "Dockerfile": 304,
-      "LiveScript": 6268,
-      "Makefile": 611,
-      "Perl": 1363209,
+      "LiveScript": 6380,
+      "Makefile": 651,
+      "Perl": 1363308,
       "Python": 3418
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2019-01-23T03:37:47Z",
+    "updated_at": "2019-01-26T16:43:35Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -3516,22 +3516,22 @@
     "g0vjson_filename": "g0v`moedict-webkit`g0v.json",
     "html_url": "https://github.com/g0v/moedict-webkit",
     "languages": {
-      "CSS": 510023,
+      "CSS": 509315,
       "Dockerfile": 1985,
-      "HTML": 75896,
+      "HTML": 75895,
       "Java": 2793,
       "JavaScript": 149119,
-      "LiveScript": 119329,
+      "LiveScript": 119339,
       "Makefile": 4075,
       "Objective-C": 617152,
-      "Perl": 8962,
+      "Perl": 9195,
       "Python": 5355,
       "Ruby": 707,
       "Shell": 8030
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2019-01-24T08:17:37Z",
+    "updated_at": "2019-01-26T17:18:02Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
