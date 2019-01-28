@@ -1843,12 +1843,12 @@
     "html_url": "https://github.com/g0v/er.mohw",
     "languages": {
       "LiveScript": 2713,
-      "Python": 2026,
+      "Python": 7641,
       "Shell": 371
     },
     "name": "er.mohw",
     "readme_filename": "g0v`er.mohw`README.md",
-    "updated_at": "2017-03-22T11:49:01Z",
+    "updated_at": "2019-01-28T06:56:47Z",
     "url": "https://api.github.com/repos/g0v/er.mohw"
   },
   "g0v/esly": {
@@ -1963,7 +1963,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-01-25T19:56:52Z",
+    "updated_at": "2019-01-28T19:38:52Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2697,15 +2697,15 @@
     "languages": {
       "CSS": 4449,
       "Dockerfile": 895,
-      "HTML": 2117,
+      "HTML": 4901,
       "JavaScript": 522204,
-      "Python": 21226,
+      "Python": 22652,
       "Shell": 408,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2019-01-26T15:06:40Z",
+    "updated_at": "2019-01-28T01:58:15Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/itaigi-mia-senn": {
@@ -2782,7 +2782,6 @@
       "Java": 12589
     },
     "name": "kakunoko",
-    "readme_filename": "g0v`kakunoko`README.md",
     "updated_at": "2014-05-06T08:43:56Z",
     "url": "https://api.github.com/repos/g0v/kakunoko"
   },
@@ -3387,7 +3386,7 @@
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2019-01-27T09:36:13Z",
+    "updated_at": "2019-01-28T13:04:47Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
@@ -3455,11 +3454,12 @@
       "LiveScript": 6380,
       "Makefile": 651,
       "Perl": 1363308,
-      "Python": 3418
+      "Python": 3418,
+      "Shell": 282
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2019-01-26T16:43:35Z",
+    "updated_at": "2019-01-28T01:48:12Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -3521,7 +3521,7 @@
       "HTML": 75895,
       "Java": 2793,
       "JavaScript": 149119,
-      "LiveScript": 119340,
+      "LiveScript": 119408,
       "Makefile": 4075,
       "Objective-C": 617152,
       "Perl": 9195,
@@ -3531,7 +3531,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2019-01-27T11:41:13Z",
+    "updated_at": "2019-01-28T13:39:13Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -4896,7 +4896,7 @@
     },
     "name": "twly-voter-guide",
     "readme_filename": "g0v`twly-voter-guide`README.md",
-    "updated_at": "2018-12-06T09:26:04Z",
+    "updated_at": "2019-01-28T06:37:44Z",
     "url": "https://api.github.com/repos/g0v/twly-voter-guide"
   },
   "g0v/twly_crawler": {
