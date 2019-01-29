@@ -1208,10 +1208,6 @@
   "g0v/closelyheld-gitbook": {
     "description": "vTaiwan 數位商務模式：閉鎖型公司",
     "html_url": "https://github.com/g0v/closelyheld-gitbook",
-    "languages": {
-      "JavaScript": 161,
-      "Shell": 1205
-    },
     "name": "closelyheld-gitbook",
     "readme_filename": "g0v`closelyheld-gitbook`README.md",
     "updated_at": "2018-01-14T01:49:19Z",
@@ -1963,7 +1959,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-01-28T19:38:52Z",
+    "updated_at": "2019-01-29T19:39:00Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2570,7 +2566,6 @@
   "g0v/i69": {
     "description": null,
     "html_url": "https://github.com/g0v/i69",
-    "languages": {},
     "name": "i69",
     "updated_at": "2014-07-19T14:52:23Z",
     "url": "https://api.github.com/repos/g0v/i69"
@@ -2782,6 +2777,7 @@
       "Java": 12589
     },
     "name": "kakunoko",
+    "readme_filename": "g0v`kakunoko`README.md",
     "updated_at": "2014-05-06T08:43:56Z",
     "url": "https://api.github.com/repos/g0v/kakunoko"
   },
@@ -3163,7 +3159,6 @@
   "g0v/loopin_ios": {
     "description": null,
     "html_url": "https://github.com/g0v/loopin_ios",
-    "languages": {},
     "name": "loopin_ios",
     "updated_at": "2015-10-24T04:11:16Z",
     "url": "https://api.github.com/repos/g0v/loopin_ios"
@@ -3521,7 +3516,7 @@
       "HTML": 75895,
       "Java": 2793,
       "JavaScript": 149119,
-      "LiveScript": 119408,
+      "LiveScript": 119491,
       "Makefile": 4075,
       "Objective-C": 617152,
       "Perl": 9195,
@@ -3531,7 +3526,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2019-01-28T13:39:13Z",
+    "updated_at": "2019-01-29T00:38:04Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -5213,7 +5208,7 @@
     },
     "name": "ncc-complain-data",
     "readme_filename": "godgunman`ncc-complain-data`README.md",
-    "updated_at": "2018-06-27T20:19:49Z",
+    "updated_at": "2019-01-29T03:13:10Z",
     "url": "https://api.github.com/repos/godgunman/ncc-complain-data"
   },
   "hackfoldr/hackfoldr-2.0": {
