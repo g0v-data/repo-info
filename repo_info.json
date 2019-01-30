@@ -793,6 +793,22 @@
     "updated_at": "2016-12-17T02:28:36Z",
     "url": "https://api.github.com/repos/g0v/agriculture"
   },
+  "g0v/agriculture-data": {
+    "description": "超農域 data repo",
+    "g0vjson_filename": "g0v`agriculture-data`g0v.json",
+    "html_url": "https://github.com/g0v/agriculture-data",
+    "languages": {
+      "CSS": 14326,
+      "HTML": 34176,
+      "JavaScript": 48332,
+      "LiveScript": 1283,
+      "Perl": 456
+    },
+    "name": "agriculture-data",
+    "readme_filename": "g0v`agriculture-data`README.md",
+    "updated_at": "2019-01-30T09:08:28Z",
+    "url": "https://api.github.com/repos/g0v/agriculture-data"
+  },
   "g0v/ambassador": {
     "description": "Yet another g0v project hub.",
     "html_url": "https://github.com/g0v/ambassador",
@@ -1208,6 +1224,10 @@
   "g0v/closelyheld-gitbook": {
     "description": "vTaiwan 數位商務模式：閉鎖型公司",
     "html_url": "https://github.com/g0v/closelyheld-gitbook",
+    "languages": {
+      "JavaScript": 161,
+      "Shell": 1205
+    },
     "name": "closelyheld-gitbook",
     "readme_filename": "g0v`closelyheld-gitbook`README.md",
     "updated_at": "2018-01-14T01:49:19Z",
@@ -1959,7 +1979,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-01-29T19:39:00Z",
+    "updated_at": "2019-01-30T19:53:58Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2566,6 +2586,7 @@
   "g0v/i69": {
     "description": null,
     "html_url": "https://github.com/g0v/i69",
+    "languages": {},
     "name": "i69",
     "updated_at": "2014-07-19T14:52:23Z",
     "url": "https://api.github.com/repos/g0v/i69"
@@ -3159,6 +3180,7 @@
   "g0v/loopin_ios": {
     "description": null,
     "html_url": "https://github.com/g0v/loopin_ios",
+    "languages": {},
     "name": "loopin_ios",
     "updated_at": "2015-10-24T04:11:16Z",
     "url": "https://api.github.com/repos/g0v/loopin_ios"
@@ -5581,11 +5603,11 @@
     "languages": {
       "CSS": 14908,
       "HTML": 4516263,
-      "PHP": 489713
+      "PHP": 502690
     },
     "name": "lagnews",
     "readme_filename": "ronnywang`lagnews`README",
-    "updated_at": "2018-09-17T02:14:01Z",
+    "updated_at": "2019-01-30T01:52:58Z",
     "url": "https://api.github.com/repos/ronnywang/lagnews"
   },
   "ronnywang/newsdiff": {
