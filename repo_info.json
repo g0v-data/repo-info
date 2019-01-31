@@ -1979,7 +1979,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-01-30T19:53:58Z",
+    "updated_at": "2019-01-31T19:38:36Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2078,12 +2078,6 @@
   "g0v/g0v-tour-guide": {
     "description": "a guide to g0v",
     "html_url": "https://github.com/g0v/g0v-tour-guide",
-    "languages": {
-      "CSS": 699774,
-      "JavaScript": 1171657,
-      "LiveScript": 2827,
-      "Ruby": 2667
-    },
     "name": "g0v-tour-guide",
     "readme_filename": "g0v`g0v-tour-guide`README.md",
     "updated_at": "2018-12-02T12:16:42Z",
@@ -2416,12 +2410,12 @@
     "languages": {
       "CSS": 87259,
       "Dockerfile": 111,
-      "HTML": 140954,
+      "HTML": 140615,
       "JavaScript": 731016
     },
     "name": "grantdash",
     "readme_filename": "g0v`grantdash`README.md",
-    "updated_at": "2019-01-10T07:36:07Z",
+    "updated_at": "2019-01-31T13:32:35Z",
     "url": "https://api.github.com/repos/g0v/grantdash"
   },
   "g0v/grants-landing-template": {
