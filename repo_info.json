@@ -1979,7 +1979,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-01-31T19:38:36Z",
+    "updated_at": "2019-02-01T19:11:34Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2078,6 +2078,12 @@
   "g0v/g0v-tour-guide": {
     "description": "a guide to g0v",
     "html_url": "https://github.com/g0v/g0v-tour-guide",
+    "languages": {
+      "CSS": 699774,
+      "JavaScript": 1171657,
+      "LiveScript": 2827,
+      "Ruby": 2667
+    },
     "name": "g0v-tour-guide",
     "readme_filename": "g0v`g0v-tour-guide`README.md",
     "updated_at": "2018-12-02T12:16:42Z",
@@ -3846,7 +3852,7 @@
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-01-22T13:51:03Z",
+    "updated_at": "2019-02-01T15:54:35Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4761,13 +4767,13 @@
     "languages": {
       "CSS": 129,
       "JavaScript": 2567,
-      "Python": 239647,
+      "Python": 239438,
       "Shell": 756,
-      "Vue": 56717
+      "Vue": 56803
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2019-01-01T15:54:06Z",
+    "updated_at": "2019-02-01T09:14:27Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -5103,7 +5109,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2019-01-15T16:33:39Z",
+    "updated_at": "2019-02-01T09:12:10Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
