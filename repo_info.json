@@ -1979,7 +1979,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-02-12T19:53:38Z",
+    "updated_at": "2019-02-13T19:26:35Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3638,12 +3638,12 @@
     "languages": {
       "CSS": 1328,
       "HTML": 1126,
-      "JavaScript": 21874,
+      "JavaScript": 21990,
       "Shell": 816
     },
     "name": "newshelper-extension",
     "readme_filename": "g0v`newshelper-extension`README.md",
-    "updated_at": "2018-12-06T15:31:15Z",
+    "updated_at": "2019-02-13T13:17:42Z",
     "url": "https://api.github.com/repos/g0v/newshelper-extension"
   },
   "g0v/newsplanet": {
@@ -4869,7 +4869,7 @@
     },
     "name": "twgeojson",
     "readme_filename": "g0v`twgeojson`README.md",
-    "updated_at": "2019-02-05T04:49:52Z",
+    "updated_at": "2019-02-13T13:02:22Z",
     "url": "https://api.github.com/repos/g0v/twgeojson"
   },
   "g0v/twhgis": {
