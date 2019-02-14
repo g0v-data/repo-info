@@ -1582,7 +1582,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2019-01-15T04:42:36Z",
+    "updated_at": "2019-02-14T02:47:55Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -1979,7 +1979,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-02-13T19:26:35Z",
+    "updated_at": "2019-02-14T20:14:37Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -5683,11 +5683,6 @@
   "ronnywang/twcompany": {
     "description": "台灣統一編號資料",
     "html_url": "https://github.com/ronnywang/twcompany",
-    "languages": {
-      "CSS": 14908,
-      "HTML": 4554254,
-      "PHP": 2953923
-    },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
     "updated_at": "2019-02-06T17:10:49Z",
