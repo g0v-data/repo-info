@@ -113,7 +113,7 @@
     },
     "name": "campaign-finance.g0v.ctiml.tw",
     "readme_filename": "ctiml`campaign-finance.g0v.ctiml.tw`README.md",
-    "updated_at": "2018-10-01T15:08:19Z",
+    "updated_at": "2019-02-15T00:53:09Z",
     "url": "https://api.github.com/repos/ctiml/campaign-finance.g0v.ctiml.tw"
   },
   "ctiml/vote2014": {
@@ -1979,7 +1979,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-02-14T20:14:37Z",
+    "updated_at": "2019-02-15T19:26:33Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3403,7 +3403,7 @@
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2019-02-06T09:58:31Z",
+    "updated_at": "2019-02-15T07:55:05Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
@@ -3413,7 +3413,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2019-01-26T11:09:04Z",
+    "updated_at": "2019-02-15T01:41:34Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3525,7 +3525,7 @@
     },
     "name": "moedict-process",
     "readme_filename": "g0v`moedict-process`README.md",
-    "updated_at": "2018-12-09T09:50:35Z",
+    "updated_at": "2019-02-15T02:52:22Z",
     "url": "https://api.github.com/repos/g0v/moedict-process"
   },
   "g0v/moedict-webkit": {
@@ -3548,7 +3548,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2019-02-12T05:34:35Z",
+    "updated_at": "2019-02-15T07:38:07Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -5677,12 +5677,17 @@
     },
     "name": "tw-campaign-finance",
     "readme_filename": "ronnywang`tw-campaign-finance`README.md",
-    "updated_at": "2017-04-03T07:41:34Z",
+    "updated_at": "2019-02-15T00:53:05Z",
     "url": "https://api.github.com/repos/ronnywang/tw-campaign-finance"
   },
   "ronnywang/twcompany": {
     "description": "台灣統一編號資料",
     "html_url": "https://github.com/ronnywang/twcompany",
+    "languages": {
+      "CSS": 14908,
+      "HTML": 4554254,
+      "PHP": 2953923
+    },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
     "updated_at": "2019-02-06T17:10:49Z",
@@ -5796,7 +5801,7 @@
     },
     "name": "newshelper-safari",
     "readme_filename": "yllan`newshelper-safari`README.md",
-    "updated_at": "2018-12-26T23:56:17Z",
+    "updated_at": "2019-02-15T12:34:59Z",
     "url": "https://api.github.com/repos/yllan/newshelper-safari"
   },
   "zbryikt/g0vphotos": {
