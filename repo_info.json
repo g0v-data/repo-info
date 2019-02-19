@@ -1979,7 +1979,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-02-18T19:47:58Z",
+    "updated_at": "2019-02-19T20:32:55Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3403,7 +3403,7 @@
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2019-02-15T07:55:05Z",
+    "updated_at": "2019-02-19T06:06:26Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
@@ -3538,7 +3538,7 @@
       "HTML": 75895,
       "Java": 2793,
       "JavaScript": 149119,
-      "LiveScript": 119475,
+      "LiveScript": 119469,
       "Makefile": 4075,
       "Objective-C": 617152,
       "Perl": 9195,
@@ -3548,7 +3548,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2019-02-15T07:38:07Z",
+    "updated_at": "2019-02-19T06:05:46Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3846,13 +3846,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 56365,
+      "Perl": 56466,
       "Perl 6": 1209,
       "Shell": 662
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-02-11T01:46:26Z",
+    "updated_at": "2019-02-19T15:40:32Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -5297,13 +5297,6 @@
     "description": "Animal Adoption Platform by Django",
     "g0vjson_filename": "jsleetw`petneed.me`g0v.json",
     "html_url": "https://github.com/jsleetw/petneed.me",
-    "languages": {
-      "CSS": 515299,
-      "JavaScript": 295102,
-      "Perl": 40,
-      "Python": 41150,
-      "Shell": 3289
-    },
     "name": "petneed.me",
     "readme_filename": "jsleetw`petneed.me`README.md",
     "updated_at": "2018-12-20T10:04:45Z",
