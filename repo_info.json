@@ -518,12 +518,12 @@
     "languages": {
       "CSS": 822,
       "HTML": 883,
-      "JavaScript": 39445,
+      "JavaScript": 39490,
       "Scala": 3823
     },
     "name": "OneButton",
     "readme_filename": "g0v`OneButton`README.md",
-    "updated_at": "2018-11-06T08:32:23Z",
+    "updated_at": "2019-02-22T08:05:32Z",
     "url": "https://api.github.com/repos/g0v/OneButton"
   },
   "g0v/OneButton-server-js": {
@@ -1011,7 +1011,7 @@
     },
     "name": "awesome-g0v",
     "readme_filename": "g0v`awesome-g0v`readme.md",
-    "updated_at": "2018-11-25T09:03:52Z",
+    "updated_at": "2019-02-21T23:06:39Z",
     "url": "https://api.github.com/repos/g0v/awesome-g0v"
   },
   "g0v/awesome-tw-openagri": {
@@ -1979,7 +1979,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-02-21T19:08:41Z",
+    "updated_at": "2019-02-22T19:20:40Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2729,11 +2729,11 @@
     "html_url": "https://github.com/g0v/itaigi-mia-senn",
     "languages": {
       "Dockerfile": 216,
-      "Python": 11638
+      "Python": 11948
     },
     "name": "itaigi-mia-senn",
     "readme_filename": "g0v`itaigi-mia-senn`README.md",
-    "updated_at": "2018-12-27T09:17:55Z",
+    "updated_at": "2019-02-22T11:15:55Z",
     "url": "https://api.github.com/repos/g0v/itaigi-mia-senn"
   },
   "g0v/ivod-download-client": {
@@ -3846,13 +3846,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 56689,
+      "Perl": 58024,
       "Perl 6": 1209,
-      "Shell": 662
+      "Shell": 710
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-02-21T15:42:44Z",
+    "updated_at": "2019-02-22T00:55:08Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
