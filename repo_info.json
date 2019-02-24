@@ -1979,7 +1979,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-02-23T18:38:53Z",
+    "updated_at": "2019-02-24T18:05:28Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3846,13 +3846,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 58997,
+      "Perl": 58134,
       "Perl 6": 1209,
       "Shell": 710
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-02-23T17:26:32Z",
+    "updated_at": "2019-02-24T04:45:15Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -5527,7 +5527,7 @@
       "PHP": 388466
     },
     "name": "company-graph",
-    "updated_at": "2018-10-13T16:08:52Z",
+    "updated_at": "2019-02-24T05:22:22Z",
     "url": "https://api.github.com/repos/ronnywang/company-graph"
   },
   "ronnywang/data.g0v.ronny.tw": {
@@ -5690,7 +5690,7 @@
     },
     "name": "twcompany",
     "readme_filename": "ronnywang`twcompany`README.md",
-    "updated_at": "2019-02-06T17:10:49Z",
+    "updated_at": "2019-02-24T05:19:07Z",
     "url": "https://api.github.com/repos/ronnywang/twcompany"
   },
   "ronnywang/vote2014": {
