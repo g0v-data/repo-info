@@ -1582,7 +1582,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2019-02-14T02:47:55Z",
+    "updated_at": "2019-02-26T06:42:15Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -1786,6 +1786,16 @@
     "updated_at": "2014-06-18T10:22:05Z",
     "url": "https://api.github.com/repos/g0v/eia_crawler"
   },
+  "g0v/election-day-bot": {
+    "description": null,
+    "html_url": "https://github.com/g0v/election-day-bot",
+    "languages": {
+      "Perl": 1703
+    },
+    "name": "election-day-bot",
+    "updated_at": "2019-02-26T15:49:47Z",
+    "url": "https://api.github.com/repos/g0v/election-day-bot"
+  },
   "g0v/election-village": {
     "description": "crawler for 2010 borough chief election candidate list and result",
     "html_url": "https://github.com/g0v/election-village",
@@ -1979,7 +1989,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-02-25T19:17:58Z",
+    "updated_at": "2019-02-26T20:11:52Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2769,14 +2779,14 @@
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
       "CSS": 678074,
-      "HTML": 573693,
+      "HTML": 573073,
       "JavaScript": 907038,
-      "LiveScript": 101239,
+      "LiveScript": 101241,
       "Shell": 94
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
-    "updated_at": "2019-02-10T03:57:15Z",
+    "updated_at": "2019-02-26T15:00:51Z",
     "url": "https://api.github.com/repos/g0v/jothon-net"
   },
   "g0v/kage.json": {
@@ -3425,7 +3435,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2019-02-17T06:14:11Z",
+    "updated_at": "2019-02-26T06:23:27Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -3548,7 +3558,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2019-02-23T09:05:12Z",
+    "updated_at": "2019-02-26T05:43:06Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -5109,7 +5119,7 @@
     },
     "name": "vue.vtaiwan.tw",
     "readme_filename": "g0v`vue.vtaiwan.tw`README.md",
-    "updated_at": "2019-02-01T09:12:10Z",
+    "updated_at": "2019-02-26T00:39:06Z",
     "url": "https://api.github.com/repos/g0v/vue.vtaiwan.tw"
   },
   "g0v/we-are-g0v": {
