@@ -1793,7 +1793,7 @@
       "Perl": 1703
     },
     "name": "election-day-bot",
-    "updated_at": "2019-02-26T15:49:47Z",
+    "updated_at": "2019-02-27T22:49:47Z",
     "url": "https://api.github.com/repos/g0v/election-day-bot"
   },
   "g0v/election-village": {
@@ -3765,7 +3765,7 @@
     },
     "name": "p0st-data",
     "readme_filename": "g0v`p0st-data`README.md",
-    "updated_at": "2014-09-09T09:51:57Z",
+    "updated_at": "2019-02-28T06:42:18Z",
     "url": "https://api.github.com/repos/g0v/p0st-data"
   },
   "g0v/padnews": {
@@ -3862,7 +3862,7 @@
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-02-27T14:04:21Z",
+    "updated_at": "2019-02-28T14:31:18Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
