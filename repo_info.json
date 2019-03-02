@@ -3435,7 +3435,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2019-02-26T06:23:27Z",
+    "updated_at": "2019-03-01T23:26:26Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -3457,7 +3457,7 @@
     },
     "name": "moedict-data-hakka",
     "readme_filename": "g0v`moedict-data-hakka`README.md",
-    "updated_at": "2019-01-10T23:28:01Z",
+    "updated_at": "2019-03-02T10:42:24Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-hakka"
   },
   "g0v/moedict-data-terms": {
@@ -3856,13 +3856,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 58183,
+      "Perl": 58610,
       "Perl 6": 1209,
       "Shell": 710
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-03-01T00:04:08Z",
+    "updated_at": "2019-03-02T14:36:22Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4783,7 +4783,7 @@
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2019-02-01T09:14:27Z",
+    "updated_at": "2019-03-02T08:43:10Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
