@@ -763,7 +763,7 @@
     },
     "name": "addressbook.parser",
     "readme_filename": "g0v`addressbook.parser`Readme.md",
-    "updated_at": "2019-02-23T15:41:00Z",
+    "updated_at": "2019-03-06T01:42:04Z",
     "url": "https://api.github.com/repos/g0v/addressbook.parser"
   },
   "g0v/aec-process": {
@@ -1158,10 +1158,6 @@
   "g0v/cec": {
     "description": "Central Election Commission",
     "html_url": "https://github.com/g0v/cec",
-    "languages": {
-      "LiveScript": 8776,
-      "PHP": 2378
-    },
     "name": "cec",
     "updated_at": "2014-10-05T05:21:39Z",
     "url": "https://api.github.com/repos/g0v/cec"
@@ -1667,7 +1663,7 @@
     "languages": {},
     "name": "domain",
     "readme_filename": "g0v`domain`README.md",
-    "updated_at": "2019-01-26T14:19:46Z",
+    "updated_at": "2019-03-06T02:08:21Z",
     "url": "https://api.github.com/repos/g0v/domain"
   },
   "g0v/don-constitute": {
@@ -1989,7 +1985,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-03-05T19:47:30Z",
+    "updated_at": "2019-03-06T19:41:39Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3258,11 +3254,11 @@
     "languages": {
       "CSS": 939,
       "HTML": 2285,
-      "JavaScript": 5425
+      "JavaScript": 5422
     },
     "name": "ly-tel",
     "readme_filename": "g0v`ly-tel`README.md",
-    "updated_at": "2017-07-06T12:05:11Z",
+    "updated_at": "2019-03-06T12:47:14Z",
     "url": "https://api.github.com/repos/g0v/ly-tel"
   },
   "g0v/ly-vote": {
@@ -4361,6 +4357,18 @@
     "updated_at": "2018-12-25T11:14:22Z",
     "url": "https://api.github.com/repos/g0v/roadpin"
   },
+  "g0v/ruby_twly_crawler": {
+    "description": "立法院爬蟲，抓取立委資訊並可隨屆次分割。",
+    "g0vjson_filename": "g0v`ruby_twly_crawler`g0v.json",
+    "html_url": "https://github.com/g0v/ruby_twly_crawler",
+    "languages": {
+      "Ruby": 26443
+    },
+    "name": "ruby_twly_crawler",
+    "readme_filename": "g0v`ruby_twly_crawler`README.md",
+    "updated_at": "2019-03-06T12:56:03Z",
+    "url": "https://api.github.com/repos/g0v/ruby_twly_crawler"
+  },
   "g0v/sandbox-gitbook": {
     "description": "discussion concerning necessity of setting financial sandbox in Taiwan",
     "html_url": "https://github.com/g0v/sandbox-gitbook",
@@ -4842,18 +4850,18 @@
     "g0vjson_filename": "g0v`twbudget`g0v.json",
     "html_url": "https://github.com/g0v/twbudget",
     "languages": {
-      "CSS": 14554,
+      "CSS": 14535,
       "CoffeeScript": 1350,
       "HTML": 12393,
       "JavaScript": 6109,
-      "LiveScript": 54073,
+      "LiveScript": 54086,
       "Makefile": 363,
       "Python": 25277,
       "Shell": 743
     },
     "name": "twbudget",
     "readme_filename": "g0v`twbudget`README.md",
-    "updated_at": "2018-09-05T19:18:48Z",
+    "updated_at": "2019-03-06T08:38:03Z",
     "url": "https://api.github.com/repos/g0v/twbudget"
   },
   "g0v/tweet-html-diff": {
