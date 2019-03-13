@@ -1989,7 +1989,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-03-12T19:38:50Z",
+    "updated_at": "2019-03-13T18:59:40Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3423,7 +3423,7 @@
     "languages": {},
     "name": "moedict-data",
     "readme_filename": "g0v`moedict-data`README.md",
-    "updated_at": "2019-02-15T01:41:34Z",
+    "updated_at": "2019-03-13T19:09:22Z",
     "url": "https://api.github.com/repos/g0v/moedict-data"
   },
   "g0v/moedict-data-csld": {
@@ -3558,7 +3558,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2019-03-12T10:13:07Z",
+    "updated_at": "2019-03-13T19:10:12Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3856,13 +3856,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 62863,
+      "Perl": 64360,
       "Perl 6": 1209,
       "Shell": 710
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-03-05T13:52:10Z",
+    "updated_at": "2019-03-13T17:12:11Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4795,7 +4795,7 @@
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2019-03-02T08:43:10Z",
+    "updated_at": "2019-03-13T10:34:32Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
@@ -5766,13 +5766,6 @@
   "tka/ideapool": {
     "description": null,
     "html_url": "https://github.com/tka/ideapool",
-    "languages": {
-      "CSS": 198,
-      "CoffeeScript": 211,
-      "HTML": 17016,
-      "JavaScript": 4802,
-      "Ruby": 64874
-    },
     "name": "ideapool",
     "readme_filename": "tka`ideapool`README.rdoc",
     "updated_at": "2016-01-30T06:26:07Z",
