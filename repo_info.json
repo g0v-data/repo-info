@@ -1989,7 +1989,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-03-21T19:44:50Z",
+    "updated_at": "2019-03-22T19:11:56Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3856,13 +3856,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 67299,
+      "Perl": 67302,
       "Perl 6": 1209,
       "Shell": 710
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-03-21T06:02:15Z",
+    "updated_at": "2019-03-22T16:47:45Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -5501,6 +5501,20 @@
     "name": "jobhelper-mobile",
     "updated_at": "2013-10-17T04:21:47Z",
     "url": "https://api.github.com/repos/nansenat16/jobhelper-mobile"
+  },
+  "nccu-floodfire/news-seg": {
+    "description": null,
+    "html_url": "https://github.com/nccu-floodfire/news-seg",
+    "languages": {
+      "ApacheConf": 356,
+      "JavaScript": 2491,
+      "Makefile": 455,
+      "PHP": 83642
+    },
+    "name": "news-seg",
+    "readme_filename": "nccu-floodfire`news-seg`readme.md",
+    "updated_at": "2018-04-03T09:33:01Z",
+    "url": "https://api.github.com/repos/nccu-floodfire/news-seg"
   },
   "ronnywang/axe.g0v.tw": {
     "description": "斧頭幫大挑戰",
