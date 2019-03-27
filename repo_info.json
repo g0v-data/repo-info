@@ -1989,7 +1989,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-03-26T19:44:54Z",
+    "updated_at": "2019-03-27T19:44:53Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2786,7 +2786,7 @@
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
-    "updated_at": "2019-03-12T02:02:25Z",
+    "updated_at": "2019-03-27T15:30:51Z",
     "url": "https://api.github.com/repos/g0v/jothon-net"
   },
   "g0v/kage.json": {
@@ -3457,7 +3457,7 @@
     },
     "name": "moedict-data-hakka",
     "readme_filename": "g0v`moedict-data-hakka`README.md",
-    "updated_at": "2019-03-02T10:42:24Z",
+    "updated_at": "2019-03-27T18:05:26Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-hakka"
   },
   "g0v/moedict-data-terms": {
@@ -3856,13 +3856,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 68290,
+      "Perl": 68498,
       "Perl 6": 1209,
       "Shell": 777
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-03-26T14:42:22Z",
+    "updated_at": "2019-03-27T01:01:36Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -5645,7 +5645,7 @@
     },
     "name": "newsdiff",
     "readme_filename": "ronnywang`newsdiff`README.md",
-    "updated_at": "2019-03-19T05:21:32Z",
+    "updated_at": "2019-03-27T00:13:34Z",
     "url": "https://api.github.com/repos/ronnywang/newsdiff"
   },
   "ronnywang/newstrend.g0v.ronny.tw": {
