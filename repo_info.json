@@ -1989,7 +1989,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-04-10T19:44:35Z",
+    "updated_at": "2019-04-11T19:44:41Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2724,14 +2724,14 @@
       "CSS": 4449,
       "Dockerfile": 895,
       "HTML": 4901,
-      "JavaScript": 522192,
+      "JavaScript": 522182,
       "Python": 22652,
       "Shell": 408,
       "Vim script": 47
     },
     "name": "itaigi",
     "readme_filename": "g0v`itaigi`README.md",
-    "updated_at": "2019-03-16T14:50:05Z",
+    "updated_at": "2019-04-11T08:14:05Z",
     "url": "https://api.github.com/repos/g0v/itaigi"
   },
   "g0v/itaigi-mia-senn": {
@@ -3000,12 +3000,12 @@
     "html_url": "https://github.com/g0v/laweasyread-front",
     "languages": {
       "CSS": 5948,
-      "HTML": 14180,
-      "JavaScript": 54735
+      "HTML": 10478,
+      "JavaScript": 54771
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2019-01-27T19:03:56Z",
+    "updated_at": "2019-04-11T05:45:30Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
@@ -3404,16 +3404,16 @@
     "description": "Stand-alone MoeDict app snapshot",
     "html_url": "https://github.com/g0v/moedict-app",
     "languages": {
-      "HTML": 23528,
+      "HTML": 23552,
       "Java": 121692,
       "JavaScript": 86000,
-      "LiveScript": 81806,
+      "LiveScript": 82332,
       "Makefile": 2172,
       "Shell": 117
     },
     "name": "moedict-app",
     "readme_filename": "g0v`moedict-app`README.md",
-    "updated_at": "2019-02-19T06:06:26Z",
+    "updated_at": "2019-04-11T14:41:18Z",
     "url": "https://api.github.com/repos/g0v/moedict-app"
   },
   "g0v/moedict-data": {
@@ -3548,7 +3548,7 @@
       "HTML": 75895,
       "Java": 2793,
       "JavaScript": 149119,
-      "LiveScript": 120030,
+      "LiveScript": 119990,
       "Makefile": 4075,
       "Objective-C": 617152,
       "Perl": 9195,
@@ -3558,7 +3558,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2019-04-10T01:43:48Z",
+    "updated_at": "2019-04-11T14:41:31Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
