@@ -3856,13 +3856,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 70074,
+      "Perl": 70815,
       "Perl 6": 1209,
-      "Shell": 777
+      "Shell": 855
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-04-12T04:30:09Z",
+    "updated_at": "2019-04-13T15:57:13Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
