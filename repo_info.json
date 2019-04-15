@@ -1989,7 +1989,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-04-12T19:26:34Z",
+    "updated_at": "2019-04-15T20:32:47Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2637,13 +2637,13 @@
     "html_url": "https://github.com/g0v/info.vtaiwan.tw",
     "languages": {
       "CSS": 104663,
-      "HTML": 30800,
+      "HTML": 30856,
       "JavaScript": 15263,
       "Vue": 297
     },
     "name": "info.vtaiwan.tw",
     "readme_filename": "g0v`info.vtaiwan.tw`README.txt",
-    "updated_at": "2019-02-18T17:00:18Z",
+    "updated_at": "2019-04-15T00:43:14Z",
     "url": "https://api.github.com/repos/g0v/info.vtaiwan.tw"
   },
   "g0v/infosecurity-gitbook": {
@@ -3005,7 +3005,7 @@
     },
     "name": "laweasyread-front",
     "readme_filename": "g0v`laweasyread-front`README.md",
-    "updated_at": "2019-04-11T05:45:30Z",
+    "updated_at": "2019-04-15T05:59:43Z",
     "url": "https://api.github.com/repos/g0v/laweasyread-front"
   },
   "g0v/leve1up": {
@@ -3435,7 +3435,7 @@
     },
     "name": "moedict-data-csld",
     "readme_filename": "g0v`moedict-data-csld`README.md",
-    "updated_at": "2019-03-16T02:59:54Z",
+    "updated_at": "2019-04-15T09:20:46Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-csld"
   },
   "g0v/moedict-data-gieumunmiang": {
@@ -3856,13 +3856,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 70815,
+      "Perl": 71641,
       "Perl 6": 1209,
       "Shell": 855
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-04-13T15:57:13Z",
+    "updated_at": "2019-04-15T00:37:59Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
