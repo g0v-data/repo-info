@@ -1198,7 +1198,7 @@
     "languages": {},
     "name": "citation_transition",
     "readme_filename": "g0v`citation_transition`README.md",
-    "updated_at": "2017-12-29T10:11:47Z",
+    "updated_at": "2019-04-16T07:23:32Z",
     "url": "https://api.github.com/repos/g0v/citation_transition"
   },
   "g0v/ckan": {
@@ -1375,7 +1375,7 @@
     },
     "name": "councilor-voter-guide",
     "readme_filename": "g0v`councilor-voter-guide`README.md",
-    "updated_at": "2019-03-28T10:56:08Z",
+    "updated_at": "2019-04-16T14:30:00Z",
     "url": "https://api.github.com/repos/g0v/councilor-voter-guide"
   },
   "g0v/crowdfunding-gitbook": {
@@ -1582,7 +1582,7 @@
       "LiveScript": 435
     },
     "name": "dev",
-    "updated_at": "2019-02-26T06:42:15Z",
+    "updated_at": "2019-04-16T08:53:41Z",
     "url": "https://api.github.com/repos/g0v/dev"
   },
   "g0v/directors-election-gitbook": {
@@ -1989,7 +1989,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-04-15T20:32:47Z",
+    "updated_at": "2019-04-16T20:20:48Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3486,7 +3486,7 @@
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2019-01-28T01:48:12Z",
+    "updated_at": "2019-04-16T07:27:01Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
