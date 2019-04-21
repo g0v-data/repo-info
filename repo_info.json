@@ -1989,7 +1989,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-04-19T18:01:51Z",
+    "updated_at": "2019-04-21T18:01:37Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -3486,7 +3486,7 @@
     },
     "name": "moedict-data-twblg",
     "readme_filename": "g0v`moedict-data-twblg`README.md",
-    "updated_at": "2019-04-16T07:27:01Z",
+    "updated_at": "2019-04-21T12:15:34Z",
     "url": "https://api.github.com/repos/g0v/moedict-data-twblg"
   },
   "g0v/moedict-design": {
@@ -3558,7 +3558,7 @@
     },
     "name": "moedict-webkit",
     "readme_filename": "g0v`moedict-webkit`README.md",
-    "updated_at": "2019-04-11T14:41:31Z",
+    "updated_at": "2019-04-21T15:18:40Z",
     "url": "https://api.github.com/repos/g0v/moedict-webkit"
   },
   "g0v/moedict.tw": {
@@ -3856,13 +3856,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 71641,
+      "Perl": 72760,
       "Perl 6": 1209,
       "Shell": 855
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-04-15T00:37:59Z",
+    "updated_at": "2019-04-21T15:01:33Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
