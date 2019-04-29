@@ -1064,6 +1064,20 @@
     "updated_at": "2018-12-08T04:47:46Z",
     "url": "https://api.github.com/repos/g0v/banner"
   },
+  "g0v/battledash": {
+    "description": "Dashboard for Grants, Hackathon Projects",
+    "html_url": "https://github.com/g0v/battledash",
+    "languages": {
+      "CSS": 1303,
+      "HTML": 51234,
+      "JavaScript": 222911,
+      "LiveScript": 11573,
+      "Shell": 247
+    },
+    "name": "battledash",
+    "updated_at": "2019-04-29T08:30:10Z",
+    "url": "https://api.github.com/repos/g0v/battledash"
+  },
   "g0v/beSafe": {
     "description": "BeSafe: 災害警示公開資料彙整",
     "html_url": "https://github.com/g0v/beSafe",
@@ -1990,7 +2004,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-04-26T18:01:49Z",
+    "updated_at": "2019-04-29T18:02:14Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
