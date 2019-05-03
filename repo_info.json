@@ -2004,7 +2004,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-05-02T18:02:07Z",
+    "updated_at": "2019-05-03T18:01:48Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -4985,10 +4985,6 @@
   "g0v/twlyreader-prototype": {
     "description": null,
     "html_url": "https://github.com/g0v/twlyreader-prototype",
-    "languages": {
-      "JavaScript": 120033,
-      "Ruby": 2696
-    },
     "name": "twlyreader-prototype",
     "readme_filename": "g0v`twlyreader-prototype`README.markdown",
     "updated_at": "2015-11-06T05:24:28Z",
