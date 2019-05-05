@@ -4803,14 +4803,14 @@
     "html_url": "https://github.com/g0v/tw-rental-house-data",
     "languages": {
       "CSS": 129,
-      "JavaScript": 4483,
+      "JavaScript": 4878,
       "Python": 240363,
       "Shell": 756,
-      "Vue": 59615
+      "Vue": 65966
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2019-04-26T13:00:39Z",
+    "updated_at": "2019-05-05T07:13:59Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
