@@ -1682,7 +1682,7 @@
     "languages": {},
     "name": "domain",
     "readme_filename": "g0v`domain`README.md",
-    "updated_at": "2019-05-06T10:04:40Z",
+    "updated_at": "2019-05-08T14:31:55Z",
     "url": "https://api.github.com/repos/g0v/domain"
   },
   "g0v/don-constitute": {
@@ -2004,7 +2004,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-05-07T18:01:54Z",
+    "updated_at": "2019-05-08T18:01:59Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2794,14 +2794,14 @@
     "html_url": "https://github.com/g0v/jothon-net",
     "languages": {
       "CSS": 519909,
-      "HTML": 578729,
+      "HTML": 539434,
       "JavaScript": 907038,
-      "LiveScript": 101241,
+      "LiveScript": 101240,
       "Shell": 94
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
-    "updated_at": "2019-05-07T17:06:02Z",
+    "updated_at": "2019-05-08T03:47:10Z",
     "url": "https://api.github.com/repos/g0v/jothon-net"
   },
   "g0v/kage.json": {
@@ -3871,13 +3871,13 @@
     "description": "公眾人物新聞的追蹤",
     "html_url": "https://github.com/g0v/people-in-news",
     "languages": {
-      "Perl": 72760,
+      "Perl": 74834,
       "Perl 6": 1209,
       "Shell": 855
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-04-21T23:10:50Z",
+    "updated_at": "2019-05-08T21:41:16Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
