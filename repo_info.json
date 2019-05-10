@@ -2004,7 +2004,7 @@
     "languages": {},
     "name": "foundationtw",
     "readme_filename": "g0v`foundationtw`README.md",
-    "updated_at": "2019-05-09T18:02:00Z",
+    "updated_at": "2019-05-10T18:01:53Z",
     "url": "https://api.github.com/repos/g0v/foundationtw"
   },
   "g0v/front-end-demo": {
@@ -2801,7 +2801,7 @@
     },
     "name": "jothon-net",
     "readme_filename": "g0v`jothon-net`README.md",
-    "updated_at": "2019-05-09T15:05:22Z",
+    "updated_at": "2019-05-10T07:39:05Z",
     "url": "https://api.github.com/repos/g0v/jothon-net"
   },
   "g0v/kage.json": {
@@ -3877,7 +3877,7 @@
     },
     "name": "people-in-news",
     "readme_filename": "g0v`people-in-news`README.md",
-    "updated_at": "2019-05-09T21:36:23Z",
+    "updated_at": "2019-05-10T04:17:49Z",
     "url": "https://api.github.com/repos/g0v/people-in-news"
   },
   "g0v/personal-data-protection-gitbook": {
@@ -4804,13 +4804,13 @@
     "languages": {
       "CSS": 129,
       "JavaScript": 4878,
-      "Python": 240363,
+      "Python": 241330,
       "Shell": 756,
       "Vue": 65966
     },
     "name": "tw-rental-house-data",
     "readme_filename": "g0v`tw-rental-house-data`README.md",
-    "updated_at": "2019-05-09T16:17:24Z",
+    "updated_at": "2019-05-10T16:10:15Z",
     "url": "https://api.github.com/repos/g0v/tw-rental-house-data"
   },
   "g0v/tw-shift-schedule": {
