@@ -493,12 +493,12 @@
       "HTML": 8526,
       "JavaScript": 27191,
       "LiveScript": 2300,
-      "Ruby": 11053,
+      "Ruby": 11207,
       "Shell": 738
     },
     "name": "Logbot",
     "readme_filename": "g0v`Logbot`README.md",
-    "updated_at": "2019-04-24T17:46:43Z",
+    "updated_at": "2019-05-18T07:40:25Z",
     "url": "https://api.github.com/repos/g0v/Logbot"
   },
   "g0v/NoUseBuildingTool": {
